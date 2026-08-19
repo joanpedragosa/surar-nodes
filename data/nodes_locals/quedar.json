@@ -1,0 +1,26 @@
+{
+    "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/quedar.json",
+    "concept": "quedar",
+    "edges": [
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/text.json",
+            "weight": 0.525
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/quedar.json",
+            "weight": 0.404
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/resposta.json",
+            "weight": 0.298
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sobre.json",
+            "weight": 0.283
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/acord.json",
+            "weight": 0.253
+        }
+    ]
+}

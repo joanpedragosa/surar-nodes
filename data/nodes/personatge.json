@@ -1,0 +1,26 @@
+{
+    "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/personatge.json",
+    "concept": "personatge",
+    "edges": [
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/text.json",
+            "weight": 0.775
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/personatge.json",
+            "weight": 0.698
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/answerstart.json",
+            "weight": 0.39
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/qui.json",
+            "weight": 0.339
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/resposta.json",
+            "weight": 0.313
+        }
+    ]
+}

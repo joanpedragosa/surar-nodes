@@ -1,0 +1,22 @@
+{
+    "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/politic.json",
+    "concept": "politic",
+    "edges": [
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/text.json",
+            "weight": 0.766
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/answerstart.json",
+            "weight": 0.647
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/moviment.json",
+            "weight": 0.194
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/economic.json",
+            "weight": 0.194
+        }
+    ]
+}

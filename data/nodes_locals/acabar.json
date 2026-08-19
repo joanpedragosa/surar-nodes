@@ -1,0 +1,26 @@
+{
+    "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/acabar.json",
+    "concept": "acabar",
+    "edges": [
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/acabar.json",
+            "weight": 0.703
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/text.json",
+            "weight": 0.57
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/resposta.json",
+            "weight": 0.341
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/questio.json",
+            "weight": 0.341
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/acord.json",
+            "weight": 0.317
+        }
+    ]
+}

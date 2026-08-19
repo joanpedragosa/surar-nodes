@@ -1,0 +1,26 @@
+{
+    "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/convocat.json",
+    "concept": "convocat",
+    "edges": [
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vaga.json",
+            "weight": 0.95
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/convocat.json",
+            "weight": 0.95
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/text.json",
+            "weight": 0.677
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/que.json",
+            "weight": 0.647
+        },
+        {
+            "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/han.json",
+            "weight": 0.495
+        }
+    ]
+}
