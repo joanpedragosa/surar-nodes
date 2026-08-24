@@ -1,0 +1,31 @@
+{
+  "concept": "academia_provincial",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "belles_arts": 1.0
+  },
+  "bayesian_context": {
+    "beca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "presentar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "tapiro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "roma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "belles_arts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/academia_provincial.json"
+}

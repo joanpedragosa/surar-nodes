@@ -1,0 +1,23 @@
+{
+  "concept": "advocacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sant": 1.0
+  },
+  "bayesian_context": {
+    "cripta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "sant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "valeri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/advocacio.json"
+}

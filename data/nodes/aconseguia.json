@@ -1,0 +1,27 @@
+{
+  "concept": "aconseguia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "augmentar": 1.0
+  },
+  "bayesian_context": {
+    "augmentar": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.15
+    },
+    "profunditat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "tunel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "seguretat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aconseguia.json"
+}

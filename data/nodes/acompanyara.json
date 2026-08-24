@@ -1,0 +1,43 @@
+{
+  "concept": "acompanyara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "desplegament": 1.0
+  },
+  "bayesian_context": {
+    "creu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "riera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "desplegament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "republica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "catalana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "onada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "mobilitzacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "massives": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/acompanyara.json"
+}

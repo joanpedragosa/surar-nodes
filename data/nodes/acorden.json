@@ -1,0 +1,35 @@
+{
+  "concept": "acorden",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "reunir": 1.0
+  },
+  "bayesian_context": {
+    "reunir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "cinq": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "mars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "marie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "nit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/acorden.json"
+}

@@ -1,0 +1,24 @@
+{
+  "concept": "abunda",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fossils": 0.5,
+    "urani": 0.5
+  },
+  "bayesian_context": {
+    "fossils": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "urani": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "naturalesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/abunda.json"
+}

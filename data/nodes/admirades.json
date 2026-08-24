@@ -1,0 +1,27 @@
+{
+  "concept": "admirades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estudiades": 1.0
+  },
+  "bayesian_context": {
+    "sempre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "composicions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "rafael": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "estudiades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/admirades.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "acceptor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "hidrogen": 1.0
+  },
+  "bayesian_context": {
+    "actua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "nicotinamida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "adenina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "dinucleotid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "hidrogen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/acceptor.json"
+}

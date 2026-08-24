@@ -1,0 +1,31 @@
+{
+  "concept": "accidental",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "metalls": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "absorbir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "forma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.89
+    },
+    "metalls": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "bacteris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/accidental.json"
+}

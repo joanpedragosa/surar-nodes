@@ -1,0 +1,27 @@
+{
+  "concept": "absolts",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "soldats": 1.0
+  },
+  "bayesian_context": {
+    "quedaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "soldats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "reclutats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "imposts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/absolts.json"
+}

@@ -1,0 +1,47 @@
+{
+  "concept": "abandones",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estudis": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "estudis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "llati": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "alemany": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "castella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "frances": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "penuries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "economiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "familia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/abandones.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "aconsellat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "trilla": 1.0
+  },
+  "bayesian_context": {
+    "trilla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "gent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "surti": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "casa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aconsellat.json"
+}

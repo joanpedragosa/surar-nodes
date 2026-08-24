@@ -1,0 +1,43 @@
+{
+  "concept": "actituds",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "representatives": 1.0
+  },
+  "bayesian_context": {
+    "representatives": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "punk": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "inconformisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "malestar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "soroll": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sexualitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "violencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "protesta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/actituds.json"
+}

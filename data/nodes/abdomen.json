@@ -1,0 +1,32 @@
+{
+  "concept": "abdomen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dragons": 0.5,
+    "crema": 0.5
+  },
+  "bayesian_context": {
+    "color": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "dragons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "lleopard": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "blanc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "crema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/abdomen.json"
+}

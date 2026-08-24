@@ -1,0 +1,43 @@
+{
+  "concept": "adorar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lo": 1.0
+  },
+  "bayesian_context": {
+    "impossible": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "vegada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "conegut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "deu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "vives": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "estimar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "lo": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.86
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/adorar.json"
+}

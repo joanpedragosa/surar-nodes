@@ -1,0 +1,31 @@
+{
+  "concept": "aboli",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lincoln": 1.0
+  },
+  "bayesian_context": {
+    "lincoln": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "esclavitud": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "traves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "guerra_civil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "confederats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aboli.json"
+}

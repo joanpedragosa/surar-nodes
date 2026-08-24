@@ -1,0 +1,92 @@
+{
+  "concept": "actui",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "taula": 0.5,
+    "immediatament": 0.5
+  },
+  "bayesian_context": {
+    "proposat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "taula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.92
+    },
+    "dialeg": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "partits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "catalans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "mitjancer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "peticio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "rafael": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "ribo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "junta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "electoral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "immediatament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "corregeixi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "informacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "emet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "cadenes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "privades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/actui.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "acabara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "primera": 1.0
+  },
+  "bayesian_context": {
+    "estima": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    },
+    "fase": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/acabara.json"
+}

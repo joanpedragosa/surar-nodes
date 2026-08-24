@@ -1,0 +1,56 @@
+{
+  "concept": "abadesses",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "centre_excursionista": 0.5,
+    "creu": 0.5
+  },
+  "bayesian_context": {
+    "col": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "laborar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "restauracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "monestir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "sant_joan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "centre_excursionista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "planta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "creu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "llatina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/abadesses.json"
+}

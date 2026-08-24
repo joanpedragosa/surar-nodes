@@ -1,0 +1,98 @@
+{
+  "concept": "acusacions",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "fet": 0.25,
+    "testimonis": 0.25,
+    "dema": 0.25,
+    "desacrediten": 0.25
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.08
+    },
+    "peter_dutton": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "fet": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.23
+    },
+    "sol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.43
+    },
+    "licitants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "asil": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "falses": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "deixen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "desorientades": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "testimonis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "fets": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "poden": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.42
+    },
+    "presentar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.44
+    },
+    "legacions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "dema": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "hores": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.71
+    },
+    "desacrediten": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "resolucio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "rebel": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "lio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "malversacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/acusacions.json"
+}

@@ -1,0 +1,68 @@
+{
+  "concept": "acreditacio",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "llibretista": 0.5,
+    "quim_torra": 0.5
+  },
+  "bayesian_context": {
+    "llibretista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "inicials": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "decisio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "prendre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "junta_electoral": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "relacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "quim_torra": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.21
+    },
+    "retirar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "sala": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.28
+    },
+    "refusat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "recurs": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "retirada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "contenciosa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "administrativa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/acreditacio.json"
+}

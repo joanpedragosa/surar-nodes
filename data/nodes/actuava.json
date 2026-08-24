@@ -1,0 +1,39 @@
+{
+  "concept": "actuava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "force_publique": 1.0
+  },
+  "bayesian_context": {
+    "force_publique": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "exercit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "ocupacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "policia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "servei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "empreses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "comercials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/actuava.json"
+}

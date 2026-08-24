@@ -1,0 +1,39 @@
+{
+  "concept": "acoblats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "molecules": 1.0
+  },
+  "bayesian_context": {
+    "reconeixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "limfocits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "citotoxics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "antigens": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "molecules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "mhc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "classe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/acoblats.json"
+}

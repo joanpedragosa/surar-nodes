@@ -1,0 +1,44 @@
+{
+  "concept": "aemet",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "groga": 0.5,
+    "avui": 0.5
+  },
+  "bayesian_context": {
+    "rebaixat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "alerta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "pluges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "mati": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "groga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "mante": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "avui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "roja": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aemet.json"
+}

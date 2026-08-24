@@ -1,0 +1,47 @@
+{
+  "concept": "abrams",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "director": 1.0
+  },
+  "bayesian_context": {
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "reelaborar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ordre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "rodatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "anunciat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "director": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "licula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "gener": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/abrams.json"
+}
