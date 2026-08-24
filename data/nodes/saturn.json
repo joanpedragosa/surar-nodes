@@ -1,0 +1,107 @@
+{
+  "concept": "saturn",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "mes": 0.2,
+    "tita": 0.2,
+    "indeterminat": 0.2,
+    "snape": 0.2,
+    "gran": 0.2
+  },
+  "bayesian_context": {
+    "magnetosfera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "mes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.44
+    },
+    "petita": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.99
+    },
+    "jupiter": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.25
+    },
+    "orbita": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.93
+    },
+    "esten": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "tita": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "any": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.68
+    },
+    "observar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    },
+    "primer": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.0
+    },
+    "cop": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.67
+    },
+    "anells": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.04
+    },
+    "nombre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "precis": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "llunes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "indeterminat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "paper": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.42
+    },
+    "estar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.59
+    },
+    "nominat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "premis": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.04
+    },
+    "snape": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "quantes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.69
+    },
+    "gran": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.93
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/saturn.json"
+}

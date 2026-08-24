@@ -1,0 +1,52 @@
+{
+  "concept": "severament",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pressionat": 0.5,
+    "kōhai": 0.5
+  },
+  "bayesian_context": {
+    "shogunat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "decades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "pressionat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "poden": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "vegades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "senpai": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "castigar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "tractar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "kōhai": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/severament.json"
+}

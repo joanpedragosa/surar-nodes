@@ -1,0 +1,35 @@
+{
+  "concept": "semiserioses",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rossini": 1.0
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "operes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "comiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "rossini": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "cases": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "napols": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/semiserioses.json"
+}

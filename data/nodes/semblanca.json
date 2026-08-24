@@ -1,0 +1,23 @@
+{
+  "concept": "semblanca",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ernestina": 1.0
+  },
+  "bayesian_context": {
+    "ernestina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "retrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "escassa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/semblanca.json"
+}

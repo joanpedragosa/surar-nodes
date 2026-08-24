@@ -1,0 +1,81 @@
+{
+  "concept": "schmidt",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "johann": 0.3333,
+    "llibret": 0.3333,
+    "rossini": 0.3333
+  },
+  "bayesian_context": {
+    "llibretista": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "giovanni_federico": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "deien": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "dos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.07
+    },
+    "veins": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "escoltar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "nadala": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "johann": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "cometre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "llibret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "inexactitud": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "dates": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "esdeveniments": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "escrit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    },
+    "rossini": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.33
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "armida": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/schmidt.json"
+}

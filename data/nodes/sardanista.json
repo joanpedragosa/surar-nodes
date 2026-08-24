@@ -1,0 +1,51 @@
+{
+  "concept": "sardanista",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "catalunya": 1.0
+  },
+  "bayesian_context": {
+    "comencat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "tramits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "confederacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "impulsar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "candidatura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "sardana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "patrimoni_cultural": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "immaterial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "humanitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sardanista.json"
+}

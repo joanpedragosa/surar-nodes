@@ -1,0 +1,47 @@
+{
+  "concept": "senta",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "soprano": 1.0
+  },
+  "bayesian_context": {
+    "reprotxa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "erik": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "menyspreu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "tessitura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "necessita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "paper": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.9
+    },
+    "soprano": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "lirico": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dramatica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/senta.json"
+}

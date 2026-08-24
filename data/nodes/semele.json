@@ -1,0 +1,64 @@
+{
+  "concept": "semele",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "mortal": 0.5,
+    "panxa": 0.5
+  },
+  "bayesian_context": {
+    "fill": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "dionis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "mitologia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "grega": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "deu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.46
+    },
+    "zeus": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "mortal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "cosir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "nado": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "portava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "panxa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "cuixa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/semele.json"
+}

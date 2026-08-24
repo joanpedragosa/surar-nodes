@@ -1,0 +1,23 @@
+{
+  "concept": "scil",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tunisia": 1.0
+  },
+  "bayesian_context": {
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "actualment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "tunisia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/scil.json"
+}

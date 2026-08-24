@@ -1,0 +1,43 @@
+{
+  "concept": "severitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ornamentacio": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "element": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "destacat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "neopal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "ladianisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "angles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "ornamentacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/severitat.json"
+}

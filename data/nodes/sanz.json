@@ -1,0 +1,31 @@
+{
+  "concept": "sanz",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "demanarien": 1.0
+  },
+  "bayesian_context": {
+    "dit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "demanarien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "tsjc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "aclariment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "juridic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sanz.json"
+}

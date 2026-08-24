@@ -1,0 +1,35 @@
+{
+  "concept": "sant_rafael",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "decoracio": 1.0
+  },
+  "bayesian_context": {
+    "elaborar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "decoracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "escultorica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "nova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.09
+    },
+    "facana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "pere_sanglada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sant_rafael.json"
+}
