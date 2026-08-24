@@ -1,0 +1,40 @@
+{
+  "concept": "gizeh",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "piramide": 0.5,
+    "kheops": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "quilometres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "zona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "piramide": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "sneferu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "escollir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "kheops": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gizeh.json"
+}

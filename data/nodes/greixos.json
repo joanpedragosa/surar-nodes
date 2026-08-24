@@ -1,0 +1,47 @@
+{
+  "concept": "greixos",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "aigua": 1.0
+  },
+  "bayesian_context": {
+    "hauria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "estar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "proporcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "equilibrada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "dieta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "gos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "proteines": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "carbohidrats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "aigua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/greixos.json"
+}

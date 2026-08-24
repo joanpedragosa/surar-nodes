@@ -1,0 +1,35 @@
+{
+  "concept": "guionistes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nou": 1.0
+  },
+  "bayesian_context": {
+    "negar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "nou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.86
+    },
+    "proleg": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "evitar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "exces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "informacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/guionistes.json"
+}

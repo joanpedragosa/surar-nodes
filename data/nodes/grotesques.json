@@ -1,0 +1,31 @@
+{
+  "concept": "grotesques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "grius": 1.0
+  },
+  "bayesian_context": {
+    "representades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "series": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "grius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "escenes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "satiriques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/grotesques.json"
+}

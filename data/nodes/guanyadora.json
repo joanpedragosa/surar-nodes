@@ -1,0 +1,23 @@
+{
+  "concept": "guanyadora",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dolars": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "oferta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "dolars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/guanyadora.json"
+}

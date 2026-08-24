@@ -1,0 +1,27 @@
+{
+  "concept": "granger",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "local": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "fill": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "johan_telander": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "local": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/granger.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "hagueren",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "irregularitats": 1.0
+  },
+  "bayesian_context": {
+    "recusat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "comptes": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.98
+    },
+    "grups": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "municipals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "ciutadans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "irregularitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "el_tribunal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hagueren.json"
+}

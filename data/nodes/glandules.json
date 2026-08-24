@@ -1,0 +1,81 @@
+{
+  "concept": "glandules",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "mamaries": 0.6,
+    "sal": 0.2,
+    "tenen": 0.2
+  },
+  "bayesian_context": {
+    "sis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.49
+    },
+    "mamaries": {
+      "likelihood": 0.02,
+      "posterior_boost": 5.33
+    },
+    "lemurs": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "collar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "xuclen": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "llet": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.25
+    },
+    "monotremes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "directament": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "produeix": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.9
+    },
+    "tenen": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.49
+    },
+    "aus": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "marines": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "sal": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "cap": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.93
+    },
+    "tipus": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.23
+    },
+    "ocells": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "sudoripares": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/glandules.json"
+}

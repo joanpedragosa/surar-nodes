@@ -1,0 +1,39 @@
+{
+  "concept": "grinda",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "departament": 1.0
+  },
+  "bayesian_context": {
+    "entrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "agents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "guardia_civil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "jose": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "departament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "informatic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cambra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/grinda.json"
+}

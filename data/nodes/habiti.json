@@ -1,0 +1,35 @@
+{
+  "concept": "habiti",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "conca": 1.0
+  },
+  "bayesian_context": {
+    "fa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.8
+    },
+    "conca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "murray": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "darling": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "qualitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "aigua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/habiti.json"
+}

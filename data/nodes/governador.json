@@ -1,0 +1,72 @@
+{
+  "concept": "governador",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "diable": 0.5,
+    "militar": 0.5
+  },
+  "bayesian_context": {
+    "recau": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "poder": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.62
+    },
+    "executiu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "figura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "feien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "servir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "expressio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "rex_mundi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "catars": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "designar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "diable": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "andrew_johnson": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "militar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "tennessee": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/governador.json"
+}

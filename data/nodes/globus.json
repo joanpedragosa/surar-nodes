@@ -1,0 +1,36 @@
+{
+  "concept": "globus",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "paraula": 0.5,
+    "terraqui": 0.5
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "llegir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "paraula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "asia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "entronitzat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "terraqui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/globus.json"
+}

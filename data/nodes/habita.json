@@ -1,0 +1,23 @@
+{
+  "concept": "habita",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pangoli": 1.0
+  },
+  "bayesian_context": {
+    "pangoli": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "filipines": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "boscos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/habita.json"
+}

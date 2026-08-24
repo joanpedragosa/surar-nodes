@@ -1,0 +1,43 @@
+{
+  "concept": "glac",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tundra": 1.0
+  },
+  "bayesian_context": {
+    "ecosistema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "tenien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "regions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "antartida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "havien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "quedat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "cobertes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "tundra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/glac.json"
+}

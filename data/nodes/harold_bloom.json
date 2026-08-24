@@ -1,0 +1,44 @@
+{
+  "concept": "harold_bloom",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "critic": 0.5,
+    "vuitanta": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "critic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "literari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "edat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "vuitanta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "anys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.24
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/harold_bloom.json"
+}

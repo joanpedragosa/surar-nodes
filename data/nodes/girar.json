@@ -1,0 +1,35 @@
+{
+  "concept": "girar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "se": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "graus": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.33
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "examinar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "miniatura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/girar.json"
+}

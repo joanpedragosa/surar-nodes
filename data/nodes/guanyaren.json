@@ -1,0 +1,43 @@
+{
+  "concept": "guanyaren",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "eleccions": 1.0
+  },
+  "bayesian_context": {
+    "donaria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "diumenge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "forces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "independentistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "proclamacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "republica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "independent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/guanyaren.json"
+}

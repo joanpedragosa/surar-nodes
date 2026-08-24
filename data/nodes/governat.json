@@ -1,0 +1,40 @@
+{
+  "concept": "governat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "convergencia": 0.5,
+    "cuba_fidel": 0.5
+  },
+  "bayesian_context": {
+    "convergencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "unio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "cuba_fidel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "castro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "germa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "raul": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "ferro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/governat.json"
+}

@@ -1,0 +1,102 @@
+{
+  "concept": "grand_palais",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "haver": 0.25,
+    "cimera": 0.25,
+    "establiment": 0.25,
+    "estatut": 0.25
+  },
+  "bayesian_context": {
+    "quedar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "afectat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "haver": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.38
+    },
+    "construit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "terreny": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "inestable": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "estructura": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.86
+    },
+    "allotjar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "cimera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "caps": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "govern": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.06
+    },
+    "fundacional": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "unio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.54
+    },
+    "mediterrania": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "juliol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.74
+    },
+    "estatut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "gaudeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "establiment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "public": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "industrial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "comercial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "gener": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.76
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/grand_palais.json"
+}

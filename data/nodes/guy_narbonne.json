@@ -1,0 +1,31 @@
+{
+  "concept": "guy_narbonne",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "relacio": 1.0
+  },
+  "bayesian_context": {
+    "soste": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "relacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "organismes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "vivien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "superficie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/guy_narbonne.json"
+}
