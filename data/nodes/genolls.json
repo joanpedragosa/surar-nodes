@@ -1,0 +1,27 @@
+{
+  "concept": "genolls",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nen": 1.0
+  },
+  "bayesian_context": {
+    "nen": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.18
+    },
+    "mare": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "deu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "jesus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/genolls.json"
+}

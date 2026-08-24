@@ -1,0 +1,27 @@
+{
+  "concept": "giambologna_el",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rapte": 1.0
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "comencar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "rapte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "sabines": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/giambologna_el.json"
+}

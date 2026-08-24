@@ -1,0 +1,27 @@
+{
+  "concept": "gerra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "or": 1.0
+  },
+  "bayesian_context": {
+    "troba": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "objectes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "taula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.22
+    },
+    "or": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gerra.json"
+}

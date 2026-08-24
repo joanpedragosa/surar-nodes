@@ -1,0 +1,64 @@
+{
+  "concept": "generara",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "contracte": 0.5,
+    "operacio": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "llocs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "feina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "directes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "contracte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "fabricar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "vehicles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "combat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "rodes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "refugiats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "operacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "font": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "pau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/generara.json"
+}

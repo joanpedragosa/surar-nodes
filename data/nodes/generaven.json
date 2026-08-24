@@ -1,0 +1,35 @@
+{
+  "concept": "generaven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "disputes": 1.0
+  },
+  "bayesian_context": {
+    "partits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "politics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "disputes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "erc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "hereus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "convergencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/generaven.json"
+}

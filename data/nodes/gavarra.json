@@ -1,0 +1,27 @@
+{
+  "concept": "gavarra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cornella_centre": 1.0
+  },
+  "bayesian_context": {
+    "estacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "afegir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "linia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "cornella_centre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gavarra.json"
+}

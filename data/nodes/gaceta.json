@@ -1,0 +1,51 @@
+{
+  "concept": "gaceta",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "madrid": 1.0
+  },
+  "bayesian_context": {
+    "neixer": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.67
+    },
+    "lluis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "madrid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "robust": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "formos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "gaudint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "bona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "constitucio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "corporal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gaceta.json"
+}

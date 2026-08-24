@@ -1,0 +1,47 @@
+{
+  "concept": "gastrics",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "potents": 1.0
+  },
+  "bayesian_context": {
+    "actuen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "estomac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "acids": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "potents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "defenses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "quimiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "davant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "patogens": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "ingerits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gastrics.json"
+}

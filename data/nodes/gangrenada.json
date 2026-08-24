@@ -1,0 +1,27 @@
+{
+  "concept": "gangrenada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vigilants": 1.0
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "cama": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "vigilants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "esglesia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gangrenada.json"
+}

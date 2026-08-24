@@ -1,0 +1,86 @@
+{
+  "concept": "frescs",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "maella": 0.2,
+    "urba": 0.2,
+    "akrotiri": 0.4,
+    "egipcis": 0.2
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "dos": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.9
+    },
+    "maella": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "restaurar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "urba": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "viii": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.21
+    },
+    "descobrir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "akrotiri": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "spyridon_marinatos": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "excavacions": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "anys": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.77
+    },
+    "ser": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.38
+    },
+    "descoberts": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "anecs": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "poden": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.25
+    },
+    "reconeixer": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.25
+    },
+    "facilment": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "egipcis": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/frescs.json"
+}

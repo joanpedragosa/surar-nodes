@@ -1,0 +1,68 @@
+{
+  "concept": "gestes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "annibal": 0.5,
+    "fets": 0.5
+  },
+  "bayesian_context": {
+    "gravar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "annibal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "temple": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "hera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "genere": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "pertanyen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "pintures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "historic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "militar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "pintura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "profana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "commemoracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fets": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "heroics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gestes.json"
+}

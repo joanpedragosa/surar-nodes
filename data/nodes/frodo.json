@@ -1,0 +1,90 @@
+{
+  "concept": "frodo",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "gol": 0.25,
+    "mort": 0.25,
+    "cap": 0.25,
+    "cirith_ungol": 0.25
+  },
+  "bayesian_context": {
+    "desperta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "somni": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "caiguda": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "final": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.51
+    },
+    "mossega": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "dit": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.86
+    },
+    "gol": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "lum": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "fa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.1
+    },
+    "sam": {
+      "likelihood": 0.02,
+      "posterior_boost": 5.33
+    },
+    "creu": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.64
+    },
+    "mort": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.45
+    },
+    "agafa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "anell": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "cap": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.23
+    },
+    "mont": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.95
+    },
+    "desti": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "salva": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "cirith_ungol": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/frodo.json"
+}
