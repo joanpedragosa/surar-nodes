@@ -1,0 +1,43 @@
+{
+  "concept": "tregui",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mascara": 1.0
+  },
+  "bayesian_context": {
+    "vader": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "demana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "luke": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "mascara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "poder": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "veure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "propis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "ulls": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tregui.json"
+}

@@ -1,0 +1,23 @@
+{
+  "concept": "transferira",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "generalitat": 1.0
+  },
+  "bayesian_context": {
+    "servei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "generalitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.07
+    },
+    "rodalia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/transferira.json"
+}

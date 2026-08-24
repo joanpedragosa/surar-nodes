@@ -1,0 +1,52 @@
+{
+  "concept": "ubicara",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "unitat": 0.5,
+    "nou": 0.5
+  },
+  "bayesian_context": {
+    "unitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "institut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "recerca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "sant_pau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "hospital": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "temporal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "recinte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "fira": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ubicara.json"
+}

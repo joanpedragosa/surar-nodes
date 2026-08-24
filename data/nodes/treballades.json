@@ -1,0 +1,60 @@
+{
+  "concept": "treballades",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "empunyadures": 0.5,
+    "parets": 0.5
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "empunyadures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fulles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "espases": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "gran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "cura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "parets": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "cabana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pastor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "runes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "opus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "spicatum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/treballades.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "triacom",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "oriol": 1.0
+  },
+  "bayesian_context": {
+    "responsable": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "oriol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "carbo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "productora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "enviar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "factures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "falses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/triacom.json"
+}

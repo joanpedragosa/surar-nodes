@@ -1,0 +1,68 @@
+{
+  "concept": "transportades",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "mercaderies": 0.3333,
+    "pintures": 0.6667
+  },
+  "bayesian_context": {
+    "havien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "mercaderies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "leopoldville": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "port": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "matadi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "portadors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "africans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "pintures": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.18
+    },
+    "murals": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.95
+    },
+    "taull": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.15
+    },
+    "mules": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "pobla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "segur": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/transportades.json"
+}

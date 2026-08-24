@@ -1,0 +1,39 @@
+{
+  "concept": "trito",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "william_lassell": 1.0
+  },
+  "bayesian_context": {
+    "descobrir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "william_lassell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "satel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "lit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "gran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "neptu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/trito.json"
+}

@@ -1,0 +1,57 @@
+{
+  "concept": "transmeten",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "habitualment": 0.3333,
+    "majoritariament": 0.3333,
+    "sentit": 0.3333
+  },
+  "bayesian_context": {
+    "habitualment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "virus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "planta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "organismes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "coneguts": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "vectors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "majoritariament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "malalties": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "hereditariament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "sentit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "moviment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/transmeten.json"
+}

@@ -1,0 +1,56 @@
+{
+  "concept": "travessa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "jardi": 0.5,
+    "ciutat": 0.5
+  },
+  "bayesian_context": {
+    "jardi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "vil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "julia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "felix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "viver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "peixos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "recorregut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "fa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.49
+    },
+    "ronda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "mig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "ciutat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/travessa.json"
+}

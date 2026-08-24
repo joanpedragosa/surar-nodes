@@ -1,0 +1,76 @@
+{
+  "concept": "trinitat_nova",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "direccio": 0.5,
+    "linia": 0.5
+  },
+  "bayesian_context": {
+    "projectar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "practica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "linia": {
+      "likelihood": 0.0444,
+      "posterior_boost": 4.21
+    },
+    "extensio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "dos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.2
+    },
+    "quilometres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "extrem": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "direccio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "nord": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.68
+    },
+    "est": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "comparteixen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "estacio": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.15
+    },
+    "andana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "central": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.71
+    },
+    "arribar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.63
+    },
+    "ampliar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/trinitat_nova.json"
+}

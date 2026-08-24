@@ -1,0 +1,31 @@
+{
+  "concept": "transsexual",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "italia": 1.0
+  },
+  "bayesian_context": {
+    "convertit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "gianmarco_negri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "batlle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "italia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/transsexual.json"
+}

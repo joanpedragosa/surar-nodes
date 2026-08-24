@@ -1,0 +1,27 @@
+{
+  "concept": "trobador",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "joglar": 1.0
+  },
+  "bayesian_context": {
+    "equivalent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "alemany": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "minnesänger": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "joglar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/trobador.json"
+}

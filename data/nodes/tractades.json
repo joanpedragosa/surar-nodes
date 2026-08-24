@@ -1,0 +1,35 @@
+{
+  "concept": "tractades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "peces": 1.0
+  },
+  "bayesian_context": {
+    "seran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "peces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "sixena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "boti": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "politic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tractades.json"
+}

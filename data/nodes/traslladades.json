@@ -1,0 +1,48 @@
+{
+  "concept": "traslladades",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "reliquies": 0.5,
+    "palau_nacional": 0.5
+  },
+  "bayesian_context": {
+    "creu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "reliquies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "ciutat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "alatri": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "palau_nacional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "pintures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "murals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "taull": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/traslladades.json"
+}

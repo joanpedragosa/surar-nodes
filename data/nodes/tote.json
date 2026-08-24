@@ -1,0 +1,35 @@
+{
+  "concept": "tote",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "stadt": 1.0
+  },
+  "bayesian_context": {
+    "ofereix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "die": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "stadt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "trama": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "nova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.09
+    },
+    "epoca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tote.json"
+}

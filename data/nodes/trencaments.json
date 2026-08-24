@@ -1,0 +1,47 @@
+{
+  "concept": "trencaments",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "bicatenaris": 1.0
+  },
+  "bayesian_context": {
+    "reparats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "bicatenaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "recombinacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "senyals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "estimulacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "acumulacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "danys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "especialment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "adductes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/trencaments.json"
+}
