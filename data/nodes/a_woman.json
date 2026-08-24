@@ -1,0 +1,23 @@
+{
+  "concept": "a_woman",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "called_golda": 1.0
+  },
+  "bayesian_context": {
+    "titulava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "miniserie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "called_golda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/a_woman.json"
+}

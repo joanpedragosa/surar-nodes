@@ -1,0 +1,39 @@
+{
+  "concept": "auditori_josep",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "irla": 1.0
+  },
+  "bayesian_context": {
+    "instal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "lar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "irla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "antic_hospital": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "santa_caterina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "girona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/auditori_josep.json"
+}

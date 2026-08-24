@@ -1,0 +1,68 @@
+{
+  "concept": "balanca",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "epoca": 0.25,
+    "torsio": 0.75
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.67
+    },
+    "epoca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.55
+    },
+    "notablement": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "sensible": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "dissenyar": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.38
+    },
+    "construir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "john_michell": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.3
+    },
+    "torsio": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.42
+    },
+    "finalitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "determinar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "densitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "mitjana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    },
+    "terra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.58
+    },
+    "cap": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.03
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/balanca.json"
+}

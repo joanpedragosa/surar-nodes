@@ -1,0 +1,27 @@
+{
+  "concept": "associades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "carrec": 1.0
+  },
+  "bayesian_context": {
+    "renunciat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "bcomu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "dietes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "carrec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/associades.json"
+}

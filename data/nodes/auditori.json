@@ -1,0 +1,106 @@
+{
+  "concept": "auditori",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "orquestra": 0.25,
+    "once": 0.25,
+    "barcelona": 0.25,
+    "artlogic": 0.25
+  },
+  "bayesian_context": {
+    "suprimeix": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "esmena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "consorci": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "orquestra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "clausula": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "restringia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "subrogacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "treballadors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.89
+    },
+    "antiguitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "minima": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "fara": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.81
+    },
+    "acte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.51
+    },
+    "once": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "celebrat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "nit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.89
+    },
+    "empresari": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "barcelona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.04
+    },
+    "organitzacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "subcontracta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "servei": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    },
+    "acomodacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "artlogic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/auditori.json"
+}

@@ -1,0 +1,64 @@
+{
+  "concept": "atmosferica",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dos": 0.5,
+    "humitat": 0.5
+  },
+  "bayesian_context": {
+    "integrar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "experiments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "italians": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "densitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "dos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "estats_units": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "anoten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "variables": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "pressio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "humitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/atmosferica.json"
+}

@@ -1,0 +1,88 @@
+{
+  "concept": "associats",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "opinin": 0.5,
+    "perdua": 0.5
+  },
+  "bayesian_context": {
+    "inicia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "pdecat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "proces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "reflexio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "opinin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "rumb": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "emprendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "anys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.24
+    },
+    "venir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "llindars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "supera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "soroll": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "oci": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "nocturn": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "ciutat_vella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "perdua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "salut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "qualitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "vida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.78
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/associats.json"
+}

@@ -1,0 +1,44 @@
+{
+  "concept": "avl",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "emili_casanova": 0.5,
+    "sant_miquel": 0.5
+  },
+  "bayesian_context": {
+    "presideix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "seccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "onomastica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "emili_casanova": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "celebrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "ple": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "sant_miquel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "reis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/avl.json"
+}
