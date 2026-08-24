@@ -1,0 +1,31 @@
+{
+  "concept": "empresonades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "oriol_junqueras": 1.0
+  },
+  "bayesian_context": {
+    "persones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "troben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "oriol_junqueras": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "jordi_sanchez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "jordi_cuixart": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/empresonades.json"
+}

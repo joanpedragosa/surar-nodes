@@ -1,0 +1,27 @@
+{
+  "concept": "enllacava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tracat": 1.0
+  },
+  "bayesian_context": {
+    "tracat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "nee": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "placa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "espanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/enllacava.json"
+}

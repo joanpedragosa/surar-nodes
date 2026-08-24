@@ -1,0 +1,35 @@
+{
+  "concept": "enllestits",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dos": 1.0
+  },
+  "bayesian_context": {
+    "estar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "primers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "actes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "llibret": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "novembre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/enllestits.json"
+}

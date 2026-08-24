@@ -1,0 +1,40 @@
+{
+  "concept": "empresonar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mauthausen": 0.5,
+    "palpatine": 0.5
+  },
+  "bayesian_context": {
+    "mauthausen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "francesc_comellas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "llinares": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "mace_windu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "palpatine": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/empresonar.json"
+}

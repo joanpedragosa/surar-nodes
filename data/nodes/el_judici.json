@@ -1,0 +1,47 @@
+{
+  "concept": "el_judici",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "final": 1.0
+  },
+  "bayesian_context": {
+    "encarregar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    },
+    "final": {
+      "likelihood": 0.05,
+      "posterior_boost": 4.39
+    },
+    "angelo_tani": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "ser": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.55
+    },
+    "encarregat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "rep": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "influencies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "der": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "weyden": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/el_judici.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "empar_marco",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "corts_valencianes": 1.0
+  },
+  "bayesian_context": {
+    "directora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "general": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "a_punt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "media": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "anunci": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "corts_valencianes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/empar_marco.json"
+}

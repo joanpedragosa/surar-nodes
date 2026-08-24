@@ -1,0 +1,23 @@
+{
+  "concept": "enneapylon",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nou": 1.0
+  },
+  "bayesian_context": {
+    "significa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "nou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.86
+    },
+    "portes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/enneapylon.json"
+}

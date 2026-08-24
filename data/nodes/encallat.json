@@ -1,0 +1,31 @@
+{
+  "concept": "encallat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mort": 1.0
+  },
+  "bayesian_context": {
+    "causen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "embols": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cetacis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "cop": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "mort": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/encallat.json"
+}

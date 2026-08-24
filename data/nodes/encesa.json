@@ -1,0 +1,48 @@
+{
+  "concept": "encesa",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "fe": 0.5,
+    "torre": 0.5
+  },
+  "bayesian_context": {
+    "simbolitza": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "espelma": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.07
+    },
+    "fe": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "mare": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.58
+    },
+    "deu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.46
+    },
+    "comencat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "torre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "na": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "popia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/encesa.json"
+}

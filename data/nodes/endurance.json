@@ -1,0 +1,36 @@
+{
+  "concept": "endurance",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cap": 0.5,
+    "plymouth": 0.5
+  },
+  "bayesian_context": {
+    "dirigir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "antartida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "ciutat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "deixar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "plymouth": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/endurance.json"
+}

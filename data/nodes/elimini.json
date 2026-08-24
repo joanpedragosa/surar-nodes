@@ -1,0 +1,35 @@
+{
+  "concept": "elimini",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "escala": 1.0
+  },
+  "bayesian_context": {
+    "demanat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "escala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "economica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "objectius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "deficit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "comunitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/elimini.json"
+}

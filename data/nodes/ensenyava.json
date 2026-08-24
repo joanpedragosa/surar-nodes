@@ -1,0 +1,27 @@
+{
+  "concept": "ensenyava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "basicament": 1.0
+  },
+  "bayesian_context": {
+    "basicament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "escultura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "escenes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "bibliques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ensenyava.json"
+}

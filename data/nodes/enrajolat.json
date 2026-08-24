@@ -1,0 +1,43 @@
+{
+  "concept": "enrajolat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "espai": 1.0
+  },
+  "bayesian_context": {
+    "anomena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "tessel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "lacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "pavimentacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "espai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "poliedres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "adjacents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cares": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/enrajolat.json"
+}

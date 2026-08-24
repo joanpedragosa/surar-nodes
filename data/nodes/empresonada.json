@@ -1,0 +1,23 @@
+{
+  "concept": "empresonada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "paula": 1.0
+  },
+  "bayesian_context": {
+    "paula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "wad": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "ras": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/empresonada.json"
+}
