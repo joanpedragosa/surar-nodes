@@ -1,0 +1,36 @@
+{
+  "concept": "wtc",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ocupava": 0.5,
+    "otis": 0.5
+  },
+  "bayesian_context": {
+    "cent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "ocupava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "salomon_smith": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "barney": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ascensors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "otis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/wtc.json"
+}

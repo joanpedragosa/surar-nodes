@@ -1,0 +1,43 @@
+{
+  "concept": "xinesa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fa": 1.0
+  },
+  "bayesian_context": {
+    "protesten": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "manifestants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "regio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "administrativa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "especial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "fa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.8
+    },
+    "cinc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "mesos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/xinesa.json"
+}

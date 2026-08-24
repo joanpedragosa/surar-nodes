@@ -1,0 +1,35 @@
+{
+  "concept": "wan_kenobi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "anakin_skywalker": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "detenir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "general": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "grievous": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "obi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "anakin_skywalker": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/wan_kenobi.json"
+}

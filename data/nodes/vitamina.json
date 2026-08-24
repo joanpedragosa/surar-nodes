@@ -1,0 +1,31 @@
+{
+  "concept": "vitamina",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "beneficiosa": 1.0
+  },
+  "bayesian_context": {
+    "beneficiosa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sistema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "nervios": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "conte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "tiamina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vitamina.json"
+}

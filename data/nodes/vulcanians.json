@@ -1,0 +1,32 @@
+{
+  "concept": "vulcanians",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "andorians": 0.5,
+    "violencia": 0.5
+  },
+  "bayesian_context": {
+    "disputes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "andorians": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "desig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "dominava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "violencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vulcanians.json"
+}

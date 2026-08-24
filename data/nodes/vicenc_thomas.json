@@ -1,0 +1,35 @@
+{
+  "concept": "vicenc_thomas",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "parlament": 1.0
+  },
+  "bayesian_context": {
+    "president": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "parlament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "illes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "carrec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "ostenta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vice": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vicenc_thomas.json"
+}

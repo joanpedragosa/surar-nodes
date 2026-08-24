@@ -1,0 +1,27 @@
+{
+  "concept": "week",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "passarel": 1.0
+  },
+  "bayesian_context": {
+    "anomenava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "barcelona_fashion": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "passarel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "gaudi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/week.json"
+}

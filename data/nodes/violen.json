@@ -1,0 +1,39 @@
+{
+  "concept": "violen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "regles": 1.0
+  },
+  "bayesian_context": {
+    "comptes": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.98
+    },
+    "twitter": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.1
+    },
+    "suspenen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "atenent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "politica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "companyia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "regles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/violen.json"
+}

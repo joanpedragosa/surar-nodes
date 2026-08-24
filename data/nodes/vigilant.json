@@ -1,0 +1,35 @@
+{
+  "concept": "vigilant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "seguretat": 1.0
+  },
+  "bayesian_context": {
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "encarar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "seguretat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "albert_donaire": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "parlar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "catala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vigilant.json"
+}
