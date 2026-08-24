@@ -1,0 +1,47 @@
+{
+  "concept": "descodificadors",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "primer_ministre": 1.0
+  },
+  "bayesian_context": {
+    "demanar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "recursos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "milner": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "barry": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "carta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "signada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "primer_ministre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "britanic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "winston_churchill": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/descodificadors.json"
+}

@@ -1,0 +1,43 @@
+{
+  "concept": "desbordem",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "los": 1.0
+  },
+  "bayesian_context": {
+    "etiquetes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "fan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "servir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "cdr": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "twitter": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "tombem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "regim": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "los": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desbordem.json"
+}

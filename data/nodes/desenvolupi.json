@@ -1,0 +1,27 @@
+{
+  "concept": "desenvolupi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "reglament": 1.0
+  },
+  "bayesian_context": {
+    "llei": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.28
+    },
+    "exigeixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "reglament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "asil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desenvolupi.json"
+}

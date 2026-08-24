@@ -1,0 +1,35 @@
+{
+  "concept": "desaprova",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "die_linke": 1.0
+  },
+  "bayesian_context": {
+    "die_linke": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "persecucio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "politics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "catalans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "justicia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desaprova.json"
+}

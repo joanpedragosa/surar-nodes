@@ -1,0 +1,31 @@
+{
+  "concept": "desallotjar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "persones": 1.0
+  },
+  "bayesian_context": {
+    "hora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "persones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "cinc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "tarda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desallotjar.json"
+}

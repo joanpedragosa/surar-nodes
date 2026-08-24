@@ -1,0 +1,39 @@
+{
+  "concept": "decidint",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "concorren": 1.0
+  },
+  "bayesian_context": {
+    "partits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "estan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "concorren": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "junts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "compromis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "podem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.05
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/decidint.json"
+}

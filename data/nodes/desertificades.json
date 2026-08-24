@@ -1,0 +1,31 @@
+{
+  "concept": "desertificades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "proxima": 1.0
+  },
+  "bayesian_context": {
+    "zones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "proxima": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "font_roja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "provincia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "alacant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desertificades.json"
+}

@@ -1,0 +1,589 @@
+{
+  "concept": "democracia",
+  "frequency": 19,
+  "edges": [],
+  "markov_transitions": {
+    "puigdemont": 0.0588,
+    "proces": 0.0588,
+    "mai": 0.0588,
+    "espanyoles": 0.0588,
+    "hong_kong": 0.0588,
+    "espanyola": 0.0588,
+    "interna": 0.0588,
+    "drets": 0.1176,
+    "general": 0.0588,
+    "plena": 0.0588,
+    "consell": 0.0588,
+    "transparencia": 0.0588,
+    "irreversible": 0.0588,
+    "defensar": 0.0588,
+    "llibertat": 0.1176
+  },
+  "bayesian_context": {
+    "diuen": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.39
+    },
+    "intentat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.05
+    },
+    "alterar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "funcionament": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.67
+    },
+    "puigdemont": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.07
+    },
+    "comin": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.75
+    },
+    "autoritats": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.79
+    },
+    "espanyoles": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.77
+    },
+    "demanat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.2
+    },
+    "alfred_bosch": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.9
+    },
+    "impliqui": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "defensa": {
+      "likelihood": 0.0053,
+      "posterior_boost": 3.62
+    },
+    "proces": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.84
+    },
+    "catala": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.18
+    },
+    "comunitat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.54
+    },
+    "internacional": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.37
+    },
+    "contestar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.14
+    },
+    "envits": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "democratics": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.05
+    },
+    "segons": {
+      "likelihood": 0.0053,
+      "posterior_boost": 2.72
+    },
+    "consta": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.79
+    },
+    "carta": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.99
+    },
+    "dirigida": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.05
+    },
+    "pedro": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.98
+    },
+    "morenes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.05
+    },
+    "mes": {
+      "likelihood": 0.0035,
+      "posterior_boost": 2.25
+    },
+    "mai": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.79
+    },
+    "amenaca": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.47
+    },
+    "violencia": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.54
+    },
+    "estan": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.55
+    },
+    "moment": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.12
+    },
+    "justicia": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.98
+    },
+    "questionades": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "contraria": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "monarquia": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.67
+    },
+    "espanyola": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.2
+    },
+    "partits": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.04
+    },
+    "independentistes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.3
+    },
+    "valors": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.75
+    },
+    "republicans": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.97
+    },
+    "llibertat": {
+      "likelihood": 0.0053,
+      "posterior_boost": 3.55
+    },
+    "igualtat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.97
+    },
+    "aprovat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.39
+    },
+    "senat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.57
+    },
+    "estat_units": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "america": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.14
+    },
+    "projecte": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.93
+    },
+    "llei": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.71
+    },
+    "drets_humans": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.63
+    },
+    "hong_kong": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.97
+    },
+    "ficava": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "dubte": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.9
+    },
+    "jan_peumans": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.27
+    },
+    "declaracions": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.3
+    },
+    "qualitat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.47
+    },
+    "protesten": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.14
+    },
+    "abandonament": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.14
+    },
+    "manca": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.47
+    },
+    "interna": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.79
+    },
+    "defensar": {
+      "likelihood": 0.0053,
+      "posterior_boost": 4.14
+    },
+    "bazargan": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "drets": {
+      "likelihood": 0.0053,
+      "posterior_boost": 3.6
+    },
+    "civils": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.75
+    },
+    "associa": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.9
+    },
+    "ada_colau": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.2
+    },
+    "socials": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.59
+    },
+    "llibertats": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.05
+    },
+    "publiques": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.9
+    },
+    "politiques": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.41
+    },
+    "general": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.01
+    },
+    "necessari": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.84
+    },
+    "combatre": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.14
+    },
+    "desigualtats": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.27
+    },
+    "lluitar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.6
+    },
+    "plena": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.9
+    },
+    "sol": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.76
+    },
+    "licitat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.49
+    },
+    "alex_salmond": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "investigacio": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.27
+    },
+    "comissio": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.95
+    },
+    "afers_politics": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "consell": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.03
+    },
+    "europa": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.17
+    },
+    "tracte": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "govern": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.4
+    },
+    "espanyol": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.48
+    },
+    "catalans": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.23
+    },
+    "referendum": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.9
+    },
+    "significa": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.54
+    },
+    "riba": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.79
+    },
+    "transparencia": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.97
+    },
+    "assegurat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.14
+    },
+    "ximo_puig": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.54
+    },
+    "cal": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.84
+    },
+    "frenar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.27
+    },
+    "extrema": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.71
+    },
+    "dreta": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.16
+    },
+    "irreversible": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "presentat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.92
+    },
+    "proposta": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.07
+    },
+    "alemanya": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.14
+    },
+    "belgica": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.57
+    },
+    "crear": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.88
+    },
+    "mecanisme": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.71
+    },
+    "revisio": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.9
+    },
+    "mutua": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.05
+    },
+    "dret": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.2
+    },
+    "humans": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.26
+    },
+    "paisos": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.15
+    },
+    "unio": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.87
+    },
+    "europea": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.87
+    },
+    "adherit": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "desenes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.97
+    },
+    "entitats": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.54
+    },
+    "catalanes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.75
+    },
+    "taula": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.94
+    },
+    "manera": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.03
+    },
+    "unitaria": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.05
+    },
+    "poble": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.22
+    },
+    "decidir": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.29
+    },
+    "futur": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.54
+    },
+    "politic": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.91
+    },
+    "titol": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.19
+    },
+    "porta": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.86
+    },
+    "conferencia": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.43
+    },
+    "torra": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.2
+    },
+    "sobirania": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.67
+    },
+    "objectiu": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.17
+    },
+    "gent": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.03
+    },
+    "anat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.67
+    },
+    "urnes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.84
+    },
+    "indicat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "imamoglu": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "significat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.75
+    },
+    "se": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.29
+    },
+    "atribueix": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.63
+    },
+    "llacos": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.71
+    },
+    "blancs": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.79
+    },
+    "trac": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "vermell": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.29
+    },
+    "expressio": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.39
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/democracia.json"
+}

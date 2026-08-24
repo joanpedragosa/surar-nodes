@@ -1,0 +1,23 @@
+{
+  "concept": "defensor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "faine": 1.0
+  },
+  "bayesian_context": {
+    "ferm": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "faine": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "obra_social": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/defensor.json"
+}

@@ -1,0 +1,68 @@
+{
+  "concept": "desaprovat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mina_andreeva": 0.5,
+    "valls": 0.5
+  },
+  "bayesian_context": {
+    "mina_andreeva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "filtracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "informacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "confidencial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "euroordre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "clara_ponsati": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "valls": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "ada_colau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "recuperat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "llac": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "groc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "facana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "ajuntament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desaprovat.json"
+}

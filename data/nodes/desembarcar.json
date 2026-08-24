@@ -1,0 +1,64 @@
+{
+  "concept": "desembarcar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "los": 0.5,
+    "costa": 0.5
+  },
+  "bayesian_context": {
+    "dirigeixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pesquer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "malta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "port": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "segur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "los": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "costa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "actual": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "santa_cruz": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "tenerife": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desembarcar.json"
+}

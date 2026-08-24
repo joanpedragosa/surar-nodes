@@ -1,0 +1,27 @@
+{
+  "concept": "denuncien",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "manifestants": 1.0
+  },
+  "bayesian_context": {
+    "manifestants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "repressio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "carrie_lam": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/denuncien.json"
+}

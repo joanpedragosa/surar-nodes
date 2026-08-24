@@ -1,0 +1,31 @@
+{
+  "concept": "deixaran",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "siria": 1.0
+  },
+  "bayesian_context": {
+    "siria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "treballadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "diplomatics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "termini": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "hores": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/deixaran.json"
+}

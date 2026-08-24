@@ -1,0 +1,55 @@
+{
+  "concept": "derivara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "valencians": 1.0
+  },
+  "bayesian_context": {
+    "valencians": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "manca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "inversions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "originada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "falta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "pressupostos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "retallades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "serveis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "publics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "fonamentals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/derivara.json"
+}

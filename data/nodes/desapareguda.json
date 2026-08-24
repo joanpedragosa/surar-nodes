@@ -1,0 +1,35 @@
+{
+  "concept": "desapareguda",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "parroquia": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "batejat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "pedro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "granada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "parroquia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sant_andreu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desapareguda.json"
+}

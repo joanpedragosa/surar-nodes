@@ -1,0 +1,23 @@
+{
+  "concept": "desapareix",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lladre": 1.0
+  },
+  "bayesian_context": {
+    "lladre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "traves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "finestra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desapareix.json"
+}

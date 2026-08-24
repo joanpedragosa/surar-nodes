@@ -1,0 +1,19 @@
+{
+  "concept": "desconfia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "anakin": 1.0
+  },
+  "bayesian_context": {
+    "anakin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "palpatine": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desconfia.json"
+}

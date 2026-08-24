@@ -1,0 +1,132 @@
+{
+  "concept": "dbs",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "aston_martin": 0.1667,
+    "presentar": 0.1667,
+    "llistes": 0.1667,
+    "super": 0.1667,
+    "casino_royale": 0.1667,
+    "best_cars": 0.1667
+  },
+  "bayesian_context": {
+    "fabricat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "aston_martin": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.0
+    },
+    "passar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.27
+    },
+    "ser": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.55
+    },
+    "presentar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.14
+    },
+    "icona": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "marca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.95
+    },
+    "situen": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "llistes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "millors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "automobils": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "categoria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "cotxes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "super": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "licula": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.25
+    },
+    "donar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.55
+    },
+    "coneixer": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.78
+    },
+    "casino_royale": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "premi": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "revista": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.71
+    },
+    "auto_motor": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "und": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "sport": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "best_cars": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "any": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.56
+    },
+    "sortir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.78
+    },
+    "venta": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "cotxe": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "assembla": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dbs.json"
+}
