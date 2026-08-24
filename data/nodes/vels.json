@@ -1,0 +1,27 @@
+{
+  "concept": "vels",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "segle": 1.0
+  },
+  "bayesian_context": {
+    "portaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "segle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.77
+    },
+    "xv": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "modestia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vels.json"
+}

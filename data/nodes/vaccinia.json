@@ -1,0 +1,23 @@
+{
+  "concept": "vaccinia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "modificat": 1.0
+  },
+  "bayesian_context": {
+    "basa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "virus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "modificat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vaccinia.json"
+}

@@ -1,0 +1,88 @@
+{
+  "concept": "vetera",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "segona_guerra": 0.6667,
+    "paranoid_eyes": 0.3333
+  },
+  "bayesian_context": {
+    "pateix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "depressio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "segona_guerra": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.85
+    },
+    "mundial": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.42
+    },
+    "consequencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "trastorn": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "estres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "posttraumatic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "tracta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "opera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "rock": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "primera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.37
+    },
+    "cara": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "dificil": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "situacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "mental": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "refugia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "paranoid_eyes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "alcohol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vetera.json"
+}

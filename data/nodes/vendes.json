@@ -1,0 +1,72 @@
+{
+  "concept": "vendes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "manga": 0.5,
+    "jocs": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "euros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "arribar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "manga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "franca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "alemanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "organitzacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "comerc_exterior": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "japo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "milions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "augmentat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "volum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "jocs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "consoles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vendes.json"
+}

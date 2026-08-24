@@ -1,0 +1,31 @@
+{
+  "concept": "veritables",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sentiments": 1.0
+  },
+  "bayesian_context": {
+    "estableixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "dos": {
+      "likelihood": 0.0667,
+      "posterior_boost": 3.97
+    },
+    "homes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "descobreixin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sentiments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/veritables.json"
+}

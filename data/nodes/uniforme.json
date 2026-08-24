@@ -1,0 +1,56 @@
+{
+  "concept": "uniforme",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "descriptiu": 0.5,
+    "consistent": 0.5
+  },
+  "bayesian_context": {
+    "fons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "darrere": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "model": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "descriptiu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "vestia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "comandant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "reprendre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "dos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.2
+    },
+    "joves": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "disseny": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "consistent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/uniforme.json"
+}

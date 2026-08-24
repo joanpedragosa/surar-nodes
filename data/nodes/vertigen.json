@@ -1,0 +1,48 @@
+{
+  "concept": "vertigen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "morts": 0.5,
+    "homicidi": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "ultim": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "autor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "recorrer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "escriure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.67
+    },
+    "morts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "samuel_taylor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "centrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "homicidi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vertigen.json"
+}

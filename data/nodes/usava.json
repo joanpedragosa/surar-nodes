@@ -1,0 +1,35 @@
+{
+  "concept": "usava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "catalitzar": 1.0
+  },
+  "bayesian_context": {
+    "catalitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "reaccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "cel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "lula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "uacu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "enzims": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/usava.json"
+}

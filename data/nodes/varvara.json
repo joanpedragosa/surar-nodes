@@ -1,0 +1,56 @@
+{
+  "concept": "varvara",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "seua": 0.5,
+    "interior": 0.5
+  },
+  "bayesian_context": {
+    "parla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "katia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "seua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "felic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "infantesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "somni": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "home": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "vertaderament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "estime": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "interior": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "casa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/varvara.json"
+}

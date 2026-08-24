@@ -1,0 +1,63 @@
+{
+  "concept": "urgent",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "reforma": 1.0
+  },
+  "bayesian_context": {
+    "demana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "diana_riba": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "von": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "der": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "leyen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "carta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "investigacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "considera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "ylva_johansson": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "reforma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "politica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "asil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "ue": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/urgent.json"
+}

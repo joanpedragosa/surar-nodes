@@ -1,0 +1,68 @@
+{
+  "concept": "urbans",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "traves": 0.5,
+    "blanc": 0.5
+  },
+  "bayesian_context": {
+    "entraven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "productes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "traves": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "catalegs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "colors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "capa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "cobreix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "majoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "personatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "blanc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "vermell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "ocre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "blau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "negre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/urbans.json"
+}

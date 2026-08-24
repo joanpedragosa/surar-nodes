@@ -1,0 +1,27 @@
+{
+  "concept": "venerats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "temps": 1.0
+  },
+  "bayesian_context": {
+    "llocs": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.0
+    },
+    "temps": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.92
+    },
+    "associaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "martirs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/venerats.json"
+}

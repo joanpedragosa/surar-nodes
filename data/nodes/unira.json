@@ -1,0 +1,27 @@
+{
+  "concept": "unira",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "celestino_corbacho": 1.0
+  },
+  "bayesian_context": {
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "politic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "celestino_corbacho": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/unira.json"
+}

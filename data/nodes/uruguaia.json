@@ -1,0 +1,32 @@
+{
+  "concept": "uruguaia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pampea": 0.5,
+    "nivell": 0.5
+  },
+  "bayesian_context": {
+    "terreny": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "pampea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "situat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "nivell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "mar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/uruguaia.json"
+}

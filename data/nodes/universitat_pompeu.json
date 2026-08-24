@@ -1,0 +1,35 @@
+{
+  "concept": "universitat_pompeu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fabra": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "encarrec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "tapies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "fabra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "acte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/universitat_pompeu.json"
+}

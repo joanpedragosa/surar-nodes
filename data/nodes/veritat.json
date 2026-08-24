@@ -1,0 +1,57 @@
+{
+  "concept": "veritat",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "justicia": 0.3333,
+    "pragmatica": 0.3333,
+    "funcional": 0.3333
+  },
+  "bayesian_context": {
+    "guanyava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "final": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.74
+    },
+    "justicia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "missio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "cientifics": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.89
+    },
+    "obtenir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.95
+    },
+    "pragmatica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "concepte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "utilitzen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "sovint": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "funcional": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/veritat.json"
+}

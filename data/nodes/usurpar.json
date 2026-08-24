@@ -1,0 +1,31 @@
+{
+  "concept": "usurpar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "identitat": 1.0
+  },
+  "bayesian_context": {
+    "serveix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "canvi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "equipatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "identitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "parmenione": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/usurpar.json"
+}

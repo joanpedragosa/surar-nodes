@@ -1,0 +1,31 @@
+{
+  "concept": "vagons",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tenen": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "tenen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.88
+    },
+    "trens": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "serie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vagons.json"
+}

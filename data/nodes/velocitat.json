@@ -1,0 +1,486 @@
+{
+  "concept": "velocitat",
+  "frequency": 30,
+  "edges": [],
+  "markov_transitions": {
+    "calor": 0.04,
+    "transmissio": 0.04,
+    "desplacament": 0.04,
+    "escapament": 0.04,
+    "excessiva": 0.04,
+    "prat": 0.04,
+    "viatjaven": 0.04,
+    "curvatura": 0.04,
+    "poden": 0.08,
+    "mitjana": 0.04,
+    "exposades": 0.04,
+    "rotacio": 0.08,
+    "reproduir": 0.04,
+    "pot": 0.04,
+    "maxima": 0.12,
+    "movia": 0.04,
+    "majoritaria": 0.04,
+    "reaccio": 0.08,
+    "expansio": 0.04,
+    "ambit": 0.04
+  },
+  "bayesian_context": {
+    "calor": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "aigua": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.81
+    },
+    "vegades": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.0
+    },
+    "superior": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.23
+    },
+    "aire": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.44
+    },
+    "depen": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.7
+    },
+    "diferencia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.59
+    },
+    "temperatura": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.69
+    },
+    "condensacio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.55
+    },
+    "vapor": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.51
+    },
+    "ebullicio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.95
+    },
+    "dissolucio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.47
+    },
+    "transmissio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.07
+    },
+    "evaporador": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.07
+    },
+    "fer": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.34
+    },
+    "entrar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.02
+    },
+    "orbita": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.23
+    },
+    "transferencia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.51
+    },
+    "hohmann": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.25
+    },
+    "canvi": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.93
+    },
+    "proporcional": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.25
+    },
+    "quadrat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.7
+    },
+    "desplacament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "assoleixen": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.25
+    },
+    "gasos": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.59
+    },
+    "exobase": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.07
+    },
+    "escapament": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.55
+    },
+    "excessiva": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.07
+    },
+    "inadequada": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.25
+    },
+    "causa": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.99
+    },
+    "directa": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.55
+    },
+    "sinistres": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.25
+    },
+    "arriscat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.55
+    },
+    "baixar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.55
+    },
+    "bicicleta": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.07
+    },
+    "muntanya": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.29
+    },
+    "mont": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.17
+    },
+    "fuji": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.4
+    },
+    "multituds": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.25
+    },
+    "dificultat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.7
+    },
+    "control": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.59
+    },
+    "canviat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.77
+    },
+    "estructura": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.98
+    },
+    "tallers": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.51
+    },
+    "mercat_nou": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.25
+    },
+    "obres": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.36
+    },
+    "linia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.61
+    },
+    "alta": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.45
+    },
+    "havien": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.67
+    },
+    "tancs": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.65
+    },
+    "sacseges": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.55
+    },
+    "tripulacio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.85
+    },
+    "limitar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.85
+    },
+    "podrien": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.51
+    },
+    "parada": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.85
+    },
+    "trens": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.37
+    },
+    "prat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.65
+    },
+    "llobregat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.85
+    },
+    "viatjaven": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "curvatura": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "poden": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.85
+    },
+    "arribar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.11
+    },
+    "aconseguir": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.65
+    },
+    "nedant": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.25
+    },
+    "tortugues": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.37
+    },
+    "carei": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.51
+    },
+    "km": {
+      "likelihood": 0.01,
+      "posterior_boost": 4.1
+    },
+    "era": {
+      "likelihood": 0.0011,
+      "posterior_boost": 1.85
+    },
+    "mitjana": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.0
+    },
+    "lahars": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.95
+    },
+    "baixant": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.55
+    },
+    "vessants": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.07
+    },
+    "exposades": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.07
+    },
+    "imatges": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.36
+    },
+    "segon": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.78
+    },
+    "rotacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "vega": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.55
+    },
+    "reproduir": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.95
+    },
+    "normal": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.07
+    },
+    "pot": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.29
+    },
+    "botafumeiro": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.95
+    },
+    "creuer": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.07
+    },
+    "catedral": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.79
+    },
+    "maxima": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.95
+    },
+    "assolir": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.55
+    },
+    "vents": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.65
+    },
+    "movia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.55
+    },
+    "cm": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.29
+    },
+    "any": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.02
+    },
+    "sirius": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.44
+    },
+    "ara": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.01
+    },
+    "centre": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.69
+    },
+    "valencia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.81
+    },
+    "vent": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.25
+    },
+    "mauna_kea": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.51
+    },
+    "majoritaria": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.95
+    },
+    "mbps": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.55
+    },
+    "augmenta": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.9
+    },
+    "reaccio": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.97
+    },
+    "creixement": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.74
+    },
+    "mes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.07
+    },
+    "doble": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.62
+    },
+    "accelerat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.55
+    },
+    "expansio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.59
+    },
+    "nebulosa": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.29
+    },
+    "explosio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.77
+    },
+    "supernova": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.7
+    },
+    "ambit": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.7
+    },
+    "fa": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.34
+    },
+    "campanya": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.81
+    },
+    "europeu": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.4
+    },
+    "quantes": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.02
+    },
+    "xarxes": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.47
+    },
+    "tren": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.47
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/velocitat.json"
+}

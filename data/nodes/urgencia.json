@@ -1,0 +1,59 @@
+{
+  "concept": "urgencia",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "president": 1.0
+  },
+  "bayesian_context": {
+    "concentracio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "convocat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "clar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "pare": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "enviar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "carolina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "convent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "emplacat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "caracter": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "president": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.48
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "ple": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/urgencia.json"
+}

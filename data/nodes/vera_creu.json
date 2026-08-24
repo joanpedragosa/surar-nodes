@@ -1,0 +1,23 @@
+{
+  "concept": "vera_creu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "helena": 1.0
+  },
+  "bayesian_context": {
+    "trobar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.99
+    },
+    "helena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "constantinoble": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vera_creu.json"
+}

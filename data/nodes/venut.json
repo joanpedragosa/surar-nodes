@@ -1,0 +1,86 @@
+{
+  "concept": "venut",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "acn": 0.2,
+    "banc_sabadell": 0.2,
+    "springsteen": 0.2,
+    "mes": 0.4
+  },
+  "bayesian_context": {
+    "entitat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "financera": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "acn": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.15
+    },
+    "barcelona": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.24
+    },
+    "paquet": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.72
+    },
+    "credits": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.93
+    },
+    "banc_sabadell": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.72
+    },
+    "valor": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.0
+    },
+    "nominal": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "milions": {
+      "likelihood": 0.02,
+      "posterior_boost": 3.77
+    },
+    "euros": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "quantes": {
+      "likelihood": 0.02,
+      "posterior_boost": 3.24
+    },
+    "entrades": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "springsteen": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "migdia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "copies": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.51
+    },
+    "havien": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.44
+    },
+    "mes": {
+      "likelihood": 0.0133,
+      "posterior_boost": 2.81
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/venut.json"
+}

@@ -1,0 +1,44 @@
+{
+  "concept": "unificacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "italia": 0.5,
+    "principis": 0.5
+  },
+  "bayesian_context": {
+    "societat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "secreta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "reclamava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "italia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "carbonaris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "volen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "feta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "principis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/unificacio.json"
+}
