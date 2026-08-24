@@ -1,0 +1,31 @@
+{
+  "concept": "fina_santiago",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "miquel_mir": 1.0
+  },
+  "bayesian_context": {
+    "promes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "lleialtat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "miquel_mir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "imperatiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "legal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fina_santiago.json"
+}

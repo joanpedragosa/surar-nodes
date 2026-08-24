@@ -1,0 +1,39 @@
+{
+  "concept": "formaria",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tripartit": 1.0
+  },
+  "bayesian_context": {
+    "partits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "politics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "tripartit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "comu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "erc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "psc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/formaria.json"
+}

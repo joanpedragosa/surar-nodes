@@ -1,0 +1,27 @@
+{
+  "concept": "fracassat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "electoralment": 1.0
+  },
+  "bayesian_context": {
+    "partit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "politic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "electoralment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "partit_conservador": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fracassat.json"
+}

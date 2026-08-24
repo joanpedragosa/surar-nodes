@@ -1,0 +1,27 @@
+{
+  "concept": "festegen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "valencians": 1.0
+  },
+  "bayesian_context": {
+    "valencians": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "nou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.86
+    },
+    "octubre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "autogovern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/festegen.json"
+}

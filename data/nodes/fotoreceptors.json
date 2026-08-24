@@ -1,0 +1,31 @@
+{
+  "concept": "fotoreceptors",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "especialitzats": 1.0
+  },
+  "bayesian_context": {
+    "perceben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "especies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "geomagnetisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mitjancant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "especialitzats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fotoreceptors.json"
+}

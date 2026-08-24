@@ -1,0 +1,19 @@
+{
+  "concept": "flupke",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "brussel": 1.0
+  },
+  "bayesian_context": {
+    "quick": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "brussel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/flupke.json"
+}

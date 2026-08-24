@@ -1,0 +1,27 @@
+{
+  "concept": "flexibilitzi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "deficit": 1.0
+  },
+  "bayesian_context": {
+    "objectiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "proposta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "deficit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/flexibilitzi.json"
+}

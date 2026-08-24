@@ -1,0 +1,27 @@
+{
+  "concept": "fgc",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "anomenat": 1.0
+  },
+  "bayesian_context": {
+    "constituir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "anomenat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "metro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "baix_llobregat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fgc.json"
+}

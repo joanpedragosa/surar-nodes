@@ -1,0 +1,47 @@
+{
+  "concept": "figurava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "torre": 1.0
+  },
+  "bayesian_context": {
+    "torre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "sant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "anastasi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "jerusalem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "guies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "viatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "medievals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "principal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.29
+    },
+    "edifici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/figurava.json"
+}

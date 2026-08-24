@@ -1,0 +1,39 @@
+{
+  "concept": "festiu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "composicio": 1.0
+  },
+  "bayesian_context": {
+    "ambient": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "protesta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "estableixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "fanfarries": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sinfonietta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "composicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "principi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/festiu.json"
+}

@@ -1,0 +1,48 @@
+{
+  "concept": "francisco_pacheco",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "bon": 0.5,
+    "prado": 0.5
+  },
+  "bayesian_context": {
+    "catalogat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "prado": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "bon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "retratista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "pintor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "natures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "mortes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "coneixer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "sevilla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/francisco_pacheco.json"
+}

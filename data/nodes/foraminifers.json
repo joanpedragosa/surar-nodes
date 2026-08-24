@@ -1,0 +1,76 @@
+{
+  "concept": "foraminifers",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "bentonics": 0.5,
+    "planctonics": 0.5
+  },
+  "bayesian_context": {
+    "causa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.39
+    },
+    "mtpe": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "extincio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "bentonics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "gravar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.21
+    },
+    "canvis": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.8
+    },
+    "isotops": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "planctonics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "passar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "diversificaren": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "viuen": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.04
+    },
+    "sediments": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "oceans": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "temps": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.15
+    },
+    "causar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    },
+    "anys": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/foraminifers.json"
+}

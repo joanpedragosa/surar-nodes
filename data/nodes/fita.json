@@ -1,0 +1,35 @@
+{
+  "concept": "fita",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "historia": 1.0
+  },
+  "bayesian_context": {
+    "jocs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "marcar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "historia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "karate": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "jocs_paralimpics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fita.json"
+}

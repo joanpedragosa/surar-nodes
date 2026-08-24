@@ -1,0 +1,35 @@
+{
+  "concept": "folklorics",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cants": 1.0
+  },
+  "bayesian_context": {
+    "entrellacar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "dvořak": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "temes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "musicals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "cants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "coral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/folklorics.json"
+}

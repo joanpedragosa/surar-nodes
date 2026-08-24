@@ -1,0 +1,31 @@
+{
+  "concept": "fleville",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "o_pastorelle": 1.0
+  },
+  "bayesian_context": {
+    "peca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "proposa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "cantar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "o_pastorelle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "addio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fleville.json"
+}

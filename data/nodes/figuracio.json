@@ -1,0 +1,23 @@
+{
+  "concept": "figuracio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "expressionista": 1.0
+  },
+  "bayesian_context": {
+    "formar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "inicialment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "expressionista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/figuracio.json"
+}

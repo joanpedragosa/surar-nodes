@@ -1,0 +1,23 @@
+{
+  "concept": "finalitzat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "referendum": 1.0
+  },
+  "bayesian_context": {
+    "hora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "referendum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/finalitzat.json"
+}
