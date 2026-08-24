@@ -1,0 +1,39 @@
+{
+  "concept": "patrocina",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vacuna": 1.0
+  },
+  "bayesian_context": {
+    "vacuna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "estats_units": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "national_institute": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "of": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "allergy": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "and": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "infectious_diseases": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/patrocina.json"
+}

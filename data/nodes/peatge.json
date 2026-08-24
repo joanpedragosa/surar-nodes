@@ -1,0 +1,60 @@
+{
+  "concept": "peatge",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ombra": 0.5,
+    "ap": 0.5
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "aturades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "tuneladores": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "espera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "revisar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "model": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "financament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "ombra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "podria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "alliberar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "ap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "camions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/peatge.json"
+}

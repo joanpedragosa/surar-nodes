@@ -1,0 +1,47 @@
+{
+  "concept": "pedrera",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sastreria": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "primera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "botiga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "sastreria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mosella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "donar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "colosseu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "fortalesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pedrera.json"
+}

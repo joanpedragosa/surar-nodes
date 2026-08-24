@@ -1,0 +1,47 @@
+{
+  "concept": "paër",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "leonora": 1.0
+  },
+  "bayesian_context": {
+    "recollir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "tema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "ferdinando": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "titol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "leonora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ossia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "amore": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "coniugale": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/paër.json"
+}

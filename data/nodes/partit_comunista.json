@@ -1,0 +1,43 @@
+{
+  "concept": "partit_comunista",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "unio": 1.0
+  },
+  "bayesian_context": {
+    "referencies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "eliminar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "himne": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "lukaixenko": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "russia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "unio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "sovietica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "lenin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/partit_comunista.json"
+}

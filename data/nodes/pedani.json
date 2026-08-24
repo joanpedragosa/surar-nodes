@@ -1,0 +1,49 @@
+{
+  "concept": "pedani",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "candidats": 0.3333,
+    "sistema": 0.3333,
+    "directament": 0.3333
+  },
+  "bayesian_context": {
+    "escollit": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.77
+    },
+    "alcalde": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "candidats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "candidates": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "presentats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "sistema": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.63
+    },
+    "majoritari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "elegeix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "directament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pedani.json"
+}

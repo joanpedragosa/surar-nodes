@@ -1,0 +1,35 @@
+{
+  "concept": "pantans",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vegetacio": 1.0
+  },
+  "bayesian_context": {
+    "construeixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "rates": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "mesqueres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "caus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "vegetacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "fang": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pantans.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "participant",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "actiu": 1.0
+  },
+  "bayesian_context": {
+    "paisatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "rusalka": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "desti": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "personatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "actiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "continuar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/participant.json"
+}

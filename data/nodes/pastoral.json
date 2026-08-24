@@ -1,0 +1,51 @@
+{
+  "concept": "pastoral",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "intriga": 1.0
+  },
+  "bayesian_context": {
+    "genere": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "paisatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "elements": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "combina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "comedia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "buffa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "colors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "intriga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "romantica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pastoral.json"
+}

@@ -1,0 +1,82 @@
+{
+  "concept": "parlat",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "artadi": 0.25,
+    "rivera": 0.25,
+    "mariano_rajoy": 0.25,
+    "campos": 0.25
+  },
+  "bayesian_context": {
+    "artadi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "ada_colau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.88
+    },
+    "rivera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "feixista": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "mariano_rajoy": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "primer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.18
+    },
+    "ministre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.9
+    },
+    "estonia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "disculpar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "presencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "presentar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.44
+    },
+    "proposicio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "llei": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.38
+    },
+    "campos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "fa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.2
+    },
+    "sis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.59
+    },
+    "anys": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/parlat.json"
+}

@@ -1,0 +1,98 @@
+{
+  "concept": "partit_socialista",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "frances": 0.25,
+    "eslovenia": 0.25,
+    "pais_basc": 0.25,
+    "ciutadans": 0.25
+  },
+  "bayesian_context": {
+    "donar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.45
+    },
+    "junts": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.84
+    },
+    "catalunya": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.93
+    },
+    "presidencia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "diputacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "barcelona": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.95
+    },
+    "arruinar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "frances": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.95
+    },
+    "segons": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.82
+    },
+    "manuel_valls": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "jan_skoberne": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "numero": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.88
+    },
+    "dos": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.98
+    },
+    "eslovenia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "formacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.67
+    },
+    "diputat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "odon": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "elorza": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "pais_basc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "partits": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.62
+    },
+    "ciutadans": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.43
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/partit_socialista.json"
+}

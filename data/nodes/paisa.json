@@ -1,0 +1,60 @@
+{
+  "concept": "paisa",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "anat": 0.5,
+    "murillo": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.75
+    },
+    "agents": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.49
+    },
+    "anat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "palau": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "generalitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.59
+    },
+    "sis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.71
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "murillo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "velazquez": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    },
+    "anaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "vestits": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "guardia_civil": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/paisa.json"
+}

@@ -1,0 +1,36 @@
+{
+  "concept": "partidaris",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vigatans": 0.5,
+    "gibel": 0.5
+  },
+  "bayesian_context": {
+    "vigatans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "carles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "austria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "gibel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "lins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "papa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/partidaris.json"
+}

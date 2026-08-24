@@ -1,0 +1,39 @@
+{
+  "concept": "paul_martin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "smith": 1.0
+  },
+  "bayesian_context": {
+    "realitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "edicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "centrant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "dialegs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "smith": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/paul_martin.json"
+}

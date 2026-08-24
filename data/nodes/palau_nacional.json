@@ -1,0 +1,64 @@
+{
+  "concept": "palau_nacional",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "montjuic": 0.5,
+    "pintures": 0.5
+  },
+  "bayesian_context": {
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "tenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "escultura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "tapies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "decorar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "sala_oval": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "montjuic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "mitjo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "traslladades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "pintures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "murals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "taull": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/palau_nacional.json"
+}

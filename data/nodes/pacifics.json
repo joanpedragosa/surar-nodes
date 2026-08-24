@@ -1,0 +1,43 @@
+{
+  "concept": "pacifics",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mes": 1.0
+  },
+  "bayesian_context": {
+    "gestos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "comuns": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "fregar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "llepades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "socials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pacifics.json"
+}

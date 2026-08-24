@@ -1,0 +1,68 @@
+{
+  "concept": "paragraf",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "anterior": 0.5,
+    "fusio": 0.5
+  },
+  "bayesian_context": {
+    "metodes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "indica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "anterior": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "permetran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "sumar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "serie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "important": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "fusio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "elements": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "simfonics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "dramatics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "composicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "musical": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/paragraf.json"
+}
