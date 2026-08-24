@@ -1,0 +1,35 @@
+{
+  "concept": "cistercenc",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "abadia": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "abat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "abadia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "ter_duinen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "koksijde": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "jan_crabbe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cistercenc.json"
+}

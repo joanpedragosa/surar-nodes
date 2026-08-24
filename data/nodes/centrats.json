@@ -1,0 +1,35 @@
+{
+  "concept": "centrats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "eduard_hanslick": 1.0
+  },
+  "bayesian_context": {
+    "titllaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "critics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "eduard_hanslick": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "incomprensible": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/centrats.json"
+}

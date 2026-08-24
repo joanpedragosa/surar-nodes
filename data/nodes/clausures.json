@@ -1,0 +1,39 @@
+{
+  "concept": "clausures",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "palau": 1.0
+  },
+  "bayesian_context": {
+    "ordenar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "palau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "quatre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "mesos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "dictadura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "primo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "rivera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/clausures.json"
+}

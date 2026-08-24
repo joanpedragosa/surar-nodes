@@ -1,0 +1,39 @@
+{
+  "concept": "citades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nom": 1.0
+  },
+  "bayesian_context": {
+    "apareixer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "pintures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "nom": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "murillo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "inventari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "efectuat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "anvers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/citades.json"
+}

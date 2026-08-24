@@ -1,0 +1,39 @@
+{
+  "concept": "coautors",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estudiants": 1.0
+  },
+  "bayesian_context": {
+    "argumentar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "ball": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "estudiants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "poden": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "matematiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "escola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/coautors.json"
+}

@@ -1,0 +1,88 @@
+{
+  "concept": "cita",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "troba": 0.1667,
+    "peruggia": 0.1667,
+    "matilde": 0.1667,
+    "mitjanit": 0.1667,
+    "actes": 0.1667,
+    "mort": 0.1667
+  },
+  "bayesian_context": {
+    "troba": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.35
+    },
+    "monument": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.29
+    },
+    "benjamin_britten": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "peter_grimes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "acompanyat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "alfredo_geri": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "peruggia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "policia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.66
+    },
+    "matilde": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "isidoro": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "tenen": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.11
+    },
+    "mitjanit": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "tema": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "actes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.67
+    },
+    "princesa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.21
+    },
+    "anys": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.77
+    },
+    "mort": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.37
+    },
+    "anaclet": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cita.json"
+}

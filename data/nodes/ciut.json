@@ -1,0 +1,63 @@
+{
+  "concept": "ciut",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "art": 1.0
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "vaga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "indefinida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "macba": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "arxiu_historic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "condicions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "laborals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "treballadors": {
+      "likelihood": 0.05,
+      "posterior_boost": 4.67
+    },
+    "subcontractats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "empresa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "fent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "serveis_educatius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ciut.json"
+}

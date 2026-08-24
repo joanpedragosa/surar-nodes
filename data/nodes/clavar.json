@@ -1,0 +1,35 @@
+{
+  "concept": "clavar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ninja": 1.0
+  },
+  "bayesian_context": {
+    "ninja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "kenshin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "llegenda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "espasa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "llanca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/clavar.json"
+}

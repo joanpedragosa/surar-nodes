@@ -1,0 +1,27 @@
+{
+  "concept": "codificar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "programa": 1.0
+  },
+  "bayesian_context": {
+    "podia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "programa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "westley": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "invertit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/codificar.json"
+}

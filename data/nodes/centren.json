@@ -1,0 +1,23 @@
+{
+  "concept": "centren",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "analisis": 1.0
+  },
+  "bayesian_context": {
+    "analisis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "composicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "flora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/centren.json"
+}

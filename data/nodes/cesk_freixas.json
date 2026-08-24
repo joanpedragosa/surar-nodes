@@ -1,0 +1,40 @@
+{
+  "concept": "cesk_freixas",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "presentacio": 0.5,
+    "proposta": 0.5
+  },
+  "bayesian_context": {
+    "conversara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "presentacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "disc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "lluis_llach": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "proposta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cesk_freixas.json"
+}

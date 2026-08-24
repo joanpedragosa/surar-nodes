@@ -1,0 +1,100 @@
+{
+  "concept": "chambre",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "blanche": 0.3333,
+    "tolles": 0.6667
+  },
+  "bayesian_context": {
+    "anomena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "dormitori": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "senyor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "castell": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "inventari": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.07
+    },
+    "blanche": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "allotja": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "cabinet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "adjacent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "tolles": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "llit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "caixa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "segle": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.29
+    },
+    "xvi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "esco": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "vuitcentista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "estanca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "defineix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "centre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "costat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.77
+    },
+    "sud": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "planta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/chambre.json"
+}

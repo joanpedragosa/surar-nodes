@@ -1,0 +1,43 @@
+{
+  "concept": "cement",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dos": 1.0
+  },
+  "bayesian_context": {
+    "solc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "reblit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "bracos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "vora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "lingual": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "interior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "dent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cement.json"
+}

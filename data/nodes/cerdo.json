@@ -1,0 +1,39 @@
+{
+  "concept": "cerdo",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "gnosticisme": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "predecessor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "marcio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "semblar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "retractar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "gnosticisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cerdo.json"
+}

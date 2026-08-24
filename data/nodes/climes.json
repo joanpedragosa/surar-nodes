@@ -1,0 +1,35 @@
+{
+  "concept": "climes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "transcorren": 1.0
+  },
+  "bayesian_context": {
+    "transcorren": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "majoritariament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "novel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "ciencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "ficcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "extrems": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/climes.json"
+}

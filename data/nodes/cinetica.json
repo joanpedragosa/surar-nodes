@@ -1,0 +1,55 @@
+{
+  "concept": "cinetica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "atmosfera": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "possible": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "mesurar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "temperatura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "atmosfera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "km": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "altura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "mitjancant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "combinacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "dades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "obtingudes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cinetica.json"
+}
