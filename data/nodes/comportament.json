@@ -1,0 +1,68 @@
+{
+  "concept": "comportament",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "predador": 0.5,
+    "mostren": 0.5
+  },
+  "bayesian_context": {
+    "prova": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "exemplar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "dinosaures": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "combatents": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "predador": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "mostren": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "mascles": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "patrullador": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "cap": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.45
+    },
+    "evolucionat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "lemurs": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "enorme": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "diversitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "morfologica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comportament.json"
+}

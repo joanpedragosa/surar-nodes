@@ -1,0 +1,27 @@
+{
+  "concept": "competir",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "hokusai": 1.0
+  },
+  "bayesian_context": {
+    "hokusai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "escasses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "ocasions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "utamaro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/competir.json"
+}

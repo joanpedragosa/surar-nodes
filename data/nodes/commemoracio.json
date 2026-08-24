@@ -1,0 +1,84 @@
+{
+  "concept": "commemoracio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "gestes": 0.5,
+    "marc": 0.5
+  },
+  "bayesian_context": {
+    "genere": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "pertanyen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "pintures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "historic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "militar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "pintura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "profana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "gestes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fets": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "heroics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "motiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "actes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "alacant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "acull": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "fira": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "llibre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "feminista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "marc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/commemoracio.json"
+}

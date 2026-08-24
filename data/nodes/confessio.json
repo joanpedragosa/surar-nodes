@@ -1,0 +1,68 @@
+{
+  "concept": "confessio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "segons": 0.5,
+    "fer": 0.5
+  },
+  "bayesian_context": {
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "ulled": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "reforc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "objectiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "prova": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "maragall": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "pere_bosch": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "carta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "escriure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.67
+    },
+    "dificultats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "entendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "parla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "alemanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/confessio.json"
+}

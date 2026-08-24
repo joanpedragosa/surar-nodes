@@ -1,0 +1,27 @@
+{
+  "concept": "coipu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nord": 1.0
+  },
+  "bayesian_context": {
+    "fou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "introduit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "nord": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "america": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/coipu.json"
+}

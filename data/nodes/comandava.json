@@ -1,0 +1,58 @@
+{
+  "concept": "comandava",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "esclaus": 0.25,
+    "exercit": 0.25,
+    "equip": 0.25,
+    "ishida_mitsunari": 0.25
+  },
+  "bayesian_context": {
+    "esclaus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "crix": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "exercit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "felip": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "iv": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "pedro_fajardo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "equip": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "nino_lamboglia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "forces": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "ishida_mitsunari": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "oest": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comandava.json"
+}

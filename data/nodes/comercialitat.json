@@ -1,0 +1,51 @@
+{
+  "concept": "comercialitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vidacaixa": 1.0
+  },
+  "bayesian_context": {
+    "import": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "vidacaixa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "primes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "aportacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "primers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "mesos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "milions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comercialitat.json"
+}

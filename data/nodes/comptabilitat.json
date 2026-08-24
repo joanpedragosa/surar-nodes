@@ -1,0 +1,55 @@
+{
+  "concept": "comptabilitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "processos": 1.0
+  },
+  "bayesian_context": {
+    "ambit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "competencies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "sindicatura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "comptes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "fiscalitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "partits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "politics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "fundacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "associacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "processos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "electorals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comptabilitat.json"
+}

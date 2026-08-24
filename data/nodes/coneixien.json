@@ -1,0 +1,36 @@
+{
+  "concept": "coneixien",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mares": 0.5,
+    "fills": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "fills": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "mares": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "luhrmann": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "pais": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "natal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/coneixien.json"
+}

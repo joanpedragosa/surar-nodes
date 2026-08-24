@@ -1,0 +1,449 @@
+{
+  "concept": "conferencia",
+  "frequency": 21,
+  "edges": [],
+  "markov_transitions": {
+    "cultura": 0.0476,
+    "barcelona": 0.0476,
+    "premsa": 0.1905,
+    "fet": 0.0952,
+    "vicens_vives": 0.0476,
+    "pronunciat": 0.0476,
+    "donara": 0.0476,
+    "espadaler": 0.0476,
+    "alfred_bosch": 0.0476,
+    "parts": 0.0952,
+    "reunio": 0.0476,
+    "presidents": 0.0952,
+    "espai_joan": 0.0476,
+    "torra": 0.0476,
+    "club": 0.0476
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0032,
+      "posterior_boost": 2.32
+    },
+    "cultura": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.34
+    },
+    "popular": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.47
+    },
+    "sector": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.66
+    },
+    "estrategic": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "josep_viana": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "amadeu": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "carbo": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.8
+    },
+    "fet": {
+      "likelihood": 0.0079,
+      "posterior_boost": 3.21
+    },
+    "barcelona": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.8
+    },
+    "rafael": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.4
+    },
+    "catala": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.83
+    },
+    "iniciara": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "jornada": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.59
+    },
+    "cas": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.99
+    },
+    "espanyol": {
+      "likelihood": 0.0032,
+      "posterior_boost": 2.74
+    },
+    "se": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.71
+    },
+    "celebra": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.7
+    },
+    "parlament_europeu": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.4
+    },
+    "premsa": {
+      "likelihood": 0.0063,
+      "posterior_boost": 3.94
+    },
+    "anna_forn": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "anomena": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.02
+    },
+    "tarda": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.47
+    },
+    "drets": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.08
+    },
+    "llibertats": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "deia": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.97
+    },
+    "vicens_vives": {
+      "likelihood": 0.0032,
+      "posterior_boost": 4.53
+    },
+    "pronunciar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "club": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.96
+    },
+    "capitan": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "industria": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.38
+    },
+    "espanol": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "los": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.24
+    },
+    "ultimos": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "cien": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "anos": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "tractat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.34
+    },
+    "alfred_bosch": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.33
+    },
+    "pronunciat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "situacio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.15
+    },
+    "politica": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.9
+    },
+    "catalunya": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.33
+    },
+    "relacio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.94
+    },
+    "judici": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.11
+    },
+    "proces": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.8
+    },
+    "parlara": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "donara": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.75
+    },
+    "institut": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.56
+    },
+    "relacions_internacionals": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "estrategiques": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "crisi": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.27
+    },
+    "catalana": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.08
+    },
+    "considerada": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.45
+    },
+    "fundacional": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "cercle": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.56
+    },
+    "economia": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.31
+    },
+    "espadaler": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "cambra": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.06
+    },
+    "reykjavik": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "ciutat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.48
+    },
+    "xxv": {
+      "likelihood": 0.0032,
+      "posterior_boost": 4.7
+    },
+    "parts": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.47
+    },
+    "convencio": {
+      "likelihood": 0.0032,
+      "posterior_boost": 4.1
+    },
+    "marc": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.34
+    },
+    "canvi_climatic": {
+      "likelihood": 0.0032,
+      "posterior_boost": 4.7
+    },
+    "onu": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.86
+    },
+    "madrid": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.07
+    },
+    "reunio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.97
+    },
+    "moncloa": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.7
+    },
+    "celebrara": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.38
+    },
+    "presidents": {
+      "likelihood": 0.0032,
+      "posterior_boost": 4.3
+    },
+    "convocada": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.8
+    },
+    "pedro": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.24
+    },
+    "sanchez": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.0
+    },
+    "dissabte": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.38
+    },
+    "havien": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.82
+    },
+    "rosa": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.75
+    },
+    "manola_roig": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "espai_joan": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "fuster": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "sueca": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "fa": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.49
+    },
+    "parell": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.66
+    },
+    "anys": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.25
+    },
+    "coma": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.86
+    },
+    "final": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.9
+    },
+    "octubre": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.87
+    },
+    "comparegut": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.86
+    },
+    "mariano_rajoy": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.31
+    },
+    "avui": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.78
+    },
+    "motiu": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.64
+    },
+    "convocat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.4
+    },
+    "coronavirus": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.36
+    },
+    "pais": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.9
+    },
+    "presideix": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "xile": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "titol": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.15
+    },
+    "porta": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.82
+    },
+    "torra": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.16
+    },
+    "sobirania": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.62
+    },
+    "democracia": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.43
+    },
+    "llibertat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.03
+    },
+    "any": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.16
+    },
+    "espai": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.09
+    },
+    "realitzat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.56
+    },
+    "palau_robert": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/conferencia.json"
+}

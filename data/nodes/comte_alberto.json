@@ -1,0 +1,23 @@
+{
+  "concept": "comte_alberto",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "parmenione": 1.0
+  },
+  "bayesian_context": {
+    "presenta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "promesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "parmenione": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comte_alberto.json"
+}

@@ -1,0 +1,45 @@
+{
+  "concept": "comptes_europeu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "basa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "parlament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "aprovar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "implementacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "pressupostos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "anteriors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "informe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "anual": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "tribunal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comptes_europeu.json"
+}

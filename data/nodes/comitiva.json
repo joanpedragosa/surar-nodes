@@ -1,0 +1,68 @@
+{
+  "concept": "comitiva",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "abat": 0.5,
+    "visites": 0.5
+  },
+  "bayesian_context": {
+    "precedeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "solemne": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "abat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "arnulf": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "monjos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "pensa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "joan_tarda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "estaria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "visites": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "presos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "politics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "contribuir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "normalitzar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "injusticia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comitiva.json"
+}

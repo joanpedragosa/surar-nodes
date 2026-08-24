@@ -1,0 +1,49 @@
+{
+  "concept": "columneta",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "esculpida": 0.3333,
+    "bordo": 0.3333,
+    "cana": 0.3333
+  },
+  "bayesian_context": {
+    "esculpida": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "relleu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "realitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "bordo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "decoratiu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "paraula": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "pot": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    },
+    "llegir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "cana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/columneta.json"
+}

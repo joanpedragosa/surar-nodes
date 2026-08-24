@@ -1,0 +1,27 @@
+{
+  "concept": "comte_dooku",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "skywalker": 1.0
+  },
+  "bayesian_context": {
+    "assassina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "skywalker": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "aconsegueixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "detenir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comte_dooku.json"
+}

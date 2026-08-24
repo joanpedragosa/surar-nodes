@@ -1,0 +1,27 @@
+{
+  "concept": "comercialitzar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "jade": 1.0
+  },
+  "bayesian_context": {
+    "comencar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "jade": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "canada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "decada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comercialitzar.json"
+}

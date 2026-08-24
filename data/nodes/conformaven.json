@@ -1,0 +1,27 @@
+{
+  "concept": "conformaven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "gatepac": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "grups": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "gatepac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "tres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/conformaven.json"
+}

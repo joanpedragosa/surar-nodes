@@ -1,0 +1,31 @@
+{
+  "concept": "comenta",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "comissio": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "winterstein": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "comissio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "processos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "judicials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comenta.json"
+}

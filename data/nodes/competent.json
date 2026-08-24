@@ -1,0 +1,72 @@
+{
+  "concept": "competent",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fundacio": 0.5,
+    "hauria": 0.5
+  },
+  "bayesian_context": {
+    "financa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "projecte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.9
+    },
+    "algueres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "fundacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "sardenya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "cas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "audiencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "espanyola": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "fos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "hauria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "jutjar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "trapero": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "audiencia_provincial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/competent.json"
+}

@@ -1,0 +1,69 @@
+{
+  "concept": "concordia",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "noble": 0.3333,
+    "regularis": 0.3333,
+    "pau": 0.3333
+  },
+  "bayesian_context": {
+    "festeja": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "concurrencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "restabliment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "pau": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.49
+    },
+    "noble": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "familia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "apareixien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "recollides": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "regularis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "feta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "natura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "home": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "vives": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/concordia.json"
+}

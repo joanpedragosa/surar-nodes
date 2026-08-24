@@ -1,0 +1,23 @@
+{
+  "concept": "concorden",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sindic": 1.0
+  },
+  "bayesian_context": {
+    "sindic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "junta_electoral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "argumentari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/concorden.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "compartit",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "especialment": 1.0
+  },
+  "bayesian_context": {
+    "iniciatives": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "especialment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "tema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "habitatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/compartit.json"
+}

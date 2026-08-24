@@ -1,0 +1,35 @@
+{
+  "concept": "complement",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "salarial": 1.0
+  },
+  "bayesian_context": {
+    "import": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "sera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "salarial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "rebran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "regidors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/complement.json"
+}

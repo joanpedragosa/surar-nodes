@@ -1,0 +1,48 @@
+{
+  "concept": "condiciona",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "familia": 0.5,
+    "llum": 0.5
+  },
+  "bayesian_context": {
+    "familia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "a_nuenen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "habitacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "taller": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "llum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "quadres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "lorrain": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "composicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/condiciona.json"
+}

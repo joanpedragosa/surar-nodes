@@ -1,0 +1,43 @@
+{
+  "concept": "comtal",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "barcelona": 1.0
+  },
+  "bayesian_context": {
+    "passava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "rec": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.63
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "carrer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "actual": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "emplacament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "mercat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "born": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comtal.json"
+}

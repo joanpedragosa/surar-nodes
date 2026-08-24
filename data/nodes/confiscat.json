@@ -1,0 +1,44 @@
+{
+  "concept": "confiscat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "forces": 0.5,
+    "siria": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "vehicles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "forces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "khalifa_haftar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "duia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "petroli": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "vaixell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "siria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/confiscat.json"
+}

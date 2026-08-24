@@ -1,0 +1,80 @@
+{
+  "concept": "commemora",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "national_threatened": 0.5,
+    "nom": 0.5
+  },
+  "bayesian_context": {
+    "national_threatened": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "species_day": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "australia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "ultim": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "llop": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "marsupial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "registrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "oficialment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "historia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "nom": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "via": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "lactia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "hera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "volia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "alletar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "heracles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/commemora.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "commutada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pena": 1.0
+  },
+  "bayesian_context": {
+    "pena": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.25
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "mort": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "sirhan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "cadena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "perpetua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/commutada.json"
+}

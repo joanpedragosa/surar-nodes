@@ -1,0 +1,23 @@
+{
+  "concept": "compendi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "segle": 1.0
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "segle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.77
+    },
+    "vii": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/compendi.json"
+}

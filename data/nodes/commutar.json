@@ -1,0 +1,23 @@
+{
+  "concept": "commutar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pena": 1.0
+  },
+  "bayesian_context": {
+    "pena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "mort": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "expulsio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/commutar.json"
+}

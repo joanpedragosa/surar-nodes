@@ -1,0 +1,64 @@
+{
+  "concept": "companyies",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "trobar": 0.5,
+    "prop": 0.5
+  },
+  "bayesian_context": {
+    "versara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "consulta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "empresaris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "dificultats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "trobar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.69
+    },
+    "personal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "qualificat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "prop": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "fallida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "segona_guerra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "mundial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "quatre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/companyies.json"
+}

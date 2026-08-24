@@ -1,0 +1,52 @@
+{
+  "concept": "collites",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "senyor": 0.5,
+    "segons": 0.5
+  },
+  "bayesian_context": {
+    "ofereix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "senyor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "cain": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "causes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "afavorit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "avancin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "empresaris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "climatologiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/collites.json"
+}

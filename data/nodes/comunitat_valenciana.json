@@ -1,0 +1,56 @@
+{
+  "concept": "comunitat_valenciana",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "grups": 0.5,
+    "segons": 0.5
+  },
+  "bayesian_context": {
+    "criticat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pla_eolic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "grups": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "ecologistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "subestima": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "impacte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "futurs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "parcs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "aus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "regio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comunitat_valenciana.json"
+}
