@@ -1,0 +1,71 @@
+{
+  "concept": "la_seu",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "vella": 1.0
+  },
+  "bayesian_context": {
+    "anomena": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.64
+    },
+    "vella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "catedral": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.56
+    },
+    "antiga": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.1
+    },
+    "forma": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.49
+    },
+    "part": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.3
+    },
+    "conjunt": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.07
+    },
+    "monumental": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.78
+    },
+    "alca": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "turo": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "capella": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "santa_maria": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    },
+    "lleida": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    },
+    "castell": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.08
+    },
+    "rei": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.39
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/la_seu.json"
+}

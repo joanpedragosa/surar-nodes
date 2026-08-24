@@ -1,0 +1,48 @@
+{
+  "concept": "legat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "papal": 0.5,
+    "llibertat": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "presidit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "concili": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "girona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "papal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "arquebisbe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "toledo_bernardo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sedirac": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "llibertat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/legat.json"
+}

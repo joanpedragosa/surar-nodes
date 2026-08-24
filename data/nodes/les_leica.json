@@ -1,0 +1,35 @@
+{
+  "concept": "les_leica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mm": 1.0
+  },
+  "bayesian_context": {
+    "facilitar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "feina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "periodistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "mm": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "primers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "flaixos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/les_leica.json"
+}

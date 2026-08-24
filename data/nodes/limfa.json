@@ -1,0 +1,39 @@
+{
+  "concept": "limfa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "respecte": 1.0
+  },
+  "bayesian_context": {
+    "sang": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "respecte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "cel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "lules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "organisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "aproximadament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "isotoniques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/limfa.json"
+}

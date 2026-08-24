@@ -1,0 +1,72 @@
+{
+  "concept": "leccionistes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "obres": 0.5,
+    "erudits": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "obres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "murillo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "nicolas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "omazur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "la_gioconda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "convertis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "reconeguda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "internacionalment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "atencio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "erudits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "art": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.74
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/leccionistes.json"
+}

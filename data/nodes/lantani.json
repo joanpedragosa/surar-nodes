@@ -1,0 +1,31 @@
+{
+  "concept": "lantani",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "element": 1.0
+  },
+  "bayesian_context": {
+    "identificar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "element": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "desconegut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "massa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "atomica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lantani.json"
+}

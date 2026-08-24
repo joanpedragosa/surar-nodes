@@ -1,0 +1,39 @@
+{
+  "concept": "liban",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "controvertida": 1.0
+  },
+  "bayesian_context": {
+    "iniciar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "protestes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "controvertida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "decisio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "introduir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "impost": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "whatsapp": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/liban.json"
+}

@@ -1,0 +1,48 @@
+{
+  "concept": "limitava",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "campanar": 0.5,
+    "trasllat": 0.5
+  },
+  "bayesian_context": {
+    "campanar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "catedral": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "palau_comtal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "trasllat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "decrets": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "regulaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "depuracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ambit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "provincial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/limitava.json"
+}

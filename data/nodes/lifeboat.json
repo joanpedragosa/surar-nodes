@@ -1,0 +1,27 @@
+{
+  "concept": "lifeboat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "principi": 1.0
+  },
+  "bayesian_context": {
+    "critica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "rep": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "principi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "favorable": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lifeboat.json"
+}

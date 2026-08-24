@@ -1,0 +1,43 @@
+{
+  "concept": "laboracions",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "literaries": 1.0
+  },
+  "bayesian_context": {
+    "edat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "comencar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "literaries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "puig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "setze": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "anys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.54
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/laboracions.json"
+}

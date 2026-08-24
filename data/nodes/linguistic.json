@@ -1,0 +1,44 @@
+{
+  "concept": "linguistic",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "consell_juridic": 0.5,
+    "merit": 0.5
+  },
+  "bayesian_context": {
+    "questionar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "requisit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "consell_juridic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "consultiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "pp": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "sigui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "merit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/linguistic.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "köhler",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "temps": 1.0
+  },
+  "bayesian_context": {
+    "llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "traduit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "andrea": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "temps": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.92
+    },
+    "regalat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "assaig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "espera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/köhler.json"
+}

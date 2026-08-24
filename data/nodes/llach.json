@@ -1,0 +1,81 @@
+{
+  "concept": "llach",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "sigui": 0.3333,
+    "jxsi": 0.3333,
+    "presentar": 0.3333
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.28
+    },
+    "sigui": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "missatge": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "construir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "republica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.02
+    },
+    "vinculant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "partits": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "formacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "sigut": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "diputat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "jxsi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "aprovar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "censors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "estaca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "vuitena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "volta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "presentar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.57
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/llach.json"
+}

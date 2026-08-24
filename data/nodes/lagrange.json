@@ -1,0 +1,118 @@
+{
+  "concept": "lagrange",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "expressio": 0.25,
+    "troba": 0.25,
+    "llista": 0.25,
+    "punt": 0.25
+  },
+  "bayesian_context": {
+    "considera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "expressio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "forma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.29
+    },
+    "quadratica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "associada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "producte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "escalar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "canonic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "situacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    },
+    "descriu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "enfocament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "troba": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "mes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.61
+    },
+    "frequencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "definit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "espai": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.81
+    },
+    "vectorial": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "amplia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "llista": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "eines": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "disponibles": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "primer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.18
+    },
+    "punt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "matematic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "realitza": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "transferencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lagrange.json"
+}
