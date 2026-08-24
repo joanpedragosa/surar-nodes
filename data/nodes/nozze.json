@@ -1,0 +1,39 @@
+{
+  "concept": "nozze",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "di": 1.0
+  },
+  "bayesian_context": {
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "pertany": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "personatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "susanna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "le": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "di": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "figaro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nozze.json"
+}

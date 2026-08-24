@@ -1,0 +1,35 @@
+{
+  "concept": "nouvelle",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "manga": 1.0
+  },
+  "bayesian_context": {
+    "desenvolupat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "franca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "manga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "forma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.89
+    },
+    "bande": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "dessinee": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nouvelle.json"
+}

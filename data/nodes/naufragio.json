@@ -1,0 +1,35 @@
+{
+  "concept": "naufragio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "felice": 1.0
+  },
+  "bayesian_context": {
+    "rebatejar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "italiana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "in": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "algeri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "il": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "felice": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/naufragio.json"
+}

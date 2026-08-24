@@ -1,0 +1,52 @@
+{
+  "concept": "obama",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "iran": 0.5,
+    "bernie_sanders": 0.5
+  },
+  "bayesian_context": {
+    "signar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "pacte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "nuclear": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "administracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "iran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "pre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "candidat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "democrata": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "veura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "bernie_sanders": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obama.json"
+}

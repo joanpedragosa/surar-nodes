@@ -1,0 +1,35 @@
+{
+  "concept": "negocii",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "paper": 1.0
+  },
+  "bayesian_context": {
+    "oposat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "rajoy": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "escocia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "paper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.2
+    },
+    "unio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "europea": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/negocii.json"
+}

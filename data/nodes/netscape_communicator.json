@@ -1,0 +1,40 @@
+{
+  "concept": "netscape_communicator",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "utilitzava": 0.5,
+    "emmagatzemar": 0.5
+  },
+  "bayesian_context": {
+    "trobar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.69
+    },
+    "utilitzava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "desembre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "emmagatzemar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "contrasenyes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "correu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "electronic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/netscape_communicator.json"
+}

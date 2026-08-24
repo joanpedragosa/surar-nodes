@@ -1,0 +1,39 @@
+{
+  "concept": "obrava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "periodistes": 1.0
+  },
+  "bayesian_context": {
+    "subornar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "caps": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "periodistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "parlamentaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "grans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "sumes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "diners": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obrava.json"
+}

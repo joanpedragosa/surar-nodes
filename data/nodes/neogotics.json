@@ -1,0 +1,39 @@
+{
+  "concept": "neogotics",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "portes": 1.0
+  },
+  "bayesian_context": {
+    "troben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "relleus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "pedra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "ocupant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "timpans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "portes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/neogotics.json"
+}

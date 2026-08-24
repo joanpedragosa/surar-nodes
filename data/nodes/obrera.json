@@ -1,0 +1,100 @@
+{
+  "concept": "obrera",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "moviment": 0.5,
+    "hores": 0.5
+  },
+  "bayesian_context": {
+    "coneixen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "moviments": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "politics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "socials": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "crear": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.68
+    },
+    "classe": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.7
+    },
+    "moviment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    },
+    "obrer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "desenvolupar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "cerda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "aplicant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "coneixements": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "monografia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "clase": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "jornada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "laboral": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "feia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "hores": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    },
+    "diaries": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "dilluns": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "dissabte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obrera.json"
+}

@@ -1,0 +1,47 @@
+{
+  "concept": "obrissin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "oficines": 1.0
+  },
+  "bayesian_context": {
+    "hora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "decidir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "patronat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "turisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "oficines": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "atencio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "public": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "vuit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "vespre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obrissin.json"
+}

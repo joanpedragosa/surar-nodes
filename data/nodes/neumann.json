@@ -1,0 +1,84 @@
+{
+  "concept": "neumann",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "el_liceu": 0.5,
+    "part": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.55
+    },
+    "director": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.99
+    },
+    "estrena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.7
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "teatre_nacional": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "brno": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "františek": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.2
+    },
+    "programar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "catalunya": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.03
+    },
+    "vaclav": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "el_liceu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "dirigir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.9
+    },
+    "mes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.61
+    },
+    "podia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "comptar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "part": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.09
+    },
+    "dedicacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "lleialtat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/neumann.json"
+}

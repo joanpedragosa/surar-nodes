@@ -1,0 +1,35 @@
+{
+  "concept": "novetats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "punt": 1.0
+  },
+  "bayesian_context": {
+    "aportar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "punt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "negre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "alexandre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "theophile": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "vandermonde": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/novetats.json"
+}

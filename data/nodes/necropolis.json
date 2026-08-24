@@ -1,0 +1,23 @@
+{
+  "concept": "necropolis",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pompeia": 1.0
+  },
+  "bayesian_context": {
+    "via": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "sepulcres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "pompeia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/necropolis.json"
+}

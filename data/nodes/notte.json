@@ -1,0 +1,44 @@
+{
+  "concept": "notte",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "perpetua": 0.5,
+    "che": 0.5
+  },
+  "bayesian_context": {
+    "uneix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "jacopo_foscari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "inici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "escena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "perpetua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "che": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "regni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/notte.json"
+}

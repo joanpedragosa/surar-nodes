@@ -1,0 +1,23 @@
+{
+  "concept": "national_simon",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "kirby": 1.0
+  },
+  "bayesian_context": {
+    "mantenir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "kirby": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "secret": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/national_simon.json"
+}

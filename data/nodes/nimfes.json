@@ -1,0 +1,36 @@
+{
+  "concept": "nimfes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "esperit": 0.5,
+    "aquatiques": 0.5
+  },
+  "bayesian_context": {
+    "pare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "esperit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "aigues": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "fan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "aquatiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ballen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nimfes.json"
+}

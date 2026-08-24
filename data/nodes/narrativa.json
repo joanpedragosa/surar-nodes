@@ -1,0 +1,76 @@
+{
+  "concept": "narrativa",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "autor": 0.5,
+    "cos": 0.5
+  },
+  "bayesian_context": {
+    "escrita": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "majoria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    },
+    "autor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "primera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.37
+    },
+    "persona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "diu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.21
+    },
+    "xavier_pla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "millorat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "conjunt": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "qualitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "centra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "tematica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "cos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "principal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.82
+    },
+    "hagiografia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "sant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/narrativa.json"
+}
