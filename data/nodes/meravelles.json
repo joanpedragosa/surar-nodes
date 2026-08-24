@@ -1,0 +1,35 @@
+{
+  "concept": "meravelles",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "divertida": 1.0
+  },
+  "bayesian_context": {
+    "pensava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "alicia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "terra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "divertida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "inquietant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/meravelles.json"
+}

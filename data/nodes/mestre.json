@@ -1,0 +1,495 @@
+{
+  "concept": "mestre",
+  "frequency": 36,
+  "edges": [],
+  "markov_transitions": {
+    "cesaro": 0.0323,
+    "castelardo": 0.0323,
+    "grans": 0.0323,
+    "cabanyes": 0.0323,
+    "obra": 0.0645,
+    "castelsardo": 0.0323,
+    "capella": 0.129,
+    "memling": 0.0645,
+    "anys": 0.0323,
+    "sant_silvestre": 0.0323,
+    "flemalle": 0.0645,
+    "musica": 0.0323,
+    "tendencies": 0.0323,
+    "fina": 0.0323,
+    "escriva": 0.0323,
+    "baltimore": 0.0323,
+    "estopanya": 0.0323,
+    "sant_jordi": 0.0323,
+    "rostres": 0.0323,
+    "segons": 0.0323,
+    "josep_pujolar": 0.0323,
+    "juliol": 0.0323,
+    "escola": 0.0323,
+    "pintor": 0.0323,
+    "diego_copin": 0.0323
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.5
+    },
+    "cesaro": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.87
+    },
+    "eugene_charles": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.17
+    },
+    "catalan": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.17
+    },
+    "pot": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.22
+    },
+    "observar": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.24
+    },
+    "repeticio": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.99
+    },
+    "recurs": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.88
+    },
+    "angels": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.27
+    },
+    "salvadors": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "huguet": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.13
+    },
+    "castelardo": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "lluitava": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.87
+    },
+    "exclusiva": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.57
+    },
+    "estrena": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.75
+    },
+    "nova": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.55
+    },
+    "obra": {
+      "likelihood": 0.0065,
+      "posterior_boost": 2.81
+    },
+    "grans": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.73
+    },
+    "teatres": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.52
+    },
+    "taula": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.67
+    },
+    "nativitat": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.87
+    },
+    "cabanyes": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.17
+    },
+    "francesc_biulaygua": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "ser": {
+      "likelihood": 0.0065,
+      "posterior_boost": 2.45
+    },
+    "acabada": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.87
+    },
+    "castelsardo": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.17
+    },
+    "succeir": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.57
+    },
+    "argany": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "capella": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.14
+    },
+    "josep_forto": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "substituir": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.32
+    },
+    "marcia_albareda": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "joan": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.03
+    },
+    "aranes": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "memling": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.99
+    },
+    "rogier": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.6
+    },
+    "der": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.19
+    },
+    "weyden": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.59
+    },
+    "anys": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.03
+    },
+    "pintors": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.32
+    },
+    "holandesos": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.69
+    },
+    "mes": {
+      "likelihood": 0.0009,
+      "posterior_boost": 1.73
+    },
+    "importants": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.95
+    },
+    "sant_silvestre": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "flemalle": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "segons": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.28
+    },
+    "opinaven": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "noves": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.0
+    },
+    "hipotesis": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "don_basilio": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "musica": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.67
+    },
+    "amic": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.47
+    },
+    "bartolo": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.99
+    },
+    "tendencies": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.69
+    },
+    "ascetiques": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "jan_van": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "eyck": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.62
+    },
+    "fina": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.69
+    },
+    "gabriel_argany": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "identificat": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.93
+    },
+    "escriva": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "baltimore": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "conegut": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.01
+    },
+    "autor": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.12
+    },
+    "retaule": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.45
+    },
+    "estopanya": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "anomenat": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.29
+    },
+    "anonim": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.99
+    },
+    "sant_jordi": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.17
+    },
+    "princesa": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.43
+    },
+    "coneixia": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.77
+    },
+    "robert_campin": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.69
+    },
+    "se": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.03
+    },
+    "ambit": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.32
+    },
+    "buscava": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.99
+    },
+    "gracia": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.19
+    },
+    "esdevenir": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.52
+    },
+    "disciplina": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.99
+    },
+    "aquarel": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.87
+    },
+    "gran": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.17
+    },
+    "lleida": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.17
+    },
+    "sigut": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.04
+    },
+    "yoda": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.17
+    },
+    "dooku": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.17
+    },
+    "observa": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.39
+    },
+    "rostres": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.62
+    },
+    "personatges": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.71
+    },
+    "professio": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.57
+    },
+    "david_rodriguez": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.17
+    },
+    "pintor": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.25
+    },
+    "document": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.95
+    },
+    "parla": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.43
+    },
+    "ell": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.11
+    },
+    "josep_pujolar": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "comencar": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.48
+    },
+    "lliurar": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.43
+    },
+    "material": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.77
+    },
+    "gener": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.81
+    },
+    "arribar": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.56
+    },
+    "juliol": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.79
+    },
+    "convertir": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.97
+    },
+    "hokusai": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.39
+    },
+    "deixeble": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.52
+    },
+    "escola": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.94
+    },
+    "ukiyo": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.87
+    },
+    "katsukawa_shunsho": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.47
+    },
+    "ofici": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.87
+    },
+    "pare": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.73
+    },
+    "philip_stuart": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.87
+    },
+    "any": {
+      "likelihood": 0.0009,
+      "posterior_boost": 1.94
+    },
+    "obtenir": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.87
+    },
+    "pasture": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.17
+    },
+    "titol": {
+      "likelihood": 0.0009,
+      "posterior_boost": 2.92
+    },
+    "diego_copin": {
+      "likelihood": 0.0009,
+      "posterior_boost": 4.17
+    },
+    "holanda": {
+      "likelihood": 0.0009,
+      "posterior_boost": 3.87
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mestre.json"
+}

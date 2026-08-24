@@ -1,0 +1,27 @@
+{
+  "concept": "megalitica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "campaniforme": 1.0
+  },
+  "bayesian_context": {
+    "cultura": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.96
+    },
+    "donar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "origen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "campaniforme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/megalitica.json"
+}

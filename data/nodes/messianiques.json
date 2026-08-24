@@ -1,0 +1,27 @@
+{
+  "concept": "messianiques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tanakh": 1.0
+  },
+  "bayesian_context": {
+    "complir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "jesus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "profecies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "tanakh": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/messianiques.json"
+}

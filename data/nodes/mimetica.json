@@ -1,0 +1,35 @@
+{
+  "concept": "mimetica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dues": 1.0
+  },
+  "bayesian_context": {
+    "posicio": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.76
+    },
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    },
+    "taules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "reis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "melcior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "gaspar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mimetica.json"
+}

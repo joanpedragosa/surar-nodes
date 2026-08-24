@@ -1,0 +1,31 @@
+{
+  "concept": "menut",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "jack_kirby": 1.0
+  },
+  "bayesian_context": {
+    "agradava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "jack_kirby": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "contes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "histories": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "fantastiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/menut.json"
+}

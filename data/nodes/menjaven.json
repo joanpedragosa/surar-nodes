@@ -1,0 +1,64 @@
+{
+  "concept": "menjaven",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dinosaures": 0.5,
+    "angiospermes": 0.5
+  },
+  "bayesian_context": {
+    "dinosaures": {
+      "likelihood": 0.05,
+      "posterior_boost": 4.9
+    },
+    "herbivors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "carnivors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "indiquen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "coprolits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "excrements": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fossilitzats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ells": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "angiospermes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "majoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "alimentaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "principalment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "gimnospermes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/menjaven.json"
+}

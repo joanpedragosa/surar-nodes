@@ -1,0 +1,31 @@
+{
+  "concept": "medicina_legal",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ciencies_forenses": 1.0
+  },
+  "bayesian_context": {
+    "publicat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "xifres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "victimes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "institut_nacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "ciencies_forenses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/medicina_legal.json"
+}

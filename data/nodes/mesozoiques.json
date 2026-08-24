@@ -1,0 +1,27 @@
+{
+  "concept": "mesozoiques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dents": 1.0
+  },
+  "bayesian_context": {
+    "posseien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "majoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "aus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "dents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mesozoiques.json"
+}

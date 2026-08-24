@@ -1,0 +1,35 @@
+{
+  "concept": "minuciosament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dades": 1.0
+  },
+  "bayesian_context": {
+    "descriu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "dades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "documentals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "contemporanies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "edificis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "asturians": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/minuciosament.json"
+}

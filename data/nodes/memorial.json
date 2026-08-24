@@ -1,0 +1,52 @@
+{
+  "concept": "memorial",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "costat": 0.5,
+    "record": 0.5
+  },
+  "bayesian_context": {
+    "inaugurar": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.64
+    },
+    "record": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.7
+    },
+    "victimes": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.57
+    },
+    "atemptat": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.49
+    },
+    "agost": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.26
+    },
+    "crear": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.68
+    },
+    "costat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.77
+    },
+    "cartell": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "plataforma": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "marc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.89
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/memorial.json"
+}

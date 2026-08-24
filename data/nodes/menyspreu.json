@@ -1,0 +1,76 @@
+{
+  "concept": "menyspreu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "senta": 0.5,
+    "llengues": 0.5
+  },
+  "bayesian_context": {
+    "reprotxa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "erik": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "senta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "elaborat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "serie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "questions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "carles_mulet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "demanar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "explicacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "cas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "clar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "discriminacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "linguistica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "llengues": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "espanyoles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "castellanes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/menyspreu.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "milagros",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "patrona": 1.0
+  },
+  "bayesian_context": {
+    "virgen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "los": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "patrona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ciutat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "verge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "coronar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "canonicament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/milagros.json"
+}

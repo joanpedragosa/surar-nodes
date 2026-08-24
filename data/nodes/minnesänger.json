@@ -1,0 +1,61 @@
+{
+  "concept": "minnesänger",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "xiii": 0.3333,
+    "trobador": 0.3333,
+    "poema": 0.3333
+  },
+  "bayesian_context": {
+    "personatge": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.99
+    },
+    "historic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "segle": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.17
+    },
+    "xiii": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "equivalent": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "alemany": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "trobador": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "joglar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "escriure": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.37
+    },
+    "poema": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "notable": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "penitencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/minnesänger.json"
+}

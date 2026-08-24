@@ -1,0 +1,27 @@
+{
+  "concept": "miquel_serra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "euros": 1.0
+  },
+  "bayesian_context": {
+    "multa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "demana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "fiscalia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/miquel_serra.json"
+}
