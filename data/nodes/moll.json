@@ -1,0 +1,35 @@
+{
+  "concept": "moll",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sud": 1.0
+  },
+  "bayesian_context": {
+    "construir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "sud": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "darsena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "interior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "port": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/moll.json"
+}

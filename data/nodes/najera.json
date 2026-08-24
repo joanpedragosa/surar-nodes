@@ -1,0 +1,57 @@
+{
+  "concept": "najera",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "pua": 0.3333,
+    "spanjaardstraat": 0.3333,
+    "posicio": 0.3333
+  },
+  "bayesian_context": {
+    "tocaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "llaut": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "imatge": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.15
+    },
+    "pua": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "tenien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "spanjaardstraat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "posicio": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.28
+    },
+    "music": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "dits": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "dreta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "saltiri": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/najera.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "monetari",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "bancs": 1.0
+  },
+  "bayesian_context": {
+    "passar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "monopolitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "capital": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "bancs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/monetari.json"
+}

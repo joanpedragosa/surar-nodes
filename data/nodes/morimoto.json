@@ -1,0 +1,31 @@
+{
+  "concept": "morimoto",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sense": 1.0
+  },
+  "bayesian_context": {
+    "programar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "mew_shigeki": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sense": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "dir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "ningu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/morimoto.json"
+}

@@ -1,0 +1,68 @@
+{
+  "concept": "musicar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ravel": 0.5,
+    "falla": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "poema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "ravel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "colette": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "gregorio_martinez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sierra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "falla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "oracion": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "las": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "madres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "tienen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "hijos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "brazos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/musicar.json"
+}

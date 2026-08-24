@@ -1,0 +1,56 @@
+{
+  "concept": "museus",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "prehistoria": 0.5,
+    "hamburg": 0.5
+  },
+  "bayesian_context": {
+    "oferir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "troballa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "comprador": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "prehistoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "berlin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "munic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "organitza": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "servei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "hamburg": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "visites": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "comentades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/museus.json"
+}

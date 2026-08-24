@@ -1,0 +1,23 @@
+{
+  "concept": "mosso",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "comparegut": 1.0
+  },
+  "bayesian_context": {
+    "comparegut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "avui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "albert_donaire": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mosso.json"
+}

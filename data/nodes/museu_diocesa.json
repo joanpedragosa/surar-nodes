@@ -1,0 +1,48 @@
+{
+  "concept": "museu_diocesa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "urgell": 0.5,
+    "tarragona": 0.5
+  },
+  "bayesian_context": {
+    "conserva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "retaule": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.69
+    },
+    "capella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "pietat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "urgell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "taula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.92
+    },
+    "trobem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "tarragona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "anunciacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/museu_diocesa.json"
+}

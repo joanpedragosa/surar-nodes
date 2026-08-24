@@ -1,0 +1,27 @@
+{
+  "concept": "mohs",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "presenta": 1.0
+  },
+  "bayesian_context": {
+    "duresa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "escala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "presenta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "schwertmannita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mohs.json"
+}

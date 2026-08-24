@@ -1,0 +1,39 @@
+{
+  "concept": "molist",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "emili_pi": 1.0
+  },
+  "bayesian_context": {
+    "dedicat": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.77
+    },
+    "carrer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "doctor_pi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "emili_pi": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.85
+    },
+    "anomenar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "carretera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "manicomi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/molist.json"
+}

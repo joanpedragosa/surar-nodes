@@ -1,0 +1,23 @@
+{
+  "concept": "mongola",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tifo": 1.0
+  },
+  "bayesian_context": {
+    "arrasar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "flota": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "tifo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mongola.json"
+}

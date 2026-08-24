@@ -1,0 +1,31 @@
+{
+  "concept": "monolit",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "record": 1.0
+  },
+  "bayesian_context": {
+    "fet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.83
+    },
+    "intervencio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "davant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "record": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "colau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/monolit.json"
+}

@@ -1,0 +1,60 @@
+{
+  "concept": "monica_palacin",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ministeri_fiscal": 0.5,
+    "diversos": 0.5
+  },
+  "bayesian_context": {
+    "organ": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "presentat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "querella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "ministeri_fiscal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "suposa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "diversos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "policies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "espanyols": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "dos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "hotels": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/monica_palacin.json"
+}

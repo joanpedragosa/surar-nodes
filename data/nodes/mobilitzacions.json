@@ -1,0 +1,86 @@
+{
+  "concept": "mobilitzacions",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "multitudinaries": 0.25,
+    "massives": 0.25,
+    "ciutadanes": 0.25,
+    "avui": 0.25
+  },
+  "bayesian_context": {
+    "multitudinaries": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "creu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    },
+    "riera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "acompanyara": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "desplegament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "republica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.89
+    },
+    "catalana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    },
+    "onada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "massives": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "fet": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.23
+    },
+    "ciutadanes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "catalunya": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.03
+    },
+    "favor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "dret": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.58
+    },
+    "decidir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.96
+    },
+    "independencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.77
+    },
+    "anunciades": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "avui": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mobilitzacions.json"
+}

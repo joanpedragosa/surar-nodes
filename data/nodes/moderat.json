@@ -1,0 +1,43 @@
+{
+  "concept": "moderat",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "gaditana": 1.0
+  },
+  "bayesian_context": {
+    "coneixem": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "escrits": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "escola": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.02
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "gaditana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "estil": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.56
+    },
+    "vitralls": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "modernisme": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/moderat.json"
+}

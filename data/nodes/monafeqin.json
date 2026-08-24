@@ -1,0 +1,35 @@
+{
+  "concept": "monafeqin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "hipocrites": 1.0
+  },
+  "bayesian_context": {
+    "titllar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "khomeini": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "mek": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "hipocrites": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "kafir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "infidels": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/monafeqin.json"
+}

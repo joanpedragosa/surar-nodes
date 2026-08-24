@@ -1,0 +1,31 @@
+{
+  "concept": "monarques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "regnants": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "enterrats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "familiars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "regnants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "santo_domingo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/monarques.json"
+}

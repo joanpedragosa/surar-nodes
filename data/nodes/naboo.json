@@ -1,0 +1,43 @@
+{
+  "concept": "naboo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "the_phantom": 1.0
+  },
+  "bayesian_context": {
+    "escenes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "havien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "rodat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "palau_reial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "caserta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "palau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "the_phantom": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "menace": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/naboo.json"
+}

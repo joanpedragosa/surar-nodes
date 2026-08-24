@@ -1,0 +1,27 @@
+{
+  "concept": "moviment_democratic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "brasiler": 1.0
+  },
+  "bayesian_context": {
+    "partit": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.43
+    },
+    "membre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "cunha": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "brasiler": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/moviment_democratic.json"
+}

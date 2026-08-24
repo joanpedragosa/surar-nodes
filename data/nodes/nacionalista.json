@@ -1,0 +1,88 @@
+{
+  "concept": "nacionalista",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "segons": 0.5,
+    "flamenc": 0.5
+  },
+  "bayesian_context": {
+    "excitar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "govern": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "xovinisme": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "beneficiarien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "primaries": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "obertes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "formacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "iniciativa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "fet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.35
+    },
+    "mes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.73
+    },
+    "afiliats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "vol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.28
+    },
+    "partit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "flamenc": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.0
+    },
+    "parli": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "ambaixadora": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "espanyola": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "parlament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nacionalista.json"
+}

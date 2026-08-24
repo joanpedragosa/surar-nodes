@@ -1,0 +1,47 @@
+{
+  "concept": "murasaki",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "personatge": 1.0
+  },
+  "bayesian_context": {
+    "casa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "genji": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "lady_aoi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ludeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "personatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "femeni": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "principal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/murasaki.json"
+}

@@ -1,0 +1,40 @@
+{
+  "concept": "muwaffa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mujahid": 0.5,
+    "emirat": 0.5
+  },
+  "bayesian_context": {
+    "anomenaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "abu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "jayx": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "mujahid": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "emirat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "constituir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "daniyya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/muwaffa.json"
+}

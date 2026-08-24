@@ -1,0 +1,39 @@
+{
+  "concept": "muda",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "terciaries": 1.0
+  },
+  "bayesian_context": {
+    "comencen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "caure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "plomes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "secundaries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "terciaries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "interiors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/muda.json"
+}

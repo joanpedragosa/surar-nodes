@@ -1,0 +1,47 @@
+{
+  "concept": "muten",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "bases": 1.0
+  },
+  "bayesian_context": {
+    "consisteix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "proces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "anomenat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "deriva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "genetica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "bases": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.33
+    },
+    "individuals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "adn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "arn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/muten.json"
+}

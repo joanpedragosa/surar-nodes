@@ -1,0 +1,35 @@
+{
+  "concept": "multades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "espera": 1.0
+  },
+  "bayesian_context": {
+    "troben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "persones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "espera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "judici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/multades.json"
+}
