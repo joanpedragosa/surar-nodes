@@ -1,0 +1,21 @@
+{
+  "concept": "oncologia_medica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "congres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "tracta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "societat_europea": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/oncologia_medica.json"
+}

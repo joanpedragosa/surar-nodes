@@ -1,0 +1,27 @@
+{
+  "concept": "animada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "polonesos": 1.0
+  },
+  "bayesian_context": {
+    "aldimira": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "polonesos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "trobada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "pare": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/animada.json"
+}

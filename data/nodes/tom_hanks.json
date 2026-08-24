@@ -1,0 +1,35 @@
+{
+  "concept": "tom_hanks",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "matt_damon": 1.0
+  },
+  "bayesian_context": {
+    "contribuir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "exit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "saving_private": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "ryan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "matt_damon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "barry_pepper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tom_hanks.json"
+}

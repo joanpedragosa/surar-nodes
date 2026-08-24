@@ -1,0 +1,39 @@
+{
+  "concept": "substituira",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "esco": 1.0
+  },
+  "bayesian_context": {
+    "ningu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "esco": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "quim_torra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "joc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "repressio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/substituira.json"
+}

@@ -1,0 +1,44 @@
+{
+  "concept": "adscrits",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "corts_valencianes": 0.5,
+    "tres": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "diputats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.22
+    },
+    "corts_valencianes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "sis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "tres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "parlaments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "desembre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "cinc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/adscrits.json"
+}

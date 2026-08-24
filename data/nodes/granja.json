@@ -1,0 +1,48 @@
+{
+  "concept": "granja",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "san_ildefonso": 0.5,
+    "noldo": 0.5
+  },
+  "bayesian_context": {
+    "viure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "lluis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "mare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.76
+    },
+    "partir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "san_ildefonso": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "hospital": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "noldo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "santa_maria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "nouva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/granja.json"
+}

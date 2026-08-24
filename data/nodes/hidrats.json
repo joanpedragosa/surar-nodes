@@ -1,0 +1,43 @@
+{
+  "concept": "hidrats",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "carboni": 1.0
+  },
+  "bayesian_context": {
+    "carboni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "aporta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "cadena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "complexa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "conte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "formatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "mao": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/hidrats.json"
+}

@@ -1,0 +1,36 @@
+{
+  "concept": "roncs",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "felids": 0.5,
+    "felicitat": 0.5
+  },
+  "bayesian_context": {
+    "emet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "felids": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "viverrids": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "expressen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "adults": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "felicitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/roncs.json"
+}

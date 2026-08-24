@@ -1,0 +1,27 @@
+{
+  "concept": "anunciara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "faine": 1.0
+  },
+  "bayesian_context": {
+    "faine": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "decisio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "dijous": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "ve": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/anunciara.json"
+}

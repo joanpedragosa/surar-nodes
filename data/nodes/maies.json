@@ -1,0 +1,72 @@
+{
+  "concept": "maies",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "calendari": 0.3333,
+    "asteques": 0.6667
+  },
+  "bayesian_context": {
+    "desenvoluparen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "astronoms": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "calendari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "mes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.73
+    },
+    "acurat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "sotmesos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "asteques": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "inques": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "civilitzacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "precolombines": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "depredacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "trobaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "continent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "america": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.94
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/maies.json"
+}

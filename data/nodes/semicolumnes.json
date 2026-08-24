@@ -1,0 +1,57 @@
+{
+  "concept": "semicolumnes",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "tres": 0.25,
+    "arcs": 0.5,
+    "adossades": 0.25
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.22
+    },
+    "tres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.1
+    },
+    "ordres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "inferiors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "adossades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "calcen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "arcs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "apuntalen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "formers": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "admeten": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "mur": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/semicolumnes.json"
+}

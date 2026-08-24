@@ -1,0 +1,39 @@
+{
+  "concept": "agafats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mans": 1.0
+  },
+  "bayesian_context": {
+    "esposos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "representacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "familia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "solien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "estar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "mans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/agafats.json"
+}

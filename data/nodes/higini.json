@@ -1,0 +1,78 @@
+{
+  "concept": "higini",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "autor": 0.25,
+    "ramon_cierco": 0.25,
+    "cristianisme": 0.25,
+    "padrins": 0.25
+  },
+  "bayesian_context": {
+    "desconeixia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "nom": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.4
+    },
+    "pare": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "autor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.77
+    },
+    "liber": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "rebre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    },
+    "ramon_cierco": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "comandaments": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "policiacs": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "amenaces": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "extorsions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "convertir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    },
+    "cristianisme": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "figura": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "instaurar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "padrins": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/higini.json"
+}

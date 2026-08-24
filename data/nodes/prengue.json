@@ -1,0 +1,35 @@
+{
+  "concept": "prengue",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estetica": 1.0
+  },
+  "bayesian_context": {
+    "temes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "estetica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "expressionista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "generes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "fantasia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "terror": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/prengue.json"
+}

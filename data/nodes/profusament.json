@@ -1,0 +1,23 @@
+{
+  "concept": "profusament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "esculturats": 1.0
+  },
+  "bayesian_context": {
+    "capitells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "interiors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "esculturats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/profusament.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "descartada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "opcio": 1.0
+  },
+  "bayesian_context": {
+    "opcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "nou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.86
+    },
+    "referendum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "boris_johnson": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/descartada.json"
+}

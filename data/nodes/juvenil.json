@@ -1,0 +1,81 @@
+{
+  "concept": "juvenil",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "scholastic": 0.3333,
+    "huguet": 0.3333,
+    "edat": 0.3333
+  },
+  "bayesian_context": {
+    "editar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "novel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "scholastic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "objecte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "especulacions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "etapa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "huguet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "formacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "llocs": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "residencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "edat": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.09
+    },
+    "tenia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    },
+    "desenvolupat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "collar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "banyes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "triceratop": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "primerenca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/juvenil.json"
+}

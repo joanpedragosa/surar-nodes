@@ -1,0 +1,43 @@
+{
+  "concept": "reportatges",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "grafics": 1.0
+  },
+  "bayesian_context": {
+    "grafics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "podem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.05
+    },
+    "trobar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.99
+    },
+    "subfons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "actes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "protocol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "laris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "esdeveniment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reportatges.json"
+}

@@ -1,0 +1,48 @@
+{
+  "concept": "formular",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "concepte": 0.5,
+    "teoria": 0.5
+  },
+  "bayesian_context": {
+    "concepte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "oberta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "umberto_eco": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "teoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "materialisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dialectic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "marx": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "engels": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/formular.json"
+}

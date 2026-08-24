@@ -1,0 +1,35 @@
+{
+  "concept": "traspassats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "any": 1.0
+  },
+  "bayesian_context": {
+    "realitza": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "homenatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "cementeri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "socis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "anterior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/traspassats.json"
+}

@@ -1,0 +1,44 @@
+# 📄 Especificació Funcional Detallada: STEP 30 (Sincronitzador Híbrid Global)
+
+## 1. Identificació del Mòdul
+*   **Nom del Codi:** `step30_sincronitzador_hibrid.py`
+*   **Ubicació Física:** `D:\Notebook\Transformer\surar_probabilistic\pipeline\`
+*   **Fase del Pipeline:** Fase C - Sincronització i Desplegament Massiu Automatitzat.
+*   **Rol Arquitectònic:** Motor de Publicació i Persistència Global de la Xarxa Neuronal Distribuïda.
+
+## 2. Propòsit Global
+Tancar el cicle evolutiu del coneixement SURAR-AINA mitjançant la publicació autònoma dels nodes probabilístics (HMBL) a Internet. Aquest mòdul transforma els fitxers JSON locals en intel·ligència pública accessible, utilitzant la infraestructura gratuïta de GitHub per allotjar el graf sense costos de servidor ni manteniment centralitzat.
+
+## 3. Lògica de Funcionament Intern
+
+### A. Verificació d'Artefactes i Integritat
+*   **Auditoria Prèvia:** Abans de qualsevol acció, comprova que la carpeta `data/nodes/` contingui fitxers vàlids i que el mapa global (`mapping_global.json`) estigui present.
+*   **Gestió de Resiliència:** Detecta automàticament si hi ha canvis reals respecte a l'últim commit per evitar operacions redundants a la xarxa.
+
+### B. Indexació Selectiva i Segura
+*   **Filtratge Intel·ligent:** Utilitza patrons de Git (`data/nodes/*.json`) per afegir només els fitxers de coneixement, ignorant fitxers temporals, cachés o artefactes de sistema.
+*   **Blindatge de Rutes:** Assegura que només es publiquen els fitxers amb URLs correctes i estructures HMBL validades al Step 10.
+
+### C. Commit Atòmic amb Segell Temporal
+*   **Traçabilitat Històrica:** Crea un punt de control (commit) amb un missatge descriptiu que inclou la data i hora exacta (`YYYY-MM-DD HH:MM:SS`).
+*   **Identitat d'Autor:** Signa els canvis amb la identitat configurada al Step 28 (`Surar-AINA Bot`), garantint la responsabilitat i l'origen de les mutacions del graf.
+
+### D. Push Autònom a GitHub (Transport Elèctric)
+*   **Publicació Massiva:** Executa la pujada física de dades cap al repositori remot `joanpedragosa/surar-nodes`.
+*   **Gestió de Conflictes:** Inclou lògica per detectar i gestionar avisos de Git (com "nothing to commit") sense interrompre el flux operatiu.
+*   **Accés Públic Immediat:** Un cop finalitzat, tots els nodes són accessibles via URLs RAW públiques, permetent la inferència distribuïda en temps real.
+
+### E. Registre d'Auditoria Persistent
+*   **Generation History Log:** Actualitza el fitxer `data/generation_history.log` amb un registre cronològic de cada publicació exitosa, incloent el nombre total de nodes sincronitzats.
+*   **Feedback Visual:** Proporciona missatges clars a la consola sobre l'estat de la sincronització (Èxit, Advertència o Error).
+
+## 4. Resultats i Artefactes Generats
+1.  **Repositori GitHub Actualitzat:** La branca `main` del repositori remot conté la versió més recent dels nodes HMBL i el mapa global.
+2.  **URLs Públiques Actives:** Tots els nodes tenen enllaços funcionals (`https://raw.githubusercontent.com/...`) llestos per ser consultats pel Step 35.
+3.  **Històric de Publicacions:** El fitxer `generation_history.log` registra l'evolució temporal del graf publicat.
+
+## 5. Garanties de Qualitat
+*   **Autonomia Total:** No requereix intervenció humana; detecta, empaqueta i publica els canvis automàticament.
+*   **Cost Zero:** Utilitza exclusivament infraestructura pública gratuïta (GitHub).
+*   **Transparència Radical:** Cada canvi al graf queda registrat públicament amb data, hora i autor, permetent una auditoria completa de l'evolució del coneixement.
+*   **Resiliència Operativa:** Capaç de gestionar errors menors de Git sense col·lapsar el procés principal de publicació.

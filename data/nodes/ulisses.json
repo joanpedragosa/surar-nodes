@@ -1,0 +1,84 @@
+{
+  "concept": "ulisses",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "la_nostra": 0.5,
+    "albes": 0.5
+  },
+  "bayesian_context": {
+    "revista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "publicar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "poema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "la_nostra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "parts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "organitza": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "mohino": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "poetica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "rodoreda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "albes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "nits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "amor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "illa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "lliris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "vermells": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "bestioles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ulisses.json"
+}

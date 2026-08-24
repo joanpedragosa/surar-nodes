@@ -1,0 +1,27 @@
+{
+  "concept": "arrestada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "paula": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "paula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "protestes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "sentencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/arrestada.json"
+}

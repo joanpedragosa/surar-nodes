@@ -1,0 +1,60 @@
+{
+  "concept": "partit_laborista",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "britanic": 0.5,
+    "arriba": 0.5
+  },
+  "bayesian_context": {
+    "lider": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "britanic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "jeremy_corbyn": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "promoura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "arriba": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "govern": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "nou": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.38
+    },
+    "referendum": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "brexit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "partit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "delegada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/partit_laborista.json"
+}

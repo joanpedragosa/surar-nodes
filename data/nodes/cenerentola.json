@@ -1,0 +1,27 @@
+{
+  "concept": "cenerentola",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "contralt": 1.0
+  },
+  "bayesian_context": {
+    "demana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "paper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.2
+    },
+    "contralt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "coloratura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cenerentola.json"
+}

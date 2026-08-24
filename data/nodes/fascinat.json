@@ -1,0 +1,27 @@
+{
+  "concept": "fascinat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "janaček": 1.0
+  },
+  "bayesian_context": {
+    "quedar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "janaček": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "kamila": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "urvalkova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fascinat.json"
+}

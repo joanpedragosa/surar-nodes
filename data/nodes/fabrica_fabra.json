@@ -1,0 +1,23 @@
+{
+  "concept": "fabrica_fabra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "coats": 1.0
+  },
+  "bayesian_context": {
+    "congregar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "public": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "coats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fabrica_fabra.json"
+}

@@ -1,0 +1,370 @@
+{
+  "concept": "lina",
+  "frequency": 19,
+  "edges": [],
+  "markov_transitions": {
+    "heatley": 0.0667,
+    "benzatinica": 0.2,
+    "fatals": 0.0667,
+    "accio": 0.0667,
+    "transacetilasa": 0.0667,
+    "pacients": 0.0667,
+    "sodica": 0.1333,
+    "amoxicil": 0.0667,
+    "prop": 0.0667,
+    "derivats": 0.0667,
+    "alilmercaptometilpenicil": 0.0667,
+    "nou": 0.0667
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0018,
+      "posterior_boost": 1.92
+    },
+    "bioquimic": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "produir": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.42
+    },
+    "purificacio": {
+      "likelihood": 0.0035,
+      "posterior_boost": 4.75
+    },
+    "penicil": {
+      "likelihood": 0.0298,
+      "posterior_boost": 4.83
+    },
+    "heatley": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "absorbeix": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "benzatinica": {
+      "likelihood": 0.0088,
+      "posterior_boost": 4.97
+    },
+    "circulacio": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.27
+    },
+    "sanguinia": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "injeccio": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "intramuscular": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "lentament": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "sigut": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.32
+    },
+    "reaccions": {
+      "likelihood": 0.0035,
+      "posterior_boost": 4.2
+    },
+    "haver": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.71
+    },
+    "administrat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "fatals": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "produeix": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.62
+    },
+    "bencilpenicil": {
+      "likelihood": 0.0123,
+      "posterior_boost": 5.11
+    },
+    "accio": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.46
+    },
+    "transacetilasa": {
+      "likelihood": 0.0035,
+      "posterior_boost": 5.05
+    },
+    "dci": {
+      "likelihood": 0.0035,
+      "posterior_boost": 5.05
+    },
+    "combinacio": {
+      "likelihood": 0.0035,
+      "posterior_boost": 4.27
+    },
+    "benzatina": {
+      "likelihood": 0.0035,
+      "posterior_boost": 5.05
+    },
+    "pot": {
+      "likelihood": 0.0035,
+      "posterior_boost": 2.78
+    },
+    "presentar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.77
+    },
+    "ocasionalment": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.27
+    },
+    "administracio": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.57
+    },
+    "benzetacil": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "pacients": {
+      "likelihood": 0.0053,
+      "posterior_boost": 4.45
+    },
+    "hipersensibles": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "reaccio": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.57
+    },
+    "lergica": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "anafilactica": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "forma": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.62
+    },
+    "lergia": {
+      "likelihood": 0.0035,
+      "posterior_boost": 4.75
+    },
+    "mes": {
+      "likelihood": 0.0035,
+      "posterior_boost": 2.25
+    },
+    "usual": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "reportada": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "medicina": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.97
+    },
+    "administra": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "sodica": {
+      "likelihood": 0.0035,
+      "posterior_boost": 4.75
+    },
+    "casos": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.43
+    },
+    "difteria": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "infeccions": {
+      "likelihood": 0.0035,
+      "posterior_boost": 4.57
+    },
+    "aparell": {
+      "likelihood": 0.0035,
+      "posterior_boost": 4.14
+    },
+    "respiratori": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "genital": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "certes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.27
+    },
+    "produides": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "gramnegatius": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "meningitis": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "endocarditis": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "percentatge": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.62
+    },
+    "soques": {
+      "likelihood": 0.0035,
+      "posterior_boost": 5.05
+    },
+    "streptococcus": {
+      "likelihood": 0.0035,
+      "posterior_boost": 5.05
+    },
+    "pneumoniae": {
+      "likelihood": 0.0035,
+      "posterior_boost": 5.05
+    },
+    "aillades": {
+      "likelihood": 0.0035,
+      "posterior_boost": 4.75
+    },
+    "resistents": {
+      "likelihood": 0.0035,
+      "posterior_boost": 5.05
+    },
+    "amoxicil": {
+      "likelihood": 0.0035,
+      "posterior_boost": 5.05
+    },
+    "prop": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.42
+    },
+    "primer": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.51
+    },
+    "producte": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.05
+    },
+    "aillable": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "prove": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.57
+    },
+    "tripeptid": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "isopenicil": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "simptomes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.14
+    },
+    "causar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.52
+    },
+    "urticaria": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "pruija": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "vegades": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.19
+    },
+    "xoc": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.9
+    },
+    "anafilactic": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "causes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.97
+    },
+    "habituals": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "dependents": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.14
+    },
+    "immunoglobulina": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "ige": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "derivats": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "principals": {
+      "likelihood": 0.0053,
+      "posterior_boost": 3.76
+    },
+    "lines": {
+      "likelihood": 0.0053,
+      "posterior_boost": 4.75
+    },
+    "biosintetiques": {
+      "likelihood": 0.0053,
+      "posterior_boost": 4.92
+    },
+    "fenoximetilpenicil": {
+      "likelihood": 0.0053,
+      "posterior_boost": 5.22
+    },
+    "alilmercaptometilpenicil": {
+      "likelihood": 0.0053,
+      "posterior_boost": 5.22
+    },
+    "nou": {
+      "likelihood": 0.0053,
+      "posterior_boost": 3.06
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lina.json"
+}

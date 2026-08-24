@@ -1,0 +1,51 @@
+{
+  "concept": "consignar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "marges": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "impossible": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "trobar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.99
+    },
+    "seccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "refereixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "taules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "numeros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "capitols": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "mai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "marges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/consignar.json"
+}

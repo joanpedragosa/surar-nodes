@@ -1,0 +1,23 @@
+{
+  "concept": "ciclades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "bestiar": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "frequent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "bestiar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ciclades.json"
+}

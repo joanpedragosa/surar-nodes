@@ -1,0 +1,40 @@
+{
+  "concept": "edita",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "la_compagnie": 0.5,
+    "treball": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "llibres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "la_compagnie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "agost": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "treball": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "antoni_agusti": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fulvio_orsini": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/edita.json"
+}

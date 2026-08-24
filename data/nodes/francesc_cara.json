@@ -1,0 +1,27 @@
+{
+  "concept": "francesc_cara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "enric_blanes": 1.0
+  },
+  "bayesian_context": {
+    "prestara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "suport": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "enric_blanes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "adria_alsina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/francesc_cara.json"
+}

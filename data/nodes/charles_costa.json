@@ -1,0 +1,27 @@
+{
+  "concept": "charles_costa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rolling_stone": 1.0
+  },
+  "bayesian_context": {
+    "revista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "escrivia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "jean": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "rolling_stone": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/charles_costa.json"
+}

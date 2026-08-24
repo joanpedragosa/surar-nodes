@@ -1,0 +1,36 @@
+{
+  "concept": "emperadriu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "abdicar": 0.5,
+    "reassumir": 0.5
+  },
+  "bayesian_context": {
+    "abdicar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "kōken": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "nom": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "reassumir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "tron": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "shōtoku": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/emperadriu.json"
+}

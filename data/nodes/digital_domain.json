@@ -1,0 +1,35 @@
+{
+  "concept": "digital_domain",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "efectes": 1.0
+  },
+  "bayesian_context": {
+    "dedicada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "efectes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "visuals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "empresa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "formar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "james_cameron": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/digital_domain.json"
+}

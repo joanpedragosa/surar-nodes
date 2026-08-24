@@ -1,0 +1,48 @@
+{
+  "concept": "vulcanologia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fossils": 0.5,
+    "fo": 0.5
+  },
+  "bayesian_context": {
+    "donar": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.45
+    },
+    "van_marum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "conferencies": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.85
+    },
+    "fossils": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "paleontologia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "tematica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "general": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "particular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "fo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vulcanologia.json"
+}

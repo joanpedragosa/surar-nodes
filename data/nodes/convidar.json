@@ -1,0 +1,106 @@
+{
+  "concept": "convidar",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "recasens": 0.25,
+    "generalitat": 0.25,
+    "fer": 0.25,
+    "periodistes": 0.25
+  },
+  "bayesian_context": {
+    "recasens": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "manifestacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "partits": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "politics": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.54
+    },
+    "excepte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "havien": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.54
+    },
+    "suport": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.59
+    },
+    "herri_batasuna": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "passades": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "eleccions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.36
+    },
+    "generalitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.47
+    },
+    "parlament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.37
+    },
+    "irlandes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "dominic_hannigan": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "cia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "comentaris": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "programa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.9
+    },
+    "declinat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "oferiment": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "periodistes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "mitjan": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "abril": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/convidar.json"
+}

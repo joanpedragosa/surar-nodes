@@ -1,0 +1,19 @@
+{
+  "concept": "frankenstein",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cinema": 1.0
+  },
+  "bayesian_context": {
+    "cinema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "terror": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/frankenstein.json"
+}

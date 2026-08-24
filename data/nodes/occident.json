@@ -1,0 +1,55 @@
+{
+  "concept": "occident",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "llati": 1.0
+  },
+  "bayesian_context": {
+    "associar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "grec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "llati": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "cristia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "paganisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "tornar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "pontificia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "avinyo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "roma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "resolucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "cisma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/occident.json"
+}

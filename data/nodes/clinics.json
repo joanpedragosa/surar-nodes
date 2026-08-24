@@ -1,0 +1,27 @@
+{
+  "concept": "clinics",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fase": 1.0
+  },
+  "bayesian_context": {
+    "actualment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "assajos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "fase": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "ii": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/clinics.json"
+}

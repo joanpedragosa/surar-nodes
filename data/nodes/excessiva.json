@@ -1,0 +1,77 @@
+{
+  "concept": "excessiva",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "inadequada": 0.3333,
+    "vih": 0.3333,
+    "fragmentacio": 0.3333
+  },
+  "bayesian_context": {
+    "velocitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "inadequada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "causa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "directa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "sinistres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "infeccio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "podria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.82
+    },
+    "passar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "desapercebuda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "tolerancia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "vih": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "objectiu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "formula": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "impedir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "fragmentacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "parlamentaria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/excessiva.json"
+}

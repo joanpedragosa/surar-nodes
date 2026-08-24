@@ -1,0 +1,35 @@
+{
+  "concept": "instagram",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "whatsapp": 1.0
+  },
+  "bayesian_context": {
+    "mantindrien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "maneres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "facebook": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "whatsapp": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "aplicacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "independents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/instagram.json"
+}

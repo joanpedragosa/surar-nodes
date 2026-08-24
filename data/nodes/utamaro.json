@@ -1,0 +1,59 @@
+{
+  "concept": "utamaro",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "japonesos": 1.0
+  },
+  "bayesian_context": {
+    "competir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "hokusai": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "escasses": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "ocasions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "nacionalitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "katsushika_hokusai": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "utagawa_hiroshige": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "japonesos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "pintors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "sent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "admiracio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "van_gogh": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/utamaro.json"
+}

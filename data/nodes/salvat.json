@@ -1,0 +1,44 @@
+{
+  "concept": "salvat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vida": 0.5,
+    "ocean_viking": 0.5
+  },
+  "bayesian_context": {
+    "revela": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "estimat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "ella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "vida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.78
+    },
+    "laura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "persones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.64
+    },
+    "ocean_viking": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/salvat.json"
+}

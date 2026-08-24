@@ -1,0 +1,32 @@
+{
+  "concept": "rellevat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ernest_maragall": 0.5,
+    "pere_sol": 0.5
+  },
+  "bayesian_context": {
+    "ernest_maragall": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "alfred_bosch": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "sera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "pere_sol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dimarts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/rellevat.json"
+}

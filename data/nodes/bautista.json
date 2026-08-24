@@ -1,0 +1,44 @@
+{
+  "concept": "bautista",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "quo_vadis": 0.5,
+    "tresor": 0.5
+  },
+  "bayesian_context": {
+    "anomena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "capilla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "san_juan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "quo_vadis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "torre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "trobem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "antiga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "tresor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/bautista.json"
+}

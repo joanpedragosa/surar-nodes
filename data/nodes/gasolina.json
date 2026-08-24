@@ -1,0 +1,63 @@
+{
+  "concept": "gasolina",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "estableix": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "litres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "estableix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "racionament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "mensual": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "automobil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "privat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "produit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "manifestacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "iran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "pujada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "preus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "combustible": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/gasolina.json"
+}

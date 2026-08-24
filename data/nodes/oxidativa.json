@@ -1,0 +1,35 @@
+{
+  "concept": "oxidativa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "llet": 1.0
+  },
+  "bayesian_context": {
+    "redueix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "parcialment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "activitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "llet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "sulfhidril": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/oxidativa.json"
+}

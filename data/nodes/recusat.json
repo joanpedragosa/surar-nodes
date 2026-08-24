@@ -1,0 +1,56 @@
+{
+  "concept": "recusat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "comicis": 0.5,
+    "comptes": 0.5
+  },
+  "bayesian_context": {
+    "comicis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "quim_torra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "comptes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "grups": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "municipals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "ciutadans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "hagueren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "irregularitats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "el_tribunal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/recusat.json"
+}

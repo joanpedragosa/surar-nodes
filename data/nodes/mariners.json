@@ -1,0 +1,114 @@
+{
+  "concept": "mariners",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "mes": 0.1667,
+    "segle": 0.1667,
+    "palos": 0.5,
+    "america": 0.1667
+  },
+  "bayesian_context": {
+    "emigrar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "america": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.94
+    },
+    "sevilla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "armadors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "mes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.44
+    },
+    "capacos": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "intrepids": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "coneguts": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.17
+    },
+    "taurons": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "segle": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.0
+    },
+    "xvi": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.04
+    },
+    "gossos": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.13
+    },
+    "mar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.54
+    },
+    "palos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "experts": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "fer": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.55
+    },
+    "frontera": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.21
+    },
+    "desobeir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "temps": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.15
+    },
+    "haver": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.2
+    },
+    "servir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.39
+    },
+    "corona": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.9
+    },
+    "colla": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "dos": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.9
+    },
+    "mesos": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.54
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mariners.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "nevado",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ruiz": 1.0
+  },
+  "bayesian_context": {
+    "expulsava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "ruiz": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "entrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "erupcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "tefra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "dacitica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/nevado.json"
+}

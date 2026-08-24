@@ -1,0 +1,47 @@
+{
+  "concept": "campanes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tubulars": 1.0
+  },
+  "bayesian_context": {
+    "sentim": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "interludi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "orquestral": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "tubulars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "greus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "donen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "to": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "ombrivol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "musica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/campanes.json"
+}

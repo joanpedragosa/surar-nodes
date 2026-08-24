@@ -1,0 +1,40 @@
+{
+  "concept": "nintedanib",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "boehringer_ingelheim": 0.5,
+    "tractament": 0.5
+  },
+  "bayesian_context": {
+    "desenvolupat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "boehringer_ingelheim": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mostrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "eficac": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "tractament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "adenocarcinoma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pulmo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/nintedanib.json"
+}

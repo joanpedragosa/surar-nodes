@@ -1,0 +1,39 @@
+{
+  "concept": "via_lliure",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "haura": 1.0
+  },
+  "bayesian_context": {
+    "comunicat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "buch": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "haura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "revisar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "analitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "imatges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/via_lliure.json"
+}

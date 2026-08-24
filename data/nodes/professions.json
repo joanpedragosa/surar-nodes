@@ -1,0 +1,27 @@
+{
+  "concept": "professions",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "exerceix": 1.0
+  },
+  "bayesian_context": {
+    "exerceix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "xevi_sala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "periodista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "escriptor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/professions.json"
+}

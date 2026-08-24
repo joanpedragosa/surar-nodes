@@ -1,0 +1,35 @@
+{
+  "concept": "radio_bavaresa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "orquestra": 1.0
+  },
+  "bayesian_context": {
+    "gravar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "vesselina_kasarova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "orquestra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "radio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "munic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/radio_bavaresa.json"
+}

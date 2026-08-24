@@ -1,0 +1,27 @@
+{
+  "concept": "aptx",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "connectivitat": 1.0
+  },
+  "bayesian_context": {
+    "millora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "codec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "connectivitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "bluetooth": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/aptx.json"
+}

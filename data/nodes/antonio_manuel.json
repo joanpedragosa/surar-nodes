@@ -1,0 +1,31 @@
+{
+  "concept": "antonio_manuel",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "guerrero": 1.0
+  },
+  "bayesian_context": {
+    "violador": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "intentat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "aconseguir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "passaport": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "guerrero": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/antonio_manuel.json"
+}

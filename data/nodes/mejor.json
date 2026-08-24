@@ -1,0 +1,35 @@
+{
+  "concept": "mejor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "plaza": 1.0
+  },
+  "bayesian_context": {
+    "empresa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "editat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "espana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "plaza": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "jane": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mejor.json"
+}

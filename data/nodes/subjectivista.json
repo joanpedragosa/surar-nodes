@@ -1,0 +1,51 @@
+{
+  "concept": "subjectivista",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "imposar": 1.0
+  },
+  "bayesian_context": {
+    "oferia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "imatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "estil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "imposar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "pantalla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "cinema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "expressionista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "deformacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "expressiva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "realitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/subjectivista.json"
+}

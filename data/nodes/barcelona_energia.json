@@ -1,0 +1,72 @@
+{
+  "concept": "barcelona_energia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "desconnectar": 0.5,
+    "instal": 0.5
+  },
+  "bayesian_context": {
+    "possibilitara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "desconnectar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "oligopoli": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "electric": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "impulsar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "sobirania": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "energetica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "ubicat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "operadora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "publica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "instal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "lacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "municipals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/barcelona_energia.json"
+}

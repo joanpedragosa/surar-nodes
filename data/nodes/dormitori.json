@@ -1,0 +1,68 @@
+{
+  "concept": "dormitori",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "senyor": 0.6667,
+    "smith": 0.3333
+  },
+  "bayesian_context": {
+    "anomena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "senyor": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.85
+    },
+    "castell": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.3
+    },
+    "inventari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "chambre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "blanche": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "costat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.77
+    },
+    "cuina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "defineix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "quantes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "noies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "compartir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "smith": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "nou": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.38
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/dormitori.json"
+}

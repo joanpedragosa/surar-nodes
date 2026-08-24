@@ -1,0 +1,23 @@
+{
+  "concept": "travessat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "corradino": 1.0
+  },
+  "bayesian_context": {
+    "corradino": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "fletxa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "cupido": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/travessat.json"
+}

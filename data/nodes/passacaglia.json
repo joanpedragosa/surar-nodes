@@ -1,0 +1,47 @@
+{
+  "concept": "passacaglia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "xacona": 1.0
+  },
+  "bayesian_context": {
+    "arribar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "xacona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "moment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "maxima": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "esplendor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "bach": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "formes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "contrapuntistiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "variacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/passacaglia.json"
+}

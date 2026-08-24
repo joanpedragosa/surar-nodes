@@ -1,0 +1,36 @@
+{
+  "concept": "psycho",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "gus_van": 0.5,
+    "plans": 0.5
+  },
+  "bayesian_context": {
+    "gus_van": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "sant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "repren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "detalls": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "plans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "original": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/psycho.json"
+}

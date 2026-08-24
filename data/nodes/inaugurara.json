@@ -1,0 +1,23 @@
+{
+  "concept": "inaugurara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tarragona": 1.0
+  },
+  "bayesian_context": {
+    "tarragona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "juny": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "jocs_mediterranis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/inaugurara.json"
+}

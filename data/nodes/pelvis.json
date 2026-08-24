@@ -1,0 +1,55 @@
+{
+  "concept": "pelvis",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "tiranosauroideus": 1.0
+  },
+  "bayesian_context": {
+    "osca": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.0
+    },
+    "tiranosauroideus": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.0
+    },
+    "concava": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "extrem": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "frontal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "superior": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.93
+    },
+    "ili": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "quantes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "vertebres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "sacres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "tenia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pelvis.json"
+}

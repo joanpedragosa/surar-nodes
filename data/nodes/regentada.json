@@ -1,0 +1,23 @@
+{
+  "concept": "regentada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fonda": 1.0
+  },
+  "bayesian_context": {
+    "fonda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "aquila": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "filippo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/regentada.json"
+}

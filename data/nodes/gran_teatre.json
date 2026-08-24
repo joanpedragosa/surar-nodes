@@ -1,0 +1,27 @@
+{
+  "concept": "gran_teatre",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "liceu": 1.0
+  },
+  "bayesian_context": {
+    "teatre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "arribar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "liceu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/gran_teatre.json"
+}

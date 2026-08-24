@@ -1,0 +1,247 @@
+{
+  "concept": "informes",
+  "frequency": 10,
+  "edges": [],
+  "markov_transitions": {
+    "basat": 0.1,
+    "juridics": 0.1,
+    "conclusions": 0.1,
+    "piano_spaziale": 0.2,
+    "guardia_civil": 0.1,
+    "departament": 0.1,
+    "demana": 0.1,
+    "anuaris": 0.1,
+    "transmetre": 0.1
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.25
+    },
+    "basat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "investigacio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.55
+    },
+    "oberta": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "junta": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.8
+    },
+    "electoral": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.44
+    },
+    "zona": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.58
+    },
+    "tres": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.0
+    },
+    "remetran": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "juridics": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "personals": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "integrants": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "mesa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.68
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.68
+    },
+    "espanyol": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.76
+    },
+    "hauran": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "presentar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.35
+    },
+    "conclusions": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "finals": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.63
+    },
+    "acusacio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.12
+    },
+    "defensa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.42
+    },
+    "ministre": {
+      "likelihood": 0.01,
+      "posterior_boost": 3.98
+    },
+    "coordinament": {
+      "likelihood": 0.01,
+      "posterior_boost": 5.2
+    },
+    "recerca_cientifica": {
+      "likelihood": 0.01,
+      "posterior_boost": 5.2
+    },
+    "tecnologica": {
+      "likelihood": 0.01,
+      "posterior_boost": 5.2
+    },
+    "piano_spaziale": {
+      "likelihood": 0.01,
+      "posterior_boost": 5.2
+    },
+    "nazionale": {
+      "likelihood": 0.01,
+      "posterior_boost": 5.2
+    },
+    "parlament": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.97
+    },
+    "guardia_civil": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.68
+    },
+    "dubtosa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "credibilitat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "remes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "ajuntament": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.34
+    },
+    "departament": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.53
+    },
+    "interior": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.39
+    },
+    "impedeixi": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "tall": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.07
+    },
+    "diari": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.45
+    },
+    "avinguda": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "meridiana": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "determinar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.58
+    },
+    "demana": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.32
+    },
+    "sandra_martin": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "origen": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.58
+    },
+    "causa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.16
+    },
+    "concrets": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "concentracio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.59
+    },
+    "accidents": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "cadascun": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "punts": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.66
+    },
+    "negres": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.95
+    },
+    "treure": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.03
+    },
+    "anuaris": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "punics": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "periple": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "himilco": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "transmetre": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/informes.json"
+}

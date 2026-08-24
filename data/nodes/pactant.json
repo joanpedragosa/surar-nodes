@@ -1,0 +1,44 @@
+{
+  "concept": "pactant",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "govern": 0.5,
+    "set": 0.5
+  },
+  "bayesian_context": {
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "grec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "creditors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "condicions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "rescat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "temps": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.62
+    },
+    "set": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "setmanes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pactant.json"
+}

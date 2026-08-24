@@ -1,0 +1,72 @@
+{
+  "concept": "prehistoria",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "berlin": 0.5,
+    "antiguitat": 0.5
+  },
+  "bayesian_context": {
+    "oferir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "troballa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "comprador": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "museus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "berlin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "munic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "periodes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "podem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.75
+    },
+    "trobar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.69
+    },
+    "objectes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "museu_arqueologic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "nacional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "atenes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "antiguitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "tardana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/prehistoria.json"
+}

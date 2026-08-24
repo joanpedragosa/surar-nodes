@@ -1,0 +1,40 @@
+{
+  "concept": "enganxar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "copia": 0.5,
+    "cap": 0.5
+  },
+  "bayesian_context": {
+    "copia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "editada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "nansa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "lleo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/enganxar.json"
+}

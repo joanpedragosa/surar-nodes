@@ -1,0 +1,39 @@
+{
+  "concept": "gestionen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "legionaris": 1.0
+  },
+  "bayesian_context": {
+    "amo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "terrenys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "troba": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "local": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "solar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "legionaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "consorci": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/gestionen.json"
+}

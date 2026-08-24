@@ -1,0 +1,27 @@
+{
+  "concept": "transformant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tardor": 1.0
+  },
+  "bayesian_context": {
+    "tardor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "espai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "politic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "independentista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/transformant.json"
+}

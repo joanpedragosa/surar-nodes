@@ -1,0 +1,27 @@
+{
+  "concept": "servei_postal",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estats_units": 1.0
+  },
+  "bayesian_context": {
+    "crear": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "estats_units": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "imatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "segell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/servei_postal.json"
+}

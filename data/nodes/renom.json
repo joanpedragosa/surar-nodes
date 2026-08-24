@@ -1,0 +1,86 @@
+{
+  "concept": "renom",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "dia": 0.25,
+    "escultor": 0.25,
+    "periode": 0.25,
+    "japo": 0.25
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.67
+    },
+    "empresari": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "mes": {
+      "likelihood": 0.025,
+      "posterior_boost": 3.08
+    },
+    "dia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.18
+    },
+    "domenico_barbaia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "aconseguir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "gran": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.1
+    },
+    "escultor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "jōcho": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "periode": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "kamakura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "adquirir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "llocs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "plasmar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "imatges": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "hiroshige": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "bells": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "japo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.86
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/renom.json"
+}

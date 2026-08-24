@@ -1,0 +1,47 @@
+{
+  "concept": "flagel",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "lacio": 1.0
+  },
+  "bayesian_context": {
+    "presencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "angels": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "escenes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "lacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "comuna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "relacionen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "apareixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "esporadicament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "crucifixio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/flagel.json"
+}

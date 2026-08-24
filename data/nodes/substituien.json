@@ -1,0 +1,35 @@
+{
+  "concept": "substituien",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mercat_nou": 1.0
+  },
+  "bayesian_context": {
+    "tallers": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.28
+    },
+    "mercat_nou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "nous": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "manteniment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "hospital": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "bellvitge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/substituien.json"
+}

@@ -1,0 +1,51 @@
+{
+  "concept": "gregari",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vivia": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "dir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "dorudon": {
+      "likelihood": 0.05,
+      "posterior_boost": 5.0
+    },
+    "fos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "vivia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "grups": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "diuen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "fossils": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "animal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/gregari.json"
+}

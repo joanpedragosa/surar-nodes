@@ -1,0 +1,69 @@
+{
+  "concept": "enquestats",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "mitjans": 0.3333,
+    "sap": 0.3333,
+    "seguir": 0.3333
+  },
+  "bayesian_context": {
+    "informacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "demana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "ceo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "mitjans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "fan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "servir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "accedir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "politica": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.04
+    },
+    "percentatge": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "sap": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "contesta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "escullen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "seguir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "electoral": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/enquestats.json"
+}

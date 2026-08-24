@@ -1,0 +1,43 @@
+{
+  "concept": "contractant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "publicista": 1.0
+  },
+  "bayesian_context": {
+    "volia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "aconseguir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "publicista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "mitjans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "nord": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "americans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "prestessin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "atencio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/contractant.json"
+}

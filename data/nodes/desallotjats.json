@@ -1,0 +1,35 @@
+{
+  "concept": "desallotjats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "puntades": 1.0
+  },
+  "bayesian_context": {
+    "propinar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mossos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "manifestants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "puntades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "peu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "puny": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/desallotjats.json"
+}

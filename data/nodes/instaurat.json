@@ -1,0 +1,35 @@
+{
+  "concept": "instaurat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "republica": 1.0
+  },
+  "bayesian_context": {
+    "marcara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "dissolucio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "crida_nacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "republica": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.79
+    },
+    "hagi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "catalana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/instaurat.json"
+}

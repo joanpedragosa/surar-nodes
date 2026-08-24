@@ -1,0 +1,23 @@
+{
+  "concept": "mutoscopi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dispositiu": 1.0
+  },
+  "bayesian_context": {
+    "dispositiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "cinematografic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "arcaic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mutoscopi.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "repensar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pais": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "torra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "pais": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "territori": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/repensar.json"
+}

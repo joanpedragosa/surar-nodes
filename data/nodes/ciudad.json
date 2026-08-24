@@ -1,0 +1,47 @@
+{
+  "concept": "ciudad",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "toledo": 1.0
+  },
+  "bayesian_context": {
+    "autor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "historia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "descripcion": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "imperial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "toledo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "pedro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "alcocer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ciudad.json"
+}

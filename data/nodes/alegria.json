@@ -1,0 +1,60 @@
+{
+  "concept": "alegria",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "platja": 0.5,
+    "faig": 0.5
+  },
+  "bayesian_context": {
+    "canta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "platja": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "proxima": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "napols": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "grup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.6
+    },
+    "gitanos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "deia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "picasso": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "donava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "faig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "relacionat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "art": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.74
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/alegria.json"
+}

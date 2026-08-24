@@ -1,0 +1,31 @@
+{
+  "concept": "pablo_picasso",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "paul_klee": 1.0
+  },
+  "bayesian_context": {
+    "pintors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "interessaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "paul_klee": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "joan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "miro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pablo_picasso.json"
+}

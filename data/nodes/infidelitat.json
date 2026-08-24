@@ -1,0 +1,51 @@
+{
+  "concept": "infidelitat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "conjugal": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "considerada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "conjugal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "trama": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "immoral": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "acusen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "injustament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "esposa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "fidel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/infidelitat.json"
+}

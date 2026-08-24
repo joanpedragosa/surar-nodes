@@ -1,0 +1,68 @@
+{
+  "concept": "complexacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "residus": 0.5,
+    "radionuclids": 0.5
+  },
+  "bayesian_context": {
+    "produeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "residus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "radioactius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fosfats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "compostos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "organics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "sulfits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "crucials": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "agents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "segrestants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "radionuclids": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "increment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "solubilitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "biodisponibilitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/complexacio.json"
+}

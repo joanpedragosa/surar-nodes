@@ -1,0 +1,31 @@
+{
+  "concept": "llatzer",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lepros": 1.0
+  },
+  "bayesian_context": {
+    "llepa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "gos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "escena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "ferides": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "lepros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/llatzer.json"
+}

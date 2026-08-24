@@ -1,0 +1,23 @@
+{
+  "concept": "monika",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "publica": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "publica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "article": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/monika.json"
+}

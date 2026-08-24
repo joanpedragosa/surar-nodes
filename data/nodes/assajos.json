@@ -1,0 +1,95 @@
+{
+  "concept": "assajos",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "clinics": 0.2,
+    "seguir": 0.2,
+    "licula": 0.2,
+    "finals": 0.2,
+    "vuitena": 0.2
+  },
+  "bayesian_context": {
+    "actualment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.66
+    },
+    "clinics": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "fase": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.85
+    },
+    "ii": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.81
+    },
+    "passar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.48
+    },
+    "seguir": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "endavant": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "fer": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.63
+    },
+    "primers": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.67
+    },
+    "licula": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.46
+    },
+    "marc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.66
+    },
+    "instrument": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.42
+    },
+    "afegir": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.37
+    },
+    "mahler": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "finals": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.93
+    },
+    "seccio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "percussio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "vuitena": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.63
+    },
+    "glockenspiel": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "piano": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/assajos.json"
+}

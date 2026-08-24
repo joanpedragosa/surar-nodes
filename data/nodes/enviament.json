@@ -1,0 +1,39 @@
+{
+  "concept": "enviament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "massiu": 1.0
+  },
+  "bayesian_context": {
+    "demanen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "laboracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "portar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "terme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "massiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "ciutadans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/enviament.json"
+}

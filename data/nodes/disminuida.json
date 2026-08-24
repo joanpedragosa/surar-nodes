@@ -1,0 +1,31 @@
+{
+  "concept": "disminuida",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dolor": 1.0
+  },
+  "bayesian_context": {
+    "expressen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "acords": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "setena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "dolor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "angoixa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/disminuida.json"
+}

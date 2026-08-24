@@ -1,0 +1,31 @@
+{
+  "concept": "desdoblament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "via": 1.0
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "finalitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "via": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "martorell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/desdoblament.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "la_mare",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "deu": 1.0
+  },
+  "bayesian_context": {
+    "deu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "canceller": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "rolin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "museu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "louvre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "paris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/la_mare.json"
+}

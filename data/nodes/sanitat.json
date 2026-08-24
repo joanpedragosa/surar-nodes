@@ -1,0 +1,64 @@
+{
+  "concept": "sanitat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "exercit": 0.5,
+    "segons": 0.5
+  },
+  "bayesian_context": {
+    "depenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "agruhoc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "brigada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "exercit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "recomana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "ministeri": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "pedro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "sanchez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "cancel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "lacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "activitats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "educatives": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sanitat.json"
+}

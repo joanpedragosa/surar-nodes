@@ -1,0 +1,52 @@
+{
+  "concept": "vallmoll",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "huguet": 0.5,
+    "flamenquitzants": 0.5
+  },
+  "bayesian_context": {
+    "autor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "retaule": {
+      "likelihood": 0.0444,
+      "posterior_boost": 4.12
+    },
+    "mare": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.88
+    },
+    "deu": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.76
+    },
+    "huguet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "rica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "decoracio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "elements": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "conte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "flamenquitzants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vallmoll.json"
+}

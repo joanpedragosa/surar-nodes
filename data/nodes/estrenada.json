@@ -1,0 +1,56 @@
+{
+  "concept": "estrenada",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "benjamin_britten": 0.5,
+    "amore": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "primera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "benjamin_britten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "londres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "peter_grimes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "amore": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "dei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "tre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "re": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "abril": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/estrenada.json"
+}

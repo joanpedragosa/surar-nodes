@@ -1,0 +1,59 @@
+{
+  "concept": "isotonics",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "produeix": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "fluids": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "produeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "transferencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "neta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "aigua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "fluid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "cel": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.44
+    },
+    "lular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "envolta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "lula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/isotonics.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "aprovin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "olimpiades": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "olimpiades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "referendum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/aprovin.json"
+}

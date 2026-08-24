@@ -1,0 +1,35 @@
+{
+  "concept": "ajustar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "plantilla": 1.0
+  },
+  "bayesian_context": {
+    "presentara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "ero": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "caixabank": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "plantilla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "necessitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "banc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ajustar.json"
+}

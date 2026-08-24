@@ -1,0 +1,19 @@
+{
+  "concept": "palau_menor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "barcelona": 1.0
+  },
+  "bayesian_context": {
+    "esglesia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/palau_menor.json"
+}

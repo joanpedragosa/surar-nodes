@@ -1,0 +1,51 @@
+{
+  "concept": "club_comodin",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ajedrez": 1.0
+  },
+  "bayesian_context": {
+    "liderava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ajedrez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "carles_ferrer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "salat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "grup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.6
+    },
+    "joves": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "empresaris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "inquietuds": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "politiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/club_comodin.json"
+}

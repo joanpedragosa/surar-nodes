@@ -1,0 +1,23 @@
+{
+  "concept": "rinne",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fa": 1.0
+  },
+  "bayesian_context": {
+    "dimitir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "fa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.8
+    },
+    "setmana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/rinne.json"
+}

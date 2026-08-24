@@ -1,0 +1,31 @@
+{
+  "concept": "arrossegaven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lahars": 1.0
+  },
+  "bayesian_context": {
+    "lahars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "baixaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "vessants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "volca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "roques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/arrossegaven.json"
+}

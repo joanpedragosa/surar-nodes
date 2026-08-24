@@ -1,0 +1,59 @@
+{
+  "concept": "due",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "foscari": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "soprano": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "foscari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "marianna_barbieri": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "nini": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "experimenta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "noves": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "formes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.04
+    },
+    "expressio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "musical": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "estrenar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.63
+    },
+    "teatro_argentina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/due.json"
+}

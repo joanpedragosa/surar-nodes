@@ -1,0 +1,59 @@
+{
+  "concept": "inspectors",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "policia": 1.0
+  },
+  "bayesian_context": {
+    "rebre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "policia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "ordres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "actuar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "vuit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "mati": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "superior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "referit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "indicatiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "policiac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "mart": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/inspectors.json"
+}

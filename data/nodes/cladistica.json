@@ -1,0 +1,51 @@
+{
+  "concept": "cladistica",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "descendents": 1.0
+  },
+  "bayesian_context": {
+    "exigeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "definicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "descendents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "avantpassat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "comu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "siguin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "inclosos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "sigui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "natural": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cladistica.json"
+}

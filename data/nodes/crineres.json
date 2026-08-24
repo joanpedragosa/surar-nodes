@@ -1,0 +1,39 @@
+{
+  "concept": "crineres",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "uapitis": 1.0
+  },
+  "bayesian_context": {
+    "desenvolupen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "espesses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "uapitis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "siberia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "nord": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "america": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "coll": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/crineres.json"
+}

@@ -1,0 +1,132 @@
+{
+  "concept": "ric",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "client": 0.1667,
+    "lipids": 0.1667,
+    "formatge": 0.1667,
+    "aliment": 0.1667,
+    "fruit": 0.1667,
+    "fons": 0.1667
+  },
+  "bayesian_context": {
+    "contractava": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "arquitecte": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.82
+    },
+    "client": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "privat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "rep": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.71
+    },
+    "aliment": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "lipids": {
+      "likelihood": 0.0125,
+      "posterior_boost": 5.0
+    },
+    "nutrients": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "nounats": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "tornar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.53
+    },
+    "prado": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.82
+    },
+    "marroc": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "era": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.37
+    },
+    "epulo": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "formatge": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "mao": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "proteines": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.74
+    },
+    "fruit": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "arbre": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.82
+    },
+    "pa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.58
+    },
+    "glucids": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "perdre": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.89
+    },
+    "roda": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "ordre": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.53
+    },
+    "governativa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "part": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.8
+    },
+    "fons": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.42
+    },
+    "arxivistic": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "codicologic": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ric.json"
+}

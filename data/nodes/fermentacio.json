@@ -1,0 +1,51 @@
+{
+  "concept": "fermentacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "acte": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "concebuda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "antigament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "acte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "divi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "caracter": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "magic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "necessaria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "desenvolupament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fermentacio.json"
+}

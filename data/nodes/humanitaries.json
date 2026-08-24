@@ -1,0 +1,25 @@
+{
+  "concept": "humanitaries",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "demanen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "llibertat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "zaplana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "questions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/humanitaries.json"
+}

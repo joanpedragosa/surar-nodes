@@ -1,0 +1,64 @@
+{
+  "concept": "cafe",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "colon": 0.5,
+    "guerbois": 0.5
+  },
+  "bayesian_context": {
+    "permetre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "muncunill": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "construir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "primer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "colon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "realineacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "nord": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "placa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "vella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "guerbois": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cafe.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "ninots",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mori": 1.0
+  },
+  "bayesian_context": {
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "mori": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "merma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ninots.json"
+}

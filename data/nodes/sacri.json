@@ -1,0 +1,27 @@
+{
+  "concept": "sacri",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ferron": 1.0
+  },
+  "bayesian_context": {
+    "dirigeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "equip": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "investigadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "ferron": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sacri.json"
+}

@@ -1,0 +1,25 @@
+{
+  "concept": "pin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "manca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "energia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "continuar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "endavant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pin.json"
+}

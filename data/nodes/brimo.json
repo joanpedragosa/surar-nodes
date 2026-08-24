@@ -1,0 +1,31 @@
+{
+  "concept": "brimo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "joves": 1.0
+  },
+  "bayesian_context": {
+    "copejar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "membres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "joves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "cara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/brimo.json"
+}

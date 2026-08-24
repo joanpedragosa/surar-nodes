@@ -1,0 +1,43 @@
+{
+  "concept": "a_index",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "baker": 1.0
+  },
+  "bayesian_context": {
+    "confeccionat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "document": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "anomenat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "cros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "border_m": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "amp": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.42
+    },
+    "baker": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "mckenzie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/a_index.json"
+}

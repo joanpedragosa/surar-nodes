@@ -1,0 +1,39 @@
+{
+  "concept": "debat_constituent",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "centre_moral": 1.0
+  },
+  "bayesian_context": {
+    "fet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.83
+    },
+    "darrera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "jornada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "formativa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "centre_moral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "cultural": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "poble_nou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/debat_constituent.json"
+}

@@ -1,0 +1,77 @@
+{
+  "concept": "catalogar",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "van_eyck": 0.3333,
+    "star_wars": 0.3333,
+    "angela_merkel": 0.3333
+  },
+  "bayesian_context": {
+    "van_eyck": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "quasi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "arqueoleg": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "panofsky": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "star_wars": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "millors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "films": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "segle": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.29
+    },
+    "xx": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "institut": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "american_film": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "institute": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "angela_merkel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "tria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "kemmerich": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "imperdonable": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/catalogar.json"
+}

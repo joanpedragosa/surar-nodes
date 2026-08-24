@@ -1,0 +1,39 @@
+{
+  "concept": "buidades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "instal": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "instal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "lacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "museu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "fugint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "bombardejos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/buidades.json"
+}

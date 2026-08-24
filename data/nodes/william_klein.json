@@ -1,0 +1,31 @@
+{
+  "concept": "william_klein",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nova_york": 1.0
+  },
+  "bayesian_context": {
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "dedicat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "nova_york": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/william_klein.json"
+}

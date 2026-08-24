@@ -1,0 +1,35 @@
+{
+  "concept": "sifaques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "proves": 1.0
+  },
+  "bayesian_context": {
+    "proves": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.07
+    },
+    "donen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "mals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "resultats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "dissenyades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "micos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sifaques.json"
+}

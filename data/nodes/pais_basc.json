@@ -1,0 +1,84 @@
+{
+  "concept": "pais_basc",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "alfonso_alonso": 0.5,
+    "catalunya": 0.5
+  },
+  "bayesian_context": {
+    "president": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.48
+    },
+    "pp": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.64
+    },
+    "alfonso_alonso": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "legal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "adopcio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "part": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "parelles": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "homosexuals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "navarra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "asturies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "arago": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "catalunya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    },
+    "formacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "diputat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "odon": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "elorza": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "partit_socialista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pais_basc.json"
+}

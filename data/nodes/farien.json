@@ -1,0 +1,52 @@
+{
+  "concept": "farien",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tuneladora": 0.5,
+    "dialogarien": 0.5
+  },
+  "bayesian_context": {
+    "tuneladora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "bifuracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "besos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "seria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "desmuntada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "extreta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "pensava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "monica_terribas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dialogarien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/farien.json"
+}

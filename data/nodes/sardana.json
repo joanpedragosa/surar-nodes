@@ -1,0 +1,85 @@
+{
+  "concept": "sardana",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "dissabte": 0.3333,
+    "davant": 0.3333,
+    "patrimoni_cultural": 0.3333
+  },
+  "bayesian_context": {
+    "feien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "ballades": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "dissabte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "tarda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "hora": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "fan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "davant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "catedral": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    },
+    "comencat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "tramits": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "confederacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "sardanista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "catalunya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    },
+    "impulsar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "candidatura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "patrimoni_cultural": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "immaterial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "humanitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sardana.json"
+}

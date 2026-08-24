@@ -1,0 +1,27 @@
+{
+  "concept": "cims_borrascosos",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "heathcliff": 1.0
+  },
+  "bayesian_context": {
+    "paper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.2
+    },
+    "interpretat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "olivier": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "heathcliff": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cims_borrascosos.json"
+}

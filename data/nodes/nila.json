@@ -1,0 +1,39 @@
+{
+  "concept": "nila",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "zona": 1.0
+  },
+  "bayesian_context": {
+    "fluia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "zona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "piramides": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "prop": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "riba": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "occidental": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/nila.json"
+}

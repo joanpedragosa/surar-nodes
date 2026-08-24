@@ -1,0 +1,39 @@
+{
+  "concept": "napolita",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "retroces": 1.0
+  },
+  "bayesian_context": {
+    "considerada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "comparacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "serie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "operes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "periode": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "retroces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/napolita.json"
+}

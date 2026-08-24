@@ -1,0 +1,83 @@
+{
+  "concept": "museo",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "prado": 1.0
+  },
+  "bayesian_context": {
+    "museu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "poder": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "veure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "picasso": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "primer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "cop": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "velazquez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "prado": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "personatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "parell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "esbossos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "visita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "bufo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "calabacillas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "nino": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vallecas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/museo.json"
+}

@@ -1,0 +1,51 @@
+{
+  "concept": "respectar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "legalitat": 1.0
+  },
+  "bayesian_context": {
+    "hauria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "manifestar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "puigdemont": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "posar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "punt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "final": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "periode": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "inestabilitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "voluntat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "legalitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/respectar.json"
+}

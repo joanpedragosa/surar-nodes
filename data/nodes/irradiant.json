@@ -1,0 +1,43 @@
+{
+  "concept": "irradiant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "feixos": 1.0
+  },
+  "bayesian_context": {
+    "mostra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "deu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "escenes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "anunciacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "feixos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "llum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "presencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "maria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/irradiant.json"
+}

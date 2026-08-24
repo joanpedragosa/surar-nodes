@@ -1,0 +1,31 @@
+{
+  "concept": "estores",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "canya": 1.0
+  },
+  "bayesian_context": {
+    "feien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "servir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "cobrir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "terra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "canya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/estores.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "inactivitat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "formigues": 1.0
+  },
+  "bayesian_context": {
+    "sobreviuen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "formigues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "hivern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "torpor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "formes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "variades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/inactivitat.json"
+}

@@ -1,0 +1,23 @@
+{
+  "concept": "defensiu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "guerra": 1.0
+  },
+  "bayesian_context": {
+    "baluard": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "guerra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "successio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/defensiu.json"
+}

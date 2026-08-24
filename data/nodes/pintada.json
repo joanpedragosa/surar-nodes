@@ -1,0 +1,77 @@
+{
+  "concept": "pintada",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "processo": 0.2,
+    "obra": 0.6,
+    "mare": 0.2
+  },
+  "bayesian_context": {
+    "representa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.66
+    },
+    "plaques": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "fusta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.81
+    },
+    "processo": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "femenina": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "ser": {
+      "likelihood": 0.02,
+      "posterior_boost": 2.93
+    },
+    "obra": {
+      "likelihood": 0.02,
+      "posterior_boost": 3.3
+    },
+    "flandes": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.63
+    },
+    "tecnica": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.59
+    },
+    "mare": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.36
+    },
+    "deu": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.24
+    },
+    "consellers": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    },
+    "oli": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "llinosa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "segle": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.07
+    },
+    "xv": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pintada.json"
+}

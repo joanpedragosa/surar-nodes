@@ -1,0 +1,35 @@
+{
+  "concept": "caracteritzada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "composicio": 1.0
+  },
+  "bayesian_context": {
+    "composicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "romana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "orient": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "repeticio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "ritmes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "verticals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/caracteritzada.json"
+}

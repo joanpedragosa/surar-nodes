@@ -1,0 +1,62 @@
+{
+  "concept": "tribuna",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "san_miguel": 0.25,
+    "llotges": 0.25,
+    "batllo": 0.25,
+    "angle": 0.25
+  },
+  "bayesian_context": {
+    "destinada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "san_miguel": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "lillo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "monarca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "trobem": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.61
+    },
+    "llotges": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "recorda": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "boques": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "obertures": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "batllo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "situar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "angle": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tribuna.json"
+}

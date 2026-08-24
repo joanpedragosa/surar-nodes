@@ -1,0 +1,35 @@
+{
+  "concept": "operistica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "moda": 1.0
+  },
+  "bayesian_context": {
+    "missa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "bemoll": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "major": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "menys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "moda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "moment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/operistica.json"
+}

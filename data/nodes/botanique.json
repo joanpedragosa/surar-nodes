@@ -1,0 +1,35 @@
+{
+  "concept": "botanique",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "international_code": 1.0
+  },
+  "bayesian_context": {
+    "convertir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "theorie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "elementaire": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "international_code": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "of": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "botanical_nomenclature": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/botanique.json"
+}

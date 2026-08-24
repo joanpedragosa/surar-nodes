@@ -1,0 +1,52 @@
+{
+  "concept": "jacques_rousseau",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "discurs": 0.5,
+    "carta": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "carta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "voltaire": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "contesta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "jean": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "discurs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "habil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ironica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mitja": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "respon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/jacques_rousseau.json"
+}

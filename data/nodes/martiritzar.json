@@ -1,0 +1,36 @@
+{
+  "concept": "martiritzar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "castrum_octavium": 0.5,
+    "santa_eulalia": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "castrum_octavium": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "cugat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "edat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "santa_eulalia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/martiritzar.json"
+}

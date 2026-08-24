@@ -1,0 +1,47 @@
+{
+  "concept": "interferencia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "afer": 1.0
+  },
+  "bayesian_context": {
+    "posar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "practica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "paisos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "democratics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "europeus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "inici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "guerra_civil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "afer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "intern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/interferencia.json"
+}

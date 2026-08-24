@@ -1,0 +1,36 @@
+{
+  "concept": "charlotte",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "albert": 0.5,
+    "handsworth": 0.5
+  },
+  "bayesian_context": {
+    "pretendent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "albert": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "veure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.75
+    },
+    "elizabeth": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "viu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "handsworth": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/charlotte.json"
+}

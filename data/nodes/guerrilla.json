@@ -1,0 +1,43 @@
+{
+  "concept": "guerrilla",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "anarquista": 1.0
+  },
+  "bayesian_context": {
+    "titol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "porta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "presenta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "avui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "quico": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "sabate": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "anarquista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/guerrilla.json"
+}

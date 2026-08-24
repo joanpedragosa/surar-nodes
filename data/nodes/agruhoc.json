@@ -1,0 +1,56 @@
+{
+  "concept": "agruhoc",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "siemens": 0.5,
+    "brigada": 0.5
+  },
+  "bayesian_context": {
+    "dissenyar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "projecte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.9
+    },
+    "siemens": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "it": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "solutions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "and": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "services": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "depenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "brigada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "sanitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "exercit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/agruhoc.json"
+}

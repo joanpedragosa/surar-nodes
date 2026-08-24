@@ -1,0 +1,39 @@
+{
+  "concept": "regent",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "paisos": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "paisos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "baixos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "arxiduc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "albert": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "vii": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "austria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/regent.json"
+}

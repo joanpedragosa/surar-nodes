@@ -1,0 +1,31 @@
+{
+  "concept": "macrofactoria",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "seat": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "treballadors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "seat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "martorell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "prop": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/macrofactoria.json"
+}

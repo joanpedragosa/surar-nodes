@@ -1,0 +1,31 @@
+{
+  "concept": "humides",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "perdua": 1.0
+  },
+  "bayesian_context": {
+    "acceleren": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "atmosferes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "altes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "perdua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "hidrogen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/humides.json"
+}

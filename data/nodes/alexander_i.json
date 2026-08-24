@@ -1,0 +1,44 @@
+{
+  "concept": "alexander_i",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "nicolau_i": 0.5,
+    "exercits": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "tsar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "morir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "nicolau_i": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "conduir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "exercits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "paris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/alexander_i.json"
+}

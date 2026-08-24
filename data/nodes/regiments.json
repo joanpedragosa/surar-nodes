@@ -1,0 +1,35 @@
+{
+  "concept": "regiments",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "afroamericans": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "afroamericans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "reclutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "general": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "lorenzo_thomas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "vint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/regiments.json"
+}

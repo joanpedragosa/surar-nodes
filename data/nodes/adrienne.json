@@ -1,0 +1,39 @@
+{
+  "concept": "adrienne",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "drama": 1.0
+  },
+  "bayesian_context": {
+    "causa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "mort": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "drama": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "ernest": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "legouve": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "eugene_scribe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "enverinament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/adrienne.json"
+}

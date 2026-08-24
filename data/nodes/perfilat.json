@@ -1,0 +1,31 @@
+{
+  "concept": "perfilat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "psicologicament": 1.0
+  },
+  "bayesian_context": {
+    "apareix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "psicologicament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "el_rei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "bohusch": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "nan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/perfilat.json"
+}

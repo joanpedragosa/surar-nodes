@@ -1,0 +1,33 @@
+{
+  "concept": "postelectoral",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "mantindran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "pdecat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "pnb": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "laboracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/postelectoral.json"
+}

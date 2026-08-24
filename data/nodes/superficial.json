@@ -1,0 +1,52 @@
+{
+  "concept": "superficial",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "avorrida": 0.5,
+    "produida": 0.5
+  },
+  "bayesian_context": {
+    "vida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.78
+    },
+    "lady_sarah": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "ashley": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "avorrida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "equival": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "energia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "produida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "tones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "tnt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/superficial.json"
+}

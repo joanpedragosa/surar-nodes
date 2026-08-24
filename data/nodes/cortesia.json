@@ -1,0 +1,39 @@
+{
+  "concept": "cortesia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "conjunt": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "conjunt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "porta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "lady_sarah": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "arriba": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "darwin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "prada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cortesia.json"
+}

@@ -1,0 +1,96 @@
+{
+  "concept": "regulacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "lloguer": 0.5,
+    "normativa": 0.5
+  },
+  "bayesian_context": {
+    "lluitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "lobbys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "lloguer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "vacacional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "impost": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "turisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "sostenible": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "prohibicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "plastics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.73
+    },
+    "venda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "vehicles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "diesel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "troba": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "primera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "normativa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "reglamentava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "produccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "cervesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "estela": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "hammurabi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/regulacio.json"
+}

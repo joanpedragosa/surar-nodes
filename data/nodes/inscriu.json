@@ -1,0 +1,27 @@
+{
+  "concept": "inscriu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "intercanvi": 1.0
+  },
+  "bayesian_context": {
+    "intercanvi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "sistema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "llibertat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "natural": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/inscriu.json"
+}

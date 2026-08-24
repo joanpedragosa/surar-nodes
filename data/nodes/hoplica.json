@@ -1,0 +1,39 @@
+{
+  "concept": "hoplica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "signes": 1.0
+  },
+  "bayesian_context": {
+    "creu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "arma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "llanca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "signes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "suport": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "avantbrac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/hoplica.json"
+}

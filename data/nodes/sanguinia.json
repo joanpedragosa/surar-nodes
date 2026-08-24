@@ -1,0 +1,43 @@
+{
+  "concept": "sanguinia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "injeccio": 1.0
+  },
+  "bayesian_context": {
+    "absorbeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "penicil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "lina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "benzatinica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "circulacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "injeccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "intramuscular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "lentament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sanguinia.json"
+}

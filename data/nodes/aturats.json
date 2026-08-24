@@ -1,0 +1,32 @@
+{
+  "concept": "aturats",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "hagut": 0.5,
+    "menys": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "hagut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "gener": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "menys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "illes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/aturats.json"
+}

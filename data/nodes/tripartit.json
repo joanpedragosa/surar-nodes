@@ -1,0 +1,80 @@
+{
+  "concept": "tripartit",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "ofereix": 0.5,
+    "barcelona": 0.5
+  },
+  "bayesian_context": {
+    "sera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "consell": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    },
+    "primera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.37
+    },
+    "vegada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "historia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "prosseguira": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "oferta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "ofereix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "barcelona": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.46
+    },
+    "comu": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.39
+    },
+    "ultim": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "moment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.91
+    },
+    "partits": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "politics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "formaria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "erc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "psc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tripartit.json"
+}

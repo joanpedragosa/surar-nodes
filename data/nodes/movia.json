@@ -1,0 +1,23 @@
+{
+  "concept": "movia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cm": 1.0
+  },
+  "bayesian_context": {
+    "velocitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "cm": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/movia.json"
+}

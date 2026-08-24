@@ -1,0 +1,535 @@
+{
+  "concept": "llibres",
+  "frequency": 23,
+  "edges": [],
+  "markov_transitions": {
+    "edita": 0.05,
+    "publicat": 0.05,
+    "books": 0.05,
+    "revistes": 0.1,
+    "punic": 0.05,
+    "apropar": 0.05,
+    "roba": 0.1,
+    "proposit": 0.05,
+    "liturgics": 0.1,
+    "recopilava": 0.05,
+    "major": 0.05,
+    "componien": 0.05,
+    "biblioteca": 0.05,
+    "utilitzava": 0.05,
+    "publicar": 0.05,
+    "takizawa_bakin": 0.05,
+    "bibliofil": 0.05
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0029,
+      "posterior_boost": 2.19
+    },
+    "edita": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "la_compagnie": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "agost": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.08
+    },
+    "publicat": {
+      "likelihood": 0.0029,
+      "posterior_boost": 3.73
+    },
+    "ramon_pascual": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "mes": {
+      "likelihood": 0.0014,
+      "posterior_boost": 1.9
+    },
+    "desena": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.19
+    },
+    "anomena": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.98
+    },
+    "serie": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.1
+    },
+    "books": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "disney_publishing": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "worldwide": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "lucasfilm": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.96
+    },
+    "journey": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "to": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.49
+    },
+    "star_wars": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.46
+    },
+    "the_force": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "awkens": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "col": {
+      "likelihood": 0.0029,
+      "posterior_boost": 2.77
+    },
+    "loquen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "revistes": {
+      "likelihood": 0.0029,
+      "posterior_boost": 4.36
+    },
+    "venen": {
+      "likelihood": 0.0029,
+      "posterior_boost": 4.66
+    },
+    "nois": {
+      "likelihood": 0.0029,
+      "posterior_boost": 4.19
+    },
+    "noies": {
+      "likelihood": 0.0029,
+      "posterior_boost": 4.01
+    },
+    "majoria": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.91
+    },
+    "llibreries": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "diferents": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.91
+    },
+    "plataformes": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "sigut": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.23
+    },
+    "motes": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "coses": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.96
+    },
+    "gracies": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.29
+    },
+    "punic": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.96
+    },
+    "preservades": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "oblit": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.19
+    },
+    "voler": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.43
+    },
+    "fer": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.0
+    },
+    "isaac_titsingh": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.96
+    },
+    "apropar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.19
+    },
+    "historia": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.81
+    },
+    "japo": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.1
+    },
+    "mitica": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "figura": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.97
+    },
+    "shogun": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.19
+    },
+    "public": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.81
+    },
+    "occidental": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.71
+    },
+    "poder": {
+      "likelihood": 0.0029,
+      "posterior_boost": 3.04
+    },
+    "comprar": {
+      "likelihood": 0.0029,
+      "posterior_boost": 3.85
+    },
+    "fans": {
+      "likelihood": 0.0029,
+      "posterior_boost": 4.36
+    },
+    "licula": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.8
+    },
+    "joguines": {
+      "likelihood": 0.0029,
+      "posterior_boost": 4.49
+    },
+    "roba": {
+      "likelihood": 0.0029,
+      "posterior_boost": 3.96
+    },
+    "alta": {
+      "likelihood": 0.0029,
+      "posterior_boost": 3.39
+    },
+    "varietat": {
+      "likelihood": 0.0029,
+      "posterior_boost": 3.82
+    },
+    "productes": {
+      "likelihood": 0.0029,
+      "posterior_boost": 3.89
+    },
+    "assenyalen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "equivocadament": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "proposit": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.19
+    },
+    "cavendish": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.06
+    },
+    "era": {
+      "likelihood": 0.0043,
+      "posterior_boost": 2.39
+    },
+    "determinar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.22
+    },
+    "constant": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.66
+    },
+    "gravitacional": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "porten": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.71
+    },
+    "distintiu": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.06
+    },
+    "art": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.69
+    },
+    "estendre": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.89
+    },
+    "cultura": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.3
+    },
+    "perdre": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.43
+    },
+    "definitivament": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.06
+    },
+    "anys": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.21
+    },
+    "publicacio": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.96
+    },
+    "liturgics": {
+      "likelihood": 0.0029,
+      "posterior_boost": 4.49
+    },
+    "volia": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.75
+    },
+    "rei": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.74
+    },
+    "estigueren": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "recopilava": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "arias_montano": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.76
+    },
+    "biblioteca": {
+      "likelihood": 0.0029,
+      "posterior_boost": 3.89
+    },
+    "escorial": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.06
+    },
+    "compilar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "coneixement": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.55
+    },
+    "medic": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.06
+    },
+    "metges": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.89
+    },
+    "romans": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.46
+    },
+    "orient": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.62
+    },
+    "disney_stores": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "botigues": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "temporada": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.39
+    },
+    "any": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.12
+    },
+    "venta": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "major": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.97
+    },
+    "part": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.35
+    },
+    "sant_jordi": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.36
+    },
+    "nadal": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.62
+    },
+    "componien": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "tractat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.3
+    },
+    "pressupost": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.99
+    },
+    "adquirir": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.46
+    },
+    "ducats": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "venedor": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.96
+    },
+    "utilitzava": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.43
+    },
+    "emmagatzemar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "documents": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.55
+    },
+    "new_paradigm": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "research_group": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "colors": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.41
+    },
+    "tres": {
+      "likelihood": 0.0029,
+      "posterior_boost": 2.65
+    },
+    "publicar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.88
+    },
+    "hokusai": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.59
+    },
+    "negre": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.3
+    },
+    "gris": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.89
+    },
+    "novel": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.22
+    },
+    "lista": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "il": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.87
+    },
+    "lustrar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "takizawa_bakin": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "publicava": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.36
+    },
+    "corona": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.32
+    },
+    "espanyola": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.82
+    },
+    "publicacions": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.19
+    },
+    "laborar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.52
+    },
+    "bibliofil": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.66
+    },
+    "produccio": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.1
+    },
+    "important": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.0
+    },
+    "anvers": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.62
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/llibres.json"
+}

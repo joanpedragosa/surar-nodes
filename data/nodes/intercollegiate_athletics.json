@@ -1,0 +1,33 @@
+{
+  "concept": "intercollegiate_athletics",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "esdevenir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "tard": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "national_association": {
+      "likelihood": 0.0667,
+      "posterior_boost": 6.02
+    },
+    "of": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.77
+    },
+    "intercollegiate_basketball": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/intercollegiate_athletics.json"
+}

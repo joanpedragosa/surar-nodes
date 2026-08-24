@@ -1,0 +1,39 @@
+{
+  "concept": "imperant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "primeres": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "estil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "artistic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "primeres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "decades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "segle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.77
+    },
+    "noucentisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/imperant.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "desertificacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "erosio": 1.0
+  },
+  "bayesian_context": {
+    "presenta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "resistencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "zona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "font_roja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "erosio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/desertificacio.json"
+}

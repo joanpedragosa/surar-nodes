@@ -1,0 +1,36 @@
+{
+  "concept": "dissenyadors",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "parisencs": 0.5,
+    "pasquale_canna": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "parisencs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "importants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "augueste_duflos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pasquale_canna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/dissenyadors.json"
+}

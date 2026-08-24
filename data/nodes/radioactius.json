@@ -1,0 +1,68 @@
+{
+  "concept": "radioactius",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fosfats": 0.5,
+    "ser": 0.5
+  },
+  "bayesian_context": {
+    "produeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "complexacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "residus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "fosfats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "compostos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "organics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "sulfits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "convertides": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "estable": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "extrets": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "medi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/radioactius.json"
+}

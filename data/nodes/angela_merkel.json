@@ -1,0 +1,52 @@
+{
+  "concept": "angela_merkel",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "tria": 0.5,
+    "cdu": 0.5
+  },
+  "bayesian_context": {
+    "cancellera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "alemanya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.94
+    },
+    "catalogar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "tria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "kemmerich": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "imperdonable": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "partit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "politic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.71
+    },
+    "pertany": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.04
+    },
+    "cdu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/angela_merkel.json"
+}

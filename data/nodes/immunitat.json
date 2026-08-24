@@ -1,0 +1,374 @@
+{
+  "concept": "immunitat",
+  "frequency": 16,
+  "edges": [],
+  "markov_transitions": {
+    "sala": 0.0667,
+    "sentencia": 0.0667,
+    "oriol_junqueras": 0.2,
+    "ponsati": 0.1333,
+    "eurodiputat": 0.0667,
+    "eurodiputada": 0.0667,
+    "diplomatica": 0.0667,
+    "jurisdiccio": 0.0667,
+    "judicial": 0.0667,
+    "junqueras": 0.0667,
+    "innata": 0.0667,
+    "carles_puigdemont": 0.0667
+  },
+  "bayesian_context": {
+    "reconegut": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "sala": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.25
+    },
+    "penal": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "tribunal": {
+      "likelihood": 0.0063,
+      "posterior_boost": 3.61
+    },
+    "junqueras": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.8
+    },
+    "reconeix": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "sentencia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.65
+    },
+    "luxemburg": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "oriol_junqueras": {
+      "likelihood": 0.0104,
+      "posterior_boost": 4.12
+    },
+    "presentat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.99
+    },
+    "informe": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.27
+    },
+    "advocacia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "ponsati": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "eurodiputada": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "ser": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.26
+    },
+    "eurodiputat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "igualitaria": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "discriminatoria": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "rao": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "nacionalitat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "enviat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.52
+    },
+    "carlos_lesmes": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "david_sassoli": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "sol": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.13
+    },
+    "licitud": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "suplicatori": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "suspengui": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "clara_ponsati": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "lega": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "grace_mugabe": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "evitar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.32
+    },
+    "judici": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.23
+    },
+    "diplomatica": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "hauria": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.24
+    },
+    "defensar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.74
+    },
+    "govern": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.47
+    },
+    "belga": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "segons": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.33
+    },
+    "peticio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.59
+    },
+    "fara": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.21
+    },
+    "cecilia_yuste": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "jurisdiccio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "espanya": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.99
+    },
+    "magistrat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "versa": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "tjue": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "desembre": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.16
+    },
+    "proposat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.5
+    },
+    "acabar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.2
+    },
+    "zelenski": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "judicial": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.57
+    },
+    "diputats": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.02
+    },
+    "licitar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "diana_ribas": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "sassoli": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "principis": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.41
+    },
+    "mes": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.04
+    },
+    "mesures": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.35
+    },
+    "oportunes": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "confirmar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "article": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.06
+    },
+    "reglament": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.68
+    },
+    "intern": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "eurocambra": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "suspendre": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.82
+    },
+    "proces": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.91
+    },
+    "extradicio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    },
+    "puigdemont": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.14
+    },
+    "comin": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.82
+    },
+    "gaudeixen": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "demana": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.12
+    },
+    "llarena": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.74
+    },
+    "parlament_europeu": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.52
+    },
+    "situen": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "limfocits": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.65
+    },
+    "γδ": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "limit": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    },
+    "innata": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "adaptativa": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "cas": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.11
+    },
+    "dur": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.48
+    },
+    "justicia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.05
+    },
+    "unio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.94
+    },
+    "europea": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.94
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.27
+    },
+    "toni_comin": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.68
+    },
+    "tenia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.58
+    },
+    "elegit": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/immunitat.json"
+}

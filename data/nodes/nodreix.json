@@ -1,0 +1,27 @@
+{
+  "concept": "nodreix",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "album": 1.0
+  },
+  "bayesian_context": {
+    "album": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "multiples": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "generes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "estils": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/nodreix.json"
+}

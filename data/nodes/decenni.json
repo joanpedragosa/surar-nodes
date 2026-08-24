@@ -1,0 +1,35 @@
+{
+  "concept": "decenni",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "segle": 1.0
+  },
+  "bayesian_context": {
+    "andrade": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "finals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "segon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "segle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.77
+    },
+    "xx": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "malalt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/decenni.json"
+}

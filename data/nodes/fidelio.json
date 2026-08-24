@@ -1,0 +1,41 @@
+{
+  "concept": "fidelio",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "marzelline": 0.3333,
+    "singspiel": 0.3333,
+    "beethoven": 0.3333
+  },
+  "bayesian_context": {
+    "enamora": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "marzelline": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "singspiel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "costar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "beethoven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "pitjors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "dolors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fidelio.json"
+}

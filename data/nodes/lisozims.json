@@ -1,0 +1,19 @@
+{
+  "concept": "lisozims",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fosfolipases": 1.0
+  },
+  "bayesian_context": {
+    "fosfolipases": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "enzims": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lisozims.json"
+}

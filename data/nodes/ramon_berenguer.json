@@ -1,0 +1,27 @@
+{
+  "concept": "ramon_berenguer",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ii": 1.0
+  },
+  "bayesian_context": {
+    "anomenaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "ii": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "estopes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ramon_berenguer.json"
+}

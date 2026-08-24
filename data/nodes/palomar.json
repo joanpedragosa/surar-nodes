@@ -1,0 +1,59 @@
+{
+  "concept": "palomar",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "palomar_quest": 1.0
+  },
+  "bayesian_context": {
+    "situat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "pla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "barcelona": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.46
+    },
+    "gracia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "sants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "sant_andreu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "telescopi_samuel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "oschin": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "observatori": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.95
+    },
+    "camera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "emprar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "palomar_quest": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/palomar.json"
+}

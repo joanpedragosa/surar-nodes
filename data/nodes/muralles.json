@@ -1,0 +1,72 @@
+{
+  "concept": "muralles",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "ciutat": 0.5,
+    "temps": 0.5
+  },
+  "bayesian_context": {
+    "govern": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "central": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.71
+    },
+    "oposava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "enderrocament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "ciutat": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.61
+    },
+    "causa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "condicio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "placa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "forta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "substituides": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "temps": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.45
+    },
+    "moderns": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "trinxeres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "encotillava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/muralles.json"
+}

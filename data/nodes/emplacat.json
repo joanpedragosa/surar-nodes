@@ -1,0 +1,81 @@
+{
+  "concept": "emplacat",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "caracter": 0.3333,
+    "espai": 0.3333,
+    "jutjat": 0.3333
+  },
+  "bayesian_context": {
+    "caracter": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "urgencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "president": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.48
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "ple": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "espai": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.94
+    },
+    "bell": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "mig": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.04
+    },
+    "nucli": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "historic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "jutjat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "barcelona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.17
+    },
+    "diego": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "perez": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "los": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "cobos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "juliol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.87
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/emplacat.json"
+}

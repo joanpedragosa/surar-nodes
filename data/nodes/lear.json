@@ -1,0 +1,23 @@
+{
+  "concept": "lear",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "shakespeare": 1.0
+  },
+  "bayesian_context": {
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "el_rei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "shakespeare": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lear.json"
+}

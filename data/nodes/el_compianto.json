@@ -1,0 +1,35 @@
+{
+  "concept": "el_compianto",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sul": 1.0
+  },
+  "bayesian_context": {
+    "sul": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cristo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "morto": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "niccolo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "dell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "arca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/el_compianto.json"
+}

@@ -1,0 +1,43 @@
+{
+  "concept": "inventor",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "basquetbol": 1.0
+  },
+  "bayesian_context": {
+    "naismith": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "basquetbol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "manifesta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "autor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "mestria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "pictorica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "talent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/inventor.json"
+}

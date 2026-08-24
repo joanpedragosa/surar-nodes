@@ -1,0 +1,31 @@
+{
+  "concept": "datada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "corona": 1.0
+  },
+  "bayesian_context": {
+    "corona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "funeraria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "segle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.77
+    },
+    "iv": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "ac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/datada.json"
+}

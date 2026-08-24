@@ -1,0 +1,100 @@
+{
+  "concept": "pacte_nacional",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "referendum": 0.6667,
+    "societat": 0.3333
+  },
+  "bayesian_context": {
+    "coordina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "referendum": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.0
+    },
+    "joan_ignasi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "elena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "govern": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "engegat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "societat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "coneixement": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "pal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "liar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "problema": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "estructural": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "financament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "sistema": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.63
+    },
+    "universitari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "public": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "fet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.35
+    },
+    "acte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.63
+    },
+    "final": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.74
+    },
+    "palau": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "congressos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "catalunya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pacte_nacional.json"
+}

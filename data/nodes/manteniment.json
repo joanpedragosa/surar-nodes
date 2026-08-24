@@ -1,0 +1,139 @@
+{
+  "concept": "manteniment",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "ordre": 0.3333,
+    "marquesines": 0.1667,
+    "xoc": 0.1667,
+    "hospital": 0.1667,
+    "bona": 0.1667
+  },
+  "bayesian_context": {
+    "competencia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.25
+    },
+    "ordre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "catalunya": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.85
+    },
+    "generalitat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.29
+    },
+    "sufragaven": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "marquesines": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "publicitat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "anomenat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.07
+    },
+    "temps": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.15
+    },
+    "xoc": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "termic": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "diu": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.91
+    },
+    "defensa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.65
+    },
+    "contrari": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "detencio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "dret": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.4
+    },
+    "unio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.37
+    },
+    "tallers": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "substituien": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "mercat_nou": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "nous": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.83
+    },
+    "hospital": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.73
+    },
+    "bellvitge": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "mesures": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.77
+    },
+    "preventives": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "fonamentals": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "bona": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.99
+    },
+    "nutricio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "reduccio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "estres": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "ovelles": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.17
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/manteniment.json"
+}

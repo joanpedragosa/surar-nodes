@@ -1,0 +1,35 @@
+{
+  "concept": "schinas",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pronunciaments": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "royo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "condicionar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "pronunciaments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/schinas.json"
+}

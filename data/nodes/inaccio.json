@@ -1,0 +1,51 @@
+{
+  "concept": "inaccio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "administracions": 1.0
+  },
+  "bayesian_context": {
+    "prendre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "veins": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "treballadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "capella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "misericordia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "denunciar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "administracions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "partits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "politics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/inaccio.json"
+}

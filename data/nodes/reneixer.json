@@ -1,0 +1,35 @@
+{
+  "concept": "reneixer",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "neoclassicisme": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "neoclassicisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "ideals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "gust": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "obres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "antics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reneixer.json"
+}

@@ -1,0 +1,51 @@
+{
+  "concept": "grievous",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "obi": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.58
+    },
+    "capturar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "obi": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.0
+    },
+    "wan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "general": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "detenir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "wan_kenobi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "anakin_skywalker": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "segresta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "palpatine": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/grievous.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "accents",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "asia": 1.0
+  },
+  "bayesian_context": {
+    "accent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "parlen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "neimoidians": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "asia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "oriental": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/accents.json"
+}

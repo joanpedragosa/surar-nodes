@@ -1,0 +1,25 @@
+{
+  "concept": "renal",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "malaltia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "tenia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "filla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "insuficiencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/renal.json"
+}

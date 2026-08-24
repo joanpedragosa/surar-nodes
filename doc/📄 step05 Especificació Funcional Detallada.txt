@@ -1,0 +1,46 @@
+# 📄 Especificació Funcional Detallada: STEP 05 (Ingestió Probabilística HMBL)
+
+## 1. Identificació del Mòdul
+*   **Nom del Codi:** `step05_ingestio_probabilistica.py`
+*   **Ubicació Física:** `D:\Notebook\Transformer\surar_probabilistic\pipeline\`
+*   **Fase del Pipeline:** Fase A - Ingestió i Extracció Industrial de Relacions.
+*   **Model Associat:** Híbrid Markov-Bayesià Lleuger (HMBL).
+
+## 2. Propòsit Global
+Transformar el corpus lingüístic brut (descarregat directament del dataset **CatalanQA** del Projecte Aina via Hugging Face) en una xarxa de nodes atomitzats (fitxers JSON) enriquits amb intel·ligència estadística local. Aquest pas no només genera el graf de co-ocurrència, sinó que calcula les probabilitats de transició sintàctica (Markov) i els factors de context semàntic (Bayes), preparant el sistema per a inferències complexes sense dependre de models externs.
+
+## 3. Lògica de Funcionament Intern
+
+### A. Ingestió Telemàtica i Generació de Corpus
+*   **Descàrrega Automàtica:** El mòdul connecta amb Hugging Face per descarregar el split `train` del dataset `projecte-aina/catalanqa`.
+*   **Extracció Robusta:** Utilitza funcions adaptatives per extreure preguntes i respostes independentment de l'estructura interna del JSON original (diccionaris, llistes o strings).
+*   **Formatatge Immutable:** Construeix un fitxer de text pla (`aina_corpus.txt`) a la carpeta `data/` amb el format estandarditzat: `"Pregunta? Resposta"`. Aquest fitxer serveix com a registre auditable de les dades base.
+
+### B. Pre-processament Lingüístic i NER
+*   **Detecció d'Entitats (NER):** Abans de la tokenització, identifica seqüències de paraules capitalitzades (noms propis compostos) i les uneix amb guions baixos (ex: `Angel Guimera` → `Angel_Guimera`) per preservar la seva unitat semàntica.
+*   **Normalització Contractual:** Aplica les regles del Step 00: eliminació d'accents, gestió de la ela geminada (`l·l` → `ll`) i filtratge agressiu de stop-words i tokens numèrics purs.
+
+### C. Càlcul Estadístic HMBL (El Cor del Model)
+Mentre recorre el corpus tokenitzat, el sistema calcula tres mètriques clau per a cada parella de tokens dins d'una finestra de context configurable (per defecte 15 tokens):
+
+1.  **Freqüència Absoluta:** Comptatge global d'aparicions de cada token.
+2.  **Probabilitats Markovianes ($P(B|A)$):** Calcula la probabilitat que un token B segueixi immediatament a un token A. Això aporta consciència sintàctica i ordre al graf.
+3.  **Context Bayesià:**
+    *   **Likelihood:** Probabilitat base de co-ocurrència temàtica.
+    *   **Posterior Boost:** Factor multiplicador que mesura quant més forta és l'associació entre dos tokens respecte a l'atzar estadístic. Això permet destacar relacions específiques (ex: `Moragues` ↔ `garrot`) sobre connexions genèriques.
+
+### D. Volcat Atomitzat i Enriqueiximent
+*   **Generació de Nodes:** Per a cada token que supera el llindar mínim de freqüència, es crea un fitxer JSON independent (`token.json`).
+*   **Estructura HMBL:** Cada node inclou camps específics:
+    *   `markov_transitions`: Diccionari de probabilitats de següent token.
+    *   `bayesian_context`: Diccionari de relacions temàtiques amb els seus boosts associats.
+*   **Optimització:** Els nodes es guarden amb indentació per facilitar la lectura humana i l'auditoria directa.
+
+## 4. Resultats i Artefactes Generats
+1.  **`data/aina_corpus.txt`:** Fitxer de text massiu amb milers de parelles Pregunta-Resposta netejades.
+2.  **`data/nodes/*.json`:** Carpeta amb milers de fitxers individuals que representen el coneixement estructurat i probabilístic del sistema.
+
+## 5. Garanties de Qualitat
+*   **Determinisme:** Mateixa entrada = mateixos nodes i probabilitats.
+*   **Transparència:** Totes les dades estadístiques són visibles dins dels fitxers JSON.
+*   **Resiliència:** Capaç de gestionar estructures de dades inconsistents del dataset original gràcies a l'extracció robusta.

@@ -1,0 +1,51 @@
+{
+  "concept": "meritxell",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "budo": 1.0
+  },
+  "bayesian_context": {
+    "voldria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "budo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "liderara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "llista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "jxcat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "consellera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "presidencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "portaveu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/meritxell.json"
+}

@@ -1,0 +1,48 @@
+{
+  "concept": "afirmen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "escriure": 0.5,
+    "era": 0.5
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.67
+    },
+    "autors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "tractat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "deu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    },
+    "encarnacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "jesucrist": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "antic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "filosof": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/afirmen.json"
+}

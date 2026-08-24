@@ -1,0 +1,31 @@
+{
+  "concept": "hurrita",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mitanni": 1.0
+  },
+  "bayesian_context": {
+    "anava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "campanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "hitita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "regne": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "mitanni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/hurrita.json"
+}

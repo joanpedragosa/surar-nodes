@@ -1,0 +1,26 @@
+{
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/seves.json",
+  "concept": "seves",
+  "edges": [
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/text.json",
+      "weight": 0.581
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/answerstart.json",
+      "weight": 0.4
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/seves.json",
+      "weight": 0.328
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/obres.json",
+      "weight": 0.241
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/questio.json",
+      "weight": 0.226
+    }
+  ]
+}

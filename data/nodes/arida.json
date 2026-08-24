@@ -1,0 +1,43 @@
+{
+  "concept": "arida",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "suavitzat": 1.0
+  },
+  "bayesian_context": {
+    "clima": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "pla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "montargull": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "mediterrani": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "tendencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "suavitzat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "proximitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "muntanyes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/arida.json"
+}

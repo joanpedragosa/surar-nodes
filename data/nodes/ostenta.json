@@ -1,0 +1,31 @@
+{
+  "concept": "ostenta",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vicenc_thomas": 1.0
+  },
+  "bayesian_context": {
+    "carrec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "vicenc_thomas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "parlament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "vice": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "president": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ostenta.json"
+}

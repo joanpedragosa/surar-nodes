@@ -1,0 +1,56 @@
+{
+  "concept": "tastar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "nous": 0.5,
+    "cuina": 0.5
+  },
+  "bayesian_context": {
+    "reticents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "nous": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "plats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "grans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "reclams": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "hora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "viatjar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "cuina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "lloc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "viatja": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tastar.json"
+}

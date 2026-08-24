@@ -1,0 +1,72 @@
+{
+  "concept": "subministradors",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "carbo": 0.5,
+    "pedra": 0.5
+  },
+  "bayesian_context": {
+    "arribar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "cobrar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "duplicat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "carbo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "mitjancant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "manipulacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "entregues": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "poden": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "directament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "realitzades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pedra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "picada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "peces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "seriades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/subministradors.json"
+}

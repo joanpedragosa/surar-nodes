@@ -1,0 +1,76 @@
+{
+  "concept": "lustres",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "italia": 0.5,
+    "realitzar": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "teatres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "il": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "italia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "la_fenice": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "venecia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "provenien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "families": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "realitzar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.76
+    },
+    "importants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "contribucions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "desenvolupament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "economic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "galicia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lustres.json"
+}

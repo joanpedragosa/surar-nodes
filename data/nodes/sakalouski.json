@@ -1,0 +1,51 @@
+{
+  "concept": "sakalouski",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "trencar": 1.0
+  },
+  "bayesian_context": {
+    "decidir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "mantenir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "musica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "original": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "trencar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "continuitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "historica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "qualitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "musical": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sakalouski.json"
+}

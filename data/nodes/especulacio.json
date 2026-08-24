@@ -1,0 +1,35 @@
+{
+  "concept": "especulacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "urbanistica": 1.0
+  },
+  "bayesian_context": {
+    "suposa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "amenaca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "recurrent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "zona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "font_roja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "urbanistica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/especulacio.json"
+}

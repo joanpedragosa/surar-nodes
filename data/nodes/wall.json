@@ -1,0 +1,51 @@
+{
+  "concept": "wall",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "waters": 1.0
+  },
+  "bayesian_context": {
+    "trobar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.99
+    },
+    "waters": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "gilmour": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "mason": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "desgrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "enregistrament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "the_wall": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "manca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "contribucions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "wright": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/wall.json"
+}

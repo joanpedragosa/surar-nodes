@@ -1,0 +1,35 @@
+{
+  "concept": "mantindran",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pdecat": 1.0
+  },
+  "bayesian_context": {
+    "pdecat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "pnb": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "laboracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "postelectoral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mantindran.json"
+}

@@ -1,0 +1,90 @@
+{
+  "concept": "iniciat",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "consulta": 0.25,
+    "avui": 0.25,
+    "visita": 0.25,
+    "obres": 0.25
+  },
+  "bayesian_context": {
+    "consulta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "electronica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "democrates": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "voluntaris": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "avui": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.49
+    },
+    "policia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    },
+    "britanica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "investigacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "visita": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "institucional": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "mobile_world": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "congress": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "fotografia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "protocol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "laria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "havien": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.54
+    },
+    "obres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.22
+    },
+    "estacions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/iniciat.json"
+}

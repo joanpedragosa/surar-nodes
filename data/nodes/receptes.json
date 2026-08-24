@@ -1,0 +1,31 @@
+{
+  "concept": "receptes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "antigues": 1.0
+  },
+  "bayesian_context": {
+    "elabora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "formatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "menorca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "seguint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "antigues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/receptes.json"
+}

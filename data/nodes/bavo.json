@@ -1,0 +1,52 @@
+{
+  "concept": "bavo",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "gran": 0.5,
+    "forma": 0.5
+  },
+  "bayesian_context": {
+    "porta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "sant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "bossa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "monedes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "indicacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "generos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "pobres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/bavo.json"
+}

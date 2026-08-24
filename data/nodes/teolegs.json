@@ -1,0 +1,35 @@
+{
+  "concept": "teolegs",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nul": 1.0
+  },
+  "bayesian_context": {
+    "proclamar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "junta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "nul": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "litat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "vots": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "renuncia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/teolegs.json"
+}

@@ -1,0 +1,68 @@
+{
+  "concept": "integrat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "paisos": 0.5,
+    "metro": 0.5
+  },
+  "bayesian_context": {
+    "activara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "materia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "verificacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "model": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "component": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "internacional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "paisos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "garants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "acompanyants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sistema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "tarifari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "metro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "autoritat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "transport_metropolita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/integrat.json"
+}

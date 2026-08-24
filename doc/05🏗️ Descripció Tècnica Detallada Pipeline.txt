@@ -1,0 +1,99 @@
+# 🏗️ Descripció Tècnica Detallada del Pipeline SURAR-AINA
+
+Aquest document defineix l'arquitectura operativa del projecte SURAR-AINA, alineada amb el full de ruta estratègic. El pipeline transforma dades lingüístiques brutes en una Xarxa Neuronal Global (GNN) distribuïda, utilitzant un model **Híbrid Markov-Bayesià Lleuger (HMBL)** per garantir inferències semàntiques precises, transparents i de cost zero.
+
+---
+
+## 🔄 Visió General del Flux de Dades
+
+El pipeline opera en quatre fases seqüencials i modulars. Cada fase genera artefactes digitals (fitxers JSON) que són independents, verificables i allotjats en infraestructures públiques.
+
+```mermaid
+graph LR
+    A[PROJECTE AINA<br/>Corpus Lingüístic] --> B[STEP 05: INGESTIÓ HMBL<br/>Càlcul Probabilístic]
+    B --> C[STEP 10: INDEXACIÓ<br/>Blindatge & Metadades]
+    C --> D[STEP 30: SINCRONITZACIÓ<br/>Publicació GitHub/IPFS]
+    D --> E[STEP 35: INFERÈNCIA<br/>Xat Interactiu Client-Side]
+
+# 🏗️ Especificació Tècnica Detallada del Pipeline SURAR-AINA
+
+Aquest document descriu l'arquitectura operativa del projecte SURAR-AINA, alineada amb el full de ruta estratègic. El pipeline transforma dades lingüístiques brutes en una Xarxa Neuronal Global (GNN) distribuïda, utilitzant un model **Híbrid Markov-Bayesià Lleuger (HMBL)** per garantir inferències semàntiques precises, transparents i de cost zero.
+
+---
+
+## ⚙️ FASE A: INGESTIÓ I EXTRACCIÓ PROBABILÍSTICA (STEP 05)
+**Objectiu:** Convertir el corpus textual en nodes intel·ligents amb capacitat d'inferència local autònoma.
+
+### Lògica de Funcionament Intern:
+1.  **Preprocessament Lingüístic Rigorós:**
+    *   Normalització ortogràfica catalana (accents, dièresis, ç, l·l).
+    *   Filtratge agressiu de stop-words específiques (UPF/ISO) preservant tokens numèrics, noms propis i termes tècnics.
+2.  **Anàlisi de Finestra Direccional (Sliding Window):**
+    *   Aplicació d'una finestra de context desllisant per detectar no només co-ocurrència, sinó **ordre seqüencial** (Token A → Token B). Això permet capturar la sintaxi implícita del llenguatge.
+3.  **Càlcul del Model HMBL (Hybrid Markov-Bayesian Light):**
+    *   **Component Markovià:** Càlcul de probabilitats de transició $P(B|A)$ per determinar quines paraules solen seguir-ne altres en el corpus original.
+    *   **Component Bayesià:** Càlcul de *likelihoods* condicionals i factors de *posterior boost* per identificar relacions causals fortes (ex: si apareix `matar`, la probabilitat que `moragues` sigui la resposta augmenta exponencialment).
+4.  **Generació d'Artefactes Atomitzats:**
+    *   Creació de fitxers `token.json` individuals que inclouen freqüència absoluta, arestes ponderades, taules de transició markoviana i context bayesià.
+
+### Sortida: Carpeta `data/nodes/` amb milers de fitxers JSON enriquits estadísticament.
+
+---
+
+## 🌐 FASE B: INDEXACIÓ HÍBRIDA I BLINDATGE (STEP 10)
+**Objectiu:** Preparar els nodes per a la seva publicació global assegurant la integritat dels enllaços remots i la traçabilitat.
+
+### Lògica de Funcionament Intern:
+1.  **Validació d'Estructura HMBL:**
+    *   Verificació recursiva que tots els nodes continguin els camps obligatoris `markov_transitions` i `bayesian_context`.
+    *   Normalització de pesos per assegurar que es mantenen en rangs lògics (0-1).
+2.  **Blindatge de Cadenes Remotes (Hard-Fix):**
+    *   Reescriptura forçada de les URLs dins dels JSONs per apuntar exclusivament al repositori públic `joanpedragosa/surar-nodes` a GitHub.
+    *   Eliminació de qualsevol residu de rutes locals o dominis antics per evitar errors de connexió en entorns distribuïts.
+3.  **Generació de Metadades Globals:**
+    *   Creació d'un fitxer `mapping.json` que actua com a índex mestre, relacionant cada token amb la seva URL pública i el seu hash criptogràfic (preparació per a futura integració IPFS).
+
+### Sortida: Nodes blindats llestos per a desplegament i fitxer d'índex global verificable.
+
+---
+
+## 🚀 FASE C: SINCRONITZACIÓ AUTOMATITZADA (STEP 30)
+**Objectiu:** Publicar l'evolució del coneixement a Internet de forma autònoma, transparent i gratuïta.
+
+### Lògica de Funcionament Intern:
+1.  **Detecció de Canvis (Git Diff):**
+    *   Identificació automàtica de nous nodes creats al Step 05 o pesos actualitzats per aprenentatge hebbià durant l'ús del xat.
+2.  **Commit Atòmic i Signatura:**
+    *   Agrupació de tots els canvis en un únic commit amb timestamp, resum de modificacions i signatura de l'autor global unificat (`joanpedragosa`).
+3.  **Desplegament Massiu (Push Bypass):**
+    *   Execució nativa de `git push` cap al repositori públic.
+    *   Els fitxers esdevenen immediatament accessibles via URLs RAW de GitHub, formant part de la GNN "a la deriva" sense costos de manteniment.
+
+### Sortida: Graf actualitzat i accessible globalment a través d'infraestructures públiques.
+
+---
+
+## 🧠 FASE D: INFERÈNCIA CONCURRENT I XAT INTERACTIU (STEP 35)
+**Objectiu:** Interfície client-side que navega pel graf remot per resoldre consultes en llenguatge natural sense servidors centrals.
+
+### Lògica de Funcionament Intern:
+1.  **Parsing i Detecció d'Intenció:**
+    *   Neteja de la consulta de l'usuari i classificació inicial (Quantitat, Mètode, Definició) per activar les regles de generació adequades.
+2.  **Propagació Asíncrona (Asyncio):**
+    *   Descàrrega paral·lela i eficient dels nodes necessaris des de GitHub mitjançant crides HTTP concurrents, minimitzant la latència percebuda.
+3.  **Motor de Puntuació Híbrida (HMBL Engine):**
+    *   Calcula l'**Energia Base** (freqüència hebbiana tradicional).
+    *   Aplica el **Boost Bayesià** segons la relevància contextual dels tokens de la pregunta.
+    *   Valida la **Coherència Markoviana** per assegurar que la seqüència de paraules proposada sigui gramaticalment probable.
+    *   Fórmula de decisió: $Score = Energia \times Boost_{Bayes} \times Prob_{Markov}$
+4.  **Generació de Resposta Determinista:**
+    *   Construcció de la resposta final seleccionant la ruta de màxima puntuació al graf, garantint que cada paraula tingui un origen traçable.
+
+### Sortida: Resposta precisa, explicada i basada exclusivament en dades públiques verificables.
+
+---
+
+## 📝 Conclusió de l'Arquitectura
+Aquest pipeline implementa una alternativa radical als models d'IA tradicionals. En descentralitzar la intel·ligència i incrustar-la en la pròpia estructura de les dades (nodes JSON), SURAR-AINA aconsegueix un sistema **sobirà, auditable i etern**. 
+
+El model Híbrid Markov-Bayesià Lleuger permet superar les limitacions sintàctiques dels sistemes purament hebbians sense recaure en la complexitat i opacitat dels LLMs. El resultat és una arquitectura capaç d'evolucionar orgànicament, on el coneixement es construeix col·lectivament i es distribueix lliurement per la xarxa, eliminant barreres econòmiques i tècniques.

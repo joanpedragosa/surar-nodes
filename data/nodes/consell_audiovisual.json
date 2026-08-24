@@ -1,0 +1,43 @@
+{
+  "concept": "consell_audiovisual",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "catalunya": 1.0
+  },
+  "bayesian_context": {
+    "analitzara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "acte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "moliner": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "video": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "revisara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "programa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "matins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/consell_audiovisual.json"
+}

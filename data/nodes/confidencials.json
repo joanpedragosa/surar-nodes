@@ -1,0 +1,43 @@
+{
+  "concept": "confidencials",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "segons": 1.0
+  },
+  "bayesian_context": {
+    "responsabilitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "esclarir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "filtracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "informacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "andreeva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "autoritats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "espanyoles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/confidencials.json"
+}

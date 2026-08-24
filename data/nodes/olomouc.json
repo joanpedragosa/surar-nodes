@@ -1,0 +1,43 @@
+{
+  "concept": "olomouc",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "janaček": 1.0
+  },
+  "bayesian_context": {
+    "reunir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "arquebisbe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "janaček": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "estrenar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "traduccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "txeca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "teatre_municipal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/olomouc.json"
+}

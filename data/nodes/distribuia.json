@@ -1,0 +1,32 @@
+{
+  "concept": "distribuia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mew": 0.5,
+    "nintendo": 0.5
+  },
+  "bayesian_context": {
+    "mew": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "esdeveniments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "organitzats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "nintendo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "promocionals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/distribuia.json"
+}

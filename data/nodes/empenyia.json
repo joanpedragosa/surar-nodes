@@ -1,0 +1,27 @@
+{
+  "concept": "empenyia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "poble": 1.0
+  },
+  "bayesian_context": {
+    "poble": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "palesti": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "resistencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "autodefensa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/empenyia.json"
+}

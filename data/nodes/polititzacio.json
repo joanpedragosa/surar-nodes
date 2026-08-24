@@ -1,0 +1,47 @@
+{
+  "concept": "polititzacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "justicia": 1.0
+  },
+  "bayesian_context": {
+    "reclamaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "veus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "pronunciar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "acte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "considera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "martin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "indiquen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "missatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "justicia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/polititzacio.json"
+}

@@ -1,0 +1,43 @@
+{
+  "concept": "desinteres",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "public": 1.0
+  },
+  "bayesian_context": {
+    "accelerar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "public": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "temes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "africans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "tapiro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "oblit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "mort": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/desinteres.json"
+}

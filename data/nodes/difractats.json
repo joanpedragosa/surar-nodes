@@ -1,0 +1,48 @@
+{
+  "concept": "difractats",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "electrons": 0.5,
+    "constructives": 0.5
+  },
+  "bayesian_context": {
+    "electrons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "atoms": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "superficie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "interferencies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "interfereixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "diferents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "raigs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "constructives": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "destructives": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/difractats.json"
+}

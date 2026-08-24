@@ -1,0 +1,39 @@
+{
+  "concept": "pejorativa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "envers": 1.0
+  },
+  "bayesian_context": {
+    "lamentat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "jordi_marti": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "iniciativa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "considera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "propaganda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "envers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "independentisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pejorativa.json"
+}

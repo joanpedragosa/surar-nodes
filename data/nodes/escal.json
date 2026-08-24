@@ -1,0 +1,31 @@
+{
+  "concept": "escal",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ugs": 1.0
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "concessio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "magatzem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "submari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "ugs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/escal.json"
+}

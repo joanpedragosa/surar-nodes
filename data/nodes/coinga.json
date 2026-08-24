@@ -1,0 +1,35 @@
+{
+  "concept": "coinga",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vendre": 1.0
+  },
+  "bayesian_context": {
+    "cent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "formatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "vendre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "japo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "xina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "canada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/coinga.json"
+}

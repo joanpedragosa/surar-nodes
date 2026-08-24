@@ -1,0 +1,59 @@
+{
+  "concept": "facultats",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "superiors": 1.0
+  },
+  "bayesian_context": {
+    "giambologna": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "escollir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "tema": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "poder": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.62
+    },
+    "demostrar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "origina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "vives": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.67
+    },
+    "religio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "superiors": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.85
+    },
+    "home": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.27
+    },
+    "enteniment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "voluntat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/facultats.json"
+}

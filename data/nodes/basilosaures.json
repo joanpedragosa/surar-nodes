@@ -1,0 +1,56 @@
+{
+  "concept": "basilosaures",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "subsistir": 0.5,
+    "sirenis": 0.5
+  },
+  "bayesian_context": {
+    "necessitaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "subsistir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "grans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "quantitats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "aliment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "alimentaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "sirenis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "tortugues": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "cetacis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "petits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/basilosaures.json"
+}

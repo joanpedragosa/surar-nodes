@@ -1,0 +1,31 @@
+{
+  "concept": "estructurar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "jxcat": 1.0
+  },
+  "bayesian_context": {
+    "lider": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "budo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "jxcat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "puigdemont": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/estructurar.json"
+}

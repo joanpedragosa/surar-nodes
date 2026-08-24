@@ -1,0 +1,93 @@
+{
+  "concept": "drames",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "escriu": 0.3333,
+    "rurals": 0.3333,
+    "socials": 0.3333
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.75
+    },
+    "escriu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "jove": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "dos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.2
+    },
+    "anys": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.37
+    },
+    "dotze": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "neix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "giovane_scuola": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "arran": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "impacte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "causat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "rurals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "teatrals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "italians": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "tipus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.45
+    },
+    "obra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.05
+    },
+    "escrivia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "ostrovski": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "melodrames": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "socials": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/drames.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "proporcionaria",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "comissio": 1.0
+  },
+  "bayesian_context": {
+    "dit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "comissio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "europea": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "suport": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "financer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/proporcionaria.json"
+}

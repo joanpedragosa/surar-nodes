@@ -1,0 +1,64 @@
+{
+  "concept": "romeu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "julieta": 0.5,
+    "tenen": 0.5
+  },
+  "bayesian_context": {
+    "trama": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "especie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "julieta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "final": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "felic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "responsabilitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "tenen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.58
+    },
+    "pp": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "psoe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "donar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "estabilitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "pais": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/romeu.json"
+}

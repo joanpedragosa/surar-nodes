@@ -1,0 +1,31 @@
+{
+  "concept": "fertil",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "terra": 1.0
+  },
+  "bayesian_context": {
+    "nucli": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "central": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "dominis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "terra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "valles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fertil.json"
+}

@@ -1,0 +1,43 @@
+{
+  "concept": "fen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "servir": 1.0
+  },
+  "bayesian_context": {
+    "podrien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "servir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "poder": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "distingir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "objectes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "animats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "inanimats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "electroreceptors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fen.json"
+}

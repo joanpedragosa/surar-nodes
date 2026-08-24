@@ -1,0 +1,35 @@
+{
+  "concept": "blitz",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "refugis": 1.0
+  },
+  "bayesian_context": {
+    "utilitzaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "linies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "metro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "bombardejos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "refugis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "aeris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/blitz.json"
+}

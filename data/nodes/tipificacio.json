@@ -1,0 +1,39 @@
+{
+  "concept": "tipificacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "taxons": 1.0
+  },
+  "bayesian_context": {
+    "trobem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "habitualment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "descripcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "formal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "taxons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "errors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "inconsistencies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tipificacio.json"
+}

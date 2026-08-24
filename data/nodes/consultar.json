@@ -1,0 +1,159 @@
+{
+  "concept": "consultar",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "diari_oficial": 0.1667,
+    "nou": 0.1667,
+    "dramaturg": 0.1667,
+    "socis": 0.1667,
+    "dvořak": 0.3333
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    },
+    "diari_oficial": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "unio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.37
+    },
+    "europea": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.37
+    },
+    "linia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.3
+    },
+    "nou": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.08
+    },
+    "mapa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "lloguer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "catalunya": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.85
+    },
+    "nombre": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.55
+    },
+    "contractes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "signats": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "municipi": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.04
+    },
+    "comarca": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.29
+    },
+    "preu": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    },
+    "mitja": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.5
+    },
+    "fer": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.55
+    },
+    "dvořak": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "dramaturg": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "critic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "sol": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.25
+    },
+    "licitar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "revisio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "inicial": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    },
+    "podran": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.13
+    },
+    "socis": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "conformitat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "oficina": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "atencio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.04
+    },
+    "barcelonista": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "františek": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "věnceslav": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "jeřabek": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "musical": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.89
+    },
+    "vaclav": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "zelený": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/consultar.json"
+}

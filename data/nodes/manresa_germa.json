@@ -1,0 +1,35 @@
+{
+  "concept": "manresa_germa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rodriguez": 1.0
+  },
+  "bayesian_context": {
+    "sanatori": {
+      "likelihood": 0.0667,
+      "posterior_boost": 6.02
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "rodriguez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "arias": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "sant_joan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "deu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/manresa_germa.json"
+}

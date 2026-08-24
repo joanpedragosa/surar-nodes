@@ -1,0 +1,47 @@
+{
+  "concept": "concessions",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "esdevenir": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "companyia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "adona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "podia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "construir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "ramals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "modificar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "esdevenir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "sola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/concessions.json"
+}

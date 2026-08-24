@@ -1,0 +1,39 @@
+{
+  "concept": "assabentar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "intent": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "hōjō": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "intent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "restauracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "imperial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "enviar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "exercit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/assabentar.json"
+}

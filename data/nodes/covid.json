@@ -1,0 +1,323 @@
+{
+  "concept": "covid",
+  "frequency": 14,
+  "edges": [],
+  "markov_transitions": {
+    "estan": 0.1111,
+    "sis": 0.1111,
+    "xina": 0.1111,
+    "zona": 0.1111,
+    "via": 0.1111,
+    "poder": 0.1111,
+    "setmana": 0.1111,
+    "presons": 0.1111,
+    "antic": 0.1111
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0119,
+      "posterior_boost": 2.78
+    },
+    "casos": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.86
+    },
+    "possible": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.48
+    },
+    "estan": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.98
+    },
+    "estudiant": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.98
+    },
+    "presons": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "trenta": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.2
+    },
+    "sis": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.34
+    },
+    "morts": {
+      "likelihood": 0.0071,
+      "posterior_boost": 4.01
+    },
+    "brot": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "provocat": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.88
+    },
+    "xina": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.48
+    },
+    "confirmats": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "zona": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.43
+    },
+    "usuaris": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.03
+    },
+    "residencia": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.8
+    },
+    "gent": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.17
+    },
+    "gran": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.56
+    },
+    "santa_elena": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "torrent": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.93
+    },
+    "contagiats": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "fa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.95
+    },
+    "dies": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.03
+    },
+    "seguiment": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.03
+    },
+    "pacients": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "via": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.54
+    },
+    "telefonica": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "anomena": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.19
+    },
+    "oficialment": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.98
+    },
+    "coronavirus": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "originat": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "residencies": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.18
+    },
+    "capellades": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.28
+    },
+    "olesa": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "montserrat": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "fara": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.27
+    },
+    "servir": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.02
+    },
+    "donar": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.01
+    },
+    "poder": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.96
+    },
+    "sistema": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.96
+    },
+    "onu": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.73
+    },
+    "govern": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.53
+    },
+    "catala": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.01
+    },
+    "ordenat": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "confinament": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "igualada": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "vilanova": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "cami": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.48
+    },
+    "santa_margarida": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "montbui": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "odena": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "comparegut": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.03
+    },
+    "pedro": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.11
+    },
+    "sanchez": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.88
+    },
+    "passar": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.03
+    },
+    "revista": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.47
+    },
+    "evolucio": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.7
+    },
+    "crisi": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.45
+    },
+    "setmana": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.21
+    },
+    "ser": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.04
+    },
+    "primer": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.64
+    },
+    "cas": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.17
+    },
+    "brians": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "nom": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.86
+    },
+    "posat": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.58
+    },
+    "nou": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.72
+    },
+    "hospital": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.36
+    },
+    "habilitara": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "fer": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.2
+    },
+    "front": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.73
+    },
+    "necessitats": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.18
+    },
+    "hospitalaries": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "causades": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "antic": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.54
+    },
+    "hospital_la": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "fe": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.03
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/covid.json"
+}

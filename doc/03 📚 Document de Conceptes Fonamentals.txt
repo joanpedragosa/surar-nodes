@@ -1,0 +1,477 @@
+# 📚 Document de Conceptes Fonamentals del Projecte SURAR-AINA
+
+Aquest document defineix els pilars teòrics, arquitectònics i operatius del projecte **SURAR-AINA**, un sistema d'intel·ligència artificial distribuït basat en el model **Híbrid Markov-Bayesià Lleuger (HMBL)**.
+
+---
+
+## 1. Infraestructura Distribuïda: GitHub i IPFS
+
+El projecte opera sota el paradigma de **"Xarxa a la Deriva"**, en què el coneixement no resideix en servidors centrals, sinó que està atomitzat i distribuït per Internet.
+
+### GitHub: Infraestructura de text pla
+
+GitHub s'utilitza com a repositori principal per allotjar els fitxers JSON corresponents als nodes.
+
+Gràcies a les URL de tipus `raw.githubusercontent.com`, qualsevol client pot accedir als nodes com si fossin recursos web estàtics, fet que permet una infraestructura de baix cost i alta disponibilitat.
+
+### IPFS: Persistència immutable
+
+**IPFS (InterPlanetary File System)** actua com a capa de persistència immutable.
+
+Cada node pot disposar d'un identificador criptogràfic, anomenat **CID (Content Identifier)**, que garanteix que el contingut no pugui ser modificat sense que canviï també la seva identitat.
+
+Això permet mantenir una traçabilitat i una auditoria permanent del graf de coneixement.
+
+---
+
+## 2. Model Utilitzat: Híbrid Markov-Bayesià Lleuger (HMBL)
+
+El **Mètode Híbrid Markov-Bayesià Lleuger (HMBL)** és una arquitectura d'inferència semàntica dissenyada per combinar informació seqüencial, contextual i estructural sense necessitat de dependre d'un LLM com a mecanisme central d'inferència.
+
+La característica principal del model és que cada node disposa d'una **capacitat estadística local**, formada principalment per dues capes complementàries:
+
+1. Una capa **Markoviana**, orientada a la seqüència i la coherència sintàctica.
+2. Una capa **Bayesiana**, orientada al context, la rellevància semàntica i l'actualització de creences.
+
+### A. Capa Markoviana: Sintaxi i Seqüència
+
+**Pregunta clau:**
+
+> *"Quin token té més probabilitat d'aparèixer després d'aquest?"*
+
+**Funció:**
+
+Gestiona l'ordre natural dels tokens i contribueix a la fluïdesa gramatical mitjançant probabilitats condicionals de transició.
+
+En la versió bàsica, aquestes transicions es poden modelar com una cadena de Markov de primer ordre.
+
+**Dada emmagatzemada:**
+
+`markov_transitions`
+
+Matemàticament, representa probabilitats condicionals de la forma:
+
+$$
+P(B \mid A)
+$$
+
+Aquesta informació permet al sistema estimar quins tokens tendeixen a seguir-ne d'altres dins del corpus.
+
+### B. Capa Bayesiana: Semàntica i Context
+
+**Pregunta clau:**
+
+> *"Donat el context actual, quina probabilitat hi ha que aquest concepte sigui rellevant com a resposta o continuació?"*
+
+**Funció:**
+
+La capa Bayesiana permet filtrar el soroll estadístic i prioritzar conceptes específics quan apareixen determinats elements contextuals.
+
+El mecanisme es basa en una actualització de creences o **Belief Update**, en què la presència d'un token contextual pot incrementar la rellevància d'un node.
+
+**Dada emmagatzemada:**
+
+`bayesian_context`
+
+Cada relació contextual pot incloure, com a mínim:
+
+* `likelihood`: probabilitat o rellevància base de la relació.
+
+* `posterior_boost`: factor d'increment aplicable quan apareix el context associat.
+
+### C. Fórmula de Puntuació Híbrida
+
+La inferència combina la informació disponible a les diferents capes del node.
+
+De forma conceptual, la puntuació híbrida pot expressar-se així:
+
+$$
+Score =
+Energia_{base}
+\times
+Boost_{Bayesià}
+\times
+Probabilitat_{Markoviana}
+$$
+
+On:
+
+* **Energia base:** representa l'estat o pes inicial del node.
+* **Boost Bayesià:** incrementa la rellevància del node segons el context detectat.
+* **Probabilitat Markoviana:** avalua la coherència de la transició seqüencial.
+
+Aquesta combinació permet integrar **freqüència, context i seqüència** dins d'un mateix procés d'inferència.
+
+---
+
+## 3. Estructura de Dades del Node (JSON)
+
+Cada fitxer JSON actua com una **unitat d'inferència autònoma** dins de la xarxa distribuïda.
+
+Una estructura conceptual del node podria ser la següent:
+
+```json
+{
+  "concept": "moragues",
+  "frequency": 142,
+
+  "edges": [],
+
+  "markov_transitions": {
+    "garrot": 0.78,
+    "vil": 0.85,
+    "cap": 0.62,
+    "penjar": 0.45
+  },
+
+  "bayesian_context": {
+    "regidors": {
+      "likelihood": 0.05,
+      "posterior_boost": 1.2
+    },
+    "psc": {
+      "likelihood": 0.02,
+      "posterior_boost": 1.5
+    },
+    "matar": {
+      "likelihood": 0.90,
+      "posterior_boost": 2.0
+    }
+  }
+}
+```
+
+### Desglossament dels conceptes del node
+
+#### `concept`
+
+És el token lingüístic que representa el node.
+
+Exemple: `moragues`
+
+Actua com a identificador semàntic principal del node.
+
+#### `frequency`
+
+Representa la freqüència absoluta d'aparició del concepte dins del corpus original.
+
+Exemple:
+
+```json
+"frequency": 142
+```
+
+Pot utilitzar-se per:
+
+* Estimar la importància estadística inicial del node.
+* Calcular pesos basats en freqüència.
+* Participar en càlculs com l'IDF o altres mecanismes de ponderació.
+* Determinar l'energia inicial del node.
+
+#### `edges`
+
+Conté la llista de connexions amb altres nodes del graf.
+
+Aquestes connexions representen la **topologia bàsica de la xarxa** i poden correspondre a relacions obtingudes mitjançant coaparició, proximitat contextual o mecanismes d'aprenentatge associatiu.
+
+Exemple conceptual:
+
+```json
+"edges": [
+  "node_001",
+  "node_024",
+  "node_187"
+]
+```
+
+#### `markov_transitions`
+
+És un diccionari de probabilitats condicionals de seqüència.
+
+Indica quins tokens tenen tendència a aparèixer immediatament després del concepte actual.
+
+Exemple:
+
+```json
+"markov_transitions": {
+  "garrot": 0.78,
+  "vil": 0.85
+}
+```
+
+Si el node actual representa el token `A`, el sistema pot interpretar una entrada com:
+
+$$
+P(B \mid A)
+$$
+
+Aquesta capa constitueix la base de la **coherència seqüencial**, la sintaxi estadística i l'ordre dels tokens.
+
+#### `bayesian_context`
+
+És un diccionari de relacions contextuals amb una determinada intensitat estadística.
+
+Exemple:
+
+```json
+"bayesian_context": {
+  "matar": {
+    "likelihood": 0.90,
+    "posterior_boost": 2.0
+  }
+}
+```
+
+Permet modificar la rellevància d'un node quan es detecten determinats tokens o conceptes dins de la consulta de l'usuari.
+
+#### `likelihood`
+
+Representa la probabilitat o intensitat base de la relació entre el node i un determinat context.
+
+Exemple:
+
+```json
+"likelihood": 0.90
+```
+
+Un valor més elevat indica una associació contextual més forta.
+
+#### `posterior_boost`
+
+Representa el factor multiplicador que s'aplica a l'energia o puntuació del node quan es detecta el context associat.
+
+Exemple:
+
+```json
+"posterior_boost": 2.0
+```
+
+Si el token contextual `matar` apareix en la consulta, aquest valor pot incrementar la rellevància del node associat.
+
+Aquest mecanisme permet que **conceptes menys freqüents però altament específics** puguin obtenir una puntuació superior a conceptes generals quan el context de la pregunta ho justifica.
+
+---
+
+## 4. Contracte Global (STEP 00)
+
+El **Contracte Global**, implementat conceptualment mitjançant `step00_contracte_global.py`, és el nucli de normalització lingüística del projecte SURAR-AINA.
+
+La seva funció és establir les regles comunes i estables per al tractament del text abans que aquest entri en les diferents fases del pipeline.
+
+### Funció principal
+
+Garantir que tots els components del sistema treballin sobre una mateixa representació lingüística normalitzada.
+
+### Responsabilitats
+
+#### Normalització ortogràfica
+
+Unifica aspectes com:
+
+* Accents.
+* Dièresis.
+* Caràcters especials.
+* Caràcters propis del català, com `ç` i `l·l`.
+* Altres variants ortogràfiques que el contracte decideixi normalitzar.
+
+L'objectiu és evitar que variants incompatibles generin nodes diferents quan haurien de representar el mateix concepte lingüístic.
+
+#### Tokenització determinista
+
+Divideix el text en unitats atòmiques seguint unes regles estables i reproduïbles.
+
+Aquesta tokenització ha de garantir que el mateix text, processat en moments diferents o per components diferents del sistema, produeixi el mateix resultat.
+
+Pot preservar elements com:
+
+* Noms propis.
+* Números.
+* Tokens especials.
+* Determinades construccions lingüístiques definides pel contracte.
+
+#### Filtratge de Stop-Words
+
+Elimina paraules funcionals o de baixa càrrega semàntica segons les llistes i regles adoptades pel projecte.
+
+L'objectiu és:
+
+* Reduir el soroll dins del graf.
+* Evitar connexions espúries.
+* Reduir la dimensionalitat estadística.
+* Concentrar les relacions del graf en conceptes amb més contingut semàntic.
+
+### Importància del Contracte Global
+
+El STEP 00 garanteix que tots els passos posteriors, com ara:
+
+* Ingestió.
+* Tokenització.
+* Construcció de nodes.
+* Creació d'arestes.
+* Indexació.
+* Inferència.
+* Recuperació.
+* Xat.
+
+treballin sobre el mateix **"idioma tècnic intern"**.
+
+Això és fonamental per garantir:
+
+1. **Reproductibilitat:** el mateix input genera la mateixa representació.
+2. **Consistència:** tots els components interpreten els tokens de la mateixa manera.
+3. **Estabilitat dels identificadors:** un concepte no genera identificadors diferents segons el pas del pipeline.
+4. **Compatibilitat:** els nodes generats en diferents moments poden continuar interoperant.
+
+---
+
+## 5. Fitxer de Configuració (`config.py`)
+
+El fitxer `config.py` actua com a **centre de comandament paramètric** del sistema SURAR-AINA.
+
+### Què és?
+
+És un script Python que centralitza la configuració global del projecte.
+
+Pot contenir:
+
+* Rutes de fitxers.
+* Constants matemàtiques.
+* Hiperparàmetres.
+* Llindars d'inferència.
+* Pesos del model.
+* Configuracions de xarxa.
+* Paràmetres operatius del pipeline.
+
+### Per què serveix?
+
+#### Unificació de rutes
+
+Defineix els directoris de treball del sistema.
+
+Exemples:
+
+```python
+DATA_ROOT
+NODES_DIR
+DOC_DIR
+```
+
+D'aquesta manera, els diferents passos del pipeline no han de determinar individualment on es troben les dades.
+
+Això facilita la compatibilitat entre diferents entorns, com ara:
+
+* Windows.
+* Linux.
+* Google Colab.
+* Servidors remots.
+
+I redueix els errors relacionats amb les rutes dels fitxers.
+
+#### Control del model HMBL
+
+Permet centralitzar els paràmetres relacionats amb la inferència.
+
+Exemples conceptuals:
+
+```python
+MARKOV_WEIGHT
+BAYESIAN_WEIGHT
+```
+
+També pot contenir:
+
+* Factors de decaïment d'energia.
+* Llindars mínims d'activació.
+* Mida de la finestra de context.
+* Nombre màxim de transicions considerades.
+* Factors de normalització.
+* Llindars de recuperació semàntica.
+
+#### Identitat de xarxa
+
+Pot contenir la configuració necessària per localitzar els recursos distribuïts de SURAR-AINA.
+
+Exemples:
+
+```python
+GITHUB_USER
+BASE_REMOTE_URL
+```
+
+Aquests paràmetres permeten construir de forma centralitzada les adreces dels nodes distribuïts i altres recursos de la infraestructura.
+
+Les credencials privades o secrets no haurien d'emmagatzemar-se directament dins del fitxer si aquest es publica en un repositori.
+
+#### Flexibilitat operativa
+
+La centralització de la configuració permet modificar el comportament general del sistema sense alterar directament la lògica dels algoritmes.
+
+Per exemple, es poden modificar:
+
+* La mida de la finestra contextual.
+* Els pesos Markovians.
+* Els pesos Bayesians.
+* Els llindars d'energia.
+* Els paràmetres de recuperació.
+* Les rutes de dades.
+* Els llindars d'activació dels nodes.
+
+Això converteix `config.py` en un punt central de control que facilita l'evolució, el manteniment i l'experimentació sobre el sistema.
+
+---
+
+## Resum de l'Arquitectura Conceptual
+
+El projecte **SURAR-AINA** es basa en la combinació de cinc elements fonamentals.
+
+### 1. Xarxa distribuïda
+
+GitHub proporciona una infraestructura accessible per distribuir els nodes, mentre que IPFS pot proporcionar persistència basada en contingut i identificació immutable.
+
+### 2. Nodes autònoms
+
+Cada node JSON conté informació suficient per participar localment en el procés d'inferència:
+
+* Identitat conceptual.
+* Freqüència.
+* Connexions de graf.
+* Transicions Markovianes.
+* Contextos Bayesians.
+
+### 3. Inferència híbrida HMBL
+
+La puntuació dels conceptes combina:
+
+$$
+Seqüència
++
+Context
++
+Energia
+$$
+
+mitjançant mecanismes estadístics locals.
+
+### 4. Contracte Global
+
+El STEP 00 assegura que totes les fases del sistema comparteixen les mateixes regles lingüístiques i de normalització.
+
+### 5. Configuració centralitzada
+
+El fitxer `config.py` concentra els paràmetres necessaris per controlar l'operació del sistema sense modificar contínuament el codi intern del pipeline.
+
+---
+
+## Conclusió
+
+En conjunt, aquests components defineixen una arquitectura en què el coneixement es distribueix en **nodes autònoms, normalitzats i estadísticament enriquits**, capaços de participar en un procés d'inferència basat en la combinació de:
+
+$$
+\text{Topologia del graf}
++
+\text{Seqüència Markoviana}
++
+\text{Context Bayesià}
+$$
+
+SURAR-AINA planteja, per tant, una arquitectura distribuïda en què la capacitat d'inferència no depèn exclusivament d'un model centralitzat, sinó que emergeix de la combinació de les estructures estadístiques, contextuals i seqüencials distribuïdes entre els nodes de la xarxa.

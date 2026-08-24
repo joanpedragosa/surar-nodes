@@ -1,0 +1,116 @@
+{
+  "concept": "artilleria",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "catalana": 0.5,
+    "fortificar": 0.5
+  },
+  "bayesian_context": {
+    "carrec": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.67
+    },
+    "catalana": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.7
+    },
+    "basset": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "volia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "material": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.62
+    },
+    "militar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.88
+    },
+    "funcionament": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "maquines": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.85
+    },
+    "era": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.57
+    },
+    "avantatjos": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "format": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.88
+    },
+    "rectilini": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "carrers": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "projectats": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "cerda": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "segons": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.82
+    },
+    "contemporanis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "foc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "fer": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.63
+    },
+    "bertran": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "vacalaria": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "construir": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.48
+    },
+    "quantes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.77
+    },
+    "peces": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.9
+    },
+    "fortificar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "aden": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/artilleria.json"
+}

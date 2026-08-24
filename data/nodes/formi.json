@@ -1,0 +1,68 @@
+{
+  "concept": "formi",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "govern": 0.5,
+    "part": 0.5
+  },
+  "bayesian_context": {
+    "volen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "provisional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "carlo_cottarelli": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "augmentara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "salari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "rita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "grup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.6
+    },
+    "mixt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "senat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "euros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/formi.json"
+}

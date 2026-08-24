@@ -1,0 +1,39 @@
+{
+  "concept": "precontractacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vtc": 1.0
+  },
+  "bayesian_context": {
+    "fixa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "decret": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "llei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "validat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "parlament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "minuts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "vtc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/precontractacio.json"
+}

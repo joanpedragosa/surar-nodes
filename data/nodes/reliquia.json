@@ -1,0 +1,73 @@
+{
+  "concept": "reliquia",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "urna": 0.3333,
+    "rei": 0.3333,
+    "podem": 0.3333
+  },
+  "bayesian_context": {
+    "urna": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "plata": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "or": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    },
+    "sant_rostre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "regalar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "rei": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.49
+    },
+    "armenia_menor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "esglesia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.46
+    },
+    "tarragona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "podem": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.45
+    },
+    "troba": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "capella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "reyes_viejos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "construir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "acollir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reliquia.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "avantpassada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cel": 1.0
+  },
+  "bayesian_context": {
+    "cel": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.44
+    },
+    "lula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "lules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "uacu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/avantpassada.json"
+}

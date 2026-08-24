@@ -1,0 +1,23 @@
+{
+  "concept": "reconeixera",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "serbia": 1.0
+  },
+  "bayesian_context": {
+    "serbia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "independencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "kossove": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reconeixera.json"
+}

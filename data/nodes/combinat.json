@@ -1,0 +1,27 @@
+{
+  "concept": "combinat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "elements": 1.0
+  },
+  "bayesian_context": {
+    "troba": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.42
+    },
+    "normalment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "urani": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "elements": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/combinat.json"
+}

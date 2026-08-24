@@ -1,0 +1,111 @@
+{
+  "concept": "completar",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "licula": 0.2,
+    "decoracio": 0.2,
+    "partitura": 0.2,
+    "temporada": 0.2,
+    "adn": 0.2
+  },
+  "bayesian_context": {
+    "licula": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.46
+    },
+    "lliurament": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "efectes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "visuals": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "restants": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "decoracio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "capella": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "crucifix": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "altar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "any": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.76
+    },
+    "janaček": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.71
+    },
+    "partitura": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "piano": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "problema": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.0
+    },
+    "tenia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.08
+    },
+    "antonio_cera": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "trobava": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "dificultats": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "temporada": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "treuen": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "segments": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "genetics": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "adn": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.85
+    },
+    "granotes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/completar.json"
+}

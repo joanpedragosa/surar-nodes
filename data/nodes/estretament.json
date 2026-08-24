@@ -1,0 +1,81 @@
+{
+  "concept": "estretament",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "cetacis": 0.3333,
+    "relacionades": 0.3333,
+    "lligat": 0.3333
+  },
+  "bayesian_context": {
+    "pensa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "dorudon": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "relacionat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "cetacis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "actuals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "complex": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "litoria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "aurea": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "grup": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.43
+    },
+    "granotes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "relacionades": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "troba": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.65
+    },
+    "lligat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "temperatura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "habit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "cristal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "fluorita": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/estretament.json"
+}

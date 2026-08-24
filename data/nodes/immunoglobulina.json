@@ -1,0 +1,47 @@
+{
+  "concept": "immunoglobulina",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ige": 1.0
+  },
+  "bayesian_context": {
+    "causes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "habituals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "reaccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "dependents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "ige": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "penicil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "lina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "derivats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/immunoglobulina.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "flautins",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "seccio": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "seccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "vent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "fusta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "vuitena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/flautins.json"
+}

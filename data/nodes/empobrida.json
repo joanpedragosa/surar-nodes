@@ -1,0 +1,43 @@
+{
+  "concept": "empobrida",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "homes": 1.0
+  },
+  "bayesian_context": {
+    "cria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "waters": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "societat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "anglesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "esgotada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "homes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "segona_guerra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "mundial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/empobrida.json"
+}

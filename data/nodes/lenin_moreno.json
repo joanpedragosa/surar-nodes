@@ -1,0 +1,39 @@
+{
+  "concept": "lenin_moreno",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "excepcio": 1.0
+  },
+  "bayesian_context": {
+    "president": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "equador": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "decretat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "excepcio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "garantir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "ordre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "seguretat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lenin_moreno.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "carnal",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "espiritual": 1.0
+  },
+  "bayesian_context": {
+    "lluita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "amor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "espiritual": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "protagonista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "essencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "trama": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "esquinca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/carnal.json"
+}

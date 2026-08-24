@@ -1,0 +1,128 @@
+{
+  "concept": "presidir",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "parlament": 0.1667,
+    "cerimonia": 0.1667,
+    "inauguracio": 0.1667,
+    "diputacio": 0.1667,
+    "mes": 0.1667,
+    "concili": 0.1667
+  },
+  "bayesian_context": {
+    "proposa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    },
+    "danald_tusk": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "parlament": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.19
+    },
+    "manfred_weber": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "cerimonia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.17
+    },
+    "religiosa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.13
+    },
+    "acte": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.33
+    },
+    "central": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.41
+    },
+    "angelo_amato": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "inauguracio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "ferran": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.13
+    },
+    "baviera": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.29
+    },
+    "renunciat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "jose": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.69
+    },
+    "ciscar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "diputacio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    },
+    "alacant": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.13
+    },
+    "mes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.44
+    },
+    "consell_insular": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "mallorca": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.87
+    },
+    "papes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "concili": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.13
+    },
+    "trento": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "pau": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.89
+    },
+    "iii": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "juli": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "pius": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "iv": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.8
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/presidir.json"
+}

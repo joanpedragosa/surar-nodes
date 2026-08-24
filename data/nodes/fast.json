@@ -1,0 +1,39 @@
+{
+  "concept": "fast",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ferri": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "balearia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "posar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "funcionament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "key_west": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "havana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ferri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fast.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "alliberament_xines",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "assaltar": 1.0
+  },
+  "bayesian_context": {
+    "data": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "exercit_popular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "assaltar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "placa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "tiananmen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "juny": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/alliberament_xines.json"
+}

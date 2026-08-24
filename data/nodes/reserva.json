@@ -1,0 +1,72 @@
+{
+  "concept": "reserva",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "museu": 0.5,
+    "edat": 0.5
+  },
+  "bayesian_context": {
+    "investigar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "diversos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "investigadors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "sales": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "museu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "obres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "periode": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "artista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "hectarees": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "transferir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "complementar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "edat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "gel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "mauna_kea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reserva.json"
+}

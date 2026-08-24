@@ -1,0 +1,27 @@
+{
+  "concept": "adelaida",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "borgonya": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "borgonya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "esposa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "lotari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/adelaida.json"
+}

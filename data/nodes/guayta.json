@@ -1,0 +1,35 @@
+{
+  "concept": "guayta",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cap": 1.0
+  },
+  "bayesian_context": {
+    "dona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "espill": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "campanar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "vall": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "aygua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/guayta.json"
+}

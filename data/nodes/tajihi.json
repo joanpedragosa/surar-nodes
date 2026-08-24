@@ -1,0 +1,35 @@
+{
+  "concept": "tajihi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "agatamori": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "probablement": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "shogun": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "historia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "agatamori": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tajihi.json"
+}

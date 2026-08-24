@@ -1,0 +1,43 @@
+{
+  "concept": "budista",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "daruma": 1.0
+  },
+  "bayesian_context": {
+    "deia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "monjo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "daruma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "dibuix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "festival": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "toquio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/budista.json"
+}

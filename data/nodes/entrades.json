@@ -1,0 +1,44 @@
+{
+  "concept": "entrades",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sortides": 0.5,
+    "venut": 0.5
+  },
+  "bayesian_context": {
+    "succeeixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "sortides": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "personatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "temps": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.62
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "venut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "springsteen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "migdia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/entrades.json"
+}

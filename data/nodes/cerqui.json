@@ -1,0 +1,35 @@
+{
+  "concept": "cerqui",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mecanismes": 1.0
+  },
+  "bayesian_context": {
+    "demana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "castella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "mecanismes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "desplegar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "republica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cerqui.json"
+}

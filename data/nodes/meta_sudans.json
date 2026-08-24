@@ -1,0 +1,56 @@
+{
+  "concept": "meta_sudans",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "aigua": 0.5,
+    "conica": 0.5
+  },
+  "bayesian_context": {
+    "trobava": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "costat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.65
+    },
+    "colosseu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "envoltada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "aigua": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "forma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.29
+    },
+    "tenia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.18
+    },
+    "conica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "construir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "emperador": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "domicia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/meta_sudans.json"
+}

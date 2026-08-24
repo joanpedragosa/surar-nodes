@@ -1,0 +1,39 @@
+{
+  "concept": "escull",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estats_units": 1.0
+  },
+  "bayesian_context": {
+    "estats_units": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "poder": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "legislatiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "executiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "processos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "electorals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "diferenciats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/escull.json"
+}

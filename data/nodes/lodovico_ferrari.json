@@ -1,0 +1,40 @@
+{
+  "concept": "lodovico_ferrari",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cardano": 0.5,
+    "equacio": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "alumne": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "cardano": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "resoldre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "equacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "quart": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "grau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lodovico_ferrari.json"
+}

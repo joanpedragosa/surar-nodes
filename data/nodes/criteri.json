@@ -1,0 +1,133 @@
+{
+  "concept": "criteri",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "dossier": 0.25,
+    "fabricacio": 0.5,
+    "tribunal_superior": 0.25
+  },
+  "bayesian_context": {
+    "considera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "sete": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "dossier": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "tecnic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "potencial": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "innovacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "recerca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "espanyol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.15
+    },
+    "condemnava": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "llei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "regulava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "produccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "venda": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.79
+    },
+    "cervesa": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.82
+    },
+    "respectes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "fabricacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "establert": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "mort": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.55
+    },
+    "confirmat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "magistrats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "tribunal_superior": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "justicia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.65
+    },
+    "catalunya": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.03
+    },
+    "fets": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "sancionava": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "aigualir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "obrir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "local": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "sense": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "autoritzacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/criteri.json"
+}

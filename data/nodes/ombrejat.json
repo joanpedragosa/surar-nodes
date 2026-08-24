@@ -1,0 +1,27 @@
+{
+  "concept": "ombrejat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tapa": 1.0
+  },
+  "bayesian_context": {
+    "aconsegueix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "tapa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "llauna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "tridimensionalitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ombrejat.json"
+}

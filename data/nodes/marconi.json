@@ -1,0 +1,60 @@
+{
+  "concept": "marconi",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "oficina": 0.5,
+    "estacio": 0.5
+  },
+  "bayesian_context": {
+    "arribar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "oficina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "correus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "britanica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "establir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "estacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "wcc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "estats_units": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "transmetre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "missatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "est": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "oest": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/marconi.json"
+}

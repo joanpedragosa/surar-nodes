@@ -1,0 +1,35 @@
+{
+  "concept": "aparti",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "responsabilitat": 1.0
+  },
+  "bayesian_context": {
+    "fet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.83
+    },
+    "carrec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "responsabilitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "actuat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "llei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/aparti.json"
+}

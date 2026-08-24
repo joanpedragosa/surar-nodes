@@ -1,0 +1,39 @@
+{
+  "concept": "minoritaris",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "davant": 1.0
+  },
+  "bayesian_context": {
+    "pobles": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.88
+    },
+    "davant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "poblacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "nadiua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "francs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "visigots": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "llombards": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/minoritaris.json"
+}

@@ -1,0 +1,43 @@
+{
+  "concept": "wcc",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estats_units": 1.0
+  },
+  "bayesian_context": {
+    "establir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "marconi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "estacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "estats_units": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "transmetre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "missatges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "est": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "oest": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/wcc.json"
+}

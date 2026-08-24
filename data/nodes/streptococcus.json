@@ -1,0 +1,51 @@
+{
+  "concept": "streptococcus",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pneumoniae": 1.0
+  },
+  "bayesian_context": {
+    "percentatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "soques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "pneumoniae": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "aillades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "pacients": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "resistents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "penicil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "lina": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.05
+    },
+    "amoxicil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "prop": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/streptococcus.json"
+}

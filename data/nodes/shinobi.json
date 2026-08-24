@@ -1,0 +1,23 @@
+{
+  "concept": "shinobi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "esquena": 1.0
+  },
+  "bayesian_context": {
+    "portaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "espasa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "esquena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/shinobi.json"
+}

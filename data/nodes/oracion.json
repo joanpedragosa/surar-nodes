@@ -1,0 +1,55 @@
+{
+  "concept": "oracion",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "las": 1.0
+  },
+  "bayesian_context": {
+    "poema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "gregorio_martinez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sierra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "musicar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "falla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "las": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "madres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "tienen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "hijos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "brazos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/oracion.json"
+}

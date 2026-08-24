@@ -1,0 +1,31 @@
+{
+  "concept": "cims",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "subashiri": 1.0
+  },
+  "bayesian_context": {
+    "cobreix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "subashiri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "gotenba": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cendra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "volcanica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cims.json"
+}

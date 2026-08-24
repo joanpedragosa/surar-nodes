@@ -1,0 +1,35 @@
+{
+  "concept": "transcorria",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tracat": 1.0
+  },
+  "bayesian_context": {
+    "tracat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "projecte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "carrer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "sants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "placa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "espanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/transcorria.json"
+}

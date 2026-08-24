@@ -1,0 +1,39 @@
+{
+  "concept": "frob",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "perdues": 1.0
+  },
+  "bayesian_context": {
+    "comunicat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "perdues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "registrades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "web": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "nota": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "comptes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "anuals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/frob.json"
+}

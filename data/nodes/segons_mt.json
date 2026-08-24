@@ -1,0 +1,35 @@
+{
+  "concept": "segons_mt",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mc": 1.0
+  },
+  "bayesian_context": {
+    "mc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "lc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "davant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "portat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "jesus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "caifas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/segons_mt.json"
+}

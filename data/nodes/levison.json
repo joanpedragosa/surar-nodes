@@ -1,0 +1,31 @@
+{
+  "concept": "levison",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estima": 1.0
+  },
+  "bayesian_context": {
+    "parametre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "stern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "estima": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "sedna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "menor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/levison.json"
+}

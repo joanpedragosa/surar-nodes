@@ -1,0 +1,80 @@
+{
+  "concept": "vestir",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ermita": 0.5,
+    "titella": 0.5
+  },
+  "bayesian_context": {
+    "sembla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "ermita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "orde": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "benedicti": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "manava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "monestir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "sant_llorenc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "munt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "idea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "donava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "espectador": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "bunraku": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "titella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "negre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "podia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "veure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vestir.json"
+}

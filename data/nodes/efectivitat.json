@@ -1,0 +1,27 @@
+{
+  "concept": "efectivitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "medicament": 1.0
+  },
+  "bayesian_context": {
+    "implicat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "manca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "medicament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "tabac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/efectivitat.json"
+}

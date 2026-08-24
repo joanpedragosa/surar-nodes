@@ -1,0 +1,60 @@
+{
+  "concept": "urschel",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "magnat": 0.5,
+    "cartes": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "charles_f": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "magnat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "petroli": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "texas": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "escriure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.5
+    },
+    "kelly": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "cartes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "remordiment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "parla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "historia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "segrest": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/urschel.json"
+}

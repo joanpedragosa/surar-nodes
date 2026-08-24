@@ -1,0 +1,68 @@
+{
+  "concept": "hans_sloane",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "pertanyien": 0.5,
+    "restes": 0.5
+  },
+  "bayesian_context": {
+    "determinar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "pertanyien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "fossils": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.57
+    },
+    "especie": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.88
+    },
+    "elefant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "examinar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "restes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "dents": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "ullals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "britanic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "primera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.37
+    },
+    "expedicio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "siberia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/hans_sloane.json"
+}

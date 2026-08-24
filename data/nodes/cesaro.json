@@ -1,0 +1,78 @@
+{
+  "concept": "cesaro",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "eugene_charles": 0.25,
+    "sur": 0.25,
+    "manifesta": 0.25,
+    "publicar": 0.25
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "mestre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    },
+    "eugene_charles": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "catalan": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "punt": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    },
+    "vista": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "sur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "multiplication": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "series": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "modern": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "manifesta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "formules": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "falses": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "treball": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.75
+    },
+    "publicar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cesaro.json"
+}

@@ -1,0 +1,77 @@
+{
+  "concept": "comunica",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "malalt": 0.3333,
+    "segismondo": 0.3333,
+    "casa": 0.3333
+  },
+  "bayesian_context": {
+    "malalt": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "curacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "coneguts": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "segismondo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "egelinda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "arribat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "moment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.91
+    },
+    "presentar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.57
+    },
+    "se": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.08
+    },
+    "davant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "ulderico": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "escrit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "porta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "casa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.62
+    },
+    "canonges": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "jaume_i": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/comunica.json"
+}

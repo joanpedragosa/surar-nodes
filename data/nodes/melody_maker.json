@@ -1,0 +1,39 @@
+{
+  "concept": "melody_maker",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pitjor": 1.0
+  },
+  "bayesian_context": {
+    "votar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "album": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "enquesta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "pitjor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "enregistrament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "mai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "fet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.83
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/melody_maker.json"
+}

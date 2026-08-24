@@ -1,0 +1,27 @@
+{
+  "concept": "beechcraft",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "arbres": 1.0
+  },
+  "bayesian_context": {
+    "colpejar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "avio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "passatgers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "arbres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/beechcraft.json"
+}

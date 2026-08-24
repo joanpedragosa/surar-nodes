@@ -1,0 +1,39 @@
+{
+  "concept": "retransmetent",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "judici": 1.0
+  },
+  "bayesian_context": {
+    "diuen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "advocats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "judici": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.73
+    },
+    "directe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "mediatic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/retransmetent.json"
+}

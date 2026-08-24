@@ -1,0 +1,56 @@
+{
+  "concept": "emfatitza",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "forma": 0.5,
+    "instrumentacio": 0.5
+  },
+  "bayesian_context": {
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "cupula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "quatre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "chattris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "instrumentacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "diferents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "atmosferes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "succeeixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "desenllac": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "tragedia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/emfatitza.json"
+}

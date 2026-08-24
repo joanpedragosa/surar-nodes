@@ -1,0 +1,262 @@
+{
+  "concept": "vapor",
+  "frequency": 11,
+  "edges": [],
+  "markov_transitions": {
+    "moviment": 0.1,
+    "dragues": 0.2,
+    "segons": 0.2,
+    "dissolvent": 0.1,
+    "aigua": 0.1,
+    "dissolucions": 0.1,
+    "temperatura": 0.1,
+    "liquid": 0.1
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0091,
+      "posterior_boost": 3.26
+    },
+    "particules": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.84
+    },
+    "moviment": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.27
+    },
+    "rapid": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.94
+    },
+    "contacte": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.81
+    },
+    "modernitzar": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "metodes": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.94
+    },
+    "treball": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.61
+    },
+    "construint": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "maquines": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.51
+    },
+    "dragues": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.98
+    },
+    "excavadores": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.81
+    },
+    "proporcional": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "descens": {
+      "likelihood": 0.0152,
+      "posterior_boost": 4.73
+    },
+    "pressio": {
+      "likelihood": 0.0182,
+      "posterior_boost": 4.38
+    },
+    "segons": {
+      "likelihood": 0.0061,
+      "posterior_boost": 2.78
+    },
+    "heinrich": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.81
+    },
+    "quantitat": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.57
+    },
+    "solut": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "produeix": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.55
+    },
+    "transferencia": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.94
+    },
+    "neta": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.38
+    },
+    "dissolvent": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.33
+    },
+    "cap": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.6
+    },
+    "dissolucio": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.21
+    },
+    "major": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.29
+    },
+    "descobert": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.87
+    },
+    "espectroscopia": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "atmosfera": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.73
+    },
+    "ura": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.62
+    },
+    "traces": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "aigua": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.25
+    },
+    "relacionades": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "primeres": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.51
+    },
+    "investigacions": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "ascens": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.14
+    },
+    "ebullioscopic": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "estudis": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.54
+    },
+    "dissolucions": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "depen": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "diferencia": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.03
+    },
+    "temperatura": {
+      "likelihood": 0.0121,
+      "posterior_boost": 4.12
+    },
+    "condensacio": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "ebullicio": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.68
+    },
+    "velocitat": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.51
+    },
+    "transmissio": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "calor": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "evaporador": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "independent": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.98
+    },
+    "fa": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.76
+    },
+    "hagi": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.62
+    },
+    "liquid": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "reduiria": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "utilitzar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.36
+    },
+    "pic": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.38
+    },
+    "pala": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "partir": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.38
+    },
+    "explica": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.08
+    },
+    "osmosi": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "tercera": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.66
+    },
+    "teoria": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.54
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vapor.json"
+}

@@ -1,0 +1,64 @@
+{
+  "concept": "reobrir",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "seccio": 0.5,
+    "fundacio": 0.5
+  },
+  "bayesian_context": {
+    "investigacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "demana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "seccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "segona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "sala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "penal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "audiencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "espanyola": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "adjudicacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "generalitatvalenciana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "orange_market": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "fundacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "tapies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reobrir.json"
+}

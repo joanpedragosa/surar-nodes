@@ -1,0 +1,56 @@
+{
+  "concept": "clonacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "trobar": 0.5,
+    "genetica": 0.5
+  },
+  "bayesian_context": {
+    "requeria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "proces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "trobar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.69
+    },
+    "restes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "teixit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "tou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mamut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "partir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "creen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "dinosaures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "genetica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/clonacio.json"
+}

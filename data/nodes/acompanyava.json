@@ -1,0 +1,36 @@
+{
+  "concept": "acompanyava",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "archivaldo": 0.5,
+    "missatge": 0.5
+  },
+  "bayesian_context": {
+    "archivaldo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "flaminio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "missatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "enviat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "pare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "diners": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/acompanyava.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "argumentacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "moreno": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "servir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "moreno": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "codi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "penal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "franquista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/argumentacio.json"
+}

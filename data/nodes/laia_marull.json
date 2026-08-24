@@ -1,0 +1,23 @@
+{
+  "concept": "laia_marull",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "protagonista": 1.0
+  },
+  "bayesian_context": {
+    "paper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.2
+    },
+    "feia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "protagonista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/laia_marull.json"
+}

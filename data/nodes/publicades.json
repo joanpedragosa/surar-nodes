@@ -1,0 +1,103 @@
+{
+  "concept": "publicades",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "millikan": 0.2,
+    "troballes": 0.2,
+    "primeres": 0.2,
+    "usa": 0.2,
+    "boe": 0.2
+  },
+  "bayesian_context": {
+    "donarien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "dades": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "millikan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "hagues": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "emprat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "resultat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "troballes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "baruch_braunstein": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "archivo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "historico": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "nacional": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "madrid": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.91
+    },
+    "usa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "primeres": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.77
+    },
+    "traduccions": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "goethe": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "any": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.68
+    },
+    "quantes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.69
+    },
+    "victimes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.97
+    },
+    "constaven": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "boe": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/publicades.json"
+}

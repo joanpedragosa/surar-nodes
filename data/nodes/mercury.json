@@ -1,0 +1,43 @@
+{
+  "concept": "mercury",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "hard": 1.0
+  },
+  "bayesian_context": {
+    "acostumada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "gent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "hard": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "rock": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "musica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "energica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "queen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mercury.json"
+}

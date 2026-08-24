@@ -1,0 +1,43 @@
+{
+  "concept": "esportius",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "escolars": 1.0
+  },
+  "bayesian_context": {
+    "tasques": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.37
+    },
+    "fan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "kōhai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "recent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "ingres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "clubs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "escolars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "basiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/esportius.json"
+}

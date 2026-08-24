@@ -1,0 +1,55 @@
+{
+  "concept": "plegament",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "proteic": 1.0
+  },
+  "bayesian_context": {
+    "estudien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "rosseta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "home": {
+      "likelihood": 0.05,
+      "posterior_boost": 4.62
+    },
+    "folding": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "malalties": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "provocades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "proteic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "defectuos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "punt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "fort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "modelatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/plegament.json"
+}

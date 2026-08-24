@@ -1,0 +1,43 @@
+{
+  "concept": "hurdat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "temporada": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "ciclons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "tropicals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "reconeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "temporada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "huracans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "atlantic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/hurdat.json"
+}

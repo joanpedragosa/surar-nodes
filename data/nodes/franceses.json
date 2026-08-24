@@ -1,0 +1,23 @@
+{
+  "concept": "franceses",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "versalles": 1.0
+  },
+  "bayesian_context": {
+    "congregaran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "corts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "versalles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/franceses.json"
+}

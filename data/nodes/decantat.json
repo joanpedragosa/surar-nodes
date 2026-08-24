@@ -1,0 +1,27 @@
+{
+  "concept": "decantat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cap": 1.0
+  },
+  "bayesian_context": {
+    "mostrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "dreta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "sanchez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/decantat.json"
+}

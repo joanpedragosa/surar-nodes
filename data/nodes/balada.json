@@ -1,0 +1,43 @@
+{
+  "concept": "balada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pilot": 1.0
+  },
+  "bayesian_context": {
+    "arria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "veles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "tripulacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "espectres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "segon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "passatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "pilot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "daland": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/balada.json"
+}

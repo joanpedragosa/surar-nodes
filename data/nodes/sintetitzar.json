@@ -1,0 +1,52 @@
+{
+  "concept": "sintetitzar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "transcrits": 0.5,
+    "aminoacids": 0.5
+  },
+  "bayesian_context": {
+    "coneixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "molecules": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "arn": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "acabades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "transcrits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "primaris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "poden": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "aminoacids": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "proteines": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "biomolecules": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sintetitzar.json"
+}

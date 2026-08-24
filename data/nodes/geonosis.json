@@ -1,0 +1,44 @@
+{
+  "concept": "geonosis",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "republica": 0.5,
+    "guerres": 0.5
+  },
+  "bayesian_context": {
+    "lliurar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "batalla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "republica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "separatistes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "lloc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "guerres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "clon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/geonosis.json"
+}

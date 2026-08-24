@@ -1,0 +1,31 @@
+{
+  "concept": "shimazu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "exercit": 1.0
+  },
+  "bayesian_context": {
+    "lluitava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "clan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "exercit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "est": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "tokugawa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/shimazu.json"
+}

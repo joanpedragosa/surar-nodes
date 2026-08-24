@@ -1,0 +1,27 @@
+{
+  "concept": "demanaria",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "theresa_may": 1.0
+  },
+  "bayesian_context": {
+    "dir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "theresa_may": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "segon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "ajornament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/demanaria.json"
+}

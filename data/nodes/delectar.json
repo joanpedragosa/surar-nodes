@@ -1,0 +1,35 @@
+{
+  "concept": "delectar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "compositor": 1.0
+  },
+  "bayesian_context": {
+    "audiencies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "volia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "compositor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "internacionals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "belle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "epoque": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/delectar.json"
+}

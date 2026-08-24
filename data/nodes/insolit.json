@@ -1,0 +1,43 @@
+{
+  "concept": "insolit",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mezzo": 1.0
+  },
+  "bayesian_context": {
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "mezzo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "contralt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "assumeixi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "paper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.2
+    },
+    "protagonista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "carmen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "bizet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/insolit.json"
+}

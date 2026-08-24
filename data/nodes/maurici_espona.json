@@ -1,0 +1,23 @@
+{
+  "concept": "maurici_espona",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "manresa": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "natural": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "manresa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/maurici_espona.json"
+}

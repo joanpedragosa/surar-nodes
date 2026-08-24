@@ -1,0 +1,39 @@
+{
+  "concept": "haly",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "isabella": 1.0
+  },
+  "bayesian_context": {
+    "anuncia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "isabella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "convertira": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "favorita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "harem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "bei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mustafa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/haly.json"
+}

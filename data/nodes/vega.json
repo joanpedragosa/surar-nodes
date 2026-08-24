@@ -1,0 +1,23 @@
+{
+  "concept": "vega",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "km": 1.0
+  },
+  "bayesian_context": {
+    "velocitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "rotacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "km": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vega.json"
+}

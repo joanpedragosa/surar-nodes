@@ -1,0 +1,52 @@
+{
+  "concept": "serralada",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "jura": 0.5,
+    "alcar": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "paisatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "autentic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ornans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "jura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "alcar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "col": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "lisio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "himalaia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/serralada.json"
+}

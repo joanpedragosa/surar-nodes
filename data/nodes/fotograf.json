@@ -1,0 +1,92 @@
+{
+  "concept": "fotograf",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "seattle": 0.1667,
+    "era": 0.1667,
+    "societat": 0.1667,
+    "estatus": 0.1667,
+    "acompanyar": 0.1667,
+    "edward_curtis": 0.1667
+  },
+  "bayesian_context": {
+    "establir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.93
+    },
+    "seattle": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "tipus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.45
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "vic_singh": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "societat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "fet": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.05
+    },
+    "atorgara": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "estatus": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "autor": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.59
+    },
+    "opinar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "acompanyar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "banda": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.67
+    },
+    "peter_hince": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "quantes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.69
+    },
+    "etapes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.29
+    },
+    "carrera": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "edward_curtis": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "tres": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.92
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fotograf.json"
+}

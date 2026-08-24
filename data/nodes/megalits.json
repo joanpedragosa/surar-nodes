@@ -1,0 +1,27 @@
+{
+  "concept": "megalits",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cadiretes": 1.0
+  },
+  "bayesian_context": {
+    "serra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "troben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "conjunts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "cadiretes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/megalits.json"
+}

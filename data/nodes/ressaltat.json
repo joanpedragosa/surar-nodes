@@ -1,0 +1,19 @@
+{
+  "concept": "ressaltat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "organitzadors": 1.0
+  },
+  "bayesian_context": {
+    "organitzadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "participacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ressaltat.json"
+}

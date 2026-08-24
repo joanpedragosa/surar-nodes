@@ -1,0 +1,72 @@
+{
+  "concept": "duran",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "mort": 0.3333,
+    "terme": 0.6667
+  },
+  "bayesian_context": {
+    "fa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.32
+    },
+    "lusio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "aria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "final": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.74
+    },
+    "adriana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "violetes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "mort": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "facultat": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "terme": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.04
+    },
+    "jornades": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "dret": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "proximes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "eleccions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.48
+    },
+    "municipals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "maig": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/duran.json"
+}

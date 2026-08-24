@@ -1,0 +1,31 @@
+{
+  "concept": "denomina",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "actualment": 1.0
+  },
+  "bayesian_context": {
+    "actualment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "estacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "pueblo_seco": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "paral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "lel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/denomina.json"
+}

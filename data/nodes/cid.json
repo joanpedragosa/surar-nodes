@@ -1,0 +1,35 @@
+{
+  "concept": "cid",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "inflacio": 1.0
+  },
+  "bayesian_context": {
+    "compte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "comparar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "despesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "actual": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "inflacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cid.json"
+}

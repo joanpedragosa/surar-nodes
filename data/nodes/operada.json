@@ -1,0 +1,23 @@
+{
+  "concept": "operada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "linia": 1.0
+  },
+  "bayesian_context": {
+    "linia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "ferrocarril_metropolita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/operada.json"
+}

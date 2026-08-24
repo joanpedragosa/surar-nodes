@@ -1,0 +1,44 @@
+{
+  "concept": "encapcalara",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "accio": 0.5,
+    "govern": 0.5
+  },
+  "bayesian_context": {
+    "accio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "politica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "crida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "puigdemont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "fracassa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mocio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "mariano_rajoy": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/encapcalara.json"
+}

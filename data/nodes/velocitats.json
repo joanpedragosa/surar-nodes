@@ -1,0 +1,43 @@
+{
+  "concept": "velocitats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "reaccio": 1.0
+  },
+  "bayesian_context": {
+    "allibera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "produeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "rapid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "augment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "reaccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "quantitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "energia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/velocitats.json"
+}

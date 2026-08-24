@@ -1,0 +1,39 @@
+{
+  "concept": "centre_excursionista",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "catalunya": 1.0
+  },
+  "bayesian_context": {
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "laborar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "restauracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "monestir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "sant_joan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "abadesses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/centre_excursionista.json"
+}

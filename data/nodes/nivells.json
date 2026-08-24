@@ -1,0 +1,122 @@
+{
+  "concept": "nivells",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "contaminacio": 0.25,
+    "mar": 0.25,
+    "acidificacio": 0.25,
+    "baixos": 0.25
+  },
+  "bayesian_context": {
+    "brussel": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.0
+    },
+    "denunciat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "espanya": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.49
+    },
+    "vulnerar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "contaminacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "aire": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "barcelona": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.95
+    },
+    "part": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.0
+    },
+    "baix_llobregat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "valles_occidental": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "oriental": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "madrid": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.69
+    },
+    "provocava": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "mancances": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "sal": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "canvis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.88
+    },
+    "periodics": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "mar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.62
+    },
+    "alts": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "provoca": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "aigues": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "increment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "acidificacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "aminoacid": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "presenta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.65
+    },
+    "baixos": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "lisina": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/nivells.json"
+}

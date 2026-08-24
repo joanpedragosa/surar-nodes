@@ -1,0 +1,31 @@
+{
+  "concept": "alternaven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "paraules": 1.0
+  },
+  "bayesian_context": {
+    "paraules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "diari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "personal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "frida_kahlo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "dibuixos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/alternaven.json"
+}

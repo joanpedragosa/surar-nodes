@@ -1,0 +1,39 @@
+{
+  "concept": "calella",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "palafrugell": 1.0
+  },
+  "bayesian_context": {
+    "finca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "gall": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "or": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "celebra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "festival": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "cap_roig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "palafrugell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/calella.json"
+}

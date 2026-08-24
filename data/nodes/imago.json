@@ -1,0 +1,23 @@
+{
+  "concept": "imago",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "eruga": 1.0
+  },
+  "bayesian_context": {
+    "desenvolupa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "larva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "eruga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/imago.json"
+}

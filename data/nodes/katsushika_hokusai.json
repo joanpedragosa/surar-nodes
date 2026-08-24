@@ -1,0 +1,63 @@
+{
+  "concept": "katsushika_hokusai",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "utagawa_hiroshige": 1.0
+  },
+  "bayesian_context": {
+    "autor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "trenta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.87
+    },
+    "sis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.71
+    },
+    "vistes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "mont_fuji": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "nacionalitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "utagawa_hiroshige": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "utamaro": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "japonesos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "pintors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "sent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "admiracio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "van_gogh": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/katsushika_hokusai.json"
+}

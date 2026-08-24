@@ -1,0 +1,35 @@
+{
+  "concept": "emmarcara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "altar": 1.0
+  },
+  "bayesian_context": {
+    "altar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "arc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "triomfal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "baldaqui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "calvari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "jesus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/emmarcara.json"
+}

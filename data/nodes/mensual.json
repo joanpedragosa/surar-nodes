@@ -1,0 +1,138 @@
+{
+  "concept": "mensual",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "automobil": 0.25,
+    "lloguer": 0.25,
+    "fer": 0.25,
+    "despeses": 0.25
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.54
+    },
+    "litres": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "gasolina": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "estableix": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "racionament": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "automobil": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "privat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "periodicitat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "tenia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.08
+    },
+    "diari": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.75
+    },
+    "joventut": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "preu": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "mitja": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.58
+    },
+    "lloguer": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "catalunya": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.93
+    },
+    "euros": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.7
+    },
+    "import": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "era": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.57
+    },
+    "contracte": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "fer": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.63
+    },
+    "agencia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "glover_park": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "group": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "quinze": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "mil": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.78
+    },
+    "reben": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "grups": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.54
+    },
+    "senat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "subvencio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "despeses": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "funcionament": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mensual.json"
+}

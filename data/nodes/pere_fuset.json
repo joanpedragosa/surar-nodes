@@ -1,0 +1,36 @@
+{
+  "concept": "pere_fuset",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "competencies": 0.5,
+    "junta_central": 0.5
+  },
+  "bayesian_context": {
+    "president": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.78
+    },
+    "jcf": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "renunciat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "competencies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "junta_central": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "fallera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pere_fuset.json"
+}

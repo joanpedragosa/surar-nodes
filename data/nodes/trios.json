@@ -1,0 +1,51 @@
+{
+  "concept": "trios",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "actes": 1.0
+  },
+  "bayesian_context": {
+    "elogiar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "premsa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "particular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "dia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "estrena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.3
+    },
+    "final": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "acte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "actes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "ii": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "iii": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/trios.json"
+}

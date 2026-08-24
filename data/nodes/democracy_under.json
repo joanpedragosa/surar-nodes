@@ -1,0 +1,35 @@
+{
+  "concept": "democracy_under",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "siege": 1.0
+  },
+  "bayesian_context": {
+    "data": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "obre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "galleri_duerr": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "exposicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "siege": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "setembre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/democracy_under.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "glacera",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "beardmore": 1.0
+  },
+  "bayesian_context": {
+    "descobrir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "ruta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "beardmore": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "equip": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "pol_sud": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/glacera.json"
+}

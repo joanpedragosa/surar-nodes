@@ -1,0 +1,27 @@
+{
+  "concept": "ressonant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "public": 1.0
+  },
+  "bayesian_context": {
+    "resultar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "exit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "public": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ressonant.json"
+}

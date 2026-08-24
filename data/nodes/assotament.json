@@ -1,0 +1,52 @@
+{
+  "concept": "assotament",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vegada": 0.5,
+    "pronunciament": 0.5
+  },
+  "bayesian_context": {
+    "solia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "portar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "terme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "vegada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "conclos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "proces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "situa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "joan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "pronunciament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "sentencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/assotament.json"
+}

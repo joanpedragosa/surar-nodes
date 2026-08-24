@@ -1,0 +1,52 @@
+{
+  "concept": "kapitänleutnant",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "just": 0.5,
+    "fritz_steinhoff": 0.5
+  },
+  "bayesian_context": {
+    "acabar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "just": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "segon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "interrogatori": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "inconscient": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "sotmes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fritz_steinhoff": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "tecniques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "abusives": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/kapitänleutnant.json"
+}

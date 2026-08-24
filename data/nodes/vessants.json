@@ -1,0 +1,73 @@
+{
+  "concept": "vessants",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "volca": 0.3333,
+    "sobrevent": 0.3333,
+    "km": 0.3333
+  },
+  "bayesian_context": {
+    "arrossegaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "lahars": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.25
+    },
+    "baixaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "volca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "roques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "mes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.73
+    },
+    "frequent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "desarrelament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "vent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "sobrevent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "velocitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "mitjana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "baixant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "km": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vessants.json"
+}

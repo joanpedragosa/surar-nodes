@@ -1,0 +1,51 @@
+{
+  "concept": "sembra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sal": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "precedit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "acte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "fe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "destruccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "hort": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "reunien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "conversos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sembra.json"
+}

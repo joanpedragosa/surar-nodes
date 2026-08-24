@@ -1,0 +1,380 @@
+{
+  "concept": "actuacio",
+  "frequency": 17,
+  "edges": [],
+  "markov_transitions": {
+    "gilmour": 0.0625,
+    "sopar": 0.0625,
+    "directiva": 0.0625,
+    "policia": 0.0625,
+    "construccio": 0.0625,
+    "serveis": 0.0625,
+    "mossos": 0.125,
+    "policial": 0.0625,
+    "exercit": 0.0625,
+    "obra": 0.0625,
+    "perllongament": 0.125,
+    "otello": 0.0625,
+    "numero": 0.0625,
+    "abril": 0.0625
+  },
+  "bayesian_context": {
+    "criticar": {
+      "likelihood": 0.0039,
+      "posterior_boost": 4.4
+    },
+    "gilmour": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.68
+    },
+    "tom_graves": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "fara": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.18
+    },
+    "sopar": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "miquel_gil": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "pep_gimeno": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "durament": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "directiva": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "enpetrol": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "diverses": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.32
+    },
+    "institucions": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.8
+    },
+    "ajuntament": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.11
+    },
+    "tarragona": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.52
+    },
+    "forces": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.52
+    },
+    "seguretat": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.47
+    },
+    "estatals": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "associacions": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.95
+    },
+    "veinals": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "resultar": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.57
+    },
+    "policia": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.21
+    },
+    "guardia_civil": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.45
+    },
+    "segons": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.3
+    },
+    "socialistes": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.68
+    },
+    "desproporcionada": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "plantejava": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "construccio": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.24
+    },
+    "anomenada": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.68
+    },
+    "linia": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.86
+    },
+    "examinar": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "departament": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.31
+    },
+    "imatges": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.31
+    },
+    "determinar": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.35
+    },
+    "eventuals": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "responsabilitats": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "protocols": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "volen": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.97
+    },
+    "convocar": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.65
+    },
+    "sessio": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.65
+    },
+    "extraordinaria": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "informar": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "serveis": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.65
+    },
+    "municipals": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.57
+    },
+    "atemptat": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.43
+    },
+    "terrorista": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "recolza": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "miquel_buch": {
+      "likelihood": 0.0039,
+      "posterior_boost": 4.19
+    },
+    "mossos": {
+      "likelihood": 0.0059,
+      "posterior_boost": 3.73
+    },
+    "esquadra": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.92
+    },
+    "reprovat": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "policial": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    },
+    "catorze": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.8
+    },
+    "paisos": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.2
+    },
+    "diversos": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.15
+    },
+    "grups": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.01
+    },
+    "parlament_europeu": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.49
+    },
+    "carta": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.04
+    },
+    "conjunta": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "declaracions": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.35
+    },
+    "fer": {
+      "likelihood": 0.0059,
+      "posterior_boost": 2.57
+    },
+    "ahir": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.45
+    },
+    "ministre": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.28
+    },
+    "defensa": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.2
+    },
+    "espanyol": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.53
+    },
+    "pedro": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.03
+    },
+    "morenes": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "exercit": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.13
+    },
+    "catalunya": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.41
+    },
+    "primera": {
+      "likelihood": 0.0039,
+      "posterior_boost": 2.92
+    },
+    "obra": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.31
+    },
+    "mila": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.4
+    },
+    "teatro_san": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.62
+    },
+    "benedetto": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "venecia": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.52
+    },
+    "perllongament": {
+      "likelihood": 0.0039,
+      "posterior_boost": 4.49
+    },
+    "esperava": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "fos": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.43
+    },
+    "otello": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.98
+    },
+    "primers": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.14
+    },
+    "dies": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.94
+    },
+    "juliol": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.12
+    },
+    "lloc": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.91
+    },
+    "numero": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.35
+    },
+    "dia": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.56
+    },
+    "abril": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.04
+    },
+    "dubtes": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "esborrar": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "professionalitat": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "cos": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.03
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/actuacio.json"
+}

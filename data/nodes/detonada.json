@@ -1,0 +1,39 @@
+{
+  "concept": "detonada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "assaig": 1.0
+  },
+  "bayesian_context": {
+    "utilitza": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    },
+    "bomba": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "atomica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "assaig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "nuclear": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "trinity": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/detonada.json"
+}

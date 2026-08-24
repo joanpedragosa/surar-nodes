@@ -1,0 +1,35 @@
+{
+  "concept": "regim_electoral",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "general": 1.0
+  },
+  "bayesian_context": {
+    "llei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "vulnera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "nova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.09
+    },
+    "pancarta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "llei_organica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "general": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/regim_electoral.json"
+}

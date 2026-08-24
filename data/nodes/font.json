@@ -1,0 +1,635 @@
+{
+  "concept": "font",
+  "frequency": 28,
+  "edges": [],
+  "markov_transitions": {
+    "magica": 0.1111,
+    "pau": 0.037,
+    "mes": 0.037,
+    "antoni_rovira": 0.037,
+    "diplomatica": 0.037,
+    "balloon_flower": 0.037,
+    "sangra": 0.1111,
+    "particularment": 0.037,
+    "sant_jordi": 0.037,
+    "treball": 0.037,
+    "energia": 0.1111,
+    "recursos": 0.037,
+    "sagrada": 0.037,
+    "garriga": 0.037,
+    "can_gaig": 0.037,
+    "rambla": 0.037,
+    "comuna": 0.037,
+    "primaria": 0.037,
+    "ingressos": 0.037,
+    "radio": 0.037,
+    "neptu": 0.037
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.11
+    },
+    "jocs": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.38
+    },
+    "aigua": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.84
+    },
+    "diferents": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.82
+    },
+    "magica": {
+      "likelihood": 0.0036,
+      "posterior_boost": 4.58
+    },
+    "montjuic": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.77
+    },
+    "trenta": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.9
+    },
+    "refugiats": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.17
+    },
+    "generara": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "operacio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.58
+    },
+    "pau": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.22
+    },
+    "considerat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.12
+    },
+    "mes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 1.83
+    },
+    "creible": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "ireneu": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "obra": {
+      "likelihood": 0.006,
+      "posterior_boost": 2.78
+    },
+    "antoni_rovira": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "trias": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "assegura": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "macron": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.1
+    },
+    "suport": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.75
+    },
+    "rivera": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.26
+    },
+    "diplomatica": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "francesa": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.54
+    },
+    "carles": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.54
+    },
+    "buigas": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "diu": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.26
+    },
+    "centre": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.02
+    },
+    "balloon_flower": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "dimensions": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.73
+    },
+    "sangra": {
+      "likelihood": 0.0036,
+      "posterior_boost": 4.58
+    },
+    "extraordinaries": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "sobreviure": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.88
+    },
+    "de_re": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "medica_libri": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "septem": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "particularment": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "profunda": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.88
+    },
+    "coneixement": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.47
+    },
+    "medic": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "destaca": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.26
+    },
+    "exposicio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.94
+    },
+    "anomenada": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.47
+    },
+    "deixat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.58
+    },
+    "visitants": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "sant_jordi": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.28
+    },
+    "situada": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.32
+    },
+    "pati": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.73
+    },
+    "tarongers": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "roses": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "grogues": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.1
+    },
+    "influir": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.5
+    },
+    "existencia": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.54
+    },
+    "treball": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.91
+    },
+    "barata": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "economia": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.18
+    },
+    "utilitzaven": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.5
+    },
+    "cel": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.0
+    },
+    "lules": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.3
+    },
+    "heterotrofes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "materia": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.43
+    },
+    "primera": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.42
+    },
+    "energia": {
+      "likelihood": 0.0036,
+      "posterior_boost": 3.64
+    },
+    "molecules": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.58
+    },
+    "organiques": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.1
+    },
+    "properes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "fou": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.95
+    },
+    "veritable": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.73
+    },
+    "recursos": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.32
+    },
+    "creixement": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.47
+    },
+    "industrial": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.47
+    },
+    "mercat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.22
+    },
+    "exterior": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.06
+    },
+    "podria": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.85
+    },
+    "ser": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.04
+    },
+    "petita": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.32
+    },
+    "estructura": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.01
+    },
+    "mostra": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.89
+    },
+    "fresc": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.68
+    },
+    "habitacio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.73
+    },
+    "sagrada": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "adoptar": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.62
+    },
+    "llum": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.99
+    },
+    "solar": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.58
+    },
+    "comencar": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.59
+    },
+    "protesta": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.4
+    },
+    "atemptat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.22
+    },
+    "placa": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.8
+    },
+    "construir": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.03
+    },
+    "safareigs": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.1
+    },
+    "municipals": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.35
+    },
+    "garriga": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "domicili": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.88
+    },
+    "ronda": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.58
+    },
+    "sant_pere": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.73
+    },
+    "numero": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.13
+    },
+    "can_gaig": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "sagrera": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "forma": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.46
+    },
+    "rambla": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "santa_monica": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "teatre": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.88
+    },
+    "epidaure": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "creu": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.89
+    },
+    "comuna": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.88
+    },
+    "the": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.09
+    },
+    "clandestine": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "marriage": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "primaria": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "utilitzada": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.68
+    },
+    "francesco_berio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "llibret": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.94
+    },
+    "othello": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "ou": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.73
+    },
+    "le": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.54
+    },
+    "more": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "venise": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "actualment": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.92
+    },
+    "principal": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.85
+    },
+    "ingressos": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "pastors": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "ovelles": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.5
+    },
+    "neozelandesos": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "produccio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.01
+    },
+    "carn": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.4
+    },
+    "evidencia": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "trobar": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.55
+    },
+    "determinar": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.13
+    },
+    "pulsars": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "senyals": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.68
+    },
+    "essers": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.73
+    },
+    "extraterrestres": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "descobriment": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.58
+    },
+    "radio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "polsant": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "nebulosa": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.32
+    },
+    "cranc": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.68
+    },
+    "neptu": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.54
+    },
+    "nom": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.56
+    },
+    "rep": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.17
+    },
+    "finca": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.88
+    },
+    "cardedeu": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "ca": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "eres_vell": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "proces": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.67
+    },
+    "converteix": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.54
+    },
+    "aminoacids": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "oxidats": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "urea": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.1
+    },
+    "dioxid": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "carboni": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.58
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/font.json"
+}

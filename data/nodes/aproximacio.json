@@ -1,0 +1,31 @@
+{
+  "concept": "aproximacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pobresa": 1.0
+  },
+  "bayesian_context": {
+    "informe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "recull": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "dades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "pobresa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "treball": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/aproximacio.json"
+}

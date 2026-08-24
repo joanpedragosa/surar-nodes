@@ -1,0 +1,270 @@
+{
+  "concept": "senyals",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "alarma": 0.125,
+    "electrics": 0.125,
+    "naturals": 0.125,
+    "transit": 0.125,
+    "essers": 0.125,
+    "perill": 0.125,
+    "estimulacio": 0.125,
+    "fan": 0.125
+  },
+  "bayesian_context": {
+    "envia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "alarma": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "cel": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.54
+    },
+    "lules": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.84
+    },
+    "danyades": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "lesionades": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "estressades": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "volen": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.29
+    },
+    "aconseguir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.22
+    },
+    "facin": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "neurones": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "artificials": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "responguin": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "electrics": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "sistema": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.21
+    },
+    "nervios": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "fossin": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "reals": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "inhibeix": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "esterilitzacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "naturals": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "necessaris": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "correcte": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "desenvolupament": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.63
+    },
+    "ossos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "volgut": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "retolar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "castella": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.72
+    },
+    "govern": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.77
+    },
+    "espanyol": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.85
+    },
+    "transit": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "poble": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.59
+    },
+    "evidencia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "trobar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.39
+    },
+    "determinar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "pulsars": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "essers": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "extraterrestres": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "descobriment": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "font": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "radio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "polsant": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "centre": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.26
+    },
+    "nebulosa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.87
+    },
+    "cranc": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "maduren": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "dendritiques": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "perill": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.98
+    },
+    "punt": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.5
+    },
+    "inflamacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "estimulacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "acumulacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "danys": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "especialment": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.98
+    },
+    "trencaments": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "bicatenaris": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "adductes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "fan": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.42
+    },
+    "servir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.26
+    },
+    "arctids": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "advertir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "ratpenats": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.76
+    },
+    "ultrasonics": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/senyals.json"
+}

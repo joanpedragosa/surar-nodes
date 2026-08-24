@@ -1,0 +1,27 @@
+{
+  "concept": "expectacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "audiencia": 1.0
+  },
+  "bayesian_context": {
+    "arribar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "audiencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "febril": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/expectacio.json"
+}

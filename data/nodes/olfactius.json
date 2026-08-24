@@ -1,0 +1,31 @@
+{
+  "concept": "olfactius",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "bloodhounds": 1.0
+  },
+  "bayesian_context": {
+    "gossos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "tenen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.88
+    },
+    "milions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "receptors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "bloodhounds": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/olfactius.json"
+}

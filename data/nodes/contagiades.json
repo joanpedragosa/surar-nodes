@@ -1,0 +1,27 @@
+{
+  "concept": "contagiades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "avui": 1.0
+  },
+  "bayesian_context": {
+    "quantes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.46
+    },
+    "persones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "avui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "xina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/contagiades.json"
+}

@@ -1,0 +1,43 @@
+{
+  "concept": "senzilla",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "llibreta": 1.0
+  },
+  "bayesian_context": {
+    "placenta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "marsupials": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "pintura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.64
+    },
+    "escrivia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "frida_kahlo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "diari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "personal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "llibreta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/senzilla.json"
+}

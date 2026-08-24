@@ -1,0 +1,39 @@
+{
+  "concept": "bancari",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "capitalisme": 1.0
+  },
+  "bayesian_context": {
+    "modificar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "proces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "concentracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "industrial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "capitalisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "lliure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "competencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/bancari.json"
+}

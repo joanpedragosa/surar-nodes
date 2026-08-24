@@ -1,0 +1,56 @@
+{
+  "concept": "civit",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "demanar": 0.5,
+    "participacio": 0.5
+  },
+  "bayesian_context": {
+    "plantejat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "demanar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "disculpes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "manera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "institucional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "participacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "trafic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "esclaus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "vergonya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pais": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/civit.json"
+}

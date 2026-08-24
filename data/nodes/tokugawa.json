@@ -1,0 +1,43 @@
+{
+  "concept": "tokugawa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "clan": 1.0
+  },
+  "bayesian_context": {
+    "lluitava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "clan": {
+      "likelihood": 0.05,
+      "posterior_boost": 5.09
+    },
+    "shimazu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "exercit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "est": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "enfrontar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "tropes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "azai": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tokugawa.json"
+}

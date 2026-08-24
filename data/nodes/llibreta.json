@@ -1,0 +1,33 @@
+{
+  "concept": "llibreta",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "escrivia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "frida_kahlo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "diari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "personal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "senzilla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "kamen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/llibreta.json"
+}

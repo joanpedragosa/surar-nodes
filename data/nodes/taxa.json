@@ -1,0 +1,173 @@
+{
+  "concept": "taxa",
+  "frequency": 9,
+  "edges": [],
+  "markov_transitions": {
+    "especiacio": 0.25,
+    "supervivencia": 0.125,
+    "ajuntament": 0.125,
+    "turistica": 0.125,
+    "atur": 0.125,
+    "gol": 0.125,
+    "habitatge": 0.125
+  },
+  "bayesian_context": {
+    "causar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.84
+    },
+    "maxim": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.09
+    },
+    "termic": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.59
+    },
+    "mamifers": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.96
+    },
+    "augment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "especiacio": {
+      "likelihood": 0.0074,
+      "posterior_boost": 5.07
+    },
+    "migracions": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.77
+    },
+    "competencies": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "ajuntament": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.68
+    },
+    "barcelona": {
+      "likelihood": 0.0074,
+      "posterior_boost": 2.99
+    },
+    "activitat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.71
+    },
+    "gravava": {
+      "likelihood": 0.0074,
+      "posterior_boost": 5.07
+    },
+    "pot": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.8
+    },
+    "dur": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.73
+    },
+    "supervivencia": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "superior": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.45
+    },
+    "tolerancia": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "danys": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.99
+    },
+    "anul": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "lat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.23
+    },
+    "pisos": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "buits": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "vol": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.8
+    },
+    "introduir": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.73
+    },
+    "joan": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.62
+    },
+    "ribo": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.99
+    },
+    "ciutat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.84
+    },
+    "turistica": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "atur": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "actual": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.57
+    },
+    "principat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.87
+    },
+    "efecte": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.67
+    },
+    "personatge": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.64
+    },
+    "rebut": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.55
+    },
+    "nom": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.05
+    },
+    "gol": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.23
+    },
+    "lum": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "pressupost": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.69
+    },
+    "habitatge": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.96
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/taxa.json"
+}

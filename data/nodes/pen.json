@@ -1,0 +1,40 @@
+{
+  "concept": "pen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "angels_gregori": 0.5,
+    "front_nacional": 0.5
+  },
+  "bayesian_context": {
+    "actual": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "presidenta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "angels_gregori": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "partit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "candidata": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "marine_le": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "front_nacional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pen.json"
+}

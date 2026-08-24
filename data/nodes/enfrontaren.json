@@ -1,0 +1,31 @@
+{
+  "concept": "enfrontaren",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nacions": 1.0
+  },
+  "bayesian_context": {
+    "nacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "segle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.77
+    },
+    "xx": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "guerres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "mundials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/enfrontaren.json"
+}

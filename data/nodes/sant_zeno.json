@@ -1,0 +1,19 @@
+{
+  "concept": "sant_zeno",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "verona": 1.0
+  },
+  "bayesian_context": {
+    "esglesia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "verona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sant_zeno.json"
+}

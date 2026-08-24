@@ -1,0 +1,47 @@
+{
+  "concept": "inexistencia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "realitat": 1.0
+  },
+  "bayesian_context": {
+    "pensament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "religios": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "nega": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "possibilitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "demostrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "existencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "realitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "sobrenatural": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "agnosticisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/inexistencia.json"
+}

@@ -1,0 +1,68 @@
+{
+  "concept": "informatius",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dimitit": 0.5,
+    "primers": 0.5
+  },
+  "bayesian_context": {
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "dimitit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "censura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "enrique": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pallas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mitjans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "comunicacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "analitzat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "primers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "dies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "campanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "televisions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "emeten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/informatius.json"
+}

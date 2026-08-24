@@ -1,0 +1,69 @@
+{
+  "concept": "diversa",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "gamma": 0.3333,
+    "flora": 0.3333,
+    "documentacio": 0.3333
+  },
+  "bayesian_context": {
+    "hotels": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "hostals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "badalona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "gamma": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "flora": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "argila": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "londres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "fruits": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "fossils": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "sol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.55
+    },
+    "licita": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "tsjc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "providencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "documentacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/diversa.json"
+}

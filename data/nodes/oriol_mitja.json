@@ -1,0 +1,27 @@
+{
+  "concept": "oriol_mitja",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "metge": 1.0
+  },
+  "bayesian_context": {
+    "professio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "exerceix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "metge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "epidemioleg": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/oriol_mitja.json"
+}

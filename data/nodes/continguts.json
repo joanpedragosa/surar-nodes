@@ -1,0 +1,86 @@
+{
+  "concept": "continguts",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "missatges": 0.25,
+    "estomacs": 0.25,
+    "extres": 0.25,
+    "articles": 0.25
+  },
+  "bayesian_context": {
+    "compartira": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "whatsapp": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "facebook": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "numeros": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "telefon": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "usuaris": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "missatges": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "mostren": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "estomacs": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "omnivors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "inclou": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "dvd": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "extres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "nombrosos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "documentals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "licula": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.55
+    },
+    "majoria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.67
+    },
+    "articles": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/continguts.json"
+}

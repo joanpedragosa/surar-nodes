@@ -1,0 +1,60 @@
+{
+  "concept": "lgtbi",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "twitter": 0.5,
+    "girona": 0.5
+  },
+  "bayesian_context": {
+    "penjat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "espai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "twitter": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "facebook": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "fotos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ubicada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "porta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "local": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "girona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "carrer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "sant_josep": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "barri_vell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lgtbi.json"
+}

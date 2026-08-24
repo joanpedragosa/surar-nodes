@@ -1,0 +1,52 @@
+{
+  "concept": "alicia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "terra": 0.5,
+    "recerca": 0.5
+  },
+  "bayesian_context": {
+    "pensava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "terra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "meravelles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "divertida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "inquietant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "dedica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "fundacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "recerca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "alimentacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/alicia.json"
+}

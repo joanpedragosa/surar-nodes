@@ -1,0 +1,64 @@
+{
+  "concept": "oposat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "rajoy": 0.5,
+    "planeta": 0.5
+  },
+  "bayesian_context": {
+    "rajoy": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "escocia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "negocii": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "paper": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.9
+    },
+    "unio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "europea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "atribueixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "fractures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "escarpes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "crater": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "caloris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "costat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "planeta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/oposat.json"
+}

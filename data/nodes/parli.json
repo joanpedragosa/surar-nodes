@@ -1,0 +1,39 @@
+{
+  "concept": "parli",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ambaixadora": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "partit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "nacionalista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "flamenc": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.48
+    },
+    "ambaixadora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "espanyola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "parlament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/parli.json"
+}

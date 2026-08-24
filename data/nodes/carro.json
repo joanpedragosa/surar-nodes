@@ -1,0 +1,51 @@
+{
+  "concept": "carro",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "espelmes": 1.0
+  },
+  "bayesian_context": {
+    "converteix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "nuvol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "atributs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "fan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "referencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "historia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "martiri": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "sant_donacia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "roda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "espelmes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/carro.json"
+}

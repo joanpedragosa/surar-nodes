@@ -1,0 +1,39 @@
+{
+  "concept": "ocuparan",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "escons": 1.0
+  },
+  "bayesian_context": {
+    "eurodiputats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "sap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "escons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "juliol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "toni_comin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ocuparan.json"
+}

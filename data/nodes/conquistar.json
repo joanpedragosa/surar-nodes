@@ -1,0 +1,27 @@
+{
+  "concept": "conquistar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mallorca": 1.0
+  },
+  "bayesian_context": {
+    "rei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.09
+    },
+    "mallorca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "jaume": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "conqueridor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/conquistar.json"
+}

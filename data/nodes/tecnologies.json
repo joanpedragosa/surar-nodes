@@ -1,0 +1,27 @@
+{
+  "concept": "tecnologies",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "informatica": 1.0
+  },
+  "bayesian_context": {
+    "industria": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.0
+    },
+    "puixant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "uruguai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "informatica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tecnologies.json"
+}

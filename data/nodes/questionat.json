@@ -1,0 +1,44 @@
+{
+  "concept": "questionat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "justicia": 0.5,
+    "espadaler": 0.5
+  },
+  "bayesian_context": {
+    "justicia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "alemanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "llarena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "espadaler": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "programa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "presentara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "llista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "conjunta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/questionat.json"
+}

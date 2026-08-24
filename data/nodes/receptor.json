@@ -1,0 +1,32 @@
+{
+  "concept": "receptor",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "quimiotactic": 0.5,
+    "fregaments": 0.5
+  },
+  "bayesian_context": {
+    "quimiotactic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mostra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "fregaments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "plaer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/receptor.json"
+}

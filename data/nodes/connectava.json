@@ -1,0 +1,69 @@
+{
+  "concept": "connectava",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "ferrocarril": 0.3333,
+    "atlantic": 0.3333,
+    "linia": 0.3333
+  },
+  "bayesian_context": {
+    "ferrocarril": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "segona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    },
+    "ciutat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.31
+    },
+    "mes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.73
+    },
+    "gran": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "tercera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "oceans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "atlantic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "pacific": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "estacions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.04
+    },
+    "linia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.6
+    },
+    "paral": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "lel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "zona_universitaria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/connectava.json"
+}

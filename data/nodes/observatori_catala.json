@@ -1,0 +1,47 @@
+{
+  "concept": "observatori_catala",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "justicia": 1.0
+  },
+  "bayesian_context": {
+    "dependra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "justicia": {
+      "likelihood": 0.05,
+      "posterior_boost": 4.43
+    },
+    "violencia_masclista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "centre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "estudis_juridics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "departament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "aprovat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "crear": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "avui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/observatori_catala.json"
+}

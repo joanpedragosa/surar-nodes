@@ -1,0 +1,27 @@
+{
+  "concept": "meridia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "oest": 1.0
+  },
+  "bayesian_context": {
+    "estacionar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "voltant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "oest": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/meridia.json"
+}

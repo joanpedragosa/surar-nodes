@@ -1,0 +1,23 @@
+{
+  "concept": "lesos",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "independencia": 1.0
+  },
+  "bayesian_context": {
+    "votaria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "gal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "independencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lesos.json"
+}

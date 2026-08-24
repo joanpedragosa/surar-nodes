@@ -1,0 +1,31 @@
+{
+  "concept": "blondin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "et": 1.0
+  },
+  "bayesian_context": {
+    "protagonistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "et": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "cirage": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "germans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "adoptius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/blondin.json"
+}

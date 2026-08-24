@@ -1,0 +1,51 @@
+{
+  "concept": "hospitalitzats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "territori": 1.0
+  },
+  "bayesian_context": {
+    "seria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "objectiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "sol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "licitants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "asil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "lesionar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "acabar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "territori": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "australia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/hospitalitzats.json"
+}

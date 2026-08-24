@@ -1,0 +1,27 @@
+{
+  "concept": "desorientades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "acusacions": 1.0
+  },
+  "bayesian_context": {
+    "deixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "acusacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "testimonis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "fets": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/desorientades.json"
+}

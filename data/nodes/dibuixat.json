@@ -1,0 +1,31 @@
+{
+  "concept": "dibuixat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "otello": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "otello": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "revista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "humoristica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mila": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/dibuixat.json"
+}

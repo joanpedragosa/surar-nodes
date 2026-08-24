@@ -1,0 +1,64 @@
+{
+  "concept": "metamorfisme",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "causa": 0.5,
+    "transforma": 0.5
+  },
+  "bayesian_context": {
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "marbre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "partir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "recristal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "litzacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "carbonats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "preexistents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "passa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "roca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "afectada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "transforma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "metamorfica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/metamorfisme.json"
+}

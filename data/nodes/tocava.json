@@ -1,0 +1,27 @@
+{
+  "concept": "tocava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "terra": 1.0
+  },
+  "bayesian_context": {
+    "dit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "tiranosauroideus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "terra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tocava.json"
+}

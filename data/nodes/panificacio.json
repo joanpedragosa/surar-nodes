@@ -1,0 +1,31 @@
+{
+  "concept": "panificacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cerveseria": 1.0
+  },
+  "bayesian_context": {
+    "apareixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "primers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "indicis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "cerveseria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mesopotamia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/panificacio.json"
+}

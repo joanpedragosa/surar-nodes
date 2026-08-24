@@ -1,0 +1,25 @@
+{
+  "concept": "anna_vives",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "presidida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "executiva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "pdecat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "alt_urgell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/anna_vives.json"
+}

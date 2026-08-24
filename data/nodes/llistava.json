@@ -1,0 +1,31 @@
+{
+  "concept": "llistava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sempre": 1.0
+  },
+  "bayesian_context": {
+    "sempre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "ultim": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "documents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "imperials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "galeri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/llistava.json"
+}

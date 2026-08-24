@@ -1,0 +1,27 @@
+{
+  "concept": "afluencia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "veins": 1.0
+  },
+  "bayesian_context": {
+    "incrementat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "setmana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "veins": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/afluencia.json"
+}

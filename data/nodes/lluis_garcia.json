@@ -1,0 +1,27 @@
+{
+  "concept": "lluis_garcia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "petit": 1.0
+  },
+  "bayesian_context": {
+    "expert": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "petit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "patrimoni_cultural": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "immaterial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lluis_garcia.json"
+}

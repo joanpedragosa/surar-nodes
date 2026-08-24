@@ -1,0 +1,27 @@
+{
+  "concept": "opinen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rusalka": 1.0
+  },
+  "bayesian_context": {
+    "rusalka": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "obra": {
+      "likelihood": 0.0667,
+      "posterior_boost": 3.82
+    },
+    "dvořak": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "magna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/opinen.json"
+}

@@ -1,0 +1,110 @@
+{
+  "concept": "incendiar",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "estudi": 0.25,
+    "san_carlo": 0.25,
+    "edifici": 0.25,
+    "sakamoto": 0.25
+  },
+  "bayesian_context": {
+    "estudi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.86
+    },
+    "permetre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "isabella_colbran": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "san_carlo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "final": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "donna": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "lago": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "insercio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "fantasios": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "pirotecnic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "rondo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "elena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "perdre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "quadre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.82
+    },
+    "pintar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.89
+    },
+    "velazquez": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "salon": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "grande": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "alcazar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "edifici": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.79
+    },
+    "instruccions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "donar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.55
+    },
+    "nobunaga": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "sakamoto": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/incendiar.json"
+}

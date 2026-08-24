@@ -1,0 +1,35 @@
+{
+  "concept": "marine",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "groc": 1.0
+  },
+  "bayesian_context": {
+    "color": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "placa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "penjat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "la_brise": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "groc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "brillant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/marine.json"
+}

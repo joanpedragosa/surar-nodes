@@ -1,0 +1,52 @@
+{
+  "concept": "georges_friden",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ambaixador": 0.5,
+    "consideracio": 0.5
+  },
+  "bayesian_context": {
+    "ambaixador": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "luxemburgues": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "davant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "unio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "europea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "afirmat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "consideracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "important": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "estabilitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "politica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/georges_friden.json"
+}

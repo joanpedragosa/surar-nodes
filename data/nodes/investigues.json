@@ -1,0 +1,51 @@
+{
+  "concept": "investigues",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "malversacio": 1.0
+  },
+  "bayesian_context": {
+    "organ": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "presentar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "fiscalia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "informe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "malversacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "cabals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "publics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "tribunal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "comptes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/investigues.json"
+}

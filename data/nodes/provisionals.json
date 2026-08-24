@@ -1,0 +1,69 @@
+{
+  "concept": "provisionals",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "crear": 0.3333,
+    "govern": 0.3333,
+    "alemanys": 0.3333
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.75
+    },
+    "sergents": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "crear": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.68
+    },
+    "comandaments": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "vint": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "mil": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "sera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "vigencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "propostes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "govern": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "instructors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "alferes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "alemanys": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/provisionals.json"
+}

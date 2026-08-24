@@ -1,0 +1,36 @@
+{
+  "concept": "promogut",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mocio": 0.5,
+    "proposta": 0.5
+  },
+  "bayesian_context": {
+    "mocio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "delegacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "memoria_historica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "proposta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "llei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "xnet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/promogut.json"
+}

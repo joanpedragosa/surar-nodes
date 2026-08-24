@@ -1,0 +1,23 @@
+{
+  "concept": "quadrants",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "viatjar": 1.0
+  },
+  "bayesian_context": {
+    "viatjar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "alfa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "beta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/quadrants.json"
+}

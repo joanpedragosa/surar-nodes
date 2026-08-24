@@ -1,0 +1,27 @@
+{
+  "concept": "congregacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "germanes": 1.0
+  },
+  "bayesian_context": {
+    "propietaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "edifici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "germanes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "caritat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/congregacio.json"
+}

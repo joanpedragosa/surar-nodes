@@ -1,0 +1,31 @@
+{
+  "concept": "v_trobada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mundial": 1.0
+  },
+  "bayesian_context": {
+    "president": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "fundacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "mundial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "families": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "esteban_escudero": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/v_trobada.json"
+}

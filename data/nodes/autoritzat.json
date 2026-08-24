@@ -1,0 +1,43 @@
+{
+  "concept": "autoritzat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "consell": 1.0
+  },
+  "bayesian_context": {
+    "pressupost": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "consell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "ministres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "beques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "ajuts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "estudi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "milions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/autoritzat.json"
+}

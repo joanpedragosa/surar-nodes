@@ -1,0 +1,35 @@
+{
+  "concept": "debil",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "distancies": 1.0
+  },
+  "bayesian_context": {
+    "mantenen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "estables": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "objectes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "radiacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "solar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "distancies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/debil.json"
+}

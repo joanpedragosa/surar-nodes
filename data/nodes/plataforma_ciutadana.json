@@ -1,0 +1,35 @@
+{
+  "concept": "plataforma_ciutadana",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "defensa": 1.0
+  },
+  "bayesian_context": {
+    "plataforma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "portaveu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "evelio_monfort": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "defensa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "terres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "senia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/plataforma_ciutadana.json"
+}

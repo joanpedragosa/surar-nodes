@@ -1,0 +1,101 @@
+{
+  "concept": "theatre",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "londres": 0.25,
+    "francais": 0.5,
+    "du": 0.25
+  },
+  "bayesian_context": {
+    "ciutat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.09
+    },
+    "king": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.33
+    },
+    "londres": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "acollida": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "tindre": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "estrena": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.6
+    },
+    "edip": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.15
+    },
+    "francais": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.33
+    },
+    "bona": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "estrenar": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.71
+    },
+    "novembre": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.69
+    },
+    "teatre": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.92
+    },
+    "presentar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.35
+    },
+    "primer": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.08
+    },
+    "acte": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.41
+    },
+    "saint": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "saëns": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "du": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "chatelet": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "paris": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.78
+    },
+    "opera": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.97
+    },
+    "anglaterra": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/theatre.json"
+}

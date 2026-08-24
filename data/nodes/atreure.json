@@ -1,0 +1,23 @@
+{
+  "concept": "atreure",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estrena": 1.0
+  },
+  "bayesian_context": {
+    "estrena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.3
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "atencio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/atreure.json"
+}

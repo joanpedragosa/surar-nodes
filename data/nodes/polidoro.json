@@ -1,0 +1,40 @@
+{
+  "concept": "polidoro",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "tomba": 0.5,
+    "lesbos": 0.5
+  },
+  "bayesian_context": {
+    "pare": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "zelmira": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "amaguen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "tomba": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "reial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "rei": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.61
+    },
+    "lesbos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/polidoro.json"
+}

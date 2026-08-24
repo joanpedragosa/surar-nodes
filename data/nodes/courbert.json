@@ -1,0 +1,39 @@
+{
+  "concept": "courbert",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estableix": 1.0
+  },
+  "bayesian_context": {
+    "pagina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "estableix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "comparacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "enterrament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "ornans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/courbert.json"
+}

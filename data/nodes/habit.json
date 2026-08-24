@@ -1,0 +1,110 @@
+{
+  "concept": "habit",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "cristal": 0.25,
+    "cartoixa": 0.25,
+    "ordre": 0.25,
+    "tenia": 0.25
+  },
+  "bayesian_context": {
+    "troba": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "estretament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "lligat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "temperatura": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.96
+    },
+    "cristal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "fluorita": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "fer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.72
+    },
+    "prendre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "cartoixa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "se": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.95
+    },
+    "imposa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "infant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "lluis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "ordre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    },
+    "santiago": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "monestir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "san_lorenzo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "el_escorial": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "tenia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.18
+    },
+    "wagner": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "apuntar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "diariament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "meticulosament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "feia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.9
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/habit.json"
+}

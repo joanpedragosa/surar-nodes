@@ -1,0 +1,27 @@
+{
+  "concept": "allegro",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "non": 1.0
+  },
+  "bayesian_context": {
+    "moviment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "final": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "non": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "troppo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/allegro.json"
+}

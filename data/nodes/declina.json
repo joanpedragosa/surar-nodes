@@ -1,0 +1,27 @@
+{
+  "concept": "declina",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "desinencia": 1.0
+  },
+  "bayesian_context": {
+    "desinencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "adjectiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "tema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "vocal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/declina.json"
+}

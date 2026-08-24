@@ -1,0 +1,52 @@
+{
+  "concept": "practicar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "abstraccio": 0.5,
+    "especie": 0.5
+  },
+  "bayesian_context": {
+    "abstraccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "natures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "mortes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "maurice": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vlaminck": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "andre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "derain": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "podria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "especie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "poliginia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/practicar.json"
+}

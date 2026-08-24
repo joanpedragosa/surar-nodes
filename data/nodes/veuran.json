@@ -1,0 +1,35 @@
+{
+  "concept": "veuran",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "afectats": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "alumnes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "afectats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "tancament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "centres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "educatius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/veuran.json"
+}

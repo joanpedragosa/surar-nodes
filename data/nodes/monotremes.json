@@ -1,0 +1,31 @@
+{
+  "concept": "monotremes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "directament": 1.0
+  },
+  "bayesian_context": {
+    "xuclen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "llet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "directament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "glandules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "mamaries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/monotremes.json"
+}

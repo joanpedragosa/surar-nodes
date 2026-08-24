@@ -1,0 +1,31 @@
+{
+  "concept": "serveixi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sequencia": 1.0
+  },
+  "bayesian_context": {
+    "proposat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "sequencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "adn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "caracters": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "clau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/serveixi.json"
+}

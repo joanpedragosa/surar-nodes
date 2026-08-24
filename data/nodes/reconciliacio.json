@@ -1,0 +1,92 @@
+{
+  "concept": "reconciliacio",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "junta": 0.5,
+    "segons": 0.5
+  },
+  "bayesian_context": {
+    "assumira": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "responsabilitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "crear": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.68
+    },
+    "ambient": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "favorable": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "junta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "militar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "sudan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "oposicio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "hague": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "abundants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "referencies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "acte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.63
+    },
+    "perdo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "assolir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "maragall": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "mes": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.03
+    },
+    "enlla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "enca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reconciliacio.json"
+}

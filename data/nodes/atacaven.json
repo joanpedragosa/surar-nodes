@@ -1,0 +1,76 @@
+{
+  "concept": "atacaven",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "publicacions": 0.5,
+    "activistes": 0.5
+  },
+  "bayesian_context": {
+    "publicacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "diari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "sovietics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "proletariat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "revolucionari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "rus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "activistes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "hezbol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "llocs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "reunio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "llibreries": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "quioscs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "premsa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "mujaidins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "grups": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "esquerres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/atacaven.json"
+}

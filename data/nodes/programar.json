@@ -1,0 +1,52 @@
+{
+  "concept": "programar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "opera": 0.5,
+    "mew_shigeki": 0.5
+  },
+  "bayesian_context": {
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "vaclav": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "neumann": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "el_liceu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mew_shigeki": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "morimoto": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sense": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "dir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "ningu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/programar.json"
+}

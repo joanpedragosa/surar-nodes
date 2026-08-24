@@ -1,0 +1,39 @@
+{
+  "concept": "cabalers",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "families": 1.0
+  },
+  "bayesian_context": {
+    "anat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "antigor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "emigrant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "poblacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "majors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "families": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cabalers.json"
+}

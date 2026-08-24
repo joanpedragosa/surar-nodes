@@ -1,0 +1,43 @@
+{
+  "concept": "geniva",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sirenis": 1.0
+  },
+  "bayesian_context": {
+    "tenen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.88
+    },
+    "paper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.2
+    },
+    "probablement": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "plaques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "anterior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "sirenis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "alimentacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/geniva.json"
+}

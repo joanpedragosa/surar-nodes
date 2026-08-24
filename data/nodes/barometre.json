@@ -1,0 +1,126 @@
+{
+  "concept": "barometre",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "ceo": 0.25,
+    "opinio": 0.25,
+    "psoe": 0.25,
+    "abril": 0.25
+  },
+  "bayesian_context": {
+    "liderat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "manera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.71
+    },
+    "consistent": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "ceo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "vilaweb": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "mostren": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "dades": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "tercera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "onada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "opinio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "politica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.61
+    },
+    "reforcament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "lideratge": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "premsa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "digital": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "seria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "segona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.66
+    },
+    "forca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "psoe": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.81
+    },
+    "lloc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    },
+    "ocupa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "ciudadanos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "abril": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.66
+    },
+    "centre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.56
+    },
+    "investigacions_sociologiques": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "segon": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.65
+    },
+    "classificat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/barometre.json"
+}

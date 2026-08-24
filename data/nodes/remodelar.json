@@ -1,0 +1,27 @@
+{
+  "concept": "remodelar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "placa": 1.0
+  },
+  "bayesian_context": {
+    "hotel": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.55
+    },
+    "placa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "colon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/remodelar.json"
+}

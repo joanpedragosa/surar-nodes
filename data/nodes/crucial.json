@@ -1,0 +1,39 @@
+{
+  "concept": "crucial",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "arquitectura": 1.0
+  },
+  "bayesian_context": {
+    "arribar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "arquitectura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "colonial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "nord": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "americana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "portic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/crucial.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "giudici",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "gherardini": 1.0
+  },
+  "bayesian_context": {
+    "enviar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "llibret": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "titulat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "avviso": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "ai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "gherardini": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/giudici.json"
+}

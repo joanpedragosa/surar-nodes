@@ -1,0 +1,35 @@
+{
+  "concept": "ter_duinen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "koksijde": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "abat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "cistercenc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "abadia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "koksijde": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "jan_crabbe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ter_duinen.json"
+}

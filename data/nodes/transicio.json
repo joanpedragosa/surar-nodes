@@ -1,0 +1,76 @@
+{
+  "concept": "transicio",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "partit": 0.5,
+    "desembre": 0.5
+  },
+  "bayesian_context": {
+    "ocupar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "comissio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.62
+    },
+    "delegada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "negociar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "partit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    },
+    "cap": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.03
+    },
+    "crida_nacional": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "republica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.89
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    },
+    "dorudon": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "especie": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.75
+    },
+    "perdurara": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "periode": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "desembre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.76
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "comencar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/transicio.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "borbonics",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "feines": 1.0
+  },
+  "bayesian_context": {
+    "causar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "important": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "baixes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "feines": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "excavacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "moviment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "tropes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/borbonics.json"
+}

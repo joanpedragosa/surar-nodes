@@ -1,0 +1,27 @@
+{
+  "concept": "patrocinar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dues": 1.0
+  },
+  "bayesian_context": {
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    },
+    "associacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "caritatives": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "infantils": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/patrocinar.json"
+}

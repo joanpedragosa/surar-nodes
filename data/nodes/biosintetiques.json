@@ -1,0 +1,80 @@
+{
+  "concept": "biosintetiques",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sense": 0.5,
+    "fenoximetilpenicil": 0.5
+  },
+  "bayesian_context": {
+    "produeixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "penicil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "lines": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sense": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "tingui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "lloc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "aillament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "modificacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "quimica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "ex": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "vivo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "principals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "fenoximetilpenicil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "lina": {
+      "likelihood": 0.05,
+      "posterior_boost": 4.92
+    },
+    "alilmercaptometilpenicil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "bencilpenicil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/biosintetiques.json"
+}

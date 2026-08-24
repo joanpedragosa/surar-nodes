@@ -1,0 +1,23 @@
+{
+  "concept": "cayo_lara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "palma": 1.0
+  },
+  "bayesian_context": {
+    "discurs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "palma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "rio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cayo_lara.json"
+}

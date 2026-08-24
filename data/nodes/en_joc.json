@@ -1,0 +1,51 @@
+{
+  "concept": "en_joc",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "oscar_herreros": 1.0
+  },
+  "bayesian_context": {
+    "conduira": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "programa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "televisio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "oscar_herreros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "televisiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "complementara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "oferta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "esportiva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "setmana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/en_joc.json"
+}

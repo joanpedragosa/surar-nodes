@@ -1,0 +1,39 @@
+{
+  "concept": "reapareix",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "obi": 1.0
+  },
+  "bayesian_context": {
+    "obi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "wan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "novel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "retorn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "jedi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "forma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.89
+    },
+    "esperit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reapareix.json"
+}

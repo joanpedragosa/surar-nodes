@@ -1,0 +1,103 @@
+{
+  "concept": "violenta",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "atacar": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "actitud": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "grup": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.43
+    },
+    "petit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    },
+    "manifestants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "envers": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "policia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "hostil": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "dir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.91
+    },
+    "lojze_peterle": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "relacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "proces": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.63
+    },
+    "independencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "eslovenia": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "fou": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.91
+    },
+    "atacar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "descarta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "crida": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "instaurar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "republica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.02
+    },
+    "cap": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    },
+    "via": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "pacifica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/violenta.json"
+}

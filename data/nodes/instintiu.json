@@ -1,0 +1,27 @@
+{
+  "concept": "instintiu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "teatre": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "menotti": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "home": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "teatre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/instintiu.json"
+}

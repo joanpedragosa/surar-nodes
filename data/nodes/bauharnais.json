@@ -1,0 +1,39 @@
+{
+  "concept": "bauharnais",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "salvaven": 1.0
+  },
+  "bayesian_context": {
+    "dir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "eugene": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "salvaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "ministre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "interior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "geni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "nacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/bauharnais.json"
+}

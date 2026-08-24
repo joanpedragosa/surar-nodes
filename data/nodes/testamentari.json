@@ -1,0 +1,27 @@
+{
+  "concept": "testamentari",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "juan": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "marmessor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "juan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "salazar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/testamentari.json"
+}

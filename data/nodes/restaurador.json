@@ -1,0 +1,51 @@
+{
+  "concept": "restaurador",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "obres": 1.0
+  },
+  "bayesian_context": {
+    "dedicar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "gaspar_homar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "tancar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "taller": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "ebenisteria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "comerc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "antiguitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "tasca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "obres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/restaurador.json"
+}

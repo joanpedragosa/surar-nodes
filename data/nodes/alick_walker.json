@@ -1,0 +1,31 @@
+{
+  "concept": "alick_walker",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nom": 1.0
+  },
+  "bayesian_context": {
+    "publicar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "article": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    },
+    "nom": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "superfamilia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "tiranosauroideus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/alick_walker.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "lluernes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "patis": 1.0
+  },
+  "bayesian_context": {
+    "divideix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "centre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "terrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "casa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "batllo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "patis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "interiors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lluernes.json"
+}

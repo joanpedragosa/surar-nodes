@@ -1,0 +1,48 @@
+{
+  "concept": "previsio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "possibles": 0.5,
+    "creixement": 0.5
+  },
+  "bayesian_context": {
+    "havien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "blindat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "placa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "mossos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "possibles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "protestes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "creixement": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "tindra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "espanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/previsio.json"
+}

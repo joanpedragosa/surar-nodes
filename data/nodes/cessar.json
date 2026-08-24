@@ -1,0 +1,53 @@
+{
+  "concept": "cessar",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "final": 0.3333,
+    "activitat": 0.3333,
+    "pochettino": 0.3333
+  },
+  "bayesian_context": {
+    "final": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.74
+    },
+    "concert": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "aplaudiments": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "decisio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "pres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "gent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    },
+    "compromis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "activitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "temporada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "pochettino": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cessar.json"
+}

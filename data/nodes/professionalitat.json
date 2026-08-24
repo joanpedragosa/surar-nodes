@@ -1,0 +1,31 @@
+{
+  "concept": "professionalitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cos": 1.0
+  },
+  "bayesian_context": {
+    "dubtes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "esborrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "actuacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "mossos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "cos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/professionalitat.json"
+}

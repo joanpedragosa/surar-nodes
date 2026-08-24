@@ -1,0 +1,52 @@
+{
+  "concept": "contrasten",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "joves": 0.5,
+    "cors": 0.5
+  },
+  "bayesian_context": {
+    "joves": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "omplen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "placa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "reposats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "burgesos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "fan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "veus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "solistes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "uneixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/contrasten.json"
+}

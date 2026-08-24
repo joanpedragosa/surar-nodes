@@ -1,0 +1,65 @@
+{
+  "concept": "pseudonim",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "thomas_jefferson": 0.3333,
+    "giovanni_battista": 0.3333,
+    "escriptor": 0.3333
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.5
+    },
+    "thomas_jefferson": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "snodgrass": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "cartes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "humoristiques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "era": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.09
+    },
+    "giovanni_battista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "viassolo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "camillo_federici": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "escriptor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "joan_oliver": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "sallares": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "pere_quart": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pseudonim.json"
+}

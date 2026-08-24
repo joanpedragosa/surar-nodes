@@ -1,0 +1,51 @@
+{
+  "concept": "germa_rodriguez",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "arias": 1.0
+  },
+  "bayesian_context": {
+    "realitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "arias": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "projecte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.9
+    },
+    "placa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "toros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fabregas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "churruca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "cinema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "dore": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/germa_rodriguez.json"
+}

@@ -1,0 +1,238 @@
+{
+  "concept": "tb",
+  "frequency": 11,
+  "edges": [],
+  "markov_transitions": {
+    "focus": 0.1,
+    "crea": 0.1,
+    "pulmonar": 0.1,
+    "disseminada": 0.2,
+    "bovina": 0.2,
+    "gotetes": 0.1,
+    "especialment": 0.1,
+    "micobacteris": 0.1
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.65
+    },
+    "lloc": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.09
+    },
+    "principal": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.25
+    },
+    "infeccio": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.33
+    },
+    "pulmons": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.38
+    },
+    "focus": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "ghon": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "anomena": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.3
+    },
+    "tipus": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.89
+    },
+    "crea": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.98
+    },
+    "pulmo": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "tuberculosi": {
+      "likelihood": 0.0091,
+      "posterior_boost": 4.46
+    },
+    "extrapulmonar": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "pot": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.01
+    },
+    "transmetre": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.44
+    },
+    "pulmonar": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "tos": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "esternuts": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "parlar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.71
+    },
+    "escopir": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "coneix": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.33
+    },
+    "disseminada": {
+      "likelihood": 0.0091,
+      "posterior_boost": 5.16
+    },
+    "miliar": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "seria": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.49
+    },
+    "diferencia": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.03
+    },
+    "expansio": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.03
+    },
+    "bovina": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.68
+    },
+    "segons": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.49
+    },
+    "estudi": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.42
+    },
+    "modesta": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "demanen": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.81
+    },
+    "govern": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.63
+    },
+    "ramaders": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "reduir": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.81
+    },
+    "incidencia": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "campanya": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.25
+    },
+    "activa": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "erradicacio": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "toixons": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "gotetes": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "fet": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.79
+    },
+    "tornes": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "introduir": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.64
+    },
+    "cirurgia": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "part": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.66
+    },
+    "tractament": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "emergencia": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "forma": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.15
+    },
+    "especialment": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.14
+    },
+    "greu": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.44
+    },
+    "comenca": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.62
+    },
+    "micobacteris": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "arriben": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "alveols": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "pulmonars": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tb.json"
+}

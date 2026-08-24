@@ -1,0 +1,35 @@
+{
+  "concept": "sacala",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mila": 1.0
+  },
+  "bayesian_context": {
+    "estrena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.3
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "teatro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "alla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "mila": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "desembre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sacala.json"
+}

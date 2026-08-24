@@ -1,0 +1,39 @@
+{
+  "concept": "migrant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vuit": 1.0
+  },
+  "bayesian_context": {
+    "causes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "provocat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "mort": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "nen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "vuit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "anys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.54
+    },
+    "desconegudes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/migrant.json"
+}

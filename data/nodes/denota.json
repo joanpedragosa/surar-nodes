@@ -1,0 +1,56 @@
+{
+  "concept": "denota",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "llibre": 0.5,
+    "edifici": 0.5
+  },
+  "bayesian_context": {
+    "llibre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "hores": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "representacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "rostres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "mascares": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "influencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "trajectoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "italianitzant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "edifici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "astoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "walter_gropius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/denota.json"
+}

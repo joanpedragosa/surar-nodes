@@ -1,0 +1,39 @@
+{
+  "concept": "reintroduida",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "subespecie": 1.0
+  },
+  "bayesian_context": {
+    "subespecie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "uapiti": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "regio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "apalatxia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "organitzacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "caca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "conservacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reintroduida.json"
+}

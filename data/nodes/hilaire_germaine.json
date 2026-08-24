@@ -1,0 +1,27 @@
+{
+  "concept": "hilaire_germaine",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "gas": 1.0
+  },
+  "bayesian_context": {
+    "nom": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "bateig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "edgar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "gas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/hilaire_germaine.json"
+}

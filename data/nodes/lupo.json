@@ -1,0 +1,31 @@
+{
+  "concept": "lupo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "di": 1.0
+  },
+  "bayesian_context": {
+    "realitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "sarcofag": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "santa_eulalia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "di": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "francesco": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lupo.json"
+}

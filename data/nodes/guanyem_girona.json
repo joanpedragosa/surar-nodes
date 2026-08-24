@@ -1,0 +1,35 @@
+{
+  "concept": "guanyem_girona",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "laia_pelach": 1.0
+  },
+  "bayesian_context": {
+    "haura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "primers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "llocs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "llistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "laia_pelach": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "roser_maeso": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/guanyem_girona.json"
+}

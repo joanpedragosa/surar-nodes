@@ -1,0 +1,39 @@
+{
+  "concept": "latitud",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "constant": 1.0
+  },
+  "bayesian_context": {
+    "envolten": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "planeta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "bandes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "nuvols": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "alta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "alcada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "constant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/latitud.json"
+}

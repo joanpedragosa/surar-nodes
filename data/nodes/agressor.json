@@ -1,0 +1,39 @@
+{
+  "concept": "agressor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "primer": 1.0
+  },
+  "bayesian_context": {
+    "atacar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "lloc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    },
+    "dones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "agents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "administratives": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/agressor.json"
+}

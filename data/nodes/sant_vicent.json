@@ -1,0 +1,39 @@
+{
+  "concept": "sant_vicent",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "martir": 1.0
+  },
+  "bayesian_context": {
+    "trobar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.69
+    },
+    "cos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "ahir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "cala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "festa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "gener": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "martir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sant_vicent.json"
+}

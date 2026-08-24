@@ -1,0 +1,27 @@
+{
+  "concept": "delicadesa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "xina": 1.0
+  },
+  "bayesian_context": {
+    "consideren": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "carn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "pangolins": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "xina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/delicadesa.json"
+}

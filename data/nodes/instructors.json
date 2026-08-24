@@ -1,0 +1,27 @@
+{
+  "concept": "instructors",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "alferes": 1.0
+  },
+  "bayesian_context": {
+    "alferes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sergents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "provisionals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "alemanys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/instructors.json"
+}

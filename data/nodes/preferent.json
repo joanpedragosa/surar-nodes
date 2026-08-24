@@ -1,0 +1,76 @@
+{
+  "concept": "preferent",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "inquili": 0.5,
+    "barber": 0.5
+  },
+  "bayesian_context": {
+    "admet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "legislacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "espanyola": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "cas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "dret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "adquisicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "inquili": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "inquilins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "renunciin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "eleccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "barber": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "protagonista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "vanessa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "maria_callas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/preferent.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "defuig",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "espectacle": 1.0
+  },
+  "bayesian_context": {
+    "espectacle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "lara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "canon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "poetic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/defuig.json"
+}

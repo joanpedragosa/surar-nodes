@@ -1,0 +1,47 @@
+{
+  "concept": "balades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "liriques": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "publicat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "poema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "the_rime": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "of": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "the": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "ancient": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "mariner": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "liriques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/balades.json"
+}

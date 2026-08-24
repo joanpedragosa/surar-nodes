@@ -1,0 +1,77 @@
+{
+  "concept": "passatge",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "drake": 0.3333,
+    "anunciacio": 0.3333,
+    "balada": 0.3333
+  },
+  "bayesian_context": {
+    "obstruit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "drake": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "esmenta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "primer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    },
+    "cop": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "anunciacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "evangeli": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "sant_lluc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "arria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "veles": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "tripulacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "espectres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "segon": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.77
+    },
+    "balada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "pilot": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "daland": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/passatge.json"
+}

@@ -1,0 +1,68 @@
+{
+  "concept": "caldra",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "seguir": 0.5,
+    "trencar": 0.5
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "seguir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "negociant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "errejon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "dir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "joan_coma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "hagi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "motivat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "persecucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "judicial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "truita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "trencar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "ous": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/caldra.json"
+}

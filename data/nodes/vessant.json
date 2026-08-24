@@ -1,0 +1,66 @@
+{
+  "concept": "vessant",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "nord": 0.25,
+    "sud": 0.25,
+    "experimental": 0.25,
+    "montjuic": 0.25
+  },
+  "bayesian_context": {
+    "ranxo_parker": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "nord": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.55
+    },
+    "mauna_kea": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "gran": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.1
+    },
+    "placeta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "sud": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "reprendre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "experimental": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "obra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.92
+    },
+    "presa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "vista": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "montjuic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vessant.json"
+}

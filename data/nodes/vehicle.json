@@ -1,0 +1,81 @@
+{
+  "concept": "vehicle",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "natural": 0.3333,
+    "policiac": 0.3333,
+    "groc": 0.3333
+  },
+  "bayesian_context": {
+    "estableix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "sera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "natural": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "imatge": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "fotografica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "pagina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "impresa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "arrencar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "policiac": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "manifestant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "capo": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "aeroport": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "barcelona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.17
+    },
+    "color": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "pintat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "portes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "groc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vehicle.json"
+}

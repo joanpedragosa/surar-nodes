@@ -1,0 +1,35 @@
+{
+  "concept": "geologiques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "trobem": 1.0
+  },
+  "bayesian_context": {
+    "formacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "trobem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "jacints": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "compostel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "triasic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "valencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/geologiques.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "restaura",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pla": 1.0
+  },
+  "bayesian_context": {
+    "pla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "original": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "aplicar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "xifrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/restaura.json"
+}

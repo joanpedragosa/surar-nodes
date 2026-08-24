@@ -1,0 +1,59 @@
+{
+  "concept": "liberalisme",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "politic": 1.0
+  },
+  "bayesian_context": {
+    "apareix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "periodista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "arrel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "ascens": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "politic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "economic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "actor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "social": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "afavoreix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "lliure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "circulacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "noticies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/liberalisme.json"
+}

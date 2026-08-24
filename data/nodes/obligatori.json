@@ -1,0 +1,43 @@
+{
+  "concept": "obligatori",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "compliment": 1.0
+  },
+  "bayesian_context": {
+    "ordres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "dona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "jec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "queda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "manifestat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "interlocutoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "compliment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/obligatori.json"
+}

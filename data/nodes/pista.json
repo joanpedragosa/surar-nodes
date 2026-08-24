@@ -1,0 +1,56 @@
+{
+  "concept": "pista",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "goldstein": 0.3333,
+    "asfaltada": 0.6667
+  },
+  "bayesian_context": {
+    "identifica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "goldstein": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "punts": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "forts": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "album": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.02
+    },
+    "accedeix": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.15
+    },
+    "congost": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.15
+    },
+    "asfaltada": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "deriva": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "carretera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "comarcal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pista.json"
+}

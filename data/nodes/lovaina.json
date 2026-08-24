@@ -1,0 +1,39 @@
+{
+  "concept": "lovaina",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "amics": 1.0
+  },
+  "bayesian_context": {
+    "conserva": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "vives": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "amics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "intims": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "realitza": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "viatges": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "trasllada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lovaina.json"
+}

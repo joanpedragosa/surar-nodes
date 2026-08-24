@@ -1,0 +1,60 @@
+{
+  "concept": "inicis",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dret": 0.5,
+    "persecucio": 0.5
+  },
+  "bayesian_context": {
+    "defensaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "socialistes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "dret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "autodeterminacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "situava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "eusebi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "persecucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "exercit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "woods": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fortalesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "betthorus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/inicis.json"
+}

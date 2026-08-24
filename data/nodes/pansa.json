@@ -1,0 +1,35 @@
+{
+  "concept": "pansa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "blanca": 1.0
+  },
+  "bayesian_context": {
+    "celebrar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "nit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "blanca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "alella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "festejar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "dissabte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pansa.json"
+}

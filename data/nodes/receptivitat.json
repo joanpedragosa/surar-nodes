@@ -1,0 +1,56 @@
+{
+  "concept": "receptivitat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "espatlla": 0.5,
+    "femella": 0.5
+  },
+  "bayesian_context": {
+    "miren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mascle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "femelles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "mostrar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "espatlla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "mascles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "determinar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "femella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "inspeccionar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "genitals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/receptivitat.json"
+}

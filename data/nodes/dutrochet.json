@@ -1,0 +1,56 @@
+{
+  "concept": "dutrochet",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "primer": 0.5,
+    "osmometre": 0.5
+  },
+  "bayesian_context": {
+    "construir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "primer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "dispositiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "experimental": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "observar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "presencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "pressio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "osmotica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "nom": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "rep": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "osmometre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/dutrochet.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "palenque",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "temple": 1.0
+  },
+  "bayesian_context": {
+    "anomena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "piramide": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "escalonada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "maia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "temple": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "inscripcions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/palenque.json"
+}

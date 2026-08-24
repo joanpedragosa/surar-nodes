@@ -1,0 +1,35 @@
+{
+  "concept": "ballets_russos",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "noches": 1.0
+  },
+  "bayesian_context": {
+    "volien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "representar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "noches": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "los": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "jardines": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "espana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ballets_russos.json"
+}

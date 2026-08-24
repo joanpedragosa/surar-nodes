@@ -1,0 +1,35 @@
+{
+  "concept": "vull",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ser": 1.0
+  },
+  "bayesian_context": {
+    "contestat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "buch": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "faqs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sere": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "candidat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vull.json"
+}

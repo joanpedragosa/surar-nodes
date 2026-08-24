@@ -1,0 +1,56 @@
+{
+  "concept": "instructor",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cas": 0.5,
+    "correa": 0.5
+  },
+  "bayesian_context": {
+    "jutge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "cas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "carlos_ramos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "citat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "declarar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "magistrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "correa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "costa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "crespo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "perez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "gener": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/instructor.json"
+}

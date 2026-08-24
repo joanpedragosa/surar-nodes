@@ -1,0 +1,36 @@
+{
+  "concept": "mescles",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "polimerases": 0.5,
+    "novembre": 0.5
+  },
+  "bayesian_context": {
+    "taq": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "polimerases": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "processades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "acabar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "novembre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mescles.json"
+}

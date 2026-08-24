@@ -1,0 +1,35 @@
+{
+  "concept": "flanc",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "esquerre": 1.0
+  },
+  "bayesian_context": {
+    "vassall": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "clan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "oda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "atacar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "esquerre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "inaba_ittetsu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/flanc.json"
+}

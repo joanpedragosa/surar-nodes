@@ -1,0 +1,31 @@
+{
+  "concept": "franquicies",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "aliprox": 1.0
+  },
+  "bayesian_context": {
+    "supermercats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "incorporat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "caprabo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "cadena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "aliprox": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/franquicies.json"
+}

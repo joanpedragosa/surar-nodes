@@ -1,0 +1,51 @@
+{
+  "concept": "retires",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "simbols": 1.0
+  },
+  "bayesian_context": {
+    "acabar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "termini": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "quaranta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "vuit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "hores": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "junta_electoral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "quim_torra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "simbols": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "partidistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "dimecres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/retires.json"
+}

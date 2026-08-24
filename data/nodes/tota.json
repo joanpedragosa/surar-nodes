@@ -1,0 +1,26 @@
+{
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tota.json",
+  "concept": "tota",
+  "edges": [
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/text.json",
+      "weight": 0.575
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/answerstart.json",
+      "weight": 0.432
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tota.json",
+      "weight": 0.361
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/qui.json",
+      "weight": 0.313
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/obra.json",
+      "weight": 0.266
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "concept": "el_credo",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tingui": 1.0
+  },
+  "bayesian_context": {
+    "fa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.49
+    },
+    "tingui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "estructura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "ciclica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "repeticio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "paraules": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "crec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "extensa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/el_credo.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "campio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lliga": 1.0
+  },
+  "bayesian_context": {
+    "barca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "lliga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "diumenge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "passat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/campio.json"
+}

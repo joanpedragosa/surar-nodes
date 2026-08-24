@@ -1,0 +1,69 @@
+{
+  "concept": "dirigent",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "ada_colau": 0.3333,
+    "agueda": 0.3333,
+    "haradinaj": 0.3333
+  },
+  "bayesian_context": {
+    "ada_colau": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "catalunya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    },
+    "comu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "formacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "politica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.74
+    },
+    "agueda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "mico": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "bloc_nacionalista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "valencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "exercit": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.18
+    },
+    "fou": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.91
+    },
+    "haradinaj": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "alliberament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "kossove": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/dirigent.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "camuflaven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tancs": 1.0
+  },
+  "bayesian_context": {
+    "tancs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "inicialment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "diposits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "combustible": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/camuflaven.json"
+}

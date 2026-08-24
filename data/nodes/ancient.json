@@ -1,0 +1,59 @@
+{
+  "concept": "ancient",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "mariner": 1.0
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.8
+    },
+    "the_rime": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "of": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "the": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "mariner": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "samuel_taylor": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "coleridge": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "publicat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "poema": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.62
+    },
+    "balades": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "liriques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ancient.json"
+}

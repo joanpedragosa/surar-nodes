@@ -1,0 +1,31 @@
+{
+  "concept": "sociologic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "profund": 1.0
+  },
+  "bayesian_context": {
+    "produit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "canvi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "profund": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "terres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "ebre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sociologic.json"
+}

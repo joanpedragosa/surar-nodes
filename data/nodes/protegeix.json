@@ -1,0 +1,57 @@
+{
+  "concept": "protegeix",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "mauna_kea": 0.5,
+    "vent": 0.25,
+    "imatges": 0.25
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.63
+    },
+    "quilometres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "bosc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "mauna_kea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "vent": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "espelma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "imatges": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "centrals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "pinacles": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "māmane": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "naio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/protegeix.json"
+}

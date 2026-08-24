@@ -1,0 +1,31 @@
+{
+  "concept": "sectorials",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ideologiques": 1.0
+  },
+  "bayesian_context": {
+    "ideologiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "establiran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "esquerres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "socialdemocrata": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "liberal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sectorials.json"
+}

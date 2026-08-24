@@ -1,0 +1,49 @@
+{
+  "concept": "entrevistar",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "pablo_iglesias": 0.3333,
+    "periodista": 0.3333,
+    "otegui": 0.3333
+  },
+  "bayesian_context": {
+    "pablo_iglesias": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.45
+    },
+    "ana_pastor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "periodista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "la_sexta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "otegui": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "fa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.32
+    },
+    "quinze": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "dies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "tve": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/entrevistar.json"
+}

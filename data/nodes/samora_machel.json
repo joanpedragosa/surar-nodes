@@ -1,0 +1,23 @@
+{
+  "concept": "samora_machel",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "accident": 1.0
+  },
+  "bayesian_context": {
+    "morir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "accident": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "aeri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/samora_machel.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "concurrencia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "restabliment": 1.0
+  },
+  "bayesian_context": {
+    "festeja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "restabliment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "pau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "concordia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "noble": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "familia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/concurrencia.json"
+}

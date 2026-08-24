@@ -1,0 +1,35 @@
+{
+  "concept": "rectifiques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "canvi": 1.0
+  },
+  "bayesian_context": {
+    "exigirien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "pp": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "canvi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "abstencio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "politiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "retrogrades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/rectifiques.json"
+}

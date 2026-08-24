@@ -1,0 +1,44 @@
+{
+  "concept": "capturat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "agorante": 0.5,
+    "ultim": 0.5
+  },
+  "bayesian_context": {
+    "agorante": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "zoraide": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "fou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "ultim": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "llop": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "marsupial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "estar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "captivitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/capturat.json"
+}

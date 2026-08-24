@@ -1,0 +1,56 @@
+{
+  "concept": "mackerras",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vaclav": 0.5,
+    "submergir": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "alumne": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "vaclav": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "talich": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "epoca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "submergir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "origens": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "partitura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "mitjans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "anys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.24
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mackerras.json"
+}

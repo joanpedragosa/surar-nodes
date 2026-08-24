@@ -1,0 +1,35 @@
+{
+  "concept": "russa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "neixer": 1.0
+  },
+  "bayesian_context": {
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "neixer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "adulta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "vida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "tsar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/russa.json"
+}

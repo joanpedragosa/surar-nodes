@@ -1,0 +1,60 @@
+{
+  "concept": "burges",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "opera": 0.5,
+    "tarda": 0.5
+  },
+  "bayesian_context": {
+    "refereix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "terme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "semiseria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "melodrama": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "rescat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "teatre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "impregnada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vanessa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "tarda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "ibsen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "strindberg": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/burges.json"
+}

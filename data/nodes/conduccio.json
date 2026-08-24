@@ -1,0 +1,56 @@
+{
+  "concept": "conduccio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "automatica": 0.5,
+    "estratosfera": 0.5
+  },
+  "bayesian_context": {
+    "dia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "comencar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "circular": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "trens": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "automatica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "gener": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "arriba": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "calor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "estratosfera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "ura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "termosfera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/conduccio.json"
+}

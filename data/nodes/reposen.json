@@ -1,0 +1,31 @@
+{
+  "concept": "reposen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mosques": 1.0
+  },
+  "bayesian_context": {
+    "espanten": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "cua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "zebres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "mosques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reposen.json"
+}

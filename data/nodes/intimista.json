@@ -1,0 +1,43 @@
+{
+  "concept": "intimista",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "realitzada": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "considerar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "musica": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.51
+    },
+    "rococo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "realitzada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "forma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.89
+    },
+    "extremadament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "refinada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/intimista.json"
+}

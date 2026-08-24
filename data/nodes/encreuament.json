@@ -1,0 +1,51 @@
+{
+  "concept": "encreuament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ocasional": 1.0
+  },
+  "bayesian_context": {
+    "causar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "aparicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "ocasional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "veus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "certs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "organums": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "incorporar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "moviment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "contrari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "organum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/encreuament.json"
+}

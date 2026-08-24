@@ -1,0 +1,27 @@
+{
+  "concept": "bellini",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "donizetti": 1.0
+  },
+  "bayesian_context": {
+    "convertir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "successor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "verdi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "donizetti": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/bellini.json"
+}

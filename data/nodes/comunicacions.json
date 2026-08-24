@@ -1,0 +1,118 @@
+{
+  "concept": "comunicacions",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "sobrepassen": 0.25,
+    "telefonia": 0.25,
+    "telefoniques": 0.25,
+    "diplomatiques": 0.25
+  },
+  "bayesian_context": {
+    "enviara": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "consistori": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "sobrepassen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "competencies": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "antifrau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "perjudicat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "incidencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "tecnica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.69
+    },
+    "nord": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.55
+    },
+    "telefonia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "radio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "interna": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "mantingut": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "telefoniques": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "pedro": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.65
+    },
+    "sanchez": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.42
+    },
+    "pablo_iglesias": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "tarda": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "era": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.67
+    },
+    "util": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "grec": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "elit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "governant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "diplomatiques": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "part": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.09
+    },
+    "oriental": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/comunicacions.json"
+}

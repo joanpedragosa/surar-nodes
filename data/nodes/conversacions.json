@@ -1,0 +1,48 @@
+{
+  "concept": "conversacions",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "colau": 0.5,
+    "poesia": 0.5
+  },
+  "bayesian_context": {
+    "versen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "colau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "psc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "eventual": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "entrada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "municipal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "utilitza": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "poesia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/conversacions.json"
+}

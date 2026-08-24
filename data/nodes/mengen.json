@@ -1,0 +1,52 @@
+{
+  "concept": "mengen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "patogens": 0.5,
+    "carn": 0.5
+  },
+  "bayesian_context": {
+    "diuen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "cel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "lules": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "absorbeixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "patogens": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "particules": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "fagocits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "carn": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "circumstancia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "requereix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mengen.json"
+}

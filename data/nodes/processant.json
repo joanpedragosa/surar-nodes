@@ -1,0 +1,23 @@
+{
+  "concept": "processant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "jose": 1.0
+  },
+  "bayesian_context": {
+    "jose": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "mata": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "francisco_camps": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/processant.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "the_washington",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "post": 1.0
+  },
+  "bayesian_context": {
+    "diari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "elogiar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mossos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "post": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "desmentit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "periodico": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/the_washington.json"
+}

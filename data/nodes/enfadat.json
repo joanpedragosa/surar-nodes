@@ -1,0 +1,23 @@
+{
+  "concept": "enfadat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lluna": 1.0
+  },
+  "bayesian_context": {
+    "creu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "lluna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "deus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/enfadat.json"
+}

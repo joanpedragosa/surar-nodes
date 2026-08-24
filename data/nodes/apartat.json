@@ -1,0 +1,31 @@
+{
+  "concept": "apartat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "poble_lliure": 1.0
+  },
+  "bayesian_context": {
+    "poble_lliure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "organs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "direccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "nacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "cup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/apartat.json"
+}

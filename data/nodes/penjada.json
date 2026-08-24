@@ -1,0 +1,39 @@
+{
+  "concept": "penjada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "junta": 1.0
+  },
+  "bayesian_context": {
+    "pancarta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "permet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "continui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "junta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "electoral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "llibertat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "expressio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/penjada.json"
+}

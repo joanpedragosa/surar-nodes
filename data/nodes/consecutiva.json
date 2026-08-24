@@ -1,0 +1,35 @@
+{
+  "concept": "consecutiva",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "contractes": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "considerar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "renovacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "contractes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "interins": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "abusiva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/consecutiva.json"
+}

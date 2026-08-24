@@ -1,0 +1,27 @@
+{
+  "concept": "societat_coral",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "micalet": 1.0
+  },
+  "bayesian_context": {
+    "micalet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "carrer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "guillem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "castro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/societat_coral.json"
+}

@@ -1,0 +1,72 @@
+{
+  "concept": "difos",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "grup": 0.5,
+    "diari": 0.5
+  },
+  "bayesian_context": {
+    "grup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.6
+    },
+    "treball": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "detencions_arbitraries": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "veredicte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "diari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "publico": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "segona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "exclusiva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "relacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "cni": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cervell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "atemptats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "la_rambla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    },
+    "cambrils": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/difos.json"
+}

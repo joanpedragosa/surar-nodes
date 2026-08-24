@@ -1,0 +1,48 @@
+{
+  "concept": "litigi",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tractava": 0.5,
+    "congres": 0.5
+  },
+  "bayesian_context": {
+    "provar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "tractava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "objectes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "moment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "robats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "congres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "emmarcat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cambrai": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/litigi.json"
+}

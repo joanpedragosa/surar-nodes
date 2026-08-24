@@ -1,0 +1,93 @@
+{
+  "concept": "degradacio",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "material": 0.5,
+    "paralitzacio": 0.25,
+    "casal": 0.25
+  },
+  "bayesian_context": {
+    "produir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "ferrocarrils": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "causa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.56
+    },
+    "indefinicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "organismes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "implicats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "gestionar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "regim": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "explotacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "xarxa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "material": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "instal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "lacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "determinar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "paralitzacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "objectiu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.84
+    },
+    "campanya": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "aturar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "casal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/degradacio.json"
+}

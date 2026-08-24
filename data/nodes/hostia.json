@@ -1,0 +1,23 @@
+{
+  "concept": "hostia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "eucaristica": 1.0
+  },
+  "bayesian_context": {
+    "guardava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "eucaristica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "receptacle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/hostia.json"
+}

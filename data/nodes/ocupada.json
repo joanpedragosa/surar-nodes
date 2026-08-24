@@ -1,0 +1,64 @@
+{
+  "concept": "ocupada",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "guerra": 0.5,
+    "ambaixada": 0.5
+  },
+  "bayesian_context": {
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "alcoi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "guerra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "successio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "espanyola": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "setge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "caure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "provisional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "fou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "ambaixada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "estats_units": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ocupada.json"
+}

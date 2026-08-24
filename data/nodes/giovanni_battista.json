@@ -1,0 +1,27 @@
+{
+  "concept": "giovanni_battista",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "viassolo": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "pseudonim": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "viassolo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "camillo_federici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/giovanni_battista.json"
+}

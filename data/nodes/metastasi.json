@@ -1,0 +1,55 @@
+{
+  "concept": "metastasi",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "curacio": 1.0
+  },
+  "bayesian_context": {
+    "provat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "curacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ferida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "sortit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "malament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "via": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "obre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "descobriment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "investigadors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "trobar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.69
+    },
+    "tractament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/metastasi.json"
+}

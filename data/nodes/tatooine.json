@@ -1,0 +1,43 @@
+{
+  "concept": "tatooine",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "desert": 1.0
+  },
+  "bayesian_context": {
+    "rodar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "escenes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "corresponents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "desert": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "tunisia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "capturats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "jawas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "arribar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tatooine.json"
+}

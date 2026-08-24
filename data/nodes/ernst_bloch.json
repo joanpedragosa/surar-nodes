@@ -1,0 +1,35 @@
+{
+  "concept": "ernst_bloch",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "art": 1.0
+  },
+  "bayesian_context": {
+    "relaciona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "figuratiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "concepcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "utopica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "individu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ernst_bloch.json"
+}

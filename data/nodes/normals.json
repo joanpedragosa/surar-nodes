@@ -1,0 +1,92 @@
+{
+  "concept": "normals",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "diabetis": 0.5,
+    "malaltia": 0.5
+  },
+  "bayesian_context": {
+    "estarien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "valors": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.85
+    },
+    "relacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "diabetis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "insipida": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "inferiors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "composta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "materia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "atoms": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "condicions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "pot": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    },
+    "indicar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "resultats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "majors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "malaltia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "addison": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "insuficiencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "cardiaca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "congestiva": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "xoc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/normals.json"
+}

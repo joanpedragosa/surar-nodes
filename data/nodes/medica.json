@@ -1,0 +1,31 @@
+{
+  "concept": "medica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "persona": 1.0
+  },
+  "bayesian_context": {
+    "parada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "precisat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "assistencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "persona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "badal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/medica.json"
+}

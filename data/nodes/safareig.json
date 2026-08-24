@@ -1,0 +1,69 @@
+{
+  "concept": "safareig",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "boca": 0.25,
+    "peixos": 0.5,
+    "marbre": 0.25
+  },
+  "bayesian_context": {
+    "llencen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "boca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "dos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.07
+    },
+    "dofins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "escultura": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.75
+    },
+    "costat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.65
+    },
+    "pavello": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "peixos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "forma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.29
+    },
+    "quadrangular": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "material": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "estan": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.22
+    },
+    "realitzats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "marbre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/safareig.json"
+}

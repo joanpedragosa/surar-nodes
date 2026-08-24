@@ -1,0 +1,29 @@
+{
+  "concept": "llicencios",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "afirmar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "paisiello": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "rossini": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "music": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/llicencios.json"
+}

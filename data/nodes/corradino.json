@@ -1,0 +1,77 @@
+{
+  "concept": "corradino",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "comtessa": 0.25,
+    "fletxa": 0.25,
+    "suicidar": 0.5
+  },
+  "bayesian_context": {
+    "manipula": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "matilde": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "promesa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "comtessa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "arco": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "empresonat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "injustament": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "edoardo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "travessat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "fletxa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "cupido": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "vol": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.98
+    },
+    "suicidar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "se": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.08
+    },
+    "desisteix": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "sortir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.9
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/corradino.json"
+}

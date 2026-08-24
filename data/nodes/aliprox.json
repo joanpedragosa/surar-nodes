@@ -1,0 +1,47 @@
+{
+  "concept": "aliprox",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "hores": 1.0
+  },
+  "bayesian_context": {
+    "horari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "tenen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.58
+    },
+    "botigues": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "hores": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "supermercats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "incorporat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "caprabo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cadena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "franquicies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/aliprox.json"
+}

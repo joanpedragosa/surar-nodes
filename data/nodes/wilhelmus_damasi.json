@@ -1,0 +1,31 @@
+{
+  "concept": "wilhelmus_damasi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lindanus": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "lindanus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "teoleg": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "bisbe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "roermond": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/wilhelmus_damasi.json"
+}

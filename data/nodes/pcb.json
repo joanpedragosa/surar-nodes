@@ -1,0 +1,130 @@
+{
+  "concept": "pcb",
+  "frequency": 9,
+  "edges": [],
+  "markov_transitions": {
+    "peixos": 0.2222,
+    "bifenils": 0.1111,
+    "contaminants": 0.1111,
+    "mitjancant": 0.1111,
+    "compostos": 0.1111,
+    "dotzena": 0.1111,
+    "ncln": 0.1111,
+    "aplicacions": 0.1111
+  },
+  "bayesian_context": {
+    "detectar": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.33
+    },
+    "peixos": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.47
+    },
+    "suecia": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.67
+    },
+    "soren_jensen": {
+      "likelihood": 0.0074,
+      "posterior_boost": 5.07
+    },
+    "anomenen": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "bifenils": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "policlorats": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "consideren": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.73
+    },
+    "contaminants": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "organics": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "persistents": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "formen": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.8
+    },
+    "mitjancant": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.59
+    },
+    "cloracio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "bifenil": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "compostos": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "aromatics": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "organoclorats": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "sintetics": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "part": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.75
+    },
+    "dotzena": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "bruta": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "formula": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.03
+    },
+    "empirica": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "ncln": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "ideals": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "aplicacions": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "industrials": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pcb.json"
+}

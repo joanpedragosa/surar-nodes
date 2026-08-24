@@ -1,0 +1,23 @@
+{
+  "concept": "rememorara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pilar_arnau": 1.0
+  },
+  "bayesian_context": {
+    "pilar_arnau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "vida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "filologa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/rememorara.json"
+}

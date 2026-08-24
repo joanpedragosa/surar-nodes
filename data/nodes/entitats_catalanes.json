@@ -1,0 +1,31 @@
+{
+  "concept": "entitats_catalanes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "accio": 1.0
+  },
+  "bayesian_context": {
+    "adverteixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "accio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "social": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "pobresa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "cronifica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/entitats_catalanes.json"
+}

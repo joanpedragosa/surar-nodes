@@ -1,0 +1,47 @@
+{
+  "concept": "educada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "independent": 1.0
+  },
+  "bayesian_context": {
+    "hauria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "dona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "soltera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "ideal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "anys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.54
+    },
+    "independent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "segura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ambiciosa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/educada.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "tribu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "amerindia": 1.0
+  },
+  "bayesian_context": {
+    "amerindia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "introduir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "xurres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "navajo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tribu.json"
+}

@@ -1,0 +1,64 @@
+{
+  "concept": "decadencia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "imperi_roma": 0.5,
+    "verdi": 0.5
+  },
+  "bayesian_context": {
+    "accelera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pesta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "imperi_roma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "orient": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "diari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "venecia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "dir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "ernani": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "marcava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "primera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "fase": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "verdi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "il_gondoliere": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/decadencia.json"
+}

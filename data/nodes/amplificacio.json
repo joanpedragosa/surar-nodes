@@ -1,0 +1,43 @@
+{
+  "concept": "amplificacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "termociclador": 1.0
+  },
+  "bayesian_context": {
+    "mesura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "acumulacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "adn": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "pcr": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "proces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "sistema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "realitza": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "termociclador": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/amplificacio.json"
+}

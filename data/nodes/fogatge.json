@@ -1,0 +1,43 @@
+{
+  "concept": "fogatge",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "part": 1.0
+  },
+  "bayesian_context": {
+    "volgue": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "moment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "homes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "esglesia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "paguessin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "bisbe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fogatge.json"
+}

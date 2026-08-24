@@ -1,0 +1,39 @@
+{
+  "concept": "cangur",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "rescatat": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "rescatat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "mar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "oberta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "animal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "laura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "sanchez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cangur.json"
+}

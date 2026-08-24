@@ -1,0 +1,35 @@
+{
+  "concept": "lliberti",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "amant": 1.0
+  },
+  "bayesian_context": {
+    "estil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "relacionada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "vida": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.38
+    },
+    "personal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "amant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "bona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lliberti.json"
+}

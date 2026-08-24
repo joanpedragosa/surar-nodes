@@ -1,0 +1,35 @@
+{
+  "concept": "pich",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pon": 1.0
+  },
+  "bayesian_context": {
+    "impulsar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "pon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "exposicio": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.68
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "industries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "electriques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pich.json"
+}

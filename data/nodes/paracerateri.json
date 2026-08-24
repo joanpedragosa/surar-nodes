@@ -1,0 +1,31 @@
+{
+  "concept": "paracerateri",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tenia": 1.0
+  },
+  "bayesian_context": {
+    "suggerit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "tenia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "orelles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "grosses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "donald_prothero": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/paracerateri.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "triomfara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "eleccions": 1.0
+  },
+  "bayesian_context": {
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "enquesta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "peu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "urna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "emmanuel_macron": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/triomfara.json"
+}

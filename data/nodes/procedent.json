@@ -1,0 +1,68 @@
+{
+  "concept": "procedent",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cuba": 0.5,
+    "diners": 0.5
+  },
+  "bayesian_context": {
+    "pensa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "dur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "malaltia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "tripulants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "infectats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "buc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cuba": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "quantia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "diners": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "publics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "rescatar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ercros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "milions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "euros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/procedent.json"
+}

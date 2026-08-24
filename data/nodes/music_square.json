@@ -1,0 +1,35 @@
+{
+  "concept": "music_square",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "segons": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "reproduir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "usuari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "cancons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "emocional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/music_square.json"
+}

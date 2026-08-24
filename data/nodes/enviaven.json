@@ -1,0 +1,35 @@
+{
+  "concept": "enviaven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estudis": 1.0
+  },
+  "bayesian_context": {
+    "estudis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "copies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "biblioteca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "enregistrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "obres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "paper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.2
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/enviaven.json"
+}

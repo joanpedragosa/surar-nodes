@@ -1,0 +1,43 @@
+{
+  "concept": "tornes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "introduir": 1.0
+  },
+  "bayesian_context": {
+    "fet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.83
+    },
+    "introduir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "cirurgia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "tractament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "tuberculosi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "emergencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "tb": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tornes.json"
+}

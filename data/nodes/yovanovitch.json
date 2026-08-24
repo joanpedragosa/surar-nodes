@@ -1,0 +1,35 @@
+{
+  "concept": "yovanovitch",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "arreu": 1.0
+  },
+  "bayesian_context": {
+    "acabat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "arreu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "anat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "trump": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "malament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/yovanovitch.json"
+}

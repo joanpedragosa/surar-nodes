@@ -1,0 +1,27 @@
+{
+  "concept": "reordenacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "europea": 1.0
+  },
+  "bayesian_context": {
+    "culminar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "europea": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "tractat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "utrecht": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reordenacio.json"
+}

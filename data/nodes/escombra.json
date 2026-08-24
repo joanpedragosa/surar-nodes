@@ -1,0 +1,35 @@
+{
+  "concept": "escombra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cel": 1.0
+  },
+  "bayesian_context": {
+    "cel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "direccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "feix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "pulsars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "seguint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "cercle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/escombra.json"
+}

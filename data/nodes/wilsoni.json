@@ -1,0 +1,43 @@
+{
+  "concept": "wilsoni",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cuscus": 1.0
+  },
+  "bayesian_context": {
+    "especies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "troben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "perill": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "critic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "extincio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "cuscus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "roig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "negre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/wilsoni.json"
+}

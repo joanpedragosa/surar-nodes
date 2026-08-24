@@ -1,0 +1,43 @@
+{
+  "concept": "astronom",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "observatori": 1.0
+  },
+  "bayesian_context": {
+    "instar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "le_verrier": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "observatori": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "berlin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "cerques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "refractor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "gan_de": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/astronom.json"
+}

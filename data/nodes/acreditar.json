@@ -1,0 +1,31 @@
+{
+  "concept": "acreditar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "residents": 1.0
+  },
+  "bayesian_context": {
+    "residents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "estranger": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "consolat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "corresponent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/acreditar.json"
+}

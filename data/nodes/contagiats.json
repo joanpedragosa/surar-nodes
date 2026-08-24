@@ -1,0 +1,47 @@
+{
+  "concept": "contagiats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "covid": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "usuaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "residencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "gent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "santa_elena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "torrent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "estan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "covid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/contagiats.json"
+}

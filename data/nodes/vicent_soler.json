@@ -1,0 +1,81 @@
+{
+  "concept": "vicent_soler",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "economia_aplicada": 0.3333,
+    "generalitat": 0.3333,
+    "acta": 0.3333
+  },
+  "bayesian_context": {
+    "conseller": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.4
+    },
+    "hisenda": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.15
+    },
+    "model_economic": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "catedratic": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "economia_aplicada": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "desestima": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "generalitat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.37
+    },
+    "hagi": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "prorrogar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "pressupost": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.65
+    },
+    "enguany": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "exercici": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "seguent": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "renuncia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "acta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "diputat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "les_corts": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vicent_soler.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "rinascimento",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dell": 1.0
+  },
+  "bayesian_context": {
+    "coneix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "quattrocento": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "dell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "antichita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/rinascimento.json"
+}

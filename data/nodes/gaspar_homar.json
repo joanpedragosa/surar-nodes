@@ -1,0 +1,80 @@
+{
+  "concept": "gaspar_homar",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "francesc": 0.5,
+    "tancar": 0.5
+  },
+  "bayesian_context": {
+    "assessora": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "francesc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "cambo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "batlle": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "dissenyar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "decoracio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "interior": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.91
+    },
+    "dedicar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "tancar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "taller": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "ebenisteria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "comerc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "antiguitats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "tasca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "restaurador": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "obres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.34
+    },
+    "art": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.57
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/gaspar_homar.json"
+}

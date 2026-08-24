@@ -1,0 +1,31 @@
+{
+  "concept": "der_spiegel",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "suddeutsche": 1.0
+  },
+  "bayesian_context": {
+    "rotatius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "publicat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "gravacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "suddeutsche": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "zeitung": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/der_spiegel.json"
+}

@@ -1,0 +1,47 @@
+{
+  "concept": "impressor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "entrenament": 1.0
+  },
+  "bayesian_context": {
+    "contribuir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "desenvolupament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "hokusai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "entrenament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "primerenc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "comerc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "tecniques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "impressio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/impressor.json"
+}

@@ -1,0 +1,56 @@
+{
+  "concept": "restabliment",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "impostos": 0.5,
+    "pau": 0.5
+  },
+  "bayesian_context": {
+    "testimonien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "documents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "impostos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "cobrats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "irregularment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "festeja": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "concurrencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "concordia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "noble": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "familia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/restabliment.json"
+}

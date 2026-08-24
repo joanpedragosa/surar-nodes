@@ -1,0 +1,35 @@
+{
+  "concept": "carrillo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vasco": 1.0
+  },
+  "bayesian_context": {
+    "realitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "sepulcre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "bisbe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "avila_alonso": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "vasco": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "zarza": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/carrillo.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "beines",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fossin": 1.0
+  },
+  "bayesian_context": {
+    "passaria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "fossin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "massa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "velles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "fruits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "estarien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "secs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/beines.json"
+}

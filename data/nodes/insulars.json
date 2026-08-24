@@ -1,0 +1,43 @@
+{
+  "concept": "insulars",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "signat": 1.0
+  },
+  "bayesian_context": {
+    "regions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "signat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "declaracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "reivindicativa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "illes_balears": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "corsega": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sardenya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "gozo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/insulars.json"
+}

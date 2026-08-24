@@ -1,0 +1,64 @@
+{
+  "concept": "pla_eolic",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "comunitat_valenciana": 0.6667,
+    "pais_valencia": 0.3333
+  },
+  "bayesian_context": {
+    "criticat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "comunitat_valenciana": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "grups": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.06
+    },
+    "ecologistes": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "subestima": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "impacte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "futurs": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "parcs": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "aus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "regio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "arrancar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "pais_valencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pla_eolic.json"
+}

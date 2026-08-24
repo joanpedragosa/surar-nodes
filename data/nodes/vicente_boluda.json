@@ -1,0 +1,44 @@
+{
+  "concept": "vicente_boluda",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "corredor_mediterrani": 0.5,
+    "novembre": 0.5
+  },
+  "bayesian_context": {
+    "reclamara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "acte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "empresarial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "anunciat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "corredor_mediterrani": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "realitzara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "gran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "novembre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vicente_boluda.json"
+}

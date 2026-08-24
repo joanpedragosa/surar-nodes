@@ -1,0 +1,35 @@
+{
+  "concept": "humoristic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "la_trompeta": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "diari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "la_trompeta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "colla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "joves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "poble": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/humoristic.json"
+}

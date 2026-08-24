@@ -1,0 +1,35 @@
+{
+  "concept": "abnegada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "metges": 1.0
+  },
+  "bayesian_context": {
+    "convocar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "academia_francesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "premi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "dedicacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "metges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "francesos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/abnegada.json"
+}

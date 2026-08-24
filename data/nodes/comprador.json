@@ -1,0 +1,94 @@
+{
+  "concept": "comprador",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "museus": 0.25,
+    "maxim": 0.25,
+    "disposat": 0.25,
+    "anonim": 0.25
+  },
+  "bayesian_context": {
+    "oferir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "troballa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "museus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "prehistoria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "berlin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "munic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "ideal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "discriminacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "preus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "venedor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "cobrar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "maxim": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "disposat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "pagar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "demanava": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "anonim": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "milio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "marcs": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "alemanys": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/comprador.json"
+}

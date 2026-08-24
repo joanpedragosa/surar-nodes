@@ -1,0 +1,27 @@
+{
+  "concept": "ramon_puigdelloses",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sastre": 1.0
+  },
+  "bayesian_context": {
+    "morir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "sastre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "camp": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "gusen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ramon_puigdelloses.json"
+}

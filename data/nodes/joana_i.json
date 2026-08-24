@@ -1,0 +1,31 @@
+{
+  "concept": "joana_i",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "navarra": 1.0
+  },
+  "bayesian_context": {
+    "volia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "casar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "infant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "pere": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "navarra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/joana_i.json"
+}

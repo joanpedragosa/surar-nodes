@@ -1,0 +1,43 @@
+{
+  "concept": "enquadrament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "natural": 1.0
+  },
+  "bayesian_context": {
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "cos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "sant_francesc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "surt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "natural": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "sobresurt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "marc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "peu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/enquadrament.json"
+}

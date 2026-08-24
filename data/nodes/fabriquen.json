@@ -1,0 +1,48 @@
+{
+  "concept": "fabriquen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "culleres": 0.5,
+    "cancers": 0.5
+  },
+  "bayesian_context": {
+    "culleres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "estris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cuina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "fusta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "boix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "faig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "molecula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "cancers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "avancats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fabriquen.json"
+}

@@ -1,0 +1,68 @@
+{
+  "concept": "inorganics",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "electrolits": 0.5,
+    "marins": 0.5
+  },
+  "bayesian_context": {
+    "actuen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "elements": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "electrolits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "ionics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "apareixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "terra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "mars": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "calcita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "precipitats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "marins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "carbonat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "calci": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "baixos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "magnesi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/inorganics.json"
+}

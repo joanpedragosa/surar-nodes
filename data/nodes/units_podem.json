@@ -1,0 +1,88 @@
+{
+  "concept": "units_podem",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "pdecat": 0.5,
+    "podem": 0.5
+  },
+  "bayesian_context": {
+    "superaria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "ciutadans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.65
+    },
+    "intencio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "vot": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "recolzat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "iniciativa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "erc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "psoe": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.94
+    },
+    "pdecat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "pnb": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "bildu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "partits": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.14
+    },
+    "politics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "conformen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "podem": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.88
+    },
+    "coalitzats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "comu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "compromis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "en_marea": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/units_podem.json"
+}

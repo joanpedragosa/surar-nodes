@@ -1,0 +1,39 @@
+{
+  "concept": "represalies",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "persecucions": 1.0
+  },
+  "bayesian_context": {
+    "pateixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "sovint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "persones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "destapen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "casos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "corrupcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "persecucions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/represalies.json"
+}

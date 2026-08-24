@@ -1,0 +1,64 @@
+{
+  "concept": "ildefons_cerda",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "gornal": 0.5,
+    "introduccio": 0.5
+  },
+  "bayesian_context": {
+    "afavorir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "introduccio": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.15
+    },
+    "mobiliari": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.15
+    },
+    "urba": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.07
+    },
+    "anomena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "estacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "situada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "gornal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "europa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "fira": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "ciutat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.31
+    },
+    "influir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "paris": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ildefons_cerda.json"
+}

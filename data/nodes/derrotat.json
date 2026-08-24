@@ -1,0 +1,40 @@
+{
+  "concept": "derrotat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ultima": 0.5,
+    "batalla": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "ultima": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "batalla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "forces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "espartac": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "cuadonga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "al_qama": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/derrotat.json"
+}

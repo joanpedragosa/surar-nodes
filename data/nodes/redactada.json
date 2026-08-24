@@ -1,0 +1,23 @@
+{
+  "concept": "redactada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ajuda": 1.0
+  },
+  "bayesian_context": {
+    "ajuda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "facilitar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "creacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/redactada.json"
+}

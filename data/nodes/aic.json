@@ -1,0 +1,23 @@
+{
+  "concept": "aic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "portugal": 1.0
+  },
+  "bayesian_context": {
+    "interessava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "fracas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "portugal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/aic.json"
+}

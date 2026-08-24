@@ -1,0 +1,27 @@
+{
+  "concept": "interrompia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "continuament": 1.0
+  },
+  "bayesian_context": {
+    "continuament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "jornada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "raons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "procedimentals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/interrompia.json"
+}

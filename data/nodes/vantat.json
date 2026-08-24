@@ -1,0 +1,31 @@
+{
+  "concept": "vantat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rajoy": 1.0
+  },
+  "bayesian_context": {
+    "rajoy": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "haver": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "consolidat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "recuperacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "economica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vantat.json"
+}

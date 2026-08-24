@@ -1,0 +1,44 @@
+{
+  "concept": "tew",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "publicista": 0.5,
+    "oferta": 0.5
+  },
+  "bayesian_context": {
+    "contractar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "publicista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "estatunidenc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "esperava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "oferta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "final": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "elevada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tew.json"
+}

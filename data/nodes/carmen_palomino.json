@@ -1,0 +1,52 @@
+{
+  "concept": "carmen_palomino",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "adrian": 0.5,
+    "carrec": 0.5
+  },
+  "bayesian_context": {
+    "assumira": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "competencies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "carrec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "adrian": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "garcia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "renunciat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "motius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "personals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "sobrevinguts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "gravetat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/carmen_palomino.json"
+}

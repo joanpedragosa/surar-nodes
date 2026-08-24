@@ -1,0 +1,48 @@
+{
+  "concept": "residien",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "nois": 0.5,
+    "local": 0.5
+  },
+  "bayesian_context": {
+    "nois": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "realitzar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.76
+    },
+    "atemptat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "rambla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "ripoll": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "persones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.64
+    },
+    "local": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "dos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/residien.json"
+}

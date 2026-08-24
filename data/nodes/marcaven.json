@@ -1,0 +1,48 @@
+{
+  "concept": "marcaven",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "antiguitat": 0.5,
+    "edificis": 0.5
+  },
+  "bayesian_context": {
+    "antiguitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "lladres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ferro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "roent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "edificis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "codi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "colors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "entrada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/marcaven.json"
+}

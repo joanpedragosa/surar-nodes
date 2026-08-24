@@ -1,0 +1,44 @@
+{
+  "concept": "matrimonio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "exit": 0.5,
+    "teatro_san": 0.5
+  },
+  "bayesian_context": {
+    "aconseguit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "cambiale": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "di": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "exit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "teatre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "estrenar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "teatro_san": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "moise": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/matrimonio.json"
+}

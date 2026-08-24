@@ -1,0 +1,31 @@
+{
+  "concept": "general_moragues",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "patriotes": 1.0
+  },
+  "bayesian_context": {
+    "fugir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "patriotes": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "catalans": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.33
+    },
+    "cap": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.45
+    },
+    "mallorca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/general_moragues.json"
+}

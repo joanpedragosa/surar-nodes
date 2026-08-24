@@ -1,0 +1,23 @@
+{
+  "concept": "barquer",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "frares": 1.0
+  },
+  "bayesian_context": {
+    "acostumava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "cobrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "frares": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/barquer.json"
+}

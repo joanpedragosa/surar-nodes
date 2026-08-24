@@ -1,0 +1,31 @@
+{
+  "concept": "surf",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sofa": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "dir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "couchsurfing": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "sofa": {
+      "likelihood": 0.0667,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/surf.json"
+}

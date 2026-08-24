@@ -1,0 +1,31 @@
+{
+  "concept": "karin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "åkerblom": 1.0
+  },
+  "bayesian_context": {
+    "provenia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "åkerblom": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "familia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "benestant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "estocolm": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/karin.json"
+}

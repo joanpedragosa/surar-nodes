@@ -1,0 +1,35 @@
+{
+  "concept": "quirurgica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "feia": 1.0
+  },
+  "bayesian_context": {
+    "tecnica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.29
+    },
+    "feia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "servir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "curar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "tuberculosi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "pneumotorax": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/quirurgica.json"
+}

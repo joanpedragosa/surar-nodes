@@ -1,0 +1,83 @@
+{
+  "concept": "mercadante",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "domenico_carboni": 0.2,
+    "fitxa": 0.2,
+    "perdre": 0.2,
+    "cantata": 0.2,
+    "estranger": 0.2
+  },
+  "bayesian_context": {
+    "trobar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.21
+    },
+    "partitura": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.13
+    },
+    "opera": {
+      "likelihood": 0.0278,
+      "posterior_boost": 3.59
+    },
+    "domenico_carboni": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "arxivada": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "fitxa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "rappresaglia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "passar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "perdre": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    },
+    "havien": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.36
+    },
+    "col": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.05
+    },
+    "laborat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "ferrero": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "cantata": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "part": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.92
+    },
+    "carrera": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "estranger": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.97
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mercadante.json"
+}

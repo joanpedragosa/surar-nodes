@@ -1,0 +1,75 @@
+{
+  "concept": "el_retaule",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "epifania": 1.0
+  },
+  "bayesian_context": {
+    "escena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    },
+    "principal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.69
+    },
+    "epifania": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "adoracio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "reis_mags": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "tipus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.33
+    },
+    "retaule": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.39
+    },
+    "petit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "retaulet": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "oratori": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "privat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "quantes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.86
+    },
+    "escenes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.79
+    },
+    "trobem": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.61
+    },
+    "tres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/el_retaule.json"
+}

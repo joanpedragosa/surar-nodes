@@ -1,0 +1,23 @@
+{
+  "concept": "sospesar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "puig": 1.0
+  },
+  "bayesian_context": {
+    "puig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "avancar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sospesar.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "disposada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estrenar": 1.0
+  },
+  "bayesian_context": {
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "estrenar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "nan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "colonia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/disposada.json"
+}

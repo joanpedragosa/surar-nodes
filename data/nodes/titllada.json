@@ -1,0 +1,48 @@
+{
+  "concept": "titllada",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vegades": 0.5,
+    "le": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "vegades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "controvertida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "le": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "mariage": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "figaro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "escandalosa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/titllada.json"
+}

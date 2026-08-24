@@ -1,0 +1,52 @@
+{
+  "concept": "schulz",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ramon_tremosa": 0.5,
+    "escandol": 0.5
+  },
+  "bayesian_context": {
+    "enviat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "carta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "ramon_tremosa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "escandol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "doble": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "comissio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "europea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "seriosament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/schulz.json"
+}

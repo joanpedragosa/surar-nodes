@@ -1,0 +1,57 @@
+{
+  "concept": "enterrar",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "sant": 0.3333,
+    "turo": 0.3333,
+    "van_gogh": 0.3333
+  },
+  "bayesian_context": {
+    "sant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "cugat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "juliana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "semproniana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "turo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "vatica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "van_gogh": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "cementiri": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "auvers": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "sur": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "oise": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/enterrar.json"
+}

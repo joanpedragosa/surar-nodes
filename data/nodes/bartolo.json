@@ -1,0 +1,64 @@
+{
+  "concept": "bartolo",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "rosina": 0.5,
+    "basilio": 0.5
+  },
+  "bayesian_context": {
+    "don_basilio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "mestre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "musica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.74
+    },
+    "amic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "amenaca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "rosina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "tancar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "casa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.62
+    },
+    "volen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.72
+    },
+    "redactar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "basilio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "contracte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "matrimonial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/bartolo.json"
+}

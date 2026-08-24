@@ -1,0 +1,27 @@
+{
+  "concept": "exportadores",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "uruguai": 1.0
+  },
+  "bayesian_context": {
+    "industria": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.0
+    },
+    "majors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "uruguai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "programari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/exportadores.json"
+}

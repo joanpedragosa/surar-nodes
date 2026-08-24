@@ -1,0 +1,56 @@
+{
+  "concept": "propietaries",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "germanes": 0.5,
+    "decidir": 0.5
+  },
+  "bayesian_context": {
+    "finca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "germanes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "josefina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "dolors_saula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "gall": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "or": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "decidir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "enderrocar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "edifici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "habitatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/propietaries.json"
+}

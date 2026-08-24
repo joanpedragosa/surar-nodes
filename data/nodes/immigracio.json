@@ -1,0 +1,27 @@
+{
+  "concept": "immigracio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "majoritariament": 1.0
+  },
+  "bayesian_context": {
+    "venia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "majoritariament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "regions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "espanyoles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/immigracio.json"
+}

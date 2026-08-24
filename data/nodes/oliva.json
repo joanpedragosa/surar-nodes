@@ -1,0 +1,27 @@
+{
+  "concept": "oliva",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "orujo": 1.0
+  },
+  "bayesian_context": {
+    "olis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "utilitzen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "additiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "orujo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/oliva.json"
+}

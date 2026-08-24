@@ -1,0 +1,61 @@
+{
+  "concept": "salvar",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "se": 0.3333,
+    "nacionalitzacio": 0.3333,
+    "equip": 0.3333
+  },
+  "bayesian_context": {
+    "fugir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "tractar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "se": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.08
+    },
+    "membres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "clan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "minamoto": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "aconseguir": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.95
+    },
+    "nacionalitzacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "ferrocarrils": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "mauricio_pochettino": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "equip": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "descens": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/salvar.json"
+}

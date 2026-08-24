@@ -1,0 +1,31 @@
+{
+  "concept": "ferb",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "perry": 1.0
+  },
+  "bayesian_context": {
+    "ornitorrinc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "apareix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "phineas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "and": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "perry": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ferb.json"
+}

@@ -1,0 +1,40 @@
+{
+  "concept": "refugia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "half": 0.5,
+    "vetera": 0.5
+  },
+  "bayesian_context": {
+    "half": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "tooth": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "bosc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "arbusts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vetera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "paranoid_eyes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "alcohol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/refugia.json"
+}

@@ -1,0 +1,44 @@
+{
+  "concept": "dissabtes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "festius": 0.5,
+    "desembre": 0.5
+  },
+  "bayesian_context": {
+    "frequencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "festius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "minuts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "desembre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "estara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "oberta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "botiga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "vilaweb": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/dissabtes.json"
+}

@@ -1,0 +1,48 @@
+{
+  "concept": "betancor",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "membre": 0.5,
+    "jec": 0.5
+  },
+  "bayesian_context": {
+    "proposar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "membre": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.57
+    },
+    "jec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "ciutadans": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.95
+    },
+    "ingressar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "octubre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.71
+    },
+    "pagar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "mensualment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "andres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/betancor.json"
+}

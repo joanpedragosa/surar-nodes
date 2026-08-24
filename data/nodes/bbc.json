@@ -1,0 +1,27 @@
+{
+  "concept": "bbc",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "newsnight": 1.0
+  },
+  "bayesian_context": {
+    "presentava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "newsnight": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "shane_o": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sullivan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/bbc.json"
+}

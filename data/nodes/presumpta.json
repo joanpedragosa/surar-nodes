@@ -1,0 +1,27 @@
+{
+  "concept": "presumpta",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "especie": 1.0
+  },
+  "bayesian_context": {
+    "descobrir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "estudi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "cinquena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "especie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/presumpta.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "vigenere",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "xifratge": 1.0
+  },
+  "bayesian_context": {
+    "fa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.8
+    },
+    "servir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "xifratge": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.28
+    },
+    "cesar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "decalatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "diferent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "posicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vigenere.json"
+}

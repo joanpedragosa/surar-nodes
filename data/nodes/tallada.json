@@ -1,0 +1,76 @@
+{
+  "concept": "tallada",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "civilitzacio": 0.5,
+    "ferro": 0.5
+  },
+  "bayesian_context": {
+    "depenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "escultura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "civilitzacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "egipcia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "bloc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "cubic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "podien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "disposar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "materials": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "utilitzen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "principalment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "estil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.73
+    },
+    "rococo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "fusta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "ferro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "bronze": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tallada.json"
+}

@@ -1,0 +1,52 @@
+{
+  "concept": "propagar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "rapidament": 0.5,
+    "se": 0.5
+  },
+  "bayesian_context": {
+    "rapidament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "deus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "temples": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "rituals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "usa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "arbre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "pa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "diverses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "tecniques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/propagar.json"
+}

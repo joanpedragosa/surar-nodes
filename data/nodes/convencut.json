@@ -1,0 +1,35 @@
+{
+  "concept": "convencut",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "albiol": 1.0
+  },
+  "bayesian_context": {
+    "albiol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "mai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "portara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "terme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "referendum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/convencut.json"
+}

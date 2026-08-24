@@ -1,0 +1,19 @@
+{
+  "concept": "el_discovery",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "londres": 1.0
+  },
+  "bayesian_context": {
+    "salpa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "londres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/el_discovery.json"
+}

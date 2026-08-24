@@ -1,0 +1,35 @@
+{
+  "concept": "fitur",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "orange_market": 1.0
+  },
+  "bayesian_context": {
+    "empresa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "adjudicar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "fira": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "turistica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "orange_market": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fitur.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "consecucio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "terrenys": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    },
+    "dificultat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "terrenys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/consecucio.json"
+}

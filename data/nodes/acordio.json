@@ -1,0 +1,27 @@
+{
+  "concept": "acordio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sons": 1.0
+  },
+  "bayesian_context": {
+    "evoquen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "piano": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "sons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "distants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/acordio.json"
+}

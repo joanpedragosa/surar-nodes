@@ -1,0 +1,35 @@
+{
+  "concept": "mossegades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "animals": 1.0
+  },
+  "bayesian_context": {
+    "causa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "contagi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "frequent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "animals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "infectats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mossegades.json"
+}

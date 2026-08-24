@@ -1,0 +1,64 @@
+{
+  "concept": "formalment",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "paisos": 0.5,
+    "cop": 0.5
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "costat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "paisos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "democratics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "europeus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "inici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "guerra_civil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "republica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "persones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.64
+    },
+    "arrestat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cop": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "fallit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/formalment.json"
+}

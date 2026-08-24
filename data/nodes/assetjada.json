@@ -1,0 +1,64 @@
+{
+  "concept": "assetjada",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "barcelona": 0.5,
+    "ciutat": 0.5
+  },
+  "bayesian_context": {
+    "temps": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.62
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    },
+    "mesos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "tenen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.58
+    },
+    "ciutat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "deir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "zor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "terroristes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.49
+    },
+    "tres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "anys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.24
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/assetjada.json"
+}

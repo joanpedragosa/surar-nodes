@@ -1,0 +1,37 @@
+# 📄 Document de Definició del Projecte: SURAR-AINA
+
+## 1. Entorn Operatiu: La Xarxa "A la Deriva"
+SURAR-AINA opera en un ecosistema digital radicalment descentralitzat, definit com una **Xarxa Neuronal Global (GNN) distribuïda**. 
+*   **Infraestructura:** El coneixement no resideix en servidors privats ni bases de dades SQL, sinó que està atomitzat en milers de fitxers JSON independents allotjats en repositoris públics (GitHub) i xarxes descentralitzades (IPFS).
+*   **Accés:** Qualsevol agent o usuari pot navegar pel graf sense permisos, claus d'API ni costos de subscripció.
+*   **Dinàmica:** El sistema és "líquid"; els nodes es descarreguen sota demanda per resoldre consultes específiques i els pesos s'actualitzen públicament mitjançant aprenentatge hebbià local, creant un metabolisme de coneixement visible per a tothom.
+
+## 2. Model Utilitzat: Híbrid Markov-Bayesià Lleuger (HMBL)
+El nucli intel·ligent del projecte és un model probabilístic estructural que combina dues lògiques matemàtiques dins de cada node atòmic:
+
+### A. Component Markovià (Sintaxi Local)
+Cada node emmagatzema taules de transició ($P(B|A)$) que indiquen la probabilitat que una paraula segueixi a una altra en el corpus original. Això dota el sistema de consciència seqüencial i ordre gramatical bàsic sense necessitat d'un model de llenguatge global.
+
+### B. Component Bayesià (Inferència Contextual)
+Cada node conté probabilitats condicionals i factors de "boost" posterior. Quan un token de la pregunta activa un node, aquest actualitza la seva rellevància basant-se en l'evidència contextual proporcionada pels altres tokens de la consulta. Això permet filtrar conceptes genèrics (soroll) i prioritzar respostes específiques.
+
+### C. Execució Distribuïda
+La inferència no es fa en un sol punt. El client (Step 35) navega pel graf remot, recull les probabilitats locals de cada node visitat i calcula la ruta de màxima versemblança utilitzant una puntuació híbrida: 
+$$Score = Energia_{base} \times Boost_{Bayesià} \times Prob_{Markoviana}$$
+
+## 3. Anàlisi Comparativa: Avantatges i Inconvenients
+
+| Característica | Model Hebbià Pur (Anterior) | Model HMBL (Actual) | Models LLM Generatius (Alternativa) |
+| :--- | :--- | :--- | :--- |
+| **Transparència** | ✅ Total (Pesos visibles) | ✅ Total (Probabilitats explícites) | ❌ Nul·la (Caixa negra estocàstica) |
+| **Cost Operatiu** | 💎 Zero (Només HTTP/Git) | 💎 Zero (Càlcul local lleuger) | 💸 Alt (GPU/Cloud/APIs) |
+| **Sintaxi/Gramàtica** | ❌ Muy baixa (Llista de paraules) | ✅ Mitjana (Seqüències probables) | ✅ Excel·lent (Fluïdesa nativa) |
+| **Precisió Factual** | ⚠️ Depèn de la freqüència | ✅ Alta (Filtratge bayesià) | ⚠️ Propens a al·lucinacions |
+| **Infraestructura** | 🌐 Distribuïda (GitHub/IPFS) | 🌐 Distribuïda (GitHub/IPFS) | 🏢 Centralitzada (Servidors Propietaris) |
+| **Privacitat** | 🔒 Màxima (Client-side) | 🔒 Màxima (Client-side) | ⚠️ Baixa (Dades enviades a tercers) |
+| **Manteniment** | 🛠️ Simple (Edició JSON) | 🛠️ Moderat (Recàlcul de probs) | 🏗️ Complex (Re-entrenament de models) |
+
+## 4. Conclusió Estratègica
+El model **Híbrid Markov-Bayesià Lleuger** representa el punt òptim per al propòsit de SURAR-AINA: oferir una intel·ligència artificial **sobirana, traçable i gratuïta**. 
+
+Tot i que no iguala la fluïdesa narrativa d'un LLM comercial, supera els models hebbians simples en capacitat de raonament contextual i construcció de frases, mantenint intactes els valors fonamentals de transparència radical i independència tecnològica. És una arquitectura dissenyada no per competir en generació de text, sinó per democratitzar l'accés a la inferència semàntica estructurada.

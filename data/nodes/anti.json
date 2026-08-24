@@ -1,0 +1,40 @@
+{
+  "concept": "anti",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "artistics": 0.5,
+    "submari": 0.5
+  },
+  "bayesian_context": {
+    "considerats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "temes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "warhol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "artistics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "atacar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "morter": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "submari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/anti.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "mimica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "figures": 1.0
+  },
+  "bayesian_context": {
+    "aprofitava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mitja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "comunicacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "figures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mimica.json"
+}

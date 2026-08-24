@@ -1,0 +1,47 @@
+{
+  "concept": "australosuchus",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "clarkae": 1.0
+  },
+  "bayesian_context": {
+    "cocodril": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "visque": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "sud": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "australia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "oligoce": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "superior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "mioce": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "inferior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "clarkae": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/australosuchus.json"
+}

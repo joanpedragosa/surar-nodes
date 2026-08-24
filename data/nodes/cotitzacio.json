@@ -1,0 +1,43 @@
+{
+  "concept": "cotitzacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "anys": 1.0
+  },
+  "bayesian_context": {
+    "import": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "seria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "pensio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "minima": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "periodes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "anys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.54
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cotitzacio.json"
+}

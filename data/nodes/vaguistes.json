@@ -1,0 +1,31 @@
+{
+  "concept": "vaguistes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "protestar": 1.0
+  },
+  "bayesian_context": {
+    "concentrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "simpatitzants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "activistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "protestar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "desallotjament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vaguistes.json"
+}

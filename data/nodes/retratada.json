@@ -1,0 +1,27 @@
+{
+  "concept": "retratada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "quadre": 1.0
+  },
+  "bayesian_context": {
+    "identifica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "dona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "quadre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "lisa_gherardini": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/retratada.json"
+}

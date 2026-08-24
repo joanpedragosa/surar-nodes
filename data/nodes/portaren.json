@@ -1,0 +1,31 @@
+{
+  "concept": "portaren",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "extincio": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "factors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "extincio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "paracerateris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "desconeixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/portaren.json"
+}

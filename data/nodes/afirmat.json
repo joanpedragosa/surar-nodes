@@ -1,0 +1,31 @@
+{
+  "concept": "afirmat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "georges_friden": 1.0
+  },
+  "bayesian_context": {
+    "georges_friden": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "consideracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "important": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "estabilitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "politica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/afirmat.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "mut",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "blanc": 1.0
+  },
+  "bayesian_context": {
+    "sherlock_holmes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "baffled": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "curtmetratge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "cinema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "blanc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "negre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mut.json"
+}

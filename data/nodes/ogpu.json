@@ -1,0 +1,27 @@
+{
+  "concept": "ogpu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "policia": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "policia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "secreta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "sovietica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ogpu.json"
+}

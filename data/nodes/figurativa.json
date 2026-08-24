@@ -1,0 +1,23 @@
+{
+  "concept": "figurativa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "guerra_civil": 1.0
+  },
+  "bayesian_context": {
+    "dedica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "escultura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "guerra_civil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/figurativa.json"
+}

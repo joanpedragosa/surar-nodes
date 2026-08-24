@@ -1,0 +1,27 @@
+{
+  "concept": "oviductes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fossil": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "fossil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "sinosauropteryx": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/oviductes.json"
+}

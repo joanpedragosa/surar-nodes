@@ -1,0 +1,95 @@
+{
+  "concept": "sopar",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "miquel_gil": 0.2,
+    "ca": 0.2,
+    "fara": 0.2,
+    "premis_miquelet": 0.2,
+    "sera": 0.2
+  },
+  "bayesian_context": {
+    "fara": {
+      "likelihood": 0.02,
+      "posterior_boost": 4.19
+    },
+    "actuacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "miquel_gil": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "pep_gimeno": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "ca": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "senyoretes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "edicio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "any": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.76
+    },
+    "vint": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.68
+    },
+    "cinc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.42
+    },
+    "dura": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.93
+    },
+    "terme": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.51
+    },
+    "premis_miquelet": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "novembre": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.69
+    },
+    "tipus": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.23
+    },
+    "sera": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.54
+    },
+    "protagonista": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "celler": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "can_roca": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "benefic": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sopar.json"
+}

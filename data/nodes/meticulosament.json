@@ -1,0 +1,35 @@
+{
+  "concept": "meticulosament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "feia": 1.0
+  },
+  "bayesian_context": {
+    "habit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "tenia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "wagner": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "apuntar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "diariament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "feia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/meticulosament.json"
+}

@@ -1,0 +1,99 @@
+{
+  "concept": "coloracio",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "creix": 0.2,
+    "falangerids": 0.2,
+    "sexe": 0.2,
+    "uapitis": 0.2,
+    "groga": 0.2
+  },
+  "bayesian_context": {
+    "pateix": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "canvis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.88
+    },
+    "creix": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "cries": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "falangerids": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "viva": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "sexe": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "diferent": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "influeix": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "canvi": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.7
+    },
+    "uapitis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "estacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.63
+    },
+    "tipus": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.23
+    },
+    "habitat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "tenen": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.19
+    },
+    "groga": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "mascles": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.68
+    },
+    "adults": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "sac": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "vocal": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "gola": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/coloracio.json"
+}

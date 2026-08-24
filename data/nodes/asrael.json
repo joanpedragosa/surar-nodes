@@ -1,0 +1,27 @@
+{
+  "concept": "asrael",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cristoforo_colombo": 1.0
+  },
+  "bayesian_context": {
+    "acabava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "estrenar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "franchetti": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "cristoforo_colombo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/asrael.json"
+}

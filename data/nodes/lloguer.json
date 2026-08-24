@@ -1,0 +1,320 @@
+{
+  "concept": "lloguer",
+  "frequency": 15,
+  "edges": [],
+  "markov_transitions": {
+    "formalitzat": 0.0667,
+    "fundacio": 0.0667,
+    "catalunya": 0.4,
+    "signats": 0.0667,
+    "ramats": 0.0667,
+    "vacacional": 0.0667,
+    "mes": 0.0667,
+    "segona": 0.0667,
+    "euros": 0.0667,
+    "habitatges": 0.0667
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.09
+    },
+    "contractes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "formalitzat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "primer": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.9
+    },
+    "semestre": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.3
+    },
+    "any": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.3
+    },
+    "hauria": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.57
+    },
+    "pagar": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.87
+    },
+    "casa_asia": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.85
+    },
+    "fundacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.53
+    },
+    "privada": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.74
+    },
+    "hospital": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.33
+    },
+    "santa_creu": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "sant_pau": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "pot": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.88
+    },
+    "consultar": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.37
+    },
+    "nou": {
+      "likelihood": 0.0089,
+      "posterior_boost": 3.28
+    },
+    "mapa": {
+      "likelihood": 0.0089,
+      "posterior_boost": 4.61
+    },
+    "catalunya": {
+      "likelihood": 0.0178,
+      "posterior_boost": 3.36
+    },
+    "nombre": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.45
+    },
+    "signats": {
+      "likelihood": 0.0044,
+      "posterior_boost": 5.15
+    },
+    "municipi": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.95
+    },
+    "comarca": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.2
+    },
+    "preu": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.4
+    },
+    "mitja": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.58
+    },
+    "fa": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.63
+    },
+    "servir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.99
+    },
+    "reduir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.67
+    },
+    "perill": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.7
+    },
+    "incendis": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "ramats": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "pasturar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "lluitat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "lobbys": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "regulacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "vacacional": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "impost": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "turisme": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "sostenible": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.74
+    },
+    "prohibicio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "plastics": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "sol": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.86
+    },
+    "venda": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.74
+    },
+    "vehicles": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "diesel": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "mitjana": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.29
+    },
+    "mes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.07
+    },
+    "baixa": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.36
+    },
+    "nou_barris": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "coneixer": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.51
+    },
+    "salo": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "barcelona_meeting": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "point": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "pujat": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.45
+    },
+    "habitatge": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.04
+    },
+    "segona": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.09
+    },
+    "temps": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.75
+    },
+    "fiquen": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "dia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.61
+    },
+    "dades": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.57
+    },
+    "trimestralment": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "percentatge": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.72
+    },
+    "augmentat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "interanual": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "import": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.49
+    },
+    "concepte": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.55
+    },
+    "euros": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.22
+    },
+    "anuals": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "mensual": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "fara": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.24
+    },
+    "convocatoria": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.81
+    },
+    "govern": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.5
+    },
+    "balear": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "ajuts": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "habitatges": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.9
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/lloguer.json"
+}

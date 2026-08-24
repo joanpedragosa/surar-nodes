@@ -1,0 +1,55 @@
+{
+  "concept": "hoteler",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "luxe": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "obrir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "mohamed": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "bin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "salman": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "complex": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "luxe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "mar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "roig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "comencara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "construccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/hoteler.json"
+}

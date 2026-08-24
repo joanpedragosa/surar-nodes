@@ -1,0 +1,85 @@
+{
+  "concept": "parlaven",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "grec": 0.3333,
+    "poemes": 0.3333,
+    "llengues": 0.3333
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.5
+    },
+    "literatura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "jueva": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "grec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "jueus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "poemes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "escrivia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "frida_kahlo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "diari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "diego_rivera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "regions": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.59
+    },
+    "provenien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "classes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "educades": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "trilingues": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "llengues": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "diferents": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    },
+    "llati": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/parlaven.json"
+}

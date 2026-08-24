@@ -1,0 +1,23 @@
+{
+  "concept": "see_emily",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "play": 1.0
+  },
+  "bayesian_context": {
+    "senzill": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "gravar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "play": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/see_emily.json"
+}

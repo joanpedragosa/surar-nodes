@@ -1,0 +1,35 @@
+{
+  "concept": "inspiren",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nombrosos": 1.0
+  },
+  "bayesian_context": {
+    "nombrosos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "directors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "avui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "dia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "treball": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "hitchcock": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/inspiren.json"
+}

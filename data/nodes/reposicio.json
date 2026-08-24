@@ -1,0 +1,40 @@
+{
+  "concept": "reposicio",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "hamburg": 0.5,
+    "obra": 0.5
+  },
+  "bayesian_context": {
+    "presentar": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.87
+    },
+    "primera": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.67
+    },
+    "hamburg": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "obra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.05
+    },
+    "opera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "maig": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reposicio.json"
+}

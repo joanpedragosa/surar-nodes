@@ -1,0 +1,48 @@
+{
+  "concept": "gotland",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "uppsala": 0.5,
+    "aproximadament": 0.5
+  },
+  "bayesian_context": {
+    "retornaren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "membres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "expedicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "uppsala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "temps": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.62
+    },
+    "quedar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "aproximadament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/gotland.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "futbolista",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "gerard": 1.0
+  },
+  "bayesian_context": {
+    "jugar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "gerard": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "pique": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "bernabeu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/futbolista.json"
+}

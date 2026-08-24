@@ -1,0 +1,39 @@
+{
+  "concept": "encaixen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "corona": 1.0
+  },
+  "bayesian_context": {
+    "socol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "unit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "peu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "hermes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "forats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "corona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "base": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/encaixen.json"
+}

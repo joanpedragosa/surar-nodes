@@ -1,0 +1,73 @@
+{
+  "concept": "cinematografica",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "the_winter": 0.3333,
+    "bergman": 0.3333,
+    "akira": 0.3333
+  },
+  "bayesian_context": {
+    "protagonitzava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "versio": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.24
+    },
+    "the_winter": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "guest": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "emma_thompson": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "deia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "companyia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "bergman": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "cinematograph": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "basada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "akira": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "manga": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "homonim": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "dibuixant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "katsuhiro_otomo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cinematografica.json"
+}

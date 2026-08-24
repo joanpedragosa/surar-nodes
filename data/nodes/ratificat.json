@@ -1,0 +1,35 @@
+{
+  "concept": "ratificat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vistiplau": 1.0
+  },
+  "bayesian_context": {
+    "necessita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "esborrany": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "sigui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "vistiplau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "estats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "membres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ratificat.json"
+}

@@ -1,0 +1,52 @@
+{
+  "concept": "assignat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ordre": 0.5,
+    "amfibis": 0.5
+  },
+  "bayesian_context": {
+    "distingeixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ciclons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "tropicals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "numero": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "ordre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "cronologic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ascendent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "qualitats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "amfibis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "fantastiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/assignat.json"
+}

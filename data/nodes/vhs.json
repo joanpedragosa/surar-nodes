@@ -1,0 +1,98 @@
+{
+  "concept": "vhs",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "dvd": 0.25,
+    "gran": 0.25,
+    "resulta": 0.25,
+    "star_wars": 0.25
+  },
+  "bayesian_context": {
+    "llancar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "the_phantom": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "menace": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "atac": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "clons": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "format": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "dvd": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "resulta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "sorprenent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "star_wars": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.7
+    },
+    "sigui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "primera": {
+      "likelihood": 0.025,
+      "posterior_boost": 3.72
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "produccio": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.33
+    },
+    "acomiadar": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.0
+    },
+    "se": {
+      "likelihood": 0.025,
+      "posterior_boost": 3.43
+    },
+    "comunitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "seguidors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "diuen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "relacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.65
+    },
+    "sera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/vhs.json"
+}

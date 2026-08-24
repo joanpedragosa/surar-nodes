@@ -1,0 +1,68 @@
+{
+  "concept": "diposit",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "humans": 0.5,
+    "milions": 0.5
+  },
+  "bayesian_context": {
+    "frequent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "tipus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.45
+    },
+    "humans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "edat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    },
+    "bronze": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "aconseguir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.65
+    },
+    "exemplars": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "adquisicions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "compra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "donacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "llegat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "antiguitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "milions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.52
+    },
+    "anys": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/diposit.json"
+}

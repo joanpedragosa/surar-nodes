@@ -1,0 +1,97 @@
+{
+  "concept": "higiene",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "aparenca": 0.3333,
+    "fisica": 0.3333,
+    "racial": 0.3333
+  },
+  "bayesian_context": {
+    "donaven": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "valor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "aparenca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "aconseguir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "grau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "mes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.61
+    },
+    "alt": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "bona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "fisica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "ideologia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "influia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "especificament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "moviment": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.71
+    },
+    "nazi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "conceptes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "racial": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "puresa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "corporal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "utilitza": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.81
+    },
+    "talc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "nadons": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/higiene.json"
+}

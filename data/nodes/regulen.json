@@ -1,0 +1,64 @@
+{
+  "concept": "regulen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "diferents": 0.5,
+    "eleccions": 0.5
+  },
+  "bayesian_context": {
+    "fan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "documents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "forca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "juridica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "diferents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "processos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "electorals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "normes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "apliquen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "eleccions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "congres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "diputats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.92
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/regulen.json"
+}

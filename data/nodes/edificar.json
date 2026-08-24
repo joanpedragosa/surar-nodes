@@ -1,0 +1,77 @@
+{
+  "concept": "edificar",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "sant": 0.3333,
+    "josep_maria": 0.3333,
+    "antiga": 0.3333
+  },
+  "bayesian_context": {
+    "dedicada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "esglesia": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.89
+    },
+    "sant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "lli": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "tracat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "institut_politecnic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "josep_maria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "monrava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "forma": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.41
+    },
+    "ciutat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.31
+    },
+    "emperador": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "constanti": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "antiga": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.02
+    },
+    "sants_apostols": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "constantinoble": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/edificar.json"
+}

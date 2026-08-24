@@ -1,0 +1,51 @@
+{
+  "concept": "condemnava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "llei": 1.0
+  },
+  "bayesian_context": {
+    "llei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "regulava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "produccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "venda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "cervesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "respectes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "criteri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "fabricacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "establert": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "mort": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/condemnava.json"
+}

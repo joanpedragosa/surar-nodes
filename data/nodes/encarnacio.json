@@ -1,0 +1,35 @@
+{
+  "concept": "encarnacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "jesucrist": 1.0
+  },
+  "bayesian_context": {
+    "afirmen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "escriure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "autors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "tractat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "deu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "jesucrist": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/encarnacio.json"
+}

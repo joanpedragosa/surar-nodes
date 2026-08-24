@@ -1,0 +1,55 @@
+{
+  "concept": "europa_press",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "formacio": 1.0
+  },
+  "bayesian_context": {
+    "manifestat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "gabriel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "rufian": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "formacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "sondejat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pp": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "coneixer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "plans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "mitja": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "comunicacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "entrevistat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/europa_press.json"
+}

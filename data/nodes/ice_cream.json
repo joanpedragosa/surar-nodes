@@ -1,0 +1,27 @@
+{
+  "concept": "ice_cream",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sandwich": 1.0
+  },
+  "bayesian_context": {
+    "interficie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "usuari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "sandwich": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "refinada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ice_cream.json"
+}

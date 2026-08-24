@@ -1,0 +1,23 @@
+{
+  "concept": "estendra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "consulta": 1.0
+  },
+  "bayesian_context": {
+    "consulta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "ciutadana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "marc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/estendra.json"
+}

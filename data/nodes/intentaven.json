@@ -1,0 +1,48 @@
+{
+  "concept": "intentaven",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fugir": 0.5,
+    "fer": 0.5
+  },
+  "bayesian_context": {
+    "fugir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "fbi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "kirby": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "simon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "national": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "idear": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "nous": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "personatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/intentaven.json"
+}

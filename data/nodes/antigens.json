@@ -1,0 +1,73 @@
+{
+  "concept": "antigens",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "acoblats": 0.3333,
+    "limfocits": 0.3333,
+    "cel": 0.3333
+  },
+  "bayesian_context": {
+    "reconeixen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "limfocits": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.67
+    },
+    "citotoxics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "acoblats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "molecules": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.85
+    },
+    "mhc": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "classe": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "mitja": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "presentats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "ii": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "cel": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.96
+    },
+    "lules": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.27
+    },
+    "capten": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "processen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "langerhans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/antigens.json"
+}

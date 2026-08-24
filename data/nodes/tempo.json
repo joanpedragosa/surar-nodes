@@ -1,0 +1,24 @@
+{
+  "concept": "tempo",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "inclou": 0.5,
+    "rubato": 0.5
+  },
+  "bayesian_context": {
+    "inclou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "peca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "rubato": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tempo.json"
+}

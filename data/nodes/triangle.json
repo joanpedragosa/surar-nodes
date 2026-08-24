@@ -1,0 +1,88 @@
+{
+  "concept": "triangle",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "rectangle": 0.75,
+    "isosceles": 0.25
+  },
+  "bayesian_context": {
+    "mante": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "rectangle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "relacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.65
+    },
+    "hipotenusa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "cares": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "constant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "pot": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.15
+    },
+    "aplicar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "definicio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "basant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "se": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.95
+    },
+    "estrictament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "parlant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "angles": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "aguts": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "duplica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "formar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "isosceles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "acp": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/triangle.json"
+}

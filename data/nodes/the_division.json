@@ -1,0 +1,23 @@
+{
+  "concept": "the_division",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "bell": 1.0
+  },
+  "bayesian_context": {
+    "titol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "album": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "bell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/the_division.json"
+}

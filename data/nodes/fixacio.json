@@ -1,0 +1,56 @@
+{
+  "concept": "fixacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "turmells": 0.5,
+    "personal": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "turmells": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "articulacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "iliosacra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "bastant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "laxa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "tenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "personal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "autor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "mont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "fuji": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fixacio.json"
+}

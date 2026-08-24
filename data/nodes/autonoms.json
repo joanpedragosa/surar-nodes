@@ -1,0 +1,56 @@
+{
+  "concept": "autonoms",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "diuen": 0.5,
+    "deu": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "diuen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "descansen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "setmana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "hores": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "treballen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "deu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    },
+    "onze": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "diaries": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/autonoms.json"
+}

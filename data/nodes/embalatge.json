@@ -1,0 +1,19 @@
+{
+  "concept": "embalatge",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "retallables": 1.0
+  },
+  "bayesian_context": {
+    "incloia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "retallables": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/embalatge.json"
+}

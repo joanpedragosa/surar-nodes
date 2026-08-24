@@ -1,0 +1,43 @@
+{
+  "concept": "confeccionar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pla": 1.0
+  },
+  "bayesian_context": {
+    "haura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "pla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "estrategic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "laboracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "consell_catala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "alimentacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/confeccionar.json"
+}

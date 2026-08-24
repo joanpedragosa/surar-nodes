@@ -1,0 +1,39 @@
+# 📄 Especificació Funcional Detallada: STEP 10 (Indexador Híbrid i Blindatge)
+
+## 1. Identificació del Mòdul
+*   **Nom del Codi:** `step10_indexador_hibrid.py`
+*   **Ubicació Física:** `D:\Notebook\Transformer\surar_probabilistic\pipeline\`
+*   **Fase del Pipeline:** Fase B - Indexació, Blindatge i Preparació per a la Xarxa Distribuïda.
+*   **Model Associat:** Infraestructura de Xarxa Neuronal Global (GNN) "a la Deriva".
+
+## 2. Propòsit Global
+Transformar els nodes probabilístics generats al Step 05 en artefactes digitals "blindats" i preparats per a la seva publicació massiva a Internet. Aquest mòdul assegura que cada concepte tingui una identitat web immutable (URLs de GitHub Raw) i una traçabilitat criptogràfica única (simulació de CIDs d'IPFS), generant un mapa mestre (`mapping_global.json`) que permet l'accés ràpid i auditable a qualsevol node del sistema sense dependre de bases de dades centralitzades.
+
+## 3. Lògica de Funcionament Intern
+
+### A. Validació 'In Situ' i Neteja Final
+*   **Filtratge de Seguretat:** Recorre tots els fitxers `.json` de la carpeta `data/nodes/` i descarta automàticament aquells tokens que siguin residuals, buits o que comencin per dígits, garantint la puresa lingüística del graf final.
+*   **Normalització Contractual:** Reaplica la funció `normalitzar_token_català` per assegurar que els noms dels fitxers coincideixen exactament amb els identificadors interns del node.
+
+### B. Blindatge de Cadenes Remotes (String Hard-Fix)
+*   **Reescriptura d'Identitats:** Actualitza el camp `id` de cada node per apuntar exclusivament a la URL pública oficial (`https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/...`).
+*   **Neteja d'Arestes:** Recorre la llista d'`edges` (connexions tradicionals) i corregeix les URLs dels nodes veïns, eliminant qualsevol rastre de rutes locals o dominis antics que poguessin causar errors 404 en entorns distribuïts.
+*   **Preservació HMBL:** Manté intactes les estructures complexes de `markov_transitions` i `bayesian_context`, ja que aquestes utilitzen tokens simples com a claus per optimitzar la mida i la velocitat de lectura.
+
+### C. Simulació Criptogràfica IPFS
+*   **Generació de CIDs:** Per a cada node processat, calcula un hash SHA-256 únic basat en el seu contingut JSON final.
+*   **Format Web3:** Prefixa el hash amb `Qm` per simular l'estàndard de Content Identifier (CID) d'IPFS, preparant l'arquitectura per a una futura integració real amb xarxes descentralitzades de persistència immutable.
+
+### D. Generació del Mapa d'Enrutament Global
+*   **Índex Mestre:** Construeix un diccionari global que relaciona cada token amb la seva URL de GitHub, el seu CID simulat i la seva freqüència base.
+*   **Volcat Centralitzat:** Guarda aquesta informació en el fitxer `data/mapping_global.json`, actuant com la "clau mestra" que permet al sistema (Step 35) localitzar qualsevol concepte a la xarxa sense haver d'escanejar milers de fitxers individualment.
+
+## 4. Resultats i Artefactes Generats
+1.  **`data/nodes/*.json` (Actualitzats):** Versió definitiva dels nodes amb URLs blindades i llestes per a pujada a GitHub.
+2.  **`data/mapping_global.json`:** Fitxer d'índex global que mapeja semàntica (tokens) amb infraestructura (URLs i Hashos).
+
+## 5. Garanties de Qualitat
+*   **Immutabilitat Web:** Assegura que tots els enllaços siguin permanents i accessibles públicament.
+*   **Traçabilitat Total:** Cada node pot ser auditat mitjançant el seu hash únic al mapa global.
+*   **Integritat Estructural:** Verifica que cap node corrupte o mal formatat passi a la fase de publicació.
+*   **Preparació per a Escalat:** El mapa global facilita la implementació futura de cerques ràpides i sistemes de caché eficients.

@@ -1,0 +1,27 @@
+{
+  "concept": "contenidors",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "caixes": 1.0
+  },
+  "bayesian_context": {
+    "tenen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.88
+    },
+    "caixes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "estanca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "marqueteria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/contenidors.json"
+}

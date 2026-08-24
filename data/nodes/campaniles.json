@@ -1,0 +1,77 @@
+{
+  "concept": "campaniles",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "avinguda": 0.3333,
+    "quatre": 0.3333,
+    "anys": 0.3333
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.35
+    },
+    "inspirades": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "avinguda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "reina_maria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "cristina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "placa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "sant_marc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "venecia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "decorada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "balustrada": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "peus": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.81
+    },
+    "quatre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.49
+    },
+    "escultures": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "eliminada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "anys": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/campaniles.json"
+}

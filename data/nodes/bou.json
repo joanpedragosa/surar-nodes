@@ -1,0 +1,48 @@
+{
+  "concept": "bou",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "oferiment": 0.5,
+    "ase": 0.5
+  },
+  "bayesian_context": {
+    "tipus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    },
+    "ritual": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "feien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "oferiment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "comencar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "representar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "ase": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "partir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/bou.json"
+}

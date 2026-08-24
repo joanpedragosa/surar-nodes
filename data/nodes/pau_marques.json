@@ -1,0 +1,23 @@
+{
+  "concept": "pau_marques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "destacat": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "destacat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "polifonista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pau_marques.json"
+}

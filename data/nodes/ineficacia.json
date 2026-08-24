@@ -1,0 +1,43 @@
+{
+  "concept": "ineficacia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "setge": 1.0
+  },
+  "bayesian_context": {
+    "permetre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "setge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "ambit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "maritim": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "arribada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "queviures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "polvora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "municions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ineficacia.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "agencia_federal",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "administradora": 1.0
+  },
+  "bayesian_context": {
+    "publicar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "informe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "ensorrament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "administradora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "emergencies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/agencia_federal.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "larves",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "amfibis": 1.0
+  },
+  "bayesian_context": {
+    "manquen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "amfibis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "pulmons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "parpelles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "potes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/larves.json"
+}

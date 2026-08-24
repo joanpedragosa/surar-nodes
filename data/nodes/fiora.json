@@ -1,0 +1,52 @@
+{
+  "concept": "fiora",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "manfredo": 0.5,
+    "avito": 0.5
+  },
+  "bayesian_context": {
+    "casada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "manfredo": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.15
+    },
+    "donar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "italics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "germanics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "casar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "se": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.08
+    },
+    "troben": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "avito": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "secret": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fiora.json"
+}

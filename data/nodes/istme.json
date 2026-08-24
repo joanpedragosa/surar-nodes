@@ -1,0 +1,39 @@
+{
+  "concept": "istme",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "panama": 1.0
+  },
+  "bayesian_context": {
+    "permetia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "panama": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "aigua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "travessar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "vasco": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "nunez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "balboa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/istme.json"
+}

@@ -1,0 +1,47 @@
+{
+  "concept": "poeme",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ligue": 1.0
+  },
+  "bayesian_context": {
+    "titol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "impres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "poema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "epic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "escrit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "enric": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "iv": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "ligue": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/poeme.json"
+}

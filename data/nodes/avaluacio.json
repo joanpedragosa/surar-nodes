@@ -1,0 +1,56 @@
+{
+  "concept": "avaluacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "batxillerat": 0.5,
+    "costos": 0.5
+  },
+  "bayesian_context": {
+    "diuen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "examens": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "substitueixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "prova": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "acces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "universitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "batxillerat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "resulta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "extremadament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "favorable": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "costos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/avaluacio.json"
+}

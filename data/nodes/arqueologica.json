@@ -1,0 +1,52 @@
+{
+  "concept": "arqueologica",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "olimpia": 0.5,
+    "anys": 0.5
+  },
+  "bayesian_context": {
+    "signar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "grec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "exploracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "olimpia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "alemanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "tancar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "kurdistan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "meridional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "investigacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "anys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.24
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/arqueologica.json"
+}

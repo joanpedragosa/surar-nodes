@@ -1,0 +1,35 @@
+{
+  "concept": "revolucionaries",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "colombia": 1.0
+  },
+  "bayesian_context": {
+    "negociat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "pau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "colombia": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.63
+    },
+    "forces_armades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "havana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/revolucionaries.json"
+}

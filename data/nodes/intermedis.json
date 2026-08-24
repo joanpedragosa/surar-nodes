@@ -1,0 +1,40 @@
+{
+  "concept": "intermedis",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tenia": 0.5,
+    "transferencia": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "tenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "quatre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "anomenen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "transferencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "grups": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "coenzims": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/intermedis.json"
+}

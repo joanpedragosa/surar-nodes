@@ -1,0 +1,35 @@
+{
+  "concept": "jacopo",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "casentino": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "casentino": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "pintor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "miniaturista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "actiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "florencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/jacopo.json"
+}

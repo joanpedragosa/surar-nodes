@@ -1,0 +1,67 @@
+{
+  "concept": "assessor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "consellera": 1.0
+  },
+  "bayesian_context": {
+    "recolzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "pilar_costa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "divendres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "decisio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "fitxar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "polemic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ex": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "guardia_civil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "jaume": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "barcelo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "nou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.86
+    },
+    "consellera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "hisenda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/assessor.json"
+}

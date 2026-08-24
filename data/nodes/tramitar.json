@@ -1,0 +1,68 @@
+{
+  "concept": "tramitar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "llei": 0.5,
+    "proposta": 0.5
+  },
+  "bayesian_context": {
+    "votat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "favor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "llei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "erc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "forcadell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "judicial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "oberta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "votar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "proposta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "resolucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "incloia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "defensa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "referendum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tramitar.json"
+}

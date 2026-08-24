@@ -1,0 +1,27 @@
+{
+  "concept": "teodoro_garcia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "egea": 1.0
+  },
+  "bayesian_context": {
+    "secretari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "general": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "pp": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "egea": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/teodoro_garcia.json"
+}

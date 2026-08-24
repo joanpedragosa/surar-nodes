@@ -1,0 +1,23 @@
+{
+  "concept": "santissimo_redentore",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "venecia": 1.0
+  },
+  "bayesian_context": {
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "esglesia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "venecia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/santissimo_redentore.json"
+}

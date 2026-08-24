@@ -1,0 +1,72 @@
+{
+  "concept": "racisme",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "antisemitisme": 0.5,
+    "tanca": 0.5
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "afirmar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "existencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "passatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "contradictoris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "voltaire": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "antisemitisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "filosof": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "lema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "manifestat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "avui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "centre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    },
+    "tanca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/racisme.json"
+}

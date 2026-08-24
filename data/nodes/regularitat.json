@@ -1,0 +1,68 @@
+{
+  "concept": "regularitat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mes": 0.5,
+    "uruguai": 0.5
+  },
+  "bayesian_context": {
+    "presenten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "solids": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "platonics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "possible": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "nombre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "simetries": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "carn": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "consumeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "uruguai": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "bovina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "ovina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "porcina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/regularitat.json"
+}

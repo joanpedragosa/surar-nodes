@@ -1,0 +1,172 @@
+{
+  "concept": "tramit",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "evitar": 0.1667,
+    "tribunal": 0.1667,
+    "impugnacio": 0.1667,
+    "minuts": 0.1667,
+    "querella": 0.1667,
+    "lleis": 0.1667
+  },
+  "bayesian_context": {
+    "evitar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.74
+    },
+    "enviin": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "propaganda": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.29
+    },
+    "electoral": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.66
+    },
+    "senzill": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "admes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "tribunal": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.56
+    },
+    "justicia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.48
+    },
+    "unio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.37
+    },
+    "europea": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.37
+    },
+    "recurs": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.66
+    },
+    "president": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.18
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.69
+    },
+    "conseller": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    },
+    "toni_comin": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "impediments": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "entrar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.72
+    },
+    "parlament_europeu": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.95
+    },
+    "implica": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "admissio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "impugnacio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "suspensio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.97
+    },
+    "cautelar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "resolucio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.89
+    },
+    "temps": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.15
+    },
+    "necessita": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.17
+    },
+    "fer": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.55
+    },
+    "minuts": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.93
+    },
+    "ser": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.38
+    },
+    "admesa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "querella": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "setembre": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.45
+    },
+    "grups": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.46
+    },
+    "politics": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.37
+    },
+    "reclamaven": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "lleis": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "desconnexio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "ciutadans": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.35
+    },
+    "psc": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.76
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tramit.json"
+}

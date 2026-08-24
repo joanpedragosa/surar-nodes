@@ -1,0 +1,43 @@
+{
+  "concept": "santa_madrona",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "encoratjar": 1.0
+  },
+  "bayesian_context": {
+    "diuen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "sant_policarp": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "esmirna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "aparegut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "porta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "encoratjar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "soldats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/santa_madrona.json"
+}

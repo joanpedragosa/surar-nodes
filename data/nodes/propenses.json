@@ -1,0 +1,59 @@
+{
+  "concept": "propenses",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "adquirir": 1.0
+  },
+  "bayesian_context": {
+    "cel": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.44
+    },
+    "lules": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.75
+    },
+    "adquirir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "lesions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "adn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "exposades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "radiacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ionitzants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "llum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "ultraviolada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "substancies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "quimiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/propenses.json"
+}

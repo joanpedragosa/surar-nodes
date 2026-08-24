@@ -1,0 +1,58 @@
+{
+  "concept": "marga_richter",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "rosalyn_tureck": 0.25,
+    "compositora": 0.25,
+    "piano": 0.25,
+    "mes": 0.25
+  },
+  "bayesian_context": {
+    "estudiar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "piano": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "rosalyn_tureck": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "compositora": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "pianista": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "juilliard_school": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "quantes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.86
+    },
+    "obres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "escrit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    },
+    "mes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.61
+    },
+    "centenar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/marga_richter.json"
+}

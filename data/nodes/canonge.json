@@ -1,0 +1,94 @@
+{
+  "concept": "canonge",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "unio": 0.25,
+    "arteritis": 0.25,
+    "plec": 0.25,
+    "obes": 0.25
+  },
+  "bayesian_context": {
+    "contorn": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "queratoma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "unio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.54
+    },
+    "nas": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "galta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "irregular": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "presenta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "os": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "temporal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "arteritis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "situa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "nevus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "intradermic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "plec": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "aspecte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "obes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "papada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "signes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "vellesa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "mans": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.89
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/canonge.json"
+}

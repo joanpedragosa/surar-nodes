@@ -1,0 +1,31 @@
+{
+  "concept": "disculpes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "manera": 1.0
+  },
+  "bayesian_context": {
+    "plantejat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "civit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "demanar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "manera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "institucional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/disculpes.json"
+}

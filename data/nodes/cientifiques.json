@@ -1,0 +1,51 @@
+{
+  "concept": "cientifiques",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mes": 1.0
+  },
+  "bayesian_context": {
+    "resumeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "article": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "teories": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "acceptades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "idees": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "base": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "llet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "artistiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "religioses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cientifiques.json"
+}

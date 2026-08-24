@@ -1,0 +1,85 @@
+{
+  "concept": "resolucions",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "tribunal_constitucional": 0.3333,
+    "sinodals": 0.3333,
+    "impugnara": 0.3333
+  },
+  "bayesian_context": {
+    "aplica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "concepte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "individus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "rebels": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "espanyol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    },
+    "membres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "bandes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "armades": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "tradicio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "reprendre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "arnau": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "sinodals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "quantes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "impugnara": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "govern": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "tres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/resolucions.json"
+}

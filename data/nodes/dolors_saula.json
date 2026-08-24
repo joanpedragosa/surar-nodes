@@ -1,0 +1,36 @@
+{
+  "concept": "dolors_saula",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "germanes": 0.5,
+    "gall": 0.5
+  },
+  "bayesian_context": {
+    "josefina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "germanes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "finca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "propietaries": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "gall": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "or": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/dolors_saula.json"
+}

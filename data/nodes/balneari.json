@@ -1,0 +1,86 @@
+{
+  "concept": "balneari",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "osud": 0.25,
+    "al_giglio": 0.25,
+    "veure": 0.25,
+    "flor": 0.25
+  },
+  "bayesian_context": {
+    "atmosfera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "hostes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "osud": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "alegre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "despreocupada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "diu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.08
+    },
+    "al_giglio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "oro": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "organitzen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "veure": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.62
+    },
+    "poden": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.42
+    },
+    "emprendre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "marxa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "festa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "ludeix": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "nom": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.4
+    },
+    "flor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "lis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/balneari.json"
+}

@@ -1,0 +1,51 @@
+{
+  "concept": "fonamentar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tribunal_suprem": 1.0
+  },
+  "bayesian_context": {
+    "tribunal_suprem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "referendum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "comentat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "carles_riera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "autodeterminacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "real": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "material": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "sigui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "simbolica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fonamentar.json"
+}

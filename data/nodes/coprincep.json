@@ -1,0 +1,23 @@
+{
+  "concept": "coprincep",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "visitara": 1.0
+  },
+  "bayesian_context": {
+    "visitara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "andorra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "emmanuel_macron": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/coprincep.json"
+}

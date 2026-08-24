@@ -1,0 +1,39 @@
+{
+  "concept": "medal",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "medalla": 1.0
+  },
+  "bayesian_context": {
+    "paraules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "pronuncien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "forma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.89
+    },
+    "identica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "medalla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "meddle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "interferir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/medal.json"
+}

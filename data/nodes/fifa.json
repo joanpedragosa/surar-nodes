@@ -1,0 +1,27 @@
+{
+  "concept": "fifa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mexic": 1.0
+  },
+  "bayesian_context": {
+    "fa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.8
+    },
+    "congres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "anual": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "mexic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/fifa.json"
+}

@@ -1,0 +1,39 @@
+# 📄 Especificació Funcional Detallada: STEP 28 (Configurador Git Blindat)
+
+## 1. Identificació del Mòdul
+*   **Nom del Codi:** `step28_configurador_git.py`
+*   **Ubicació Física:** `D:\Notebook\Transformer\surar_probabilistic\pipeline\`
+*   **Fase del Pipeline:** Fase C - Preparació d'Infraestructura i Seguretat de Transport.
+*   **Rol Arquitectònic:** Notari Digital i Enginyer de Xarxa del sistema SURAR-AINA.
+
+## 2. Propòsit Global
+Configurar de manera imperativa i autònoma l'entorn de control de versions (Git) necessari per a la publicació massiva del graf probabilístic. Aquest mòdul elimina la dependència de configuracions manuals, verifica telemàticament la identitat de l'autor a GitHub i blindatge les rutes de connexió perquè el Step 30 pugui operar sense intervenció humana ni errors d'adreçament.
+
+## 3. Lògica de Funcionament Intern
+
+### A. Auditoria Web Unificada (Verificació Telemàtica)
+*   **Ping d'Existència:** Abans de modificar qualsevol fitxer local, el sistema realitza una petició HTTP directa al perfil de GitHub de l'usuari configurat (`joanpedragosa`).
+*   **Validació de Seguretat:** Si el servidor no respon amb un codi 200 (OK), el procés s'atura immediatament per evitar enviar dades a una destinació inexistent o errònia. Això garanteix que la "Xarxa a la Deriva" tingui un port segur on ancorar-se.
+
+### B. Establiment d'Identitat Global (Signatura Digital)
+*   **Configuració Imperativa:** Executa ordres natives de sistema per establir de forma fixa el nom d'usuari i el correu electrònic a la configuració global de Git.
+*   **Traçabilitat d'Autoria:** Assegura que cada commit generat pel sistema porti la signatura digital correcta, mantenint la integritat històrica del graf de coneixement.
+
+### C. Ancoratge de Seguretat de la GNN (Hard-Fix de Rutes)
+*   **Inicialització Autònoma:** Detecta si el directori arrel (`surar_probabilistic`) no té una carpeta `.git` i executa `git init` automàticament.
+*   **Blindatge de URL:** Força la configuració del remot `origin` utilitzant `git remote set-url`. Això sobreescriu qualsevol configuració prèvia truncada o incorrecta, assegurant que l'enllaç apunti exactament a `https://github.com/joanpedragosa/surar-nodes.git`.
+*   **Normalització de Branca:** Renombra la branca principal a `main` per garantir la compatibilitat amb els estàndards actuals de GitHub.
+
+### D. Balanç Final de Rutes
+*   **Auditoria de Sortida:** Imprimeix un resum visual de les rutes remotes configurades actualment, permetent a l'usuari verificar que el canal de comunicació amb Internet està obert i correctament adreçat abans de procedir a la publicació massiva.
+
+## 4. Resultats i Artefactes Generats
+1.  **Repositori Git Local Actiu:** La carpeta del projecte es converteix en un repositori versionat llest per rebre canvis.
+2.  **Connexió Remota Blindada:** El fitxer de configuració local de Git apunta inequívocament al repositori públic de producció.
+3.  **Identitat Verificada:** El sistema ha confirmat que l'autor existeix a la xarxa i ha registrat les seves credencials de signatura.
+
+## 5. Garanties de Qualitat
+*   **Prevenció d'Errors Humana:** Elimina la necessitat que l'usuari recordi comandaments de Git o escrigui URLs manualment.
+*   **Resiliència de Connexió:** Verifica l'estat del servidor remot abans d'intentar cap operació d'escriptura local.
+*   **Idempotència:** Pot executar-se múltiples vegades sense causar conflictes; si el repositori ja existeix, simplement actualitza i verifica la configuració.
+*   **Transparència Total:** Cada pas de la configuració es registra als logs per facilitar la depuració en cas de problemes de xarxa.

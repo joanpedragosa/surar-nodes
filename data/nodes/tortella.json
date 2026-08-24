@@ -1,0 +1,52 @@
+{
+  "concept": "tortella",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "smt": 0.5,
+    "fabricacio": 0.5
+  },
+  "bayesian_context": {
+    "controla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "meteorologia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "municipi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "servei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "smt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "caracteritzat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fabricacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "culleres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "estris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cuina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tortella.json"
+}

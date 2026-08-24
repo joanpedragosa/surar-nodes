@@ -1,0 +1,31 @@
+{
+  "concept": "singularitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "obra": 1.0
+  },
+  "bayesian_context": {
+    "mostra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "manuscrit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "original": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "essencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/singularitat.json"
+}

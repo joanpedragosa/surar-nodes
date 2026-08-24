@@ -1,0 +1,518 @@
+{
+  "concept": "nucli",
+  "frequency": 24,
+  "edges": [],
+  "markov_transitions": {
+    "inert": 0.0526,
+    "heli": 0.1053,
+    "organuls": 0.0526,
+    "esglesia": 0.0526,
+    "compost": 0.0526,
+    "serie": 0.0526,
+    "medieval": 0.0526,
+    "nana": 0.1053,
+    "historic": 0.1053,
+    "torre": 0.0526,
+    "experimentar": 0.0526,
+    "antic": 0.0526,
+    "moment": 0.0526,
+    "intern": 0.0526,
+    "central": 0.0526,
+    "formar": 0.0526
+  },
+  "bayesian_context": {
+    "formar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.49
+    },
+    "fusio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "heli": {
+      "likelihood": 0.0069,
+      "posterior_boost": 4.44
+    },
+    "inert": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "carboni": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.95
+    },
+    "oxigen": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.04
+    },
+    "passar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.8
+    },
+    "consumir": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "complet": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "capa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.76
+    },
+    "combustio": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "podria": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.92
+    },
+    "haver": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.61
+    },
+    "esgotat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "ura": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.29
+    },
+    "expel": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "lir": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "major": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.95
+    },
+    "part": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.33
+    },
+    "escalfor": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "primigenia": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "temperatura": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.19
+    },
+    "tenia": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.41
+    },
+    "cel": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.77
+    },
+    "lula": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.47
+    },
+    "uacu": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "membrana": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.47
+    },
+    "organuls": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "formen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.08
+    },
+    "gasos": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    },
+    "expulsats": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "nuvol": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.47
+    },
+    "material": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.94
+    },
+    "voltant": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.16
+    },
+    "formaran": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "deixebles": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "esglesia": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.69
+    },
+    "conserven": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.5
+    },
+    "globuls": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "vermells": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.57
+    },
+    "mamifers": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.23
+    },
+    "formara": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "nana": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "blanca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.74
+    },
+    "compost": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "neo": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.64
+    },
+    "magnesi": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "col": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.75
+    },
+    "lapsa": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "estrella": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.65
+    },
+    "neutrons": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "associa": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "pre": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "arnm": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "serie": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.08
+    },
+    "proteines": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.27
+    },
+    "ocupava": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    },
+    "lloc": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.76
+    },
+    "medieval": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.65
+    },
+    "baetulo": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "fara": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.04
+    },
+    "lapse": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "porcio": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "substancial": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "sofreixi": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "nuclear": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.6
+    },
+    "format": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.2
+    },
+    "principalment": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.47
+    },
+    "troben": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.91
+    },
+    "ribosomes": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "exterior": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.13
+    },
+    "situat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.47
+    },
+    "espai": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.33
+    },
+    "mig": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.44
+    },
+    "historic": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.55
+    },
+    "gran": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.34
+    },
+    "terraple": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "emplacat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "bell": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    },
+    "troba": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.75
+    },
+    "dolmen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "riu": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.3
+    },
+    "torre": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.25
+    },
+    "rialb": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "modificacio": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    },
+    "experimentar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "molecules": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.65
+    },
+    "arn": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "ser": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.1
+    },
+    "exportats": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "citoplasma": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "posttranscripcional": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "placa": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.16
+    },
+    "era": {
+      "likelihood": 0.0014,
+      "posterior_boost": 1.93
+    },
+    "antigament": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "esplanada": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "afores": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "antic": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.3
+    },
+    "catalunya": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.27
+    },
+    "consumira": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "ik": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "pegasi_a": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "hidrogen": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "moment": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.02
+    },
+    "futur": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.44
+    },
+    "contreure": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.64
+    },
+    "intern": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.99
+    },
+    "comencar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.95
+    },
+    "cremar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "se": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.48
+    },
+    "envoltava": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "central": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.81
+    },
+    "dominis": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "fertil": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "terra": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.81
+    },
+    "valles": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.44
+    },
+    "primer": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.41
+    },
+    "organul": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "descobrir": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.01
+    },
+    "evolucionara": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "consumeixi": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "gegant": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    },
+    "vermell": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.19
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/nucli.json"
+}

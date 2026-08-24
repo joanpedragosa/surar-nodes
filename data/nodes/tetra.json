@@ -1,0 +1,23 @@
+{
+  "concept": "tetra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pentaclorobifenils": 1.0
+  },
+  "bayesian_context": {
+    "majoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "tri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "pentaclorobifenils": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tetra.json"
+}

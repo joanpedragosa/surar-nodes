@@ -1,0 +1,35 @@
+{
+  "concept": "subministraments",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dimarts": 1.0
+  },
+  "bayesian_context": {
+    "hauran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "arribar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "avions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "procedents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "xina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "dimarts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/subministraments.json"
+}

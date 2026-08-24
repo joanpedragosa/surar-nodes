@@ -1,0 +1,44 @@
+{
+  "concept": "treballant",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "joe_johnston": 0.5,
+    "sant": 0.5
+  },
+  "bayesian_context": {
+    "assegurar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "joe_johnston": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "guio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "sant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "josep": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "taller": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "fusteria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/treballant.json"
+}

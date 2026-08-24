@@ -1,0 +1,27 @@
+{
+  "concept": "apocalipsi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sant_joan": 1.0
+  },
+  "bayesian_context": {
+    "esmenta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "jerusalem_celestial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "sant_joan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/apocalipsi.json"
+}

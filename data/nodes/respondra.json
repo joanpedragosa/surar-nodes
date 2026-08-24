@@ -1,0 +1,27 @@
+{
+  "concept": "respondra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rajoy": 1.0
+  },
+  "bayesian_context": {
+    "rajoy": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "carta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "setmana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "vinent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/respondra.json"
+}

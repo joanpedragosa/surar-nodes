@@ -1,0 +1,35 @@
+{
+  "concept": "cotilla",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "aspiracions": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "aspiracions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "democratiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "poble": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "llei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/cotilla.json"
+}

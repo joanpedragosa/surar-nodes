@@ -1,0 +1,79 @@
+{
+  "concept": "romantica",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "tardana": 1.0
+  },
+  "bayesian_context": {
+    "musica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "der_zwerg": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "tardana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "perdre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "popularitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "mentalitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "tenien": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "augustus_pugin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "john_ruskin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "elements": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.77
+    },
+    "combina": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "opera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.07
+    },
+    "comedia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "buffa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "colors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "pastoral": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "intriga": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/romantica.json"
+}

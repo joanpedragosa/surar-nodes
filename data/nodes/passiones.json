@@ -1,0 +1,27 @@
+{
+  "concept": "passiones",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cinc": 1.0
+  },
+  "bayesian_context": {
+    "parlen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "cinc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "cops": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "martiritzats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/passiones.json"
+}

@@ -1,0 +1,23 @@
+{
+  "concept": "oval",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cassetons": 1.0
+  },
+  "bayesian_context": {
+    "revestida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "volta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "cassetons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/oval.json"
+}

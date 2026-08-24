@@ -1,0 +1,31 @@
+{
+  "concept": "isidoro",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "edoardo": 1.0
+  },
+  "bayesian_context": {
+    "aproxima": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "matilde": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "citat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "edoardo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/isidoro.json"
+}

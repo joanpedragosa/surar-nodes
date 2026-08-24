@@ -1,0 +1,23 @@
+{
+  "concept": "adulterar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "heroina": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "heroina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "talc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/adulterar.json"
+}

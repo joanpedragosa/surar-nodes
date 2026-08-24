@@ -1,0 +1,39 @@
+{
+  "concept": "obligaria",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fer": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "fet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.83
+    },
+    "afegir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "fiscalitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "apujar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "preu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "tabac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/obligaria.json"
+}

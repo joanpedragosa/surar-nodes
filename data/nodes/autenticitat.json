@@ -1,0 +1,60 @@
+{
+  "concept": "autenticitat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "halo": 0.5,
+    "antiguitat": 0.5
+  },
+  "bayesian_context": {
+    "examinar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "halo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "grup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.6
+    },
+    "especialistes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "holandesos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "segons_pilar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "giraldez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "asseguren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mostres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "antiguitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "segles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "pedres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/autenticitat.json"
+}

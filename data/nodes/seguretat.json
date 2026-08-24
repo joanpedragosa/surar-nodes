@@ -1,0 +1,566 @@
+{
+  "concept": "seguretat",
+  "frequency": 21,
+  "edges": [],
+  "markov_transitions": {
+    "nacional": 0.0625,
+    "escortes": 0.0625,
+    "partit": 0.0625,
+    "estatals": 0.0625,
+    "albert_donaire": 0.0625,
+    "aeria": 0.0625,
+    "donava": 0.0625,
+    "esdeveniment": 0.0625,
+    "barcelona": 0.0625,
+    "manifestants": 0.0625,
+    "afegida": 0.0625,
+    "onu": 0.0625,
+    "publica": 0.0625,
+    "empreses": 0.0625,
+    "data": 0.0625,
+    "ordre": 0.0625
+  },
+  "bayesian_context": {
+    "descartar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.93
+    },
+    "aplicacio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.45
+    },
+    "llei": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.67
+    },
+    "nacional": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.21
+    },
+    "zoido": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "amenacar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.86
+    },
+    "agent": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.66
+    },
+    "escortes": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "politic": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.87
+    },
+    "encarar": {
+      "likelihood": 0.0032,
+      "posterior_boost": 4.53
+    },
+    "membres": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.97
+    },
+    "sindicat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.8
+    },
+    "policiac": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.8
+    },
+    "jusapol": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "vigilants": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "imputen": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "autoria": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "atemptat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.34
+    },
+    "forces": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.73
+    },
+    "partit": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.82
+    },
+    "treballadors": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.17
+    },
+    "kurdistan": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.93
+    },
+    "criticar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "durament": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "actuacio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.47
+    },
+    "directiva": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "enpetrol": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "diverses": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.23
+    },
+    "institucions": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.7
+    },
+    "ajuntament": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.02
+    },
+    "tarragona": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.43
+    },
+    "estatals": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "associacions": {
+      "likelihood": 0.0032,
+      "posterior_boost": 4.16
+    },
+    "veinals": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "se": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.25
+    },
+    "vigilant": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "albert_donaire": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "parlar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.43
+    },
+    "catala": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.83
+    },
+    "denunciar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.47
+    },
+    "policia": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.11
+    },
+    "dona": {
+      "likelihood": 0.0032,
+      "posterior_boost": 2.98
+    },
+    "aeroport": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.45
+    },
+    "haver": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.66
+    },
+    "posat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.4
+    },
+    "perill": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.56
+    },
+    "aeria": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "ser": {
+      "likelihood": 0.0016,
+      "posterior_boost": 1.88
+    },
+    "comarca": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.75
+    },
+    "poblada": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "donava": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.86
+    },
+    "regio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.34
+    },
+    "muntanyosa": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "decretat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "lenin_moreno": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "excepcio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.8
+    },
+    "garantir": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.93
+    },
+    "ordre": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.41
+    },
+    "diu": {
+      "likelihood": 0.0032,
+      "posterior_boost": 2.67
+    },
+    "andreu_j": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "martinez": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.66
+    },
+    "moment": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.07
+    },
+    "esdeveniment": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.62
+    },
+    "valorat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "tinent": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "batlle": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.43
+    },
+    "barcelona": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.34
+    },
+    "tasca": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.7
+    },
+    "victimes": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.43
+    },
+    "tiraven": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "cossos": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.89
+    },
+    "manifestants": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.31
+    },
+    "violents": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "pedres": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.86
+    },
+    "objectes": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.04
+    },
+    "coctels": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "molotov": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "celaa": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "ofereix": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.7
+    },
+    "psoe": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.09
+    },
+    "estabilitat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.66
+    },
+    "tingut": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.38
+    },
+    "tomas": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "guitarte": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "passar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.86
+    },
+    "nit": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.17
+    },
+    "lloc": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.82
+    },
+    "secret": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.66
+    },
+    "raons": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.75
+    },
+    "aconseguia": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "augmentar": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.83
+    },
+    "profunditat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.62
+    },
+    "tunel": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.8
+    },
+    "cap": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.33
+    },
+    "afegida": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "repetint": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "cops": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.66
+    },
+    "xifratge": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.66
+    },
+    "cesar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "presentar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.73
+    },
+    "denuncia": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.38
+    },
+    "estats_units": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.96
+    },
+    "consell": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.99
+    },
+    "onu": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.56
+    },
+    "major": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.01
+    },
+    "amenaca": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.43
+    },
+    "publica": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.11
+    },
+    "segons": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.22
+    },
+    "josep_lluis": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "trapero": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "terrorisme": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "gihadista": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "finalitat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.66
+    },
+    "tenia": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.47
+    },
+    "pacte": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.17
+    },
+    "ajuda": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.62
+    },
+    "mutua": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "sumar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "esforcos": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "empreses": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.62
+    },
+    "complex_petroquimic": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "cas": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.99
+    },
+    "risc": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.47
+    },
+    "possibles": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.53
+    },
+    "accidents": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.86
+    },
+    "construir": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.86
+    },
+    "edifici": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.07
+    },
+    "pot": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.44
+    },
+    "precisar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "data": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.14
+    },
+    "significat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.7
+    },
+    "casa": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.79
+    },
+    "obra": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.22
+    },
+    "pere_calders": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "simbol": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.62
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/seguretat.json"
+}

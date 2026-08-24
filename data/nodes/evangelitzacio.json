@@ -1,0 +1,35 @@
+{
+  "concept": "evangelitzacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "america": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "rao": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "visita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "v_centenari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "descobriment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "america": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/evangelitzacio.json"
+}

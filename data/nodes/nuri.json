@@ -1,0 +1,32 @@
+{
+  "concept": "nuri",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "senyal": 0.5,
+    "rialla": 0.5
+  },
+  "bayesian_context": {
+    "esperar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "marta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "senyal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "rialla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/nuri.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "grup_popular",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "europeu": 1.0
+  },
+  "bayesian_context": {
+    "mante": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "vincles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "europa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "partit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "espadaler": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "europeu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/grup_popular.json"
+}

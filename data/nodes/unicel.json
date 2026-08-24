@@ -1,0 +1,47 @@
+{
+  "concept": "unicel",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "lulars": 1.0
+  },
+  "bayesian_context": {
+    "eucariotes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "lulars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "tenen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.58
+    },
+    "mitocondris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "microsporidis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "metamonads": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "arcamebes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "organismes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "poden": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/unicel.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "consagra",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cimarosa": 1.0
+  },
+  "bayesian_context": {
+    "cimarosa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "numeros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "conjunt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "qualsevol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "lloc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "partitura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/consagra.json"
+}

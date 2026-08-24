@@ -1,0 +1,78 @@
+{
+  "concept": "espectacle",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "fonts": 0.2,
+    "sense": 0.2,
+    "presenta": 0.2,
+    "lara": 0.4
+  },
+  "bayesian_context": {
+    "qualificar": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.02
+    },
+    "fonts": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.59
+    },
+    "testimonis": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.51
+    },
+    "sense": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.78
+    },
+    "parango": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.33
+    },
+    "diu": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.99
+    },
+    "presenta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.65
+    },
+    "cuidem": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "nos": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "defuig": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "lara": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.15
+    },
+    "canon": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "poetic": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "titol": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.77
+    },
+    "amants": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "estalvis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/espectacle.json"
+}

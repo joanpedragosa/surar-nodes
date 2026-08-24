@@ -1,0 +1,124 @@
+{
+  "concept": "crucifix",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "don": 0.75,
+    "altar": 0.25
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.0
+    },
+    "don": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "fernando": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "dona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "sancha": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "tenien": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.5
+    },
+    "epoca": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.37
+    },
+    "imatge": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.55
+    },
+    "crist": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.56
+    },
+    "part": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.92
+    },
+    "superior": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.62
+    },
+    "obra": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.75
+    },
+    "courbet": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "penjat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "paret": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.21
+    },
+    "pessebre": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "retaule": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.22
+    },
+    "santa_columba": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "completar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "decoracio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    },
+    "capella": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.32
+    },
+    "altar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    },
+    "mostra": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.56
+    },
+    "taller": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.9
+    },
+    "monestir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.9
+    },
+    "sant_isidor": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "lleo": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.97
+    },
+    "any": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/crucifix.json"
+}

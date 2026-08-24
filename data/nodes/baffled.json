@@ -1,0 +1,68 @@
+{
+  "concept": "baffled",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "arthur_marvin": 0.5,
+    "curtmetratge": 0.5
+  },
+  "bayesian_context": {
+    "dirigir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.9
+    },
+    "sherlock_holmes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "arthur_marvin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "curtmetratge": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "cinema": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "mut": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "blanc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "negre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "primera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.25
+    },
+    "obra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.92
+    },
+    "misteri": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "coneguda": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "enregistrar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "oficialment": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/baffled.json"
+}

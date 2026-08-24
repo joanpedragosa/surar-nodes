@@ -1,0 +1,35 @@
+{
+  "concept": "despeses",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "funcionament": 1.0
+  },
+  "bayesian_context": {
+    "reben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "grups": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "senat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "subvencio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mensual": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "funcionament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/despeses.json"
+}

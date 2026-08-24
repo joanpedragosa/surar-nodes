@@ -1,0 +1,44 @@
+{
+  "concept": "licituds",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "escorcoll": 0.5,
+    "registrat": 0.5
+  },
+  "bayesian_context": {
+    "costen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "escorcoll": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "dolars": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "registrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "ultima": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "setmana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/licituds.json"
+}

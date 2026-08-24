@@ -1,0 +1,52 @@
+{
+  "concept": "ataquen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "rufian": 0.5,
+    "girafes": 0.5
+  },
+  "bayesian_context": {
+    "rufian": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "article": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "cognom": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "lleons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "rarament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "girafes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "adultes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "risc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "prendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ataquen.json"
+}

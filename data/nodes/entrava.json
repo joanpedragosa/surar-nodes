@@ -1,0 +1,44 @@
+{
+  "concept": "entrava",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sant_sever": 0.5,
+    "feix": 0.5
+  },
+  "bayesian_context": {
+    "carrer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "sant_sever": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "feix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "llum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "estret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "traves": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "primera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "finestra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/entrava.json"
+}

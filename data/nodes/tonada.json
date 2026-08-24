@@ -1,0 +1,35 @@
+{
+  "concept": "tonada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "canco": 1.0
+  },
+  "bayesian_context": {
+    "commou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "vell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "comte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "sentir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "canco": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "bressol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tonada.json"
+}

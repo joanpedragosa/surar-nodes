@@ -1,0 +1,27 @@
+{
+  "concept": "antagonic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "terra": 1.0
+  },
+  "bayesian_context": {
+    "espai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "terra": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.48
+    },
+    "alta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "baixa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/antagonic.json"
+}

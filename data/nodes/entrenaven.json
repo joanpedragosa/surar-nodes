@@ -1,0 +1,31 @@
+{
+  "concept": "entrenaven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "escoles": 1.0
+  },
+  "bayesian_context": {
+    "escoles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "presoners": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "guerra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "criminals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "convictes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/entrenaven.json"
+}

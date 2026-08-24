@@ -1,0 +1,31 @@
+{
+  "concept": "reinventant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "se": 1.0
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "fent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "escoles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "institucions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reinventant.json"
+}

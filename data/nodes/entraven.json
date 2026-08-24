@@ -1,0 +1,27 @@
+{
+  "concept": "entraven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "productes": 1.0
+  },
+  "bayesian_context": {
+    "productes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "urbans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "traves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "catalegs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/entraven.json"
+}

@@ -1,0 +1,76 @@
+{
+  "concept": "los_angeles",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "dirigir": 0.5,
+    "contactes": 0.5
+  },
+  "bayesian_context": {
+    "bergman": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.85
+    },
+    "dirigir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "seminari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "cinema": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "proporciona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "estada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "contactes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "productors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "estatunidencs": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "estudi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.98
+    },
+    "lucas": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "passar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "major": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "part": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "dia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    },
+    "estrena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/los_angeles.json"
+}

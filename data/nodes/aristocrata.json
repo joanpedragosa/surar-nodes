@@ -1,0 +1,35 @@
+{
+  "concept": "aristocrata",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "britanica": 1.0
+  },
+  "bayesian_context": {
+    "lady_sarah": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "ashley": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "obstinada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "britanica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "richard_boyle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "arquitecte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/aristocrata.json"
+}

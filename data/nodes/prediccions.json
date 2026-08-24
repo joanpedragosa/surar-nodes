@@ -1,0 +1,35 @@
+{
+  "concept": "prediccions",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "feu": 1.0
+  },
+  "bayesian_context": {
+    "quantes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.46
+    },
+    "feu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "rosettadock": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "raonablement": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "precises": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/prediccions.json"
+}

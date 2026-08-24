@@ -1,0 +1,29 @@
+{
+  "concept": "brians",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "cas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "covid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "presons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/brians.json"
+}

@@ -1,0 +1,66 @@
+{
+  "concept": "inaugurat",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "universitat_catalana": 0.25,
+    "lleida": 0.25,
+    "ferrocarril": 0.25,
+    "salo": 0.25
+  },
+  "bayesian_context": {
+    "universitat_catalana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "estiu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "francesc_homs": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "diu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.08
+    },
+    "placa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "lleida": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "octubre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.59
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "ferrocarril": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "sarria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "barcelona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.04
+    },
+    "salo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "cent": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.9
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/inaugurat.json"
+}

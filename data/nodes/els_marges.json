@@ -1,0 +1,43 @@
+{
+  "concept": "els_marges",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nacio": 1.0
+  },
+  "bayesian_context": {
+    "titol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "duia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "editorial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "publicar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "nacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sense": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.47
+    },
+    "poble": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "llengua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/els_marges.json"
+}

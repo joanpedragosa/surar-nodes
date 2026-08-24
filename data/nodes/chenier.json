@@ -1,0 +1,79 @@
+{
+  "concept": "chenier",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "valentament": 0.2,
+    "verista": 0.2,
+    "fets": 0.2,
+    "immolacio": 0.2,
+    "recitar": 0.2
+  },
+  "bayesian_context": {
+    "defensa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.65
+    },
+    "valentament": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "conceptuada": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "andrea": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.0
+    },
+    "verista": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "basa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.07
+    },
+    "fets": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.89
+    },
+    "reals": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "justifica": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "amor": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.8
+    },
+    "immolacio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "convida": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "comtessa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "recitar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "poema": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.02
+    },
+    "estrenar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/chenier.json"
+}

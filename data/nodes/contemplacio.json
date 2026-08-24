@@ -1,0 +1,75 @@
+{
+  "concept": "contemplacio",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "deu": 1.0
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.37
+    },
+    "el_llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "deu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "ramon_llull": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "intercala": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "autor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.77
+    },
+    "referencies": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "autobiografiques": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "idioma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "era": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.67
+    },
+    "primitiva": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "redaccio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "arab": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "versions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "catalana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    },
+    "llatina": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/contemplacio.json"
+}

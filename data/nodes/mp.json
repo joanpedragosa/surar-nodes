@@ -1,0 +1,23 @@
+{
+  "concept": "mp",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "camera": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "camera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "frontal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mp.json"
+}

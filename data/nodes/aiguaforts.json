@@ -1,0 +1,27 @@
+{
+  "concept": "aiguaforts",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cop": 1.0
+  },
+  "bayesian_context": {
+    "llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "realitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "cop": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "poma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/aiguaforts.json"
+}

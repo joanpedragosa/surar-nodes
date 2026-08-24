@@ -1,0 +1,335 @@
+{
+  "concept": "santa_maria",
+  "frequency": 20,
+  "edges": [],
+  "markov_transitions": {
+    "vicus": 0.1,
+    "antiga": 0.1,
+    "mar": 0.1,
+    "arenes": 0.05,
+    "montargull": 0.05,
+    "all": 0.2,
+    "pi": 0.1,
+    "el_paular": 0.05,
+    "los": 0.05,
+    "fiore": 0.05,
+    "in": 0.05,
+    "urgell": 0.05,
+    "nouva": 0.05
+  },
+  "bayesian_context": {
+    "consagrar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "vicus": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "sisebut": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "realitzar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.77
+    },
+    "porta": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.14
+    },
+    "capella": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "antiga": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.49
+    },
+    "jeroni_xanxo": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "deia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.29
+    },
+    "mar": {
+      "likelihood": 0.005,
+      "posterior_boost": 3.49
+    },
+    "arenes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "esglesia": {
+      "likelihood": 0.01,
+      "posterior_boost": 3.54
+    },
+    "montargull": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "avui": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.8
+    },
+    "dia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.49
+    },
+    "ruines": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.95
+    },
+    "brac": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.03
+    },
+    "esquerre": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.61
+    },
+    "figura": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.63
+    },
+    "presenta": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.35
+    },
+    "orant": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "all": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "creuat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "cintura": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "crear": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.86
+    },
+    "voltant": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.53
+    },
+    "barri": {
+      "likelihood": 0.005,
+      "posterior_boost": 3.88
+    },
+    "caracter": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.56
+    },
+    "portuari": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "era": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.0
+    },
+    "gremi": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.68
+    },
+    "tenders": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "revenedors": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "barcelona": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.36
+    },
+    "pi": {
+      "likelihood": 0.005,
+      "posterior_boost": 4.72
+    },
+    "traslladar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.66
+    },
+    "dos": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.39
+    },
+    "anys": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.27
+    },
+    "monestir": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.38
+    },
+    "el_paular": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "imatge": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.03
+    },
+    "mare": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.76
+    },
+    "deu": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.64
+    },
+    "los": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.26
+    },
+    "huertos": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "mandorla": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "catedral": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.56
+    },
+    "fiore": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "florencia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.49
+    },
+    "in": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.55
+    },
+    "vallicella": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "roma": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.02
+    },
+    "nua": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "posada": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.88
+    },
+    "esquena": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "ensenya": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "natges": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "santa_cecilia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "bolvir": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "sant_esteve": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "guils": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "cobreix": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.65
+    },
+    "caputxa": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "portalada": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "la_seu": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "vella": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.88
+    },
+    "lleida": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.42
+    },
+    "pietat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.61
+    },
+    "urgell": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.55
+    },
+    "aixecat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "dret": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.88
+    },
+    "tenia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.49
+    },
+    "modest": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "sortir": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.38
+    },
+    "hospital": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.21
+    },
+    "granja": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "noldo": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "nouva": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/santa_maria.json"
+}

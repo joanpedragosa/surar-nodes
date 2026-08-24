@@ -1,0 +1,47 @@
+{
+  "concept": "mostra_internacional",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cinema": 1.0
+  },
+  "bayesian_context": {
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "celebrara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "cinema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "animacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "lleida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "febrer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "marc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/mostra_internacional.json"
+}

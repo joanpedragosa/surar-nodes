@@ -1,0 +1,43 @@
+{
+  "concept": "empatar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dues": 1.0
+  },
+  "bayesian_context": {
+    "campionat": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.85
+    },
+    "kasparov": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    },
+    "vegades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    },
+    "placa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "escacs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "urss": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/empatar.json"
+}

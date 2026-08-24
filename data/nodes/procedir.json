@@ -1,0 +1,96 @@
+{
+  "concept": "procedir",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "refrigerar": 0.5,
+    "llancament": 0.5
+  },
+  "bayesian_context": {
+    "metodologia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "seguir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "controlar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "incendi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "deixar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "cremar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "gasos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "escapats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mantenir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "flames": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "paral": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "lelament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "refrigerar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "conduccions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "espuma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pressio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "llancament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "satel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "lit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "san_marco": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "abril": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/procedir.json"
+}

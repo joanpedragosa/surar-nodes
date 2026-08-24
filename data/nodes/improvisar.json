@@ -1,0 +1,39 @@
+{
+  "concept": "improvisar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nous": 1.0
+  },
+  "bayesian_context": {
+    "comencar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "gilmour": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "mason": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "wright": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "nous": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "temes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "gener": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/improvisar.json"
+}

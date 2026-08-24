@@ -1,0 +1,23 @@
+{
+  "concept": "desautoritzacions",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rivera": 1.0
+  },
+  "bayesian_context": {
+    "rebut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "rivera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "paris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/desautoritzacions.json"
+}

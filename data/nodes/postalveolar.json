@@ -1,0 +1,67 @@
+{
+  "concept": "postalveolar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sonora": 1.0
+  },
+  "bayesian_context": {
+    "grafia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "representava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "fricativa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "sonora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "so": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "catala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "sovint": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "representa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "mexic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "consonant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "doble": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "ks": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "col": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "loquialment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/postalveolar.json"
+}

@@ -1,0 +1,48 @@
+{
+  "concept": "james_clerk",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "maxwell": 0.5,
+    "era": 0.5
+  },
+  "bayesian_context": {
+    "descobrir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "maxwell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "electromagnetiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "tipus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    },
+    "ona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "llum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "electromagnetica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/james_clerk.json"
+}

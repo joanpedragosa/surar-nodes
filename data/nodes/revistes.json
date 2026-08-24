@@ -1,0 +1,113 @@
+{
+  "concept": "revistes",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "venen": 0.5,
+    "assoliren": 0.25,
+    "editava": 0.25
+  },
+  "bayesian_context": {
+    "col": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.22
+    },
+    "loquen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "llibres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "venen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "nois": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "noies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "majoria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.67
+    },
+    "llibreries": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "diferents": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.66
+    },
+    "plataformes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "porten": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "distintiu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "art": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.44
+    },
+    "assoliren": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "maxima": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "esplendor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "periode": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "life": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "paris": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.88
+    },
+    "match": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "stern": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "epoca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.55
+    },
+    "quantes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.86
+    },
+    "editava": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "esglesia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.46
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/revistes.json"
+}

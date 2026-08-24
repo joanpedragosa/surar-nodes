@@ -1,0 +1,43 @@
+{
+  "concept": "jardineria",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "impactes": 1.0
+  },
+  "bayesian_context": {
+    "cobreix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "escorca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "lluna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "superficie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "ben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "esmicolada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sotmesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "impactes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/jardineria.json"
+}

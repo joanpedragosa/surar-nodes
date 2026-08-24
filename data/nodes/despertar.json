@@ -1,0 +1,72 @@
+{
+  "concept": "despertar",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "forca": 0.5,
+    "se": 0.5
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.5
+    },
+    "primer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    },
+    "guio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "forca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "michael_arndt": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "deia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "nova": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.61
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "el_temps": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "comenca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "festeig": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "mascle": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "immediatament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "se": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.08
+    },
+    "hibernacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/despertar.json"
+}

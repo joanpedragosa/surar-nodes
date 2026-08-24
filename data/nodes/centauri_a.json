@@ -1,0 +1,23 @@
+{
+  "concept": "centauri_a",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "au": 1.0
+  },
+  "bayesian_context": {
+    "distancia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "estan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "au": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/centauri_a.json"
+}

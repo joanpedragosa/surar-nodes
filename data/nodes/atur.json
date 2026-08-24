@@ -1,0 +1,61 @@
+{
+  "concept": "atur",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "segons": 0.3333,
+    "espanya": 0.3333,
+    "actual": 0.3333
+  },
+  "bayesian_context": {
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "josep_pintat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "artificial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "grafic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "proves": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "opcio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "espanya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.72
+    },
+    "anys": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.07
+    },
+    "taxa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "actual": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.04
+    },
+    "principat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/atur.json"
+}

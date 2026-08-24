@@ -1,0 +1,35 @@
+{
+  "concept": "compilar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "coneixement": 1.0
+  },
+  "bayesian_context": {
+    "coneixement": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "medic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "metges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "romans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "orient": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "llibres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/compilar.json"
+}

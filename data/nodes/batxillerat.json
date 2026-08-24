@@ -1,0 +1,89 @@
+{
+  "concept": "batxillerat",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "acces": 0.3333,
+    "tapies": 0.3333,
+    "alumnes": 0.3333
+  },
+  "bayesian_context": {
+    "diuen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "examens": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "substitueixen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "prova": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "acces": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.64
+    },
+    "universitat": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.36
+    },
+    "avaluacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "acabar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.93
+    },
+    "tapies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "escola_pia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "balmes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "alumnes": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.85
+    },
+    "demostren": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "gran": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "poder": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.62
+    },
+    "senpai": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "escoles": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "secundaries": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/batxillerat.json"
+}

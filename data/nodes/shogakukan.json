@@ -1,0 +1,39 @@
+{
+  "concept": "shogakukan",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "viz": 1.0
+  },
+  "bayesian_context": {
+    "filial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "obrir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "mercat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "estats_units": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "editorial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "japonesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "viz": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/shogakukan.json"
+}

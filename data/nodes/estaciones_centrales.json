@@ -1,0 +1,53 @@
+{
+  "concept": "estaciones_centrales",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "denominat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "oficialment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "projecte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "ferrocarril": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "subterraneo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "so": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "sans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "san_martin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "enlaces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/estaciones_centrales.json"
+}

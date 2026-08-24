@@ -1,0 +1,27 @@
+{
+  "concept": "wish_you",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "were_here": 1.0
+  },
+  "bayesian_context": {
+    "distribuir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "were_here": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "estats_units": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "columbia_records": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/wish_you.json"
+}

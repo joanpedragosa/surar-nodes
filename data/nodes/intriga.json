@@ -1,0 +1,43 @@
+{
+  "concept": "intriga",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "romantica": 1.0
+  },
+  "bayesian_context": {
+    "elements": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "combina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "comedia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "buffa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "colors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "pastoral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "romantica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/intriga.json"
+}

@@ -1,0 +1,97 @@
+{
+  "concept": "miserachs",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "empresa": 0.3333,
+    "certamen": 0.3333,
+    "masats": 0.3333
+  },
+  "bayesian_context": {
+    "organitzar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "i_premi": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.42
+    },
+    "fotografia_xavier": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.42
+    },
+    "empresa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "hotelera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "hotusa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "consistia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "certamen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "fotografia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "blanc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "negre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    },
+    "presentar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.44
+    },
+    "segona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.66
+    },
+    "exposicio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    },
+    "trio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "terre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "masats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "sala_aixela": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "celebra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/miserachs.json"
+}

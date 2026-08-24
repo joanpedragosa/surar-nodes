@@ -1,0 +1,56 @@
+{
+  "concept": "viatgen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cos": 0.5,
+    "vaixell": 0.5
+  },
+  "bayesian_context": {
+    "neutrofils": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "macrofags": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fagocits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "cos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "recerca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "patogens": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "invasors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "dones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "vaixell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "cinc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/viatgen.json"
+}

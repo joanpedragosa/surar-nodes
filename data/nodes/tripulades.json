@@ -1,0 +1,35 @@
+{
+  "concept": "tripulades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nasa": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "enviar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "missions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "nasa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "planeta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "vermell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tripulades.json"
+}

@@ -1,0 +1,36 @@
+{
+  "concept": "sublevar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "inusitat": 0.5,
+    "indigenes": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "reprimits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pobles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "indigenes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "inusitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "salvatgisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/sublevar.json"
+}

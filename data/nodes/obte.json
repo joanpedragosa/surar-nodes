@@ -1,0 +1,23 @@
+{
+  "concept": "obte",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "urani": 1.0
+  },
+  "bayesian_context": {
+    "urani": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.1
+    },
+    "enriquit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "plutoni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/obte.json"
+}

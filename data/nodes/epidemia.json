@@ -1,0 +1,87 @@
+{
+  "concept": "epidemia",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "autoritats": 0.2,
+    "catedral": 0.2,
+    "franca": 0.2,
+    "agost": 0.2,
+    "desembre": 0.2
+  },
+  "bayesian_context": {
+    "declarar": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.1
+    },
+    "finalitzada": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.33
+    },
+    "autoritats": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "oficiar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "tedeum": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "accio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.74
+    },
+    "gracies": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.95
+    },
+    "afebliment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "virulencia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "catedral": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.56
+    },
+    "fort": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "resso": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "franca": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.72
+    },
+    "comencar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.33
+    },
+    "agost": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.74
+    },
+    "any": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.76
+    },
+    "passat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.67
+    },
+    "desembre": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/epidemia.json"
+}

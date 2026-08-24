@@ -1,0 +1,72 @@
+{
+  "concept": "tornaven",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "smith": 0.6667,
+    "mar": 0.3333
+  },
+  "bayesian_context": {
+    "smith": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.53
+    },
+    "pare": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.1
+    },
+    "cap": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.45
+    },
+    "casa": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.93
+    },
+    "bord": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "vol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.28
+    },
+    "bar_harbor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "airlines": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "feien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "pescadors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "mar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "reunien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "cantar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "dia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    },
+    "agost": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tornaven.json"
+}

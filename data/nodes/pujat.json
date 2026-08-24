@@ -1,0 +1,86 @@
+{
+  "concept": "pujat",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "plataforma": 0.2,
+    "preus": 0.2,
+    "preu": 0.4,
+    "xifra": 0.2
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.54
+    },
+    "videos": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "historics": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "plataforma": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "demarcacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "valenciana": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "preus": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "lloguers": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "alacant": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "preu": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.4
+    },
+    "habitatge": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.51
+    },
+    "lloguer": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.45
+    },
+    "segona": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.56
+    },
+    "catalunya": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.23
+    },
+    "xifra": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "morts": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "espanyol": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.05
+    },
+    "percentatge": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.9
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/pujat.json"
+}

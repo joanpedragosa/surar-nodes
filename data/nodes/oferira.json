@@ -1,0 +1,51 @@
+{
+  "concept": "oferira",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nova": 1.0
+  },
+  "bayesian_context": {
+    "nova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.09
+    },
+    "temporada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "graella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "xarxa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "comunicacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "local": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "partits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "futbol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "territorial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "directe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/oferira.json"
+}

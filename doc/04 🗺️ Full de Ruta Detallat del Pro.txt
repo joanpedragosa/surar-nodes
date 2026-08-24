@@ -1,0 +1,52 @@
+# 🗺️ Full de Ruta Detallat del Projecte SURAR-AINA
+
+## 1. Visió General i Filosofia
+SURAR-AINA és un projecte d'Intel·ligència Artificial distribuïda que opera sota el paradigma de "cost zero" i "transparència radical". El seu objectiu és substituir els models centrals opacs (LLMs) per una Xarxa Neuronal Global (GNN) atomitzada, on cada concepte és un fitxer JSON independent allotjat a Internet (GitHub/IPFS). El sistema utilitza un **Model Híbrid Markov-Bayesià Lleuger (HMBL)** per inferir respostes sense necessitat de servidors GPU ni bases de dades privades.
+
+---
+
+## 2. Fases del Pipeline Operatiu
+
+### 🏭 FASE A: INGESTIÓ I EXTRACCIÓ INDUSTRIAL (STEP 05)
+**Objectiu:** Transformar el corpus lingüístic (Projecte Aina/BSC) en una xarxa de probabilitats locals.
+*   **Preprocessament Lingüístic:** Neteja rigorosa, normalització ortogràfica catalana i filtratge de stop-words.
+*   **Finestra de Context Direccional:** Anàlisi de co-ocurrència no només per proximitat, sinó per ordre seqüencial (A -> B).
+*   **Càlcul HMBL:**
+    *   *Markov:* Generació de taules de transició $P(B|A)$ per a cada node.
+    *   *Bayes:* Càlcul de likelihoods i posterior boosts basats en la freqüència condicional.
+*   **Volcat Atomitzat:** Creació de milers de fitxers `token.json` independents a la carpeta local `nodes/`.
+
+### 🌐 FASE B: INDEXACIÓ HÍBRIDA I BLINDATGE (STEP 10)
+**Objectiu:** Preparar els nodes per a la seva publicació global i assegurar la integritat dels enllaços.
+*   **Validació d'Estructura:** Verificació que tots els JSONs tenen els camps `markov_transitions` i `bayesian_context`.
+*   **Blindatge de Cadenes (Hard-Fix):** Reescriptura forçada de les URLs per apuntar al repositori públic `joanpedragosa/surar-nodes`.
+*   **Generació de Metadades:** Creació d'un mapa global (`mapping.json`) que relaciona tokens amb les seves ubicacions físiques a la xarxa.
+
+### 🚀 FASE C: SINCRONITZACIÓ AUTOMATITZADA (STEP 30)
+**Objectiu:** Publicar l'evolució del coneixement a Internet de forma autònoma.
+*   **Detecció de Canvis:** Identificació de nous nodes o pesos modificats per aprenentatge hebbià.
+*   **Commit Atòmic:** Agrupació de canvis amb signatura digital i timestamp.
+*   **Push a GitHub/IPFS:** Actualització massiva dels fitxers JSON al repositori públic, fent el coneixement accessible globalment a cost zero.
+
+### 🧠 FASE D: INFERÈNCIA CONCURRENT I XAT INTERACTIU (STEP 35)
+**Objectiu:** Interfície client-side que navega pel graf remot per respondre preguntes.
+*   **Parsing de Consulta:** Extracció de tokens clau i detecció d'intenció (Quantitat, Mètode, Definició).
+*   **Propagació Asíncrona (Asyncio):** Descàrrega paral·lela de nodes remots via HTTP.
+*   **Motor de Puntuació Híbrida:**
+    *   Calcula l'energia base (Hebbiana).
+    *   Aplica el *Boost Bayesià* segons el context de la pregunta.
+    *   Valida la coherència sintàctica mitjançant *Probabilitats Markovianes*.
+*   **Generació de Resposta:** Construcció de frases simples basades en la ruta de màxima versemblança trobada al graf.
+
+---
+
+## 3. Arquitectura Tècnica i Model HMBL
+
+### Estructura del Node (JSON)
+Cada fitxer actua com una unitat d'inferència autònoma:
+```json
+{
+  "concept": "moragues",
+  "markov_transitions": { "garrot": 0.78, "vil": 0.85 },
+  "bayesian_context": { "matar": { "boost": 2.0 } }
+}

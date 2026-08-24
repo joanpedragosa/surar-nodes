@@ -1,0 +1,39 @@
+{
+  "concept": "tercer_reich",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fumar": 1.0
+  },
+  "bayesian_context": {
+    "sabien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "metges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "fumar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "causar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "malalties": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "cardiaques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/tercer_reich.json"
+}

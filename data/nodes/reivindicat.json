@@ -1,0 +1,53 @@
+{
+  "concept": "reivindicat",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "accio": 0.3333,
+    "pablo_casado": 0.3333,
+    "poble_lliure": 0.3333
+  },
+  "bayesian_context": {
+    "accio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "ciutadans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.65
+    },
+    "pablo_casado": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "pp": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.64
+    },
+    "partit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "familia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "vida": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.6
+    },
+    "poble_lliure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "consell": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    },
+    "republica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/reivindicat.json"
+}

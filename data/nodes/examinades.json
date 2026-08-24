@@ -1,0 +1,31 @@
+{
+  "concept": "examinades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "regions": 1.0
+  },
+  "bayesian_context": {
+    "havien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "regions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "fosques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "genoma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "complexitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/examinades.json"
+}

@@ -1,0 +1,68 @@
+{
+  "concept": "recorrera",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "correllengua": 0.5,
+    "condemna": 0.5
+  },
+  "bayesian_context": {
+    "correllengua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "quasi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "indrets": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "pais": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "promoure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "llengua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "cultura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "catalana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "recordar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "figura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "montserrat_roig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "anunciat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "meng": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "condemna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/recorrera.json"
+}

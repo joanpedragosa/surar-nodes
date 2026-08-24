@@ -1,0 +1,27 @@
+{
+  "concept": "prevalgue",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "classificacio": 1.0
+  },
+  "bayesian_context": {
+    "temps": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.92
+    },
+    "classificacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "miller": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "segle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/prevalgue.json"
+}

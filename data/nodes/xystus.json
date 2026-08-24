@@ -1,0 +1,35 @@
+{
+  "concept": "xystus",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "grec": 1.0
+  },
+  "bayesian_context": {
+    "origen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "nom": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "grec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "sembla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "deriva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "sixt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/xystus.json"
+}

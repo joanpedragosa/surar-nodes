@@ -1,0 +1,27 @@
+{
+  "concept": "christian_strache",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "partit": 1.0
+  },
+  "bayesian_context": {
+    "partit": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.43
+    },
+    "dimitit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "heinz": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "llibertat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/christian_strache.json"
+}

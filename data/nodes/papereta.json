@@ -1,0 +1,43 @@
+{
+  "concept": "papereta",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "albano": 1.0
+  },
+  "bayesian_context": {
+    "respecte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "ensenyar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "albano": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "dante_fachin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "serien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "perseguits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "haver": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "votat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/papereta.json"
+}

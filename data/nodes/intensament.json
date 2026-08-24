@@ -1,0 +1,48 @@
+{
+  "concept": "intensament",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "roques": 0.5,
+    "sol": 0.5
+  },
+  "bayesian_context": {
+    "estudiat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cretaci": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "superior": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "roques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "explotar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "sol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.73
+    },
+    "valls": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "guadalquivir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "genil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/intensament.json"
+}

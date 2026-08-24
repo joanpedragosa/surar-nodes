@@ -1,0 +1,27 @@
+{
+  "concept": "joan_ignasi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "elena": 1.0
+  },
+  "bayesian_context": {
+    "coordina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "pacte_nacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "referendum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "elena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/joan_ignasi.json"
+}

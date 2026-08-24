@@ -1,0 +1,98 @@
+{
+  "concept": "assumpcio",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "barbera": 0.4,
+    "dormicio": 0.2,
+    "lailla": 0.2,
+    "mare": 0.2
+  },
+  "bayesian_context": {
+    "germana": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "barbera": {
+      "likelihood": 0.02,
+      "posterior_boost": 5.33
+    },
+    "rita": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "coneix": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.67
+    },
+    "dormicio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "maria": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.86
+    },
+    "partit": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.44
+    },
+    "politic": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.49
+    },
+    "diputats": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.52
+    },
+    "antoni_castella": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "lailla": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "democrates": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "catalunya": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.93
+    },
+    "tema": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.74
+    },
+    "central": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.49
+    },
+    "retaule": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.29
+    },
+    "mare": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.36
+    },
+    "deu": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.24
+    },
+    "quantes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.77
+    },
+    "filles": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "tres": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.0
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/assumpcio.json"
+}

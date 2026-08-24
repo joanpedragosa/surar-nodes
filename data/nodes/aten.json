@@ -1,0 +1,48 @@
+{
+  "concept": "aten",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "suspensio": 0.5,
+    "lletra": 0.5
+  },
+  "bayesian_context": {
+    "amenaca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "ts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "suspensio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "mesures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "penals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "lletra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "corporal_clegg": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "costos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "guerra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/aten.json"
+}

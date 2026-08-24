@@ -1,0 +1,142 @@
+{
+  "concept": "dinastia",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "ming": 0.125,
+    "joseon": 0.125,
+    "arribada": 0.125,
+    "volia": 0.125,
+    "pertanyia": 0.125,
+    "sepulcres": 0.125,
+    "desenvolupar": 0.125,
+    "aquemenida": 0.125
+  },
+  "bayesian_context": {
+    "demanar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    },
+    "hideyoshi": {
+      "likelihood": 0.0125,
+      "posterior_boost": 4.82
+    },
+    "assistencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "atacar": {
+      "likelihood": 0.0125,
+      "posterior_boost": 4.45
+    },
+    "ming": {
+      "likelihood": 0.0125,
+      "posterior_boost": 5.12
+    },
+    "joseon": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "corea": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "posar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.52
+    },
+    "fi": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.82
+    },
+    "arribada": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "poder": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.2
+    },
+    "darios": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "iii": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.65
+    },
+    "volia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.2
+    },
+    "pertanyia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "miquel_i": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "dinastia_romanov": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "sepulcres": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "capella": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.2
+    },
+    "trastamara": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "desenvolupar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.66
+    },
+    "antic": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.78
+    },
+    "regim": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "regne": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.95
+    },
+    "franca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.52
+    },
+    "valois": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "governar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "aquemenida": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "imperi": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.98
+    },
+    "persa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "ac": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.99
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/dinastia.json"
+}

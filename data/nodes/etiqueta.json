@@ -1,0 +1,35 @@
+{
+  "concept": "etiqueta",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estes": 1.0
+  },
+  "bayesian_context": {
+    "estes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "xarxes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "socials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "convocatoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "mobilitzacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "josocbellreguard": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/etiqueta.json"
+}

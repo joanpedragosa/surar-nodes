@@ -1,0 +1,59 @@
+{
+  "concept": "signats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "municipi": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "consultar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "nou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.86
+    },
+    "mapa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "lloguer": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.15
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "nombre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "contractes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "municipi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "comarca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "preu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "mitja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/signats.json"
+}

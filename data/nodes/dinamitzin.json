@@ -1,0 +1,35 @@
+{
+  "concept": "dinamitzin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "entorn": 1.0
+  },
+  "bayesian_context": {
+    "activitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "potenciar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "ajuntament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "ciutat_vella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "entorn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/dinamitzin.json"
+}

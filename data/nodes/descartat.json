@@ -1,0 +1,52 @@
+{
+  "concept": "descartat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "junqueras": 0.5,
+    "jessica": 0.5
+  },
+  "bayesian_context": {
+    "beneeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "opcio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "junqueras": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "joan_tarda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "jessica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "albiach": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "tornar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "negociar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "comptes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "catalans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/descartat.json"
+}

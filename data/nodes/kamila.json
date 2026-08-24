@@ -1,0 +1,27 @@
+{
+  "concept": "kamila",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "urvalkova": 1.0
+  },
+  "bayesian_context": {
+    "quedar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "fascinat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "janaček": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "urvalkova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/kamila.json"
+}

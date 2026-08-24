@@ -1,0 +1,60 @@
+{
+  "concept": "film",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "infantil": 0.5,
+    "gloriana": 0.5
+  },
+  "bayesian_context": {
+    "consideraven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "repartiment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "principal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "projecte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.9
+    },
+    "infantil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "projeccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "quatre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "dies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "estrena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.0
+    },
+    "gloriana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/film.json"
+}

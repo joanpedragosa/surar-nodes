@@ -1,0 +1,35 @@
+{
+  "concept": "magnanim",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "jan": 1.0
+  },
+  "bayesian_context": {
+    "comprat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    },
+    "obres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "alfons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "jan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "eyck": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/magnanim.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "guthrie",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "gilmour": 1.0
+  },
+  "bayesian_context": {
+    "treballaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "junts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "gilmour": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "peces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "guitarra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/guthrie.json"
+}

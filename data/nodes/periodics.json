@@ -1,0 +1,35 @@
+{
+  "concept": "periodics",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nivells": 1.0
+  },
+  "bayesian_context": {
+    "provocava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mancances": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "canvis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "nivells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "mar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/periodics.json"
+}

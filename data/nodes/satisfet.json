@@ -1,0 +1,23 @@
+{
+  "concept": "satisfet",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "calvet": 1.0
+  },
+  "bayesian_context": {
+    "calvet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "serveis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "emergencies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/satisfet.json"
+}

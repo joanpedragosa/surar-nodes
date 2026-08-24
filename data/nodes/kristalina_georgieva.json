@@ -1,0 +1,31 @@
+{
+  "concept": "kristalina_georgieva",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "banc_mundial": 1.0
+  },
+  "bayesian_context": {
+    "treballara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "partir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "finals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "banc_mundial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/kristalina_georgieva.json"
+}

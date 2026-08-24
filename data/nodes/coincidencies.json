@@ -1,0 +1,23 @@
+{
+  "concept": "coincidencies",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "taula": 1.0
+  },
+  "bayesian_context": {
+    "taula": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.52
+    },
+    "epifania": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "conestable": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/coincidencies.json"
+}

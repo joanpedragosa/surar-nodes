@@ -1,0 +1,27 @@
+{
+  "concept": "amplis",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "plecs": 1.0
+  },
+  "bayesian_context": {
+    "realitzades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "vestidures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "mantells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "plecs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/amplis.json"
+}

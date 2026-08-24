@@ -1,0 +1,23 @@
+{
+  "concept": "alinea",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mirada": 1.0
+  },
+  "bayesian_context": {
+    "mirada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "punt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "fuga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/alinea.json"
+}

@@ -1,0 +1,63 @@
+{
+  "concept": "ghon",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "part": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "lloc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "principal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "infeccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "pulmons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "tb": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "focus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "situat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "generalment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "superior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "lobul": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "inferior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ghon.json"
+}

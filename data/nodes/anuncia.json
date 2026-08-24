@@ -1,0 +1,56 @@
+{
+  "concept": "anuncia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "concepcio": 0.5,
+    "haly": 0.5
+  },
+  "bayesian_context": {
+    "concepcio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "arquitectonica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "arquitectura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "barroca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "haly": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "isabella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "convertira": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "favorita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "harem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "bei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mustafa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/anuncia.json"
+}

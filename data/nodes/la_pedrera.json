@@ -1,0 +1,27 @@
+{
+  "concept": "la_pedrera",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "reporter": 1.0
+  },
+  "bayesian_context": {
+    "licula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "servir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "escenari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "reporter": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/la_pedrera.json"
+}

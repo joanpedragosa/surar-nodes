@@ -1,0 +1,60 @@
+{
+  "concept": "menja",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cria": 0.5,
+    "mes": 0.5
+  },
+  "bayesian_context": {
+    "cria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "deixa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "alimentar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "llet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "mare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.76
+    },
+    "fulles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "oricterop": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "estacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "humida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "termits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/menja.json"
+}

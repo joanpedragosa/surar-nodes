@@ -1,0 +1,65 @@
+{
+  "concept": "rels",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "mangles": 0.3333,
+    "estiu": 0.3333,
+    "cap": 0.3333
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.35
+    },
+    "mangles": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "aigua": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.11
+    },
+    "salada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "produida": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "gran": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "concentracio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "sucres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "estiu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "ascendeix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "vegetals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "cap": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    },
+    "fulles": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/rels.json"
+}

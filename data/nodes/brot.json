@@ -1,0 +1,67 @@
+{
+  "concept": "brot",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "covid": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "morts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "covid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "sis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "catala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "ordenat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "confinament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "igualada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "vilanova": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cami": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "santa_margarida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "montbui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "odena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/brot.json"
+}

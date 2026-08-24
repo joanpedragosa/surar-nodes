@@ -1,0 +1,48 @@
+{
+  "concept": "conservava",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "casa": 0.5,
+    "historia": 0.5
+  },
+  "bayesian_context": {
+    "casa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "bloc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "traces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "racionalisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "historia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "tir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "temple": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "heracles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "melqart": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/conservava.json"
+}

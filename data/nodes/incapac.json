@@ -1,0 +1,72 @@
+{
+  "concept": "incapac",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "consumar": 0.5,
+    "aturar": 0.5
+  },
+  "bayesian_context": {
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "matilde": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "botxi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "consumar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sentencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "exercit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "fou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "aturar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "guerrilles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "plana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "vic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "llucanes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "franco": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/incapac.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "dissociacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "elecrolitica": 1.0
+  },
+  "bayesian_context": {
+    "desenvolupa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "teoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "elecrolitica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "svante_august": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "arrhenius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/dissociacio.json"
+}

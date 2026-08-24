@@ -1,0 +1,31 @@
+{
+  "concept": "amorosa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "secret": 1.0
+  },
+  "bayesian_context": {
+    "mante": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "sebastia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "relacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "secret": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "marta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/amorosa.json"
+}

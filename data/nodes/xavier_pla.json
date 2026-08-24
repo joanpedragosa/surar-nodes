@@ -1,0 +1,31 @@
+{
+  "concept": "xavier_pla",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "millorat": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "millorat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "conjunt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "qualitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "narrativa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/xavier_pla.json"
+}

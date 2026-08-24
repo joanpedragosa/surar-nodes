@@ -1,0 +1,47 @@
+# 🧬 Mètode Híbrid Markov-Bayesià Lleuger (HMBL) per a Xarxes Distribuïdes
+
+## 1. Definició i Propòsit
+El Mètode Híbrid Markov-Bayesià Lleuger (HMBL) és una arquitectura d'inferència semàntica dissenyada per a entorns de **cost zero i total transparència**. El seu objectiu és superar les limitacions dels models purament hebbians (manca de sintaxi i ordre) sense recórrer a models de llenguatge grans (LLMs) ni servidors centralitzats.
+
+La innovació rau en dotar cada node individual del graf (fitxer JSON) de "intel·ligència estadística local", permetent que la probabilitat i la coherència lingüística emergeixin de la interacció entre aquests nodes autònoms allotjats a Internet.
+
+---
+
+## 2. Components de l'Arquitectura
+
+Cada node del graf incorpora dues capes de dades probabilístiques pre-calculades durant la fase d'ingestió (Step 05):
+
+### A. Capa Markoviana (Sintaxi i Seqüència)
+Respon a la pregunta: *"Quina paraula sol venir després d'aquesta?"*.
+*   **Funció:** Gestiona l'ordre natural de les paraules i la fluïdesa gramatical bàsica.
+*   **Dada emmagatzemada:** `markov_transitions` (Probabilitat de transició $P(B|A)$).
+
+### B. Capa Bayesiana (Semàntica i Causalitat)
+Respon a la pregunta: *"Donat el context de la pregunta, quina probabilitat hi ha que aquest concepte sigui la resposta correcta?"*.
+*   **Funció:** Filtra el soroll estadístic i prioritza conceptes específics sobre els generals mitjançant actualització de creences.
+*   **Dada emmagatzemada:** `bayesian_context` (Likelihood i Posterior Boost).
+
+---
+
+## 3. Estructura de Dades del Node (Exemple JSON)
+
+```json
+{
+  "concept": "moragues",
+  "frequency": 142,
+  
+  "edges": [ ... ], 
+
+  "markov_transitions": {
+    "garrot": 0.78,
+    "vil": 0.85,
+    "cap": 0.62,
+    "penjar": 0.45
+  },
+
+  "bayesian_context": {
+    "regidors": { "likelihood": 0.05, "posterior_boost": 1.2 },
+    "psc": { "likelihood": 0.02, "posterior_boost": 1.5 },
+    "matar": { "likelihood": 0.90, "posterior_boost": 2.0 }
+  }
+}

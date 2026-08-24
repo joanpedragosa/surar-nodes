@@ -1,0 +1,35 @@
+{
+  "concept": "zz",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ceti": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    },
+    "ceti": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "trobada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "hl": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "tau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/zz.json"
+}

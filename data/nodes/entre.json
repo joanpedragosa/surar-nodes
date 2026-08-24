@@ -1,0 +1,26 @@
+{
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/entre.json",
+  "concept": "entre",
+  "edges": [
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/text.json",
+      "weight": 0.48
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/answerstart.json",
+      "weight": 0.303
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/entre.json",
+      "weight": 0.296
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/acord.json",
+      "weight": 0.264
+    },
+    {
+      "target_node": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/que.json",
+      "weight": 0.184
+    }
+  ]
+}

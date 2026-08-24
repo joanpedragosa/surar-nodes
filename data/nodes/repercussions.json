@@ -1,0 +1,52 @@
+{
+  "concept": "repercussions",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "manca": 0.5,
+    "ser": 0.5
+  },
+  "bayesian_context": {
+    "amenacar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "comandant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "brigada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "manca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "disciplina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "greus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "alcoi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "segona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "germania": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/repercussions.json"
+}

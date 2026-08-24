@@ -1,0 +1,102 @@
+{
+  "concept": "ocasionat",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "mort": 0.25,
+    "forat": 0.25,
+    "danys": 0.25,
+    "problemes": 0.25
+  },
+  "bayesian_context": {
+    "mort": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.55
+    },
+    "persones": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.34
+    },
+    "allau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "humana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "hauria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.84
+    },
+    "forat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "milions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.4
+    },
+    "euros": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.49
+    },
+    "diverses": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "operacions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "financeres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "danys": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "reparar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "ports": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "carreteres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "transport": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "public": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "litoral": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "problemes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "canvi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    },
+    "frequencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "catalunya_nord": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/ocasionat.json"
+}

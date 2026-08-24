@@ -1,0 +1,80 @@
+{
+  "concept": "oxidacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "transaminasa": 0.5,
+    "precipitacio": 0.5
+  },
+  "bayesian_context": {
+    "retira": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "grup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.6
+    },
+    "amino": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "aminoacid": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "comencar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "ruta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "transaminasa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "optimitza": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sistema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "reactiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "escala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "laboratori": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "precipitacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ferro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "produccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "schwertmannita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "neta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/nodes/oxidacio.json"
+}
