@@ -1,0 +1,27 @@
+{
+  "concept": "societat_civil",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "catalana": 1.0
+  },
+  "bayesian_context": {
+    "rebut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "felicitacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "daniel_sirera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "catalana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/societat_civil.json"
+}

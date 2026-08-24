@@ -1,0 +1,35 @@
+{
+  "concept": "shogakukan_manga",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "award": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "versio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "guanyar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "award": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "miyako_maki": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/shogakukan_manga.json"
+}

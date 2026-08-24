@@ -1,0 +1,31 @@
+{
+  "concept": "soctt",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "recursos": 1.0
+  },
+  "bayesian_context": {
+    "competien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "shackleton": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "recursos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "monetaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "tripulacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/soctt.json"
+}

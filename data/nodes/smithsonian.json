@@ -1,0 +1,80 @@
+{
+  "concept": "smithsonian",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "article": 0.5,
+    "marc": 0.5
+  },
+  "bayesian_context": {
+    "il": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.62
+    },
+    "lustrava": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "imatge": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.2
+    },
+    "portada": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.95
+    },
+    "article": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.66
+    },
+    "cartells": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "temps": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.32
+    },
+    "guerra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.74
+    },
+    "revista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "posar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.82
+    },
+    "sortir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "marc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.76
+    },
+    "festival": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "atacar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "pedro": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.65
+    },
+    "morenes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "quim_torra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/smithsonian.json"
+}

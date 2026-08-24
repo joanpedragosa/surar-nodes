@@ -1,0 +1,31 @@
+{
+  "concept": "sinai",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "parlar": 1.0
+  },
+  "bayesian_context": {
+    "puja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "moises": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "mont": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "parlar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "deu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sinai.json"
+}

@@ -1,0 +1,69 @@
+{
+  "concept": "sirhan",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "any": 0.3333,
+    "mort": 0.3333,
+    "cadena": 0.3333
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.025,
+      "posterior_boost": 3.02
+    },
+    "declarat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "culpable": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "sol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.43
+    },
+    "licitar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "llibertat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.75
+    },
+    "condicional": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "condemnat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "pena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "commutada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "cadena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "perpetua": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sirhan.json"
+}

@@ -1,0 +1,56 @@
+{
+  "concept": "sorgit",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "crida": 0.5,
+    "barcelona": 0.5
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "noves": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "candidatures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "crida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "palma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "unia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "linia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.78
+    },
+    "terminals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ferroviaries": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "havien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sorgit.json"
+}

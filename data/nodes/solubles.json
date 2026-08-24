@@ -1,0 +1,52 @@
+{
+  "concept": "solubles",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "aigua": 0.5,
+    "aglutinat": 0.5
+  },
+  "bayesian_context": {
+    "resulten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "particules": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "oxidada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "aigua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "romanen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pigments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "aglutinat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dispersos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/solubles.json"
+}

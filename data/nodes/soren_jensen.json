@@ -1,0 +1,27 @@
+{
+  "concept": "soren_jensen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pcb": 1.0
+  },
+  "bayesian_context": {
+    "detectar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "pcb": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "peixos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "suecia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/soren_jensen.json"
+}

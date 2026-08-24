@@ -1,0 +1,52 @@
+{
+  "concept": "solien",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fer": 0.5,
+    "estar": 0.5
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "farses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "parelles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "esposos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "representacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "familia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "estar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "agafats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/solien.json"
+}

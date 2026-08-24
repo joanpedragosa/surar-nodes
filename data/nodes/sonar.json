@@ -1,0 +1,60 @@
+{
+  "concept": "sonar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "alhora": 0.5,
+    "mitjana": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "contrasubjectes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "alhora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "subjecte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fuga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "contingui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "contrapunt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "doble": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "produeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "mitjana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "frequencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "encallaments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sonar.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "solubilitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "biodisponibilitat": 1.0
+  },
+  "bayesian_context": {
+    "crucials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "agents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "segrestants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "complexacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "radionuclids": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "increment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "biodisponibilitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/solubilitat.json"
+}

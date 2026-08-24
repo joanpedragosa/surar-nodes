@@ -1,0 +1,48 @@
+{
+  "concept": "sortiran",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "siria": 0.5,
+    "preso": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "militars": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "nord": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "americans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "siria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "preso": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "alvaro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "david": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "avui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sortiran.json"
+}

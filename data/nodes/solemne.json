@@ -1,0 +1,68 @@
+{
+  "concept": "solemne",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "comitiva": 0.5,
+    "acompanyament": 0.5
+  },
+  "bayesian_context": {
+    "precedeix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "comitiva": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "abat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "arnulf": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "monjos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "esdevenir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "funeral": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "multitudinari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "celebra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "esglesia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.59
+    },
+    "parroquial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "ofici": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "acompanyament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "orquestra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/solemne.json"
+}

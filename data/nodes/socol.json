@@ -1,0 +1,47 @@
+{
+  "concept": "socol",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "unit": 1.0
+  },
+  "bayesian_context": {
+    "unit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "peu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "hermes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "forats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "encaixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "corona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "base": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "dret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "tros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/socol.json"
+}

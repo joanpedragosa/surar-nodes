@@ -1,0 +1,39 @@
+{
+  "concept": "societat_cultural",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "recreativa_casino": 1.0
+  },
+  "bayesian_context": {
+    "principal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "entitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "poble": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "recreativa_casino": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "construir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "segle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "xix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/societat_cultural.json"
+}

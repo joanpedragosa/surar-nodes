@@ -1,0 +1,44 @@
+{
+  "concept": "simulen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cortinatge": 0.5,
+    "petits": 0.5
+  },
+  "bayesian_context": {
+    "cortinatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "petits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "fulls": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "boletes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "estofat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "predel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "fruits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "baies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/simulen.json"
+}

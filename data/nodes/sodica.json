@@ -1,0 +1,100 @@
+{
+  "concept": "sodica",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "casos": 0.5,
+    "urticaria": 0.5
+  },
+  "bayesian_context": {
+    "administra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "penicil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "lina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "casos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "difteria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "infeccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "aparell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "respiratori": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "genital": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "certes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "produides": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "gramnegatius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "meningitis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "endocarditis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "simptomes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pot": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "causar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "urticaria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pruija": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vegades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "xoc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "anafilactic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sodica.json"
+}

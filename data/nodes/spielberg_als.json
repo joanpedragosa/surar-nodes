@@ -1,0 +1,39 @@
+{
+  "concept": "spielberg_als",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "anys": 1.0
+  },
+  "bayesian_context": {
+    "titulava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "curt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "rodar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "anys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.54
+    },
+    "the_last": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "train_wreck": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/spielberg_als.json"
+}
