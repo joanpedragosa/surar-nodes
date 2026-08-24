@@ -1,0 +1,59 @@
+{
+  "concept": "racials",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "negat": 1.0
+  },
+  "bayesian_context": {
+    "reaccionat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "lucas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "controversia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "estereotips": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "negat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "categoricament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "implicacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pensava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "reflectien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "certs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "personatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "alienigenes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/racials.json"
+}

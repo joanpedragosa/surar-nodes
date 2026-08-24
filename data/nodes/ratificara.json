@@ -1,0 +1,36 @@
+{
+  "concept": "ratificara",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "proposta": 0.5,
+    "executiva": 0.5
+  },
+  "bayesian_context": {
+    "proposta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "militancia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "telematicament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "executiva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "psoe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "dia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ratificara.json"
+}

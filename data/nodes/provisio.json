@@ -1,0 +1,36 @@
+{
+  "concept": "provisio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "porta": 0.5,
+    "maig": 0.5
+  },
+  "bayesian_context": {
+    "llegir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "reial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "porta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "esglesia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.76
+    },
+    "dia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "maig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/provisio.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "queratoma",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "canonge": 1.0
+  },
+  "bayesian_context": {
+    "contorn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "canonge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "unio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "nas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "galta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "irregular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/queratoma.json"
+}

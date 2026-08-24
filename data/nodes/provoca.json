@@ -1,0 +1,132 @@
+{
+  "concept": "provoca",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "marees": 0.1667,
+    "zona": 0.1667,
+    "aigues": 0.1667,
+    "simulacio": 0.1667,
+    "lesio": 0.1667,
+    "tempesta": 0.1667
+  },
+  "bayesian_context": {
+    "marees": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "oceans": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "terrestres": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "lluna": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.93
+    },
+    "zona": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.8
+    },
+    "friccio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "linia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.3
+    },
+    "sismica": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "aigues": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.17
+    },
+    "increment": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "nivells": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "acidificacio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "simulacio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "resurreccio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "anticrist": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "adoracio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "masses": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.21
+    },
+    "observaven": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "lesio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "reparada": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "col": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.05
+    },
+    "lapse": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "forqueta": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "replicacio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "tempesta": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "tropical": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "bermudes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "fortes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "pluges": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/provoca.json"
+}

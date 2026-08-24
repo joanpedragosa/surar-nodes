@@ -1,0 +1,73 @@
+{
+  "concept": "publicacions",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "diari": 0.3333,
+    "conejo": 0.3333,
+    "col": 0.3333
+  },
+  "bayesian_context": {
+    "atacaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "diari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "sovietics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "proletariat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "revolucionari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "rus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "contingut": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "tenien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "conejo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "espanyolista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "col": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.35
+    },
+    "laborar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "llibres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "bibliofil": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/publicacions.json"
+}

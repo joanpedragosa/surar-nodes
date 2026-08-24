@@ -1,0 +1,36 @@
+{
+  "concept": "provisionalment",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sedna": 0.5,
+    "dent": 0.5
+  },
+  "bayesian_context": {
+    "designar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "sedna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "genere": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "classificar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "dent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "lavanify": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/provisionalment.json"
+}

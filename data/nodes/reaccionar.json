@@ -1,0 +1,39 @@
+{
+  "concept": "reaccionar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "agents": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "carta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "agents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "davant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "situacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "manera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "exemplar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reaccionar.json"
+}

@@ -1,0 +1,138 @@
+{
+  "concept": "realitzaran",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "aire": 0.25,
+    "jornades": 0.25,
+    "recepcio": 0.25,
+    "demostracions": 0.25
+  },
+  "bayesian_context": {
+    "concerts": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "aire": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "lliure": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "interior": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.79
+    },
+    "cases": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "senyorials": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "gratuits": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "jornades": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "celebraran": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "universitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "barcelona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.04
+    },
+    "setmana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.75
+    },
+    "vinent": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "actes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.84
+    },
+    "celebracio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "diada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "sant_jordi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "recepcio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "oficial": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "missa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "benediccio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "roses": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "demostracions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "festa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "calcotada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "aprendre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "coure": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "calcots": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "estil": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.43
+    },
+    "tradicional": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/realitzaran.json"
+}

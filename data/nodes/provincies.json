@@ -1,0 +1,68 @@
+{
+  "concept": "provincies",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "distribuir": 0.5,
+    "italianes": 0.5
+  },
+  "bayesian_context": {
+    "administraven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "intendents": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "distribuir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "actes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "rodoreda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "girona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "barcelona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.17
+    },
+    "italianes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "retornar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "sobirania": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "austria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "llombardia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "veneto": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/provincies.json"
+}

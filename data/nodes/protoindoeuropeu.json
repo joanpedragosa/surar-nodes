@@ -1,0 +1,40 @@
+{
+  "concept": "protoindoeuropeu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vuit": 0.5,
+    "heretar": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "casos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "gramaticals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "vuit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "heretar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "llati": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "sis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/protoindoeuropeu.json"
+}

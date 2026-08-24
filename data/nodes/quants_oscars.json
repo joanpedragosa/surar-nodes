@@ -1,0 +1,43 @@
+{
+  "concept": "quants_oscars",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "guanyar": 1.0
+  },
+  "bayesian_context": {
+    "guanyar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "tres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "llista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "schindler": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "set": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    },
+    "saving_private": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "ryan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "cinc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.65
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/quants_oscars.json"
+}
