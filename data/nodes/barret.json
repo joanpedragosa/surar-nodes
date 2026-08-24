@@ -1,0 +1,19 @@
+{
+  "concept": "barret",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sagristia": 1.0
+  },
+  "bayesian_context": {
+    "trobar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.99
+    },
+    "sagristia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/barret.json"
+}

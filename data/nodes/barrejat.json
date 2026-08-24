@@ -1,0 +1,80 @@
+{
+  "concept": "barrejat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "musica": 0.5,
+    "videos": 0.5
+  },
+  "bayesian_context": {
+    "sent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "espectador": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "musica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "cops": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "ritmics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "martell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "enclusa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "videos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "projeccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "dies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "previs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "imatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "referendum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "concentracions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "economia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "exteriors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "cup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/barrejat.json"
+}

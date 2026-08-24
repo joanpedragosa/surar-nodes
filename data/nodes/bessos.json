@@ -1,0 +1,27 @@
+{
+  "concept": "bessos",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "bactriana": 1.0
+  },
+  "bayesian_context": {
+    "assassinar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "darios": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "iii": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "bactriana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bessos.json"
+}

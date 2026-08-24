@@ -1,0 +1,36 @@
+{
+  "concept": "balsas",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "depressio": 0.5,
+    "regions": 0.5
+  },
+  "bayesian_context": {
+    "drena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "riu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "depressio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "regions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "sud": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "altipla_mexica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/balsas.json"
+}

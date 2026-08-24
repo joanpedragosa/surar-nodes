@@ -1,0 +1,47 @@
+{
+  "concept": "beneficiarien",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "primaries": 1.0
+  },
+  "bayesian_context": {
+    "primaries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "obertes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "formacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "nacionalista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "iniciativa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "fet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.83
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "afiliats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/beneficiarien.json"
+}

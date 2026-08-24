@@ -1,0 +1,36 @@
+{
+  "concept": "bartolome",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "perestrello": 0.5,
+    "carranza": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "filla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "felipa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "perestrello": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "arquebisbe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "carranza": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bartolome.json"
+}

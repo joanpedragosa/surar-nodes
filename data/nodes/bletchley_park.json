@@ -1,0 +1,35 @@
+{
+  "concept": "bletchley_park",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "escassetat": 1.0
+  },
+  "bayesian_context": {
+    "retardava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "tasca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "enigma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "escassetat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "personal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "administratiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bletchley_park.json"
+}

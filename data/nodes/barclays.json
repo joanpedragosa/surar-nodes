@@ -1,0 +1,63 @@
+{
+  "concept": "barclays",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "royal_bank": 1.0
+  },
+  "bayesian_context": {
+    "bancs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "inclou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "agents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "borsa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cartel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "banana_split": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "tres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "royal_bank": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "of": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "scotland": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "rbs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "citigroup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "jpmorgan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/barclays.json"
+}

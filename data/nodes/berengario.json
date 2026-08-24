@@ -1,0 +1,28 @@
+{
+  "concept": "berengario",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "aldebert": 0.5,
+    "aventurer": 0.5
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "fill": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "aldebert": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "aventurer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/berengario.json"
+}

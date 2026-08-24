@@ -1,0 +1,47 @@
+{
+  "concept": "baruch_braunstein",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "archivo": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "publicades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "troballes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "archivo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "historico": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "nacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "madrid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "usa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/baruch_braunstein.json"
+}

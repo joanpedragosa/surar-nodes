@@ -1,0 +1,31 @@
+{
+  "concept": "beneficiaria",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "politica": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "mas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "politica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "negociada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "parts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/beneficiaria.json"
+}

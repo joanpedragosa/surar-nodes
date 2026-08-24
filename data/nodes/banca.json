@@ -1,0 +1,31 @@
+{
+  "concept": "banca",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "municipal": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "taula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.22
+    },
+    "canvis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "deposits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "municipal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/banca.json"
+}
