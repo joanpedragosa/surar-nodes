@@ -1,0 +1,19 @@
+{
+  "concept": "consensuar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "comunicat": 1.0
+  },
+  "bayesian_context": {
+    "comunicat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "urgell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/consensuar.json"
+}

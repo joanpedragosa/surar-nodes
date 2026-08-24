@@ -1,0 +1,27 @@
+{
+  "concept": "contradiu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "decisio": 1.0
+  },
+  "bayesian_context": {
+    "decisio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "tjue": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/contradiu.json"
+}

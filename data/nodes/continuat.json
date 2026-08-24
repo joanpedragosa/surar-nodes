@@ -1,0 +1,52 @@
+{
+  "concept": "continuat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "davallant": 0.5,
+    "creixent": 0.5
+  },
+  "bayesian_context": {
+    "passat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "xifra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "individus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "aurea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "davallant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "creixent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "capital": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "espanyola": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "concentracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "poder": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/continuat.json"
+}

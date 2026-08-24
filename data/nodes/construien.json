@@ -1,0 +1,91 @@
+{
+  "concept": "construien",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "treballadors": 0.2,
+    "tancs": 0.2,
+    "cases": 0.2,
+    "grecs": 0.2,
+    "catedrals": 0.2
+  },
+  "bayesian_context": {
+    "creien": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.67
+    },
+    "treballadors": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.1
+    },
+    "tancs": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.72
+    },
+    "diposits": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.72
+    },
+    "aigua": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.89
+    },
+    "mobils": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.93
+    },
+    "cases": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "maons": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "tova": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "grecs": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "sostenir": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "sostre": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "arcs": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "cupules": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "estil": {
+      "likelihood": 0.02,
+      "posterior_boost": 3.81
+    },
+    "catedrals": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "primer": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.08
+    },
+    "romanic": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "gotic": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/construien.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "connectivitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "bluetooth": 1.0
+  },
+  "bayesian_context": {
+    "millora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "codec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "aptx": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "bluetooth": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/connectivitat.json"
+}

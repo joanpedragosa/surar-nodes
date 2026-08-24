@@ -1,0 +1,39 @@
+{
+  "concept": "contramanifestacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "independentista": 1.0
+  },
+  "bayesian_context": {
+    "constancia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "interior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "ajornes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "concentracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "falangista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "independentista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/contramanifestacio.json"
+}

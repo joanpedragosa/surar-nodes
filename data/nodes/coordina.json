@@ -1,0 +1,44 @@
+{
+  "concept": "coordina",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "programes": 0.5,
+    "pacte_nacional": 0.5
+  },
+  "bayesian_context": {
+    "programes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "donacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "trasplantaments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "teresa_pont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pacte_nacional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "referendum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "joan_ignasi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "elena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/coordina.json"
+}

@@ -1,0 +1,48 @@
+{
+  "concept": "conservada",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "museu": 0.5,
+    "pintura": 0.5
+  },
+  "bayesian_context": {
+    "unica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "taula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.92
+    },
+    "museu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "catedralici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    },
+    "pietat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "pintura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "epoca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "mnac": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/conservada.json"
+}

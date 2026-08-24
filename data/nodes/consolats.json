@@ -1,0 +1,43 @@
+{
+  "concept": "consolats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "algeria": 1.0
+  },
+  "bayesian_context": {
+    "convocaran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "manifestacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "demanar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "llibertat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "louisa_hanoune": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "davant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "ambaixades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "algeria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/consolats.json"
+}

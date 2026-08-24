@@ -1,0 +1,139 @@
+{
+  "concept": "conveni",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "renfe": 0.2,
+    "mobilitat": 0.2,
+    "decada": 0.2,
+    "recomana": 0.2,
+    "drets": 0.2
+  },
+  "bayesian_context": {
+    "incomplint": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "ultim": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "renfe": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "possibilitara": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "implantar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "tren": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "llevant": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "tramvia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "palma": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "mobilitat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "sostenible": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "signar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.95
+    },
+    "dos": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.98
+    },
+    "governs": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "decada": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.84
+    },
+    "financar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "infraestructures": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "transport": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "salari": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "minim": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "recomana": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "preacord": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "euros": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "anuals": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "dret": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.48
+    },
+    "tutela": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "article": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.56
+    },
+    "drets": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.7
+    },
+    "humans": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.84
+    },
+    "judici": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.74
+    },
+    "just": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/conveni.json"
+}

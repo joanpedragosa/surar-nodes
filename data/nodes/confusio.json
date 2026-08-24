@@ -1,0 +1,27 @@
+{
+  "concept": "confusio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "martino": 1.0
+  },
+  "bayesian_context": {
+    "interroguen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "capita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "ernestina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "martino": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/confusio.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "contagiat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "coronavirus": 1.0
+  },
+  "bayesian_context": {
+    "coronavirus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "presons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "cinc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "presos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "sis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "funcionaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/contagiat.json"
+}

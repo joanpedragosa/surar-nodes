@@ -1,0 +1,35 @@
+{
+  "concept": "convertissin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sessions": 1.0
+  },
+  "bayesian_context": {
+    "demanat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "paluzie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sessions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "suprem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "eina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "denuncia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/convertissin.json"
+}

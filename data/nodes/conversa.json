@@ -1,0 +1,134 @@
+{
+  "concept": "conversa",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "twitter": 0.25,
+    "campanar": 0.25,
+    "policia": 0.25,
+    "telefonica": 0.25
+  },
+  "bayesian_context": {
+    "afegit": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "twitter": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "mantenia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "catedratic": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "economia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.93
+    },
+    "seguidora": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "vila": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "campanar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "guaytant": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "cap": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.93
+    },
+    "amunt": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "lluna": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.0
+    },
+    "boyrina": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "pot": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.05
+    },
+    "haver": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.28
+    },
+    "obtingut": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "policia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.74
+    },
+    "espanyola": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.48
+    },
+    "guardia_civil": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "comentaris": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "fa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.1
+    },
+    "salvado": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "telefonica": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "masclistes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "racistes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "podran": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "assistir": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "avui": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "subscriptors": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "vilaweb": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/conversa.json"
+}

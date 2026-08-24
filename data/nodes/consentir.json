@@ -1,0 +1,35 @@
+{
+  "concept": "consentir",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "espanya": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "espanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "perdre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "gallina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "ous": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "or": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/consentir.json"
+}

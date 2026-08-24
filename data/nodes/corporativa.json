@@ -1,0 +1,59 @@
+{
+  "concept": "corporativa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "principat": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "argument": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "caixabank": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "banc_sabadell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "traslladar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "principat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "canvis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "diposits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "particulars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "traslladaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "madrid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "franja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/corporativa.json"
+}

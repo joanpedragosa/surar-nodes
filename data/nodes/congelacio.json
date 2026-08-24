@@ -1,0 +1,94 @@
+{
+  "concept": "congelacio",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "parcial": 0.25,
+    "lloguers": 0.25,
+    "hivern": 0.25,
+    "dissolucio": 0.25
+  },
+  "bayesian_context": {
+    "parcial": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "prorrogat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "consell_general": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "andorra": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.75
+    },
+    "lloguers": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "realitza": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "detectar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "afegit": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "aigua": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.59
+    },
+    "determinacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "temperatura": {
+      "likelihood": 0.02,
+      "posterior_boost": 4.34
+    },
+    "estacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.63
+    },
+    "menor": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "variacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "hivern": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "disminueix": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "dissolucio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "mesura": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.77
+    },
+    "augmenta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "molalitat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/congelacio.json"
+}
