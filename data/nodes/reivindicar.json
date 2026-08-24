@@ -1,0 +1,64 @@
+{
+  "concept": "reivindicar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "inici": 0.5,
+    "gloriana": 0.5
+  },
+  "bayesian_context": {
+    "inici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "acte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "entrega": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "premis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "llibertat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "presos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "politics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "retorn": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "exiliats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "gloriana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "decades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "tard": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reivindicar.json"
+}

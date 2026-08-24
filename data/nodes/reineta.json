@@ -1,0 +1,71 @@
+{
+  "concept": "reineta",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "gegant": 1.0
+  },
+  "bayesian_context": {
+    "longevitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "gegant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "llarga": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "passat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "gran": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "part": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "habitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "natural": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "destruit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "facil": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "cuidar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "dieta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "variada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "resistent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "malalties": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reineta.json"
+}

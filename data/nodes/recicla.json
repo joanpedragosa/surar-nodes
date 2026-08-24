@@ -1,0 +1,35 @@
+{
+  "concept": "recicla",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "parts": 1.0
+  },
+  "bayesian_context": {
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "parts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "aureliano": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "il_barbiere": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "di": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "siviglia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/recicla.json"
+}

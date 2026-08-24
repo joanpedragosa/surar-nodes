@@ -1,0 +1,35 @@
+{
+  "concept": "reggio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "calabria": 1.0
+  },
+  "bayesian_context": {
+    "convertit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "guerrers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "riace": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "simbols": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "calabria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reggio.json"
+}

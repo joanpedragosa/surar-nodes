@@ -1,0 +1,150 @@
+{
+  "concept": "renfe",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "comissions_obreres": 0.25,
+    "intransigent": 0.25,
+    "donaran": 0.25,
+    "adif": 0.25
+  },
+  "bayesian_context": {
+    "convocat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    },
+    "vaga": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.65
+    },
+    "comissions_obreres": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "incomplint": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "ultim": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "conveni": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "postura": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "diu": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.99
+    },
+    "ccoo": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "mante": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "intransigent": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "percentatge": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.9
+    },
+    "trens": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "rodalies": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "regionals": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "donaran": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "servici": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "dia": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.38
+    },
+    "dona_treballadora": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "entitats": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "dependents": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "espanyol": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.35
+    },
+    "retirar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "banc_sabadell": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "quantitats": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "importants": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.81
+    },
+    "diners": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "sol": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.33
+    },
+    "segons": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.82
+    },
+    "diari": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.75
+    },
+    "ara": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.78
+    },
+    "adif": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "ports": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "rtve": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/renfe.json"
+}

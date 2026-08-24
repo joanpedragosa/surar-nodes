@@ -1,0 +1,39 @@
+{
+  "concept": "reforcada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "necessita": 1.0
+  },
+  "bayesian_context": {
+    "majoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "necessita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    },
+    "terceres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "parts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "diputats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.22
+    },
+    "parlament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reforcada.json"
+}

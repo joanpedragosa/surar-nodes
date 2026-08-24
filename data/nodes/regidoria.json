@@ -1,0 +1,52 @@
+{
+  "concept": "regidoria",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tenia": 0.5,
+    "marc_serra": 0.5
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "ribas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "salut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "participacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "atencio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "persones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.64
+    },
+    "capdavant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "marc_serra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "drets": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "ciutadania": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/regidoria.json"
+}

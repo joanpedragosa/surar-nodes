@@ -1,0 +1,75 @@
+{
+  "concept": "reconstruir",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "escena": 0.2,
+    "edifici": 0.2,
+    "segle": 0.2,
+    "columnes": 0.2,
+    "augustus_pugin": 0.2
+  },
+  "bayesian_context": {
+    "escena": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.43
+    },
+    "faltava": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "philip_gossett": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "edifici": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.69
+    },
+    "papa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "sixt": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "iii": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.85
+    },
+    "capella": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "segle": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.07
+    },
+    "xiv": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "arles": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "columnes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "palau": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.89
+    },
+    "augustus_pugin": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "westminster": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reconstruir.json"
+}

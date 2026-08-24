@@ -1,0 +1,43 @@
+{
+  "concept": "reclams",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "hora": 1.0
+  },
+  "bayesian_context": {
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "grans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "hora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "viatjar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "tastar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cuina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "lloc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "viatja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reclams.json"
+}

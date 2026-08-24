@@ -1,0 +1,60 @@
+{
+  "concept": "reemplaca",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "lemur": 0.5,
+    "lamprofirs": 0.5
+  },
+  "bayesian_context": {
+    "lemur": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "mostela": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "dents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "petites": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "partir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "riu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "manampatrana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "james": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "terme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "lamprofirs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "ultramafics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "melilitics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reemplaca.json"
+}

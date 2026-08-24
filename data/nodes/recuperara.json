@@ -1,0 +1,35 @@
+{
+  "concept": "recuperara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mercat": 1.0
+  },
+  "bayesian_context": {
+    "estimen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "empresaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "mercat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "exterior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "segon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "semestre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/recuperara.json"
+}
