@@ -1,0 +1,35 @@
+{
+  "concept": "horrach",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fiscalia": 1.0
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "anomenar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "fiscalia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "tribunal_superior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "justicia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "illes_balears": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/horrach.json"
+}

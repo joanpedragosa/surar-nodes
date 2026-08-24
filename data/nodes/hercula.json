@@ -1,0 +1,27 @@
+{
+  "concept": "hercula",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "via": 1.0
+  },
+  "bayesian_context": {
+    "via": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.98
+    },
+    "surt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "porta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "sepulcres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hercula.json"
+}

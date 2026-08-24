@@ -1,0 +1,39 @@
+{
+  "concept": "horta",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "valencia": 1.0
+  },
+  "bayesian_context": {
+    "declarat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "sipam": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "regadiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "historic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "valencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "construir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "sant_joan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/horta.json"
+}

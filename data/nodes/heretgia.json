@@ -1,0 +1,27 @@
+{
+  "concept": "heretgia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "adopcionista": 1.0
+  },
+  "bayesian_context": {
+    "defensava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "adopcionista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "felix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "urgell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/heretgia.json"
+}

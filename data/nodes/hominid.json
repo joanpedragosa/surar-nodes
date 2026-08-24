@@ -1,0 +1,31 @@
+{
+  "concept": "hominid",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "guanyar": 1.0
+  },
+  "bayesian_context": {
+    "guanyar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "sobrenom": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "hobbit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "homo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "floresiensis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hominid.json"
+}

@@ -1,0 +1,43 @@
+{
+  "concept": "hotels_internacional",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "primer": 1.0
+  },
+  "bayesian_context": {
+    "benefici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "net": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "obtenir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "melia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "semestre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "milions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hotels_internacional.json"
+}

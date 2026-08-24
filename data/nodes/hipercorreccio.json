@@ -1,0 +1,39 @@
+{
+  "concept": "hipercorreccio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "politica": 1.0
+  },
+  "bayesian_context": {
+    "advertir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "centre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "belga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "igualtat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "oportunitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "sobrereaccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "politica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hipercorreccio.json"
+}

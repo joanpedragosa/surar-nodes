@@ -1,0 +1,23 @@
+{
+  "concept": "hawaians",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "poi_bowl": 1.0
+  },
+  "bayesian_context": {
+    "terra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "preferida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "poi_bowl": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hawaians.json"
+}

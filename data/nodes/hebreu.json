@@ -1,0 +1,44 @@
+{
+  "concept": "hebreu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "jueus": 0.5,
+    "grec": 0.5
+  },
+  "bayesian_context": {
+    "consideren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "alterat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "jueus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "edicions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "biblia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "editar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "la_compagnie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "grec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hebreu.json"
+}

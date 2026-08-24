@@ -1,0 +1,27 @@
+{
+  "concept": "homenatjara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sabadell": 1.0
+  },
+  "bayesian_context": {
+    "sabadell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "escriptor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "joan_oliver": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sallares": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/homenatjara.json"
+}

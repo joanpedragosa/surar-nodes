@@ -1,0 +1,91 @@
+{
+  "concept": "hospitalitzacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "malaltia": 1.0
+  },
+  "bayesian_context": {
+    "destinat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "retaule": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.69
+    },
+    "capella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "trobava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "final": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "sala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "suposits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "article": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "reglament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "permeten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "delegar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "vot": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "baixa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "maternitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "paternitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "malaltia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "greu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "incapacitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "perllongada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hospitalitzacio.json"
+}

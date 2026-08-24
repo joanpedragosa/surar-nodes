@@ -1,0 +1,27 @@
+{
+  "concept": "henri_dutrochet",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "osmosi": 1.0
+  },
+  "bayesian_context": {
+    "descobrir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "osmosi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "membranes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "semipermeables": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/henri_dutrochet.json"
+}

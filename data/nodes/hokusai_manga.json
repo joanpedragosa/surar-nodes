@@ -1,0 +1,47 @@
+{
+  "concept": "hokusai_manga",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vida": 1.0
+  },
+  "bayesian_context": {
+    "mostra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "autor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "vida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "diaria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "vila": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "gran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "exactitud": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sentit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "humor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hokusai_manga.json"
+}

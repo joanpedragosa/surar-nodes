@@ -1,0 +1,47 @@
+{
+  "concept": "heiji",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "kiyomori": 1.0
+  },
+  "bayesian_context": {
+    "enfrontar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "yoshitomo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "rebel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "lio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "kiyomori": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "produir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "enfrontament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "conegut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/heiji.json"
+}

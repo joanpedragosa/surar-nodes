@@ -1,0 +1,80 @@
+{
+  "concept": "hauriem",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "voler": 0.5,
+    "descartar": 0.5
+  },
+  "bayesian_context": {
+    "voler": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "poder": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "tortuga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "especie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "participar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "projecte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.9
+    },
+    "cria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "enten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "pere_aragones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "concentracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "escenari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "descartar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "entrada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "podriem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "avaluar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hauriem.json"
+}

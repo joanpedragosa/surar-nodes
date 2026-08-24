@@ -1,0 +1,27 @@
+{
+  "concept": "hernan",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cortes": 1.0
+  },
+  "bayesian_context": {
+    "arribar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "cortes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "mexic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hernan.json"
+}
