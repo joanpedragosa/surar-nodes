@@ -1,0 +1,73 @@
+{
+  "concept": "infancia",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "siria": 0.3333,
+    "rue_saint": 0.3333,
+    "adolescencia": 0.3333
+  },
+  "bayesian_context": {
+    "portaveu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "fons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "nacions_unides": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "siria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "kieran_dwyer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "passar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "rue_saint": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "georges": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "edat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    },
+    "aplicable": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "llei": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.51
+    },
+    "proteccio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "adolescencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "zero": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "anys": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/infancia.json"
+}

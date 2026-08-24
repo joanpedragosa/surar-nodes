@@ -1,0 +1,33 @@
+{
+  "concept": "immunoglobulines",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "proteines": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "poden": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "travessar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "barrera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "mamaria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "especial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/immunoglobulines.json"
+}

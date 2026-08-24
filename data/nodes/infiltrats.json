@@ -1,0 +1,35 @@
+{
+  "concept": "infiltrats",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "hagi": 1.0
+  },
+  "bayesian_context": {
+    "ple": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "policies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "volen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "hagi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "gran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "merder": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/infiltrats.json"
+}

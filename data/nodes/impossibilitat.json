@@ -1,0 +1,31 @@
+{
+  "concept": "impossibilitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "resoldre": 1.0
+  },
+  "bayesian_context": {
+    "plantejat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "defensa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "tribunal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "resoldre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "avui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/impossibilitat.json"
+}

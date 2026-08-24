@@ -1,0 +1,48 @@
+{
+  "concept": "incompliment",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "reglament": 0.5,
+    "acords": 0.5
+  },
+  "bayesian_context": {
+    "volien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "avalar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pp": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "reglament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "parlament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.67
+    },
+    "acords": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "sembla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "produir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "octubre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/incompliment.json"
+}

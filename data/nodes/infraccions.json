@@ -1,0 +1,35 @@
+{
+  "concept": "infraccions",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "reglament": 1.0
+  },
+  "bayesian_context": {
+    "sancionar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "iaff": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "atletisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "rus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "reglament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "antidopatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/infraccions.json"
+}

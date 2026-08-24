@@ -1,0 +1,43 @@
+{
+  "concept": "impugnat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "recurs": 1.0
+  },
+  "bayesian_context": {
+    "recurs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "cassacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "presentat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "joves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "altsasu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "fiscalia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/impugnat.json"
+}

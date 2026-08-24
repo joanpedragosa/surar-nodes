@@ -1,0 +1,76 @@
+{
+  "concept": "incomplert",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "espanyol": 0.5,
+    "regles": 0.5
+  },
+  "bayesian_context": {
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "objectiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "deficit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "marcat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "brussel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "persones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.64
+    },
+    "determinat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "mossos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "esquadra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "regles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "confinament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "ultimes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "vint": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "quatre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "hores": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/incomplert.json"
+}

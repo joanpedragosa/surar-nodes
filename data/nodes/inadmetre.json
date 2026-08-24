@@ -1,0 +1,47 @@
+{
+  "concept": "inadmetre",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "recursos": 1.0
+  },
+  "bayesian_context": {
+    "condemnat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "tribunal_europeu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "drets_humans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "recursos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "empara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "presoners": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "bascs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inadmetre.json"
+}

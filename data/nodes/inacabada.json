@@ -1,0 +1,35 @@
+{
+  "concept": "inacabada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "publicar": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    },
+    "novel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "publicar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "cansada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inacabada.json"
+}

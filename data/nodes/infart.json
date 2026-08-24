@@ -1,0 +1,47 @@
+{
+  "concept": "infart",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "miocardiac": 1.0
+  },
+  "bayesian_context": {
+    "havien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "vint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "soldats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "joves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "miocardiac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "morts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "front": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/infart.json"
+}

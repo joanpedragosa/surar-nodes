@@ -1,0 +1,29 @@
+{
+  "concept": "impulso_ciudadano",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "organitzacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "demanat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "imposar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "mesures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "cautelars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/impulso_ciudadano.json"
+}

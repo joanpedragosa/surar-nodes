@@ -1,0 +1,67 @@
+{
+  "concept": "immunitaria",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "periferica": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.21
+    },
+    "segon": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.77
+    },
+    "tipus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.45
+    },
+    "tolerancia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "periferica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "promouen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "cel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "lules": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "dendritiques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "poden": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.55
+    },
+    "apareixer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "malalties": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "autoimmunitaries": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "falla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/immunitaria.json"
+}

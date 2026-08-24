@@ -1,0 +1,44 @@
+{
+  "concept": "incrementat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cap": 0.5,
+    "projectar": 0.5
+  },
+  "bayesian_context": {
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "setmana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "afluencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "veins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "projectar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "presa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "demanda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "electricitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/incrementat.json"
+}

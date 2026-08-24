@@ -1,0 +1,44 @@
+{
+  "concept": "injustament",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "edoardo": 0.5,
+    "esposa": 0.5
+  },
+  "bayesian_context": {
+    "empresonat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "edoardo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "corradino": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "acusen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "esposa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "fidel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "infidelitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/injustament.json"
+}

@@ -1,0 +1,247 @@
+{
+  "concept": "incorporar",
+  "frequency": 10,
+  "edges": [],
+  "markov_transitions": {
+    "pintura": 0.1,
+    "jaume_huguet": 0.2,
+    "moviment": 0.1,
+    "obligatoriament": 0.1,
+    "obres": 0.1,
+    "se": 0.1,
+    "persones": 0.1,
+    "tancs": 0.1,
+    "maquines": 0.1
+  },
+  "bayesian_context": {
+    "pintura": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.12
+    },
+    "dacio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "col": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.83
+    },
+    "leccio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.7
+    },
+    "torello": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "any": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.46
+    },
+    "jacomart": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "jaume_huguet": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "taller": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "deixebles": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "membres": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.59
+    },
+    "familia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.45
+    },
+    "vergos": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "causar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.8
+    },
+    "aparicio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "encreuament": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "ocasional": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "veus": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "certs": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "organums": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "moviment": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.31
+    },
+    "contrari": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "organum": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "obligatoriament": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "actuacions": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "judicials": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "segons": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.53
+    },
+    "sixte": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "gargante": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "dia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.79
+    },
+    "hora": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.24
+    },
+    "desnonament": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "obres": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.82
+    },
+    "materials": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.98
+    },
+    "pictorics": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "episcopal": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "obligat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "se": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.86
+    },
+    "alife": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "llista": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.33
+    },
+    "persones": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.94
+    },
+    "havien": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.14
+    },
+    "vinculades": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "altraveu": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "decidim": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "cup": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.4
+    },
+    "avenc": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "tancs": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.12
+    },
+    "sistemes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.98
+    },
+    "suspensio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.75
+    },
+    "licules": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.77
+    },
+    "maquines": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "podien": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.72
+    },
+    "activar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "monedes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.95
+    },
+    "peep": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "show": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/incorporar.json"
+}

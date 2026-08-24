@@ -1,0 +1,27 @@
+{
+  "concept": "immoble",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "conjunt": 1.0
+  },
+  "bayesian_context": {
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "conjunt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "casa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "amatller": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/immoble.json"
+}
