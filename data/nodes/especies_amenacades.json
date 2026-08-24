@@ -1,0 +1,39 @@
+{
+  "concept": "especies_amenacades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fauna": 1.0
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "entrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "vigor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "convencio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "comerc_internacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "fauna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "flora_salvatges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/especies_amenacades.json"
+}

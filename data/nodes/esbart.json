@@ -1,0 +1,52 @@
+{
+  "concept": "esbart",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "manquen": 0.5,
+    "intrusos": 0.5
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "cadells": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "integren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "resta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "manquen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "confianca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "defensen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "mascles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "femelles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "intrusos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/esbart.json"
+}

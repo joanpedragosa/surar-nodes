@@ -1,0 +1,56 @@
+{
+  "concept": "ero",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "caixabank": 0.5,
+    "plantejat": 0.5
+  },
+  "bayesian_context": {
+    "presentara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "caixabank": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "ajustar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "plantilla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "necessitats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "banc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "caracter": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "tindra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "plantejat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "ford": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "extintiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ero.json"
+}

@@ -1,0 +1,60 @@
+{
+  "concept": "esbrinar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vrt": 0.5,
+    "excavacio": 0.5
+  },
+  "bayesian_context": {
+    "poder": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "vrt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "analitzar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "converses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "gravades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "domicili": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "enregistrats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "excavacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "tractava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "sepultura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/esbrinar.json"
+}

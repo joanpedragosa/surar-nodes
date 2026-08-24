@@ -1,0 +1,43 @@
+{
+  "concept": "equiparar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "restitucio": 1.0
+  },
+  "bayesian_context": {
+    "cas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "restitucio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "artefactes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "imperi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "benin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "escultures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "parteno": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/equiparar.json"
+}

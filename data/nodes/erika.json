@@ -1,0 +1,53 @@
+{
+  "concept": "erika",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "anatol": 0.3333,
+    "festa": 0.3333,
+    "doctor": 0.3333
+  },
+  "bayesian_context": {
+    "empaita": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "anatol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "neguen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "baronessa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "festa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "passa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "doctor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "fa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.32
+    },
+    "anunci": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "desmaia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/erika.json"
+}

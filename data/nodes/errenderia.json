@@ -1,0 +1,29 @@
+{
+  "concept": "errenderia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "localitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "ciutadans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "acte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "electoral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/errenderia.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "entreguerres",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "martinů": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "figura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "important": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "teatre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "musical": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "periode": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "martinů": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/entreguerres.json"
+}

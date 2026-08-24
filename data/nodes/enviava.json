@@ -1,0 +1,35 @@
+{
+  "concept": "enviava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "missatge": 1.0
+  },
+  "bayesian_context": {
+    "missatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "pare": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "notificar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "noticia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "donava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "consentiment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/enviava.json"
+}

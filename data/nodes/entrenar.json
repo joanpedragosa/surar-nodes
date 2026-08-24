@@ -1,0 +1,40 @@
+{
+  "concept": "entrenar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tracey_menzies": 0.5,
+    "nick_gillard": 0.5
+  },
+  "bayesian_context": {
+    "passar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "thorpe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "tracey_menzies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "nick_gillard": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "liam_neeson": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ewan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mcgregor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/entrenar.json"
+}

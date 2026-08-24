@@ -1,0 +1,43 @@
+{
+  "concept": "equivalia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "imaginacio": 1.0
+  },
+  "bayesian_context": {
+    "imaginacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "giornalle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "delle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "due_sicilie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "influencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "musica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "alemanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "degenerada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/equivalia.json"
+}

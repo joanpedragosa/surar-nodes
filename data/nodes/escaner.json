@@ -1,0 +1,23 @@
+{
+  "concept": "escaner",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cap": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "marioneta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/escaner.json"
+}

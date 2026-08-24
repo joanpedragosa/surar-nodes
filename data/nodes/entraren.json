@@ -1,0 +1,44 @@
+{
+  "concept": "entraren",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "declivi": 0.5,
+    "francesos": 0.5
+  },
+  "bayesian_context": {
+    "animals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "declivi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "nord": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "america": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "ungulats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "francesos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "territori": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "rossellones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/entraren.json"
+}

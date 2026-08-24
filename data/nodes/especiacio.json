@@ -1,0 +1,43 @@
+{
+  "concept": "especiacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "migracions": 1.0
+  },
+  "bayesian_context": {
+    "causar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "maxim": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "termic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "mamifers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "augment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "taxa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "migracions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "efecte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/especiacio.json"
+}

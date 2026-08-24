@@ -1,0 +1,47 @@
+{
+  "concept": "esperant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "entrar": 1.0
+  },
+  "bayesian_context": {
+    "feien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "persones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "trobaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "banquetes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mann": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "chinese_theatre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "entrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "veure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "star_wars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/esperant.json"
+}

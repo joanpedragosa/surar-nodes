@@ -1,0 +1,39 @@
+{
+  "concept": "escarpes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "crater": 1.0
+  },
+  "bayesian_context": {
+    "atribueixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "fractures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "crater": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "caloris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "costat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "oposat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "planeta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/escarpes.json"
+}

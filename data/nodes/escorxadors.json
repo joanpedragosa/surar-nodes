@@ -1,0 +1,19 @@
+{
+  "concept": "escorxadors",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pell": 1.0
+  },
+  "bayesian_context": {
+    "arrenquen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "pell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/escorxadors.json"
+}
