@@ -1,0 +1,52 @@
+{
+  "concept": "torsio",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "determinar": 0.5,
+    "cap": 0.5
+  },
+  "bayesian_context": {
+    "dissenyar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "construir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "john_michell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "balanca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "finalitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "determinar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "densitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "mitjana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "terra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "cap": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/torsio.json"
+}

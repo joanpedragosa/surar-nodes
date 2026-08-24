@@ -1,0 +1,80 @@
+{
+  "concept": "territorial",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "directe": 0.5,
+    "comtat": 0.5
+  },
+  "bayesian_context": {
+    "oferira": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "nova": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.79
+    },
+    "temporada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "graella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "xarxa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "comunicacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "local": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "partits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "futbol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "directe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "participara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "gracies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "posicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "estrategica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "expansio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "comtat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/territorial.json"
+}

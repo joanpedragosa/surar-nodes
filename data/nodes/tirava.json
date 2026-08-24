@@ -1,0 +1,39 @@
+{
+  "concept": "tirava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "avall": 1.0
+  },
+  "bayesian_context": {
+    "avall": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "discurs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "felipe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "vi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "qualsevol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "possibilitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "dialeg": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tirava.json"
+}

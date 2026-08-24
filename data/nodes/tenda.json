@@ -1,0 +1,52 @@
+{
+  "concept": "tenda",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "productes": 0.5,
+    "mont": 0.5
+  },
+  "bayesian_context": {
+    "poden": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "comprar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "productes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "botiga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "vilaweb": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "internet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "plantar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "oliveres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tenda.json"
+}

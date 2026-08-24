@@ -1,0 +1,27 @@
+{
+  "concept": "toro",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "propis": 1.0
+  },
+  "bayesian_context": {
+    "ocupat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "guillermo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "propis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "projectes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/toro.json"
+}

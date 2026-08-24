@@ -1,0 +1,52 @@
+{
+  "concept": "telefoniques",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "psc": 0.5,
+    "pedro": 0.5
+  },
+  "bayesian_context": {
+    "denunciar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "rebut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "amenaces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "psc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "mantingut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "comunicacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pedro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "sanchez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "pablo_iglesias": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "tarda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/telefoniques.json"
+}

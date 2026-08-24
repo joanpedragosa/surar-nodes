@@ -1,0 +1,27 @@
+{
+  "concept": "tivoli",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "passeig": 1.0
+  },
+  "bayesian_context": {
+    "passeig": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.28
+    },
+    "situar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "jardins": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "gracia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tivoli.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "tonica",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "subdominant": 1.0
+  },
+  "bayesian_context": {
+    "basada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "harmonia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "musica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "classica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "cadencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "subdominant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "dominant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tonica.json"
+}

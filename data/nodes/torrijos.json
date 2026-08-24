@@ -1,0 +1,31 @@
+{
+  "concept": "torrijos",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "alcaraz": 1.0
+  },
+  "bayesian_context": {
+    "localitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "comprar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "larix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "piedralaves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "alcaraz": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/torrijos.json"
+}

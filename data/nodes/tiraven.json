@@ -1,0 +1,43 @@
+{
+  "concept": "tiraven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cossos": 1.0
+  },
+  "bayesian_context": {
+    "cossos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "seguretat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "manifestants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "violents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "pedres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "objectes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "coctels": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "molotov": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tiraven.json"
+}

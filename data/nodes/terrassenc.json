@@ -1,0 +1,55 @@
+{
+  "concept": "terrassenc",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "portant": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "aconseguir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "organisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "portant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "consell_general": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "cambres": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.42
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "postura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "unitaria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "comerc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "catalanes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/terrassenc.json"
+}

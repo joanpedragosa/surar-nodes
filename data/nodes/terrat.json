@@ -1,0 +1,134 @@
+{
+  "concept": "terrat",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "closca": 0.2,
+    "barana": 0.2,
+    "casa": 0.4,
+    "museu": 0.2
+  },
+  "bayesian_context": {
+    "sembla": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.72
+    },
+    "costat": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.85
+    },
+    "interior": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.69
+    },
+    "fa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.1
+    },
+    "barana": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.15
+    },
+    "closca": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "cranc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "finestra": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "situada": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "porta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.44
+    },
+    "acces": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "traceria": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "divideix": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "centre": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.46
+    },
+    "casa": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.7
+    },
+    "batllo": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.67
+    },
+    "lluernes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "patis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "interiors": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "construit": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "arcs": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "parabolics": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "golfes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "penjar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "bombers": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "pancarta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "setembre": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.53
+    },
+    "museu": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.61
+    },
+    "historia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.47
+    },
+    "catalunya": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.93
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/terrat.json"
+}

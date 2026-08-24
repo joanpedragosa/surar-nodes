@@ -1,0 +1,27 @@
+{
+  "concept": "torosaures",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "exemplars": 1.0
+  },
+  "bayesian_context": {
+    "reclassificar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "exemplars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "triceratop": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "john_scannella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/torosaures.json"
+}

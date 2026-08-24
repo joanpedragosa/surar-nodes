@@ -1,0 +1,539 @@
+{
+  "concept": "terres",
+  "frequency": 21,
+  "edges": [],
+  "markov_transitions": {
+    "senia": 0.1,
+    "ebre": 0.15,
+    "fertils": 0.05,
+    "recursos_naturals": 0.05,
+    "corona": 0.05,
+    "conrear": 0.05,
+    "restes": 0.05,
+    "regio": 0.05,
+    "castellanes": 0.05,
+    "agricoles": 0.05,
+    "catalanes": 0.05,
+    "rialb": 0.05,
+    "lleida": 0.05,
+    "rares": 0.05,
+    "actual": 0.05,
+    "permetia": 0.05,
+    "volcaniques": 0.05
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0016,
+      "posterior_boost": 1.95
+    },
+    "terratremols": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "succeir": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.8
+    },
+    "senia": {
+      "likelihood": 0.0032,
+      "posterior_boost": 4.7
+    },
+    "any": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.16
+    },
+    "mes": {
+      "likelihood": 0.0016,
+      "posterior_boost": 1.93
+    },
+    "cinc": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.81
+    },
+    "cents": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.59
+    },
+    "transformacio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "ebre": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "darrera": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.53
+    },
+    "decada": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.21
+    },
+    "gran": {
+      "likelihood": 0.0032,
+      "posterior_boost": 2.69
+    },
+    "feren": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "dics": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "construiren": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "flandes": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.7
+    },
+    "drenaren": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "aigues": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.62
+    },
+    "mar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.0
+    },
+    "convertiren": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "zones": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.31
+    },
+    "aiguamolls": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "fertils": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "preparar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.8
+    },
+    "departament": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.21
+    },
+    "recursos_naturals": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "pla": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.97
+    },
+    "gestio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.8
+    },
+    "inicial": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.47
+    },
+    "fer": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.04
+    },
+    "pere": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.32
+    },
+    "cerimonios": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "reincorpora": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "corona": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.36
+    },
+    "mallorca": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.32
+    },
+    "arago": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.56
+    },
+    "havien": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.12
+    },
+    "provocat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.7
+    },
+    "obres": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.51
+    },
+    "carrer": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.08
+    },
+    "llobregat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "moviment": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.99
+    },
+    "rebre": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.06
+    },
+    "visigots": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.96
+    },
+    "segons": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.22
+    },
+    "filostorgi": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "vitualles": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "necessitaven": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "conrear": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "trobar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.67
+    },
+    "remoure": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "restes": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.24
+    },
+    "ceramiques": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "iberiques": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "fet": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.52
+    },
+    "disminueixi": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "extensio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "habitat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.56
+    },
+    "rosegador": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "adquisicio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "regio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.34
+    },
+    "augmentat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.62
+    },
+    "causa": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.85
+    },
+    "demanda": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.56
+    },
+    "habitatges": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.75
+    },
+    "estiueig": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "expansio": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.75
+    },
+    "cafeicultura": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "produit": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.53
+    },
+    "canvi": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.08
+    },
+    "sociologic": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "profund": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "neixer": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.05
+    },
+    "castellanes": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "treballava": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.86
+    },
+    "nombre": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.01
+    },
+    "esclaus": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.75
+    },
+    "mines": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "agricoles": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "desenvolupa": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.62
+    },
+    "conflicte": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.26
+    },
+    "majoritariament": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.8
+    },
+    "catalanes": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.7
+    },
+    "incloia": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.86
+    },
+    "primer": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.47
+    },
+    "terme": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.9
+    },
+    "gualter": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "rialb": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.93
+    },
+    "plataforma": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.34
+    },
+    "portaveu": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.36
+    },
+    "evelio_monfort": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "plataforma_ciutadana": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "defensa": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.1
+    },
+    "paper": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.88
+    },
+    "se": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.71
+    },
+    "atorgat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.1
+    },
+    "historicament": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.0
+    },
+    "enllac": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "principat": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.5
+    },
+    "regne": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.53
+    },
+    "catalunya": {
+      "likelihood": 0.0032,
+      "posterior_boost": 2.62
+    },
+    "pais_valencia": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.29
+    },
+    "projecte": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.19
+    },
+    "senten": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "identificats": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "cercle": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.56
+    },
+    "podem": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.74
+    },
+    "lleida": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.4
+    },
+    "actual": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.5
+    },
+    "podemos": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "minerals": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.7
+    },
+    "troba": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.81
+    },
+    "fluorita": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.86
+    },
+    "vegades": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.15
+    },
+    "rares": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "desplacant": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "darrers": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.75
+    },
+    "anys": {
+      "likelihood": 0.0016,
+      "posterior_boost": 2.25
+    },
+    "provenca": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "hispania": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "permetia": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.8
+    },
+    "ocupar": {
+      "likelihood": 0.0016,
+      "posterior_boost": 3.59
+    },
+    "aquitania_secunda": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.7
+    },
+    "extreuen": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "volcaniques": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.23
+    },
+    "parc_nacional": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    },
+    "teide": {
+      "likelihood": 0.0016,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/terres.json"
+}

@@ -1,0 +1,23 @@
+{
+  "concept": "toni",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "galmes": 1.0
+  },
+  "bayesian_context": {
+    "autor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "estel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "galmes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/toni.json"
+}
