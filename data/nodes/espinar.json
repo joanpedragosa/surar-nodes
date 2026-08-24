@@ -1,0 +1,31 @@
+{
+  "concept": "espinar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "direccio": 1.0
+  },
+  "bayesian_context": {
+    "critica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "direccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "partit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "article": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    },
+    "eldiario": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/espinar.json"
+}

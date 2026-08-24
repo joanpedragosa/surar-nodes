@@ -1,0 +1,43 @@
+{
+  "concept": "eugene_scribe",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "enverinament": 1.0
+  },
+  "bayesian_context": {
+    "drama": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "adrienne_lecouvreur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ernest": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "legouve": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "adrienne": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "enverinament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eugene_scribe.json"
+}

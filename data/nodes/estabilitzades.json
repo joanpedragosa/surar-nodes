@@ -1,0 +1,31 @@
+{
+  "concept": "estabilitzades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "catifes": 1.0
+  },
+  "bayesian_context": {
+    "quedat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "catifes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "microbis": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.63
+    },
+    "presencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "colonies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estabilitzades.json"
+}

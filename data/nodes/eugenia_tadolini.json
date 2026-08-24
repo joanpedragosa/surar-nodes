@@ -1,0 +1,39 @@
+{
+  "concept": "eugenia_tadolini",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "segons": 1.0
+  },
+  "bayesian_context": {
+    "cantava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "verdi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "massa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "angel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "soprano": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "rebutjar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eugenia_tadolini.json"
+}

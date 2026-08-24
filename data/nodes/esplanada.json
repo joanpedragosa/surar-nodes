@@ -1,0 +1,39 @@
+{
+  "concept": "esplanada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "afores": 1.0
+  },
+  "bayesian_context": {
+    "placa": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.54
+    },
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "antigament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "afores": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "nucli": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "antic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/esplanada.json"
+}

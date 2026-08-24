@@ -1,0 +1,23 @@
+{
+  "concept": "estomacs",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "omnivors": 1.0
+  },
+  "bayesian_context": {
+    "mostren": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "continguts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "omnivors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estomacs.json"
+}

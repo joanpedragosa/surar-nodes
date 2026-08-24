@@ -1,0 +1,35 @@
+{
+  "concept": "evitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "reprovacio": 1.0
+  },
+  "bayesian_context": {
+    "reprovacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "borrell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "senat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "tenalla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "pp": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "psoe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/evitat.json"
+}

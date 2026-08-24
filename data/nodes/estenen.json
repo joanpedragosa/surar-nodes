@@ -1,0 +1,32 @@
+{
+  "concept": "estenen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mans": 0.5,
+    "sol": 0.5
+  },
+  "bayesian_context": {
+    "mans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "sol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.73
+    },
+    "tortugues": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "escalfar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estenen.json"
+}

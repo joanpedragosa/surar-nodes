@@ -1,0 +1,27 @@
+{
+  "concept": "eutectic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mescla": 1.0
+  },
+  "bayesian_context": {
+    "lletra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "representa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "punt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "mescla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eutectic.json"
+}

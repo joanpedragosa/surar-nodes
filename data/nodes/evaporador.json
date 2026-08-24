@@ -1,0 +1,120 @@
+{
+  "concept": "evaporador",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "relacio": 0.5,
+    "duhring": 0.5
+  },
+  "bayesian_context": {
+    "depen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "diferencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "temperatura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "condensacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "vapor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "ebullicio": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.25
+    },
+    "dissolucio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "velocitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "transmissio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "calor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "relacio": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.08
+    },
+    "necessitem": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "coneixer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "hora": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "realitzar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.59
+    },
+    "dissenys": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "modelitzacions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "funcionament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "existeix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "concentracio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "soluts": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "dissolvent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "grafics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "usen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "moment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.91
+    },
+    "dissenyar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "duhring": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/evaporador.json"
+}

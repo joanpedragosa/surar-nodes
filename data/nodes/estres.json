@@ -1,0 +1,108 @@
+{
+  "concept": "estres",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "posttraumatic": 0.5,
+    "ovelles": 0.5
+  },
+  "bayesian_context": {
+    "cortisol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "hormona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "pateix": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "depressio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "vetera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "segona_guerra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "mundial": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.99
+    },
+    "consequencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "trastorn": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "posttraumatic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "crida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "emeten": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "granotes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "gegants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "estan": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.22
+    },
+    "perill": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "mesures": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "preventives": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "fonamentals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "manteniment": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "bona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "nutricio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "reduccio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "ovelles": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estres.json"
+}

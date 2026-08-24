@@ -1,0 +1,35 @@
+{
+  "concept": "executives",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "bloc": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "representants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "institucionals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "abandonat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "bloc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "desena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/executives.json"
+}

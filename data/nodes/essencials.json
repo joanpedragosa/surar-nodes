@@ -1,0 +1,32 @@
+{
+  "concept": "essencials",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ports": 0.5,
+    "ions": 0.5
+  },
+  "bayesian_context": {
+    "ports": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "ocupacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "ions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "nervis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "musculs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/essencials.json"
+}

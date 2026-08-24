@@ -1,0 +1,39 @@
+{
+  "concept": "estalvi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mitjans": 1.0
+  },
+  "bayesian_context": {
+    "definit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "jurat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "blaus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "poesia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "descriptiva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mitjans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estalvi.json"
+}

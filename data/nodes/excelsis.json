@@ -1,0 +1,51 @@
+{
+  "concept": "excelsis",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sanctus": 1.0
+  },
+  "bayesian_context": {
+    "inscripcions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "figuren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "torre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "hosanna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "sanctus": {
+      "likelihood": 0.1,
+      "posterior_boost": 5.66
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "vegades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "estan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "repetides": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "tres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/excelsis.json"
+}

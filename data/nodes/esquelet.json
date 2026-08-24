@@ -1,0 +1,47 @@
+{
+  "concept": "esquelet",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "adult": 1.0
+  },
+  "bayesian_context": {
+    "custodiat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "adult": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "col": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "leccions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "museu_estatal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "hessen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "darmstadt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "trobat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/esquelet.json"
+}

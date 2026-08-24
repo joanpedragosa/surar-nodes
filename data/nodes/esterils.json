@@ -1,0 +1,47 @@
+{
+  "concept": "esterils",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "colonia": 1.0
+  },
+  "bayesian_context": {
+    "fan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "individus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "colonia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "duen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "terme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "tasques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "necessaries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "aprovisionament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/esterils.json"
+}

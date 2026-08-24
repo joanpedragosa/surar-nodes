@@ -1,0 +1,32 @@
+{
+  "concept": "evo_morales",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sedicio": 0.5,
+    "mexic": 0.5
+  },
+  "bayesian_context": {
+    "acusen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "sedicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "terrorisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "exiliat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "mexic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/evo_morales.json"
+}

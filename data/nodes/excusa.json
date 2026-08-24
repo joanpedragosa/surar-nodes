@@ -1,0 +1,31 @@
+{
+  "concept": "excusa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tribunal": 1.0
+  },
+  "bayesian_context": {
+    "tribunal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "posa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "tractar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "cas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "tecnica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.29
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/excusa.json"
+}

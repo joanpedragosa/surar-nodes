@@ -1,0 +1,31 @@
+{
+  "concept": "esperen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "refugiats": 1.0
+  },
+  "bayesian_context": {
+    "refugiats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "volen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "entrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "estacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "edifici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/esperen.json"
+}

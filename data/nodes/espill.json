@@ -1,0 +1,35 @@
+{
+  "concept": "espill",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "campanar": 1.0
+  },
+  "bayesian_context": {
+    "dona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "campanar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "guayta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "vall": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "aygua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/espill.json"
+}

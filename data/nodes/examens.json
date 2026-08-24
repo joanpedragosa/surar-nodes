@@ -1,0 +1,39 @@
+{
+  "concept": "examens",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "substitueixen": 1.0
+  },
+  "bayesian_context": {
+    "diuen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "substitueixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "prova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "acces": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.12
+    },
+    "universitat": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.83
+    },
+    "avaluacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "batxillerat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/examens.json"
+}

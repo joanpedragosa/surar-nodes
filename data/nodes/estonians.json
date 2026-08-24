@@ -1,0 +1,39 @@
+{
+  "concept": "estonians",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "arribi": 1.0
+  },
+  "bayesian_context": {
+    "desig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "manifestat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "diputats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.22
+    },
+    "arribi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "solucio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "pacifica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "dialogada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estonians.json"
+}
