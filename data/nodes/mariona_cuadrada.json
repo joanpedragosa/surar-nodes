@@ -1,0 +1,23 @@
+{
+  "concept": "mariona_cuadrada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cuiners": 1.0
+  },
+  "bayesian_context": {
+    "sergi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "meia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "cuiners": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mariona_cuadrada.json"
+}

@@ -1,0 +1,23 @@
+{
+  "concept": "manuel_ballarin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lancuentra": 1.0
+  },
+  "bayesian_context": {
+    "encarregar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "lancuentra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "forja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/manuel_ballarin.json"
+}

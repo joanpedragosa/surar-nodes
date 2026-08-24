@@ -1,0 +1,27 @@
+{
+  "concept": "marc_serra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "drets": 1.0
+  },
+  "bayesian_context": {
+    "capdavant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "regidoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "drets": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "ciutadania": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/marc_serra.json"
+}

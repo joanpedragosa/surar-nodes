@@ -1,0 +1,85 @@
+{
+  "concept": "mascota",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "leo": 0.3333,
+    "oficial": 0.3333,
+    "llop": 0.3333
+  },
+  "bayesian_context": {
+    "leo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "the": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "lion": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "estudis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "metro": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "goldwyn": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "mayer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "mgm": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "esdevingut": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "aurea": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "area": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "homebush_bay": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "oficial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "equip": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "criquet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "llop": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "marsupial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "tasmanian_tigers": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mascota.json"
+}

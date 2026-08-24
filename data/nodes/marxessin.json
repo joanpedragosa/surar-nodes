@@ -1,0 +1,52 @@
+{
+  "concept": "marxessin",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "amo": 0.5,
+    "acabar": 0.5
+  },
+  "bayesian_context": {
+    "demanar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "clientes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "amo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "hotel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "dir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "goodman": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "acabar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "dese": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "numero": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "captain_america": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/marxessin.json"
+}

@@ -1,0 +1,28 @@
+{
+  "concept": "mauri",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dia": 0.5,
+    "etiopia": 0.5
+  },
+  "bayesian_context": {
+    "enterrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "dia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "etiopia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mauri.json"
+}

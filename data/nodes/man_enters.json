@@ -1,0 +1,39 @@
+{
+  "concept": "man_enters",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "the": 1.0
+  },
+  "bayesian_context": {
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "the": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "cosmos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "rellotge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "bronze": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/man_enters.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "marta_rovira",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "roger_torrent": 1.0
+  },
+  "bayesian_context": {
+    "citada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "declarar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "juliol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "candidat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "roger_torrent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "puigdemont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/marta_rovira.json"
+}

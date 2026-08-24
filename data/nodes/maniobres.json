@@ -1,0 +1,52 @@
+{
+  "concept": "maniobres",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "militars": 0.5,
+    "enviant": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "dies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "trigaran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "militars": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "cinc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "avisaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "habitualment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "ajuntament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "enviant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fax": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/maniobres.json"
+}

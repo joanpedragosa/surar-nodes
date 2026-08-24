@@ -1,0 +1,33 @@
+{
+  "concept": "mecanic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "denunciar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "caporal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "mossos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "destinat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "tarragona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "taller": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mecanic.json"
+}

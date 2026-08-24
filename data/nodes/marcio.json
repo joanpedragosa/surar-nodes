@@ -1,0 +1,23 @@
+{
+  "concept": "marcio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cerdo": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "predecessor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "cerdo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/marcio.json"
+}

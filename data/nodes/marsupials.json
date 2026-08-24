@@ -1,0 +1,40 @@
+{
+  "concept": "marsupials",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "senzilla": 0.5,
+    "lleuger": 0.5
+  },
+  "bayesian_context": {
+    "placenta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "senzilla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "tenien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "llops": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "lleuger": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "dimorfisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "sexual": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/marsupials.json"
+}

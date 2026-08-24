@@ -1,0 +1,52 @@
+{
+  "concept": "maxims",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "accionistes": 0.5,
+    "dirigents": 0.5
+  },
+  "bayesian_context": {
+    "accionistes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "bpa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ramon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "higini_cierco": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "encapcalava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "manifestacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "dirigents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "estatals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "ccoo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "ugt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/maxims.json"
+}
