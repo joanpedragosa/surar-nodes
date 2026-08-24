@@ -1,0 +1,31 @@
+{
+  "concept": "diferenciava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "reportatge": 1.0
+  },
+  "bayesian_context": {
+    "reportatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "fotografic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "fotoperiodisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "fotografia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "documental": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/diferenciava.json"
+}

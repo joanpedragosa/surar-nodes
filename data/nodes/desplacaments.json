@@ -1,0 +1,27 @@
+{
+  "concept": "desplacaments",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "diputat": 1.0
+  },
+  "bayesian_context": {
+    "mitjana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "cost": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "diputat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desplacaments.json"
+}

@@ -1,0 +1,89 @@
+{
+  "concept": "directors",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "catalunya_radio": 0.5,
+    "girones": 0.25,
+    "avui": 0.25
+  },
+  "bayesian_context": {
+    "citat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "declarar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "jutjat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "barcelona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.04
+    },
+    "catalunya_radio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "representant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "junta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "girones": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "pla": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "estany": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "victor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "perez": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "inspiren": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "nombrosos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "avui": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.49
+    },
+    "dia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.18
+    },
+    "treball": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.75
+    },
+    "hitchcock": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "marc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.76
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/directors.json"
+}

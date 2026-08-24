@@ -1,0 +1,35 @@
+{
+  "concept": "digue",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "renee": 1.0
+  },
+  "bayesian_context": {
+    "revista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "renee": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "brilla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "hugh_grant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "irresistible": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "time": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/digue.json"
+}

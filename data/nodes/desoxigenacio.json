@@ -1,0 +1,39 @@
+{
+  "concept": "desoxigenacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "oceans": 1.0
+  },
+  "bayesian_context": {
+    "fets": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "provoquen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "oceans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "canvi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "climatic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "contaminacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "nutrients": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desoxigenacio.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "desinencies",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "usen": 1.0
+  },
+  "bayesian_context": {
+    "usen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "adjectius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "acabats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "er": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "errimus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "errima": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "errimum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desinencies.json"
+}

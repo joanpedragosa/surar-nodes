@@ -1,0 +1,51 @@
+{
+  "concept": "disney_stores",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "botigues": 1.0
+  },
+  "bayesian_context": {
+    "poder": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "comprar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "fans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "joguines": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "llibres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "roba": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "alta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "varietat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "productes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "botigues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/disney_stores.json"
+}

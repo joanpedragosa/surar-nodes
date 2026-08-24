@@ -1,0 +1,28 @@
+{
+  "concept": "dibuixa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pinta": 0.5,
+    "lipse": 0.5
+  },
+  "bayesian_context": {
+    "pinta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "periode": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "teixidors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "lipse": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dibuixa.json"
+}

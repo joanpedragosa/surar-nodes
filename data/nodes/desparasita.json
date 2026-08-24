@@ -1,0 +1,35 @@
+{
+  "concept": "desparasita",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "femella": 1.0
+  },
+  "bayesian_context": {
+    "femella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "fregant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "sorra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "fons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "mari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desparasita.json"
+}

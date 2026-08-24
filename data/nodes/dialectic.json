@@ -1,0 +1,31 @@
+{
+  "concept": "dialectic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "marx": 1.0
+  },
+  "bayesian_context": {
+    "formular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "teoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "materialisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "marx": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "engels": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dialectic.json"
+}

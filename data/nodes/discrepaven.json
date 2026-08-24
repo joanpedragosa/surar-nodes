@@ -1,0 +1,27 @@
+{
+  "concept": "discrepaven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "jxcat": 1.0
+  },
+  "bayesian_context": {
+    "jxcat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "erc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "pressupost": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "parlament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/discrepaven.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "desisteix",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "corradino": 1.0
+  },
+  "bayesian_context": {
+    "corradino": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "suicidar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "matilde": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "sortir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "edoardo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desisteix.json"
+}

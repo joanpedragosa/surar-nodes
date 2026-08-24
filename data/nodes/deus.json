@@ -1,0 +1,60 @@
+{
+  "concept": "deus",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "temples": 0.5,
+    "creien": 0.5
+  },
+  "bayesian_context": {
+    "creu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "enfadat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "lluna": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "propagar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "rapidament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "temples": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "rituals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "creien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "indigenes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "ocupacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "cartaginesa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "orientals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/deus.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "diplocat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "departament": 1.0
+  },
+  "bayesian_context": {
+    "departament": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.83
+    },
+    "adscrit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "afers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "relacions_institucionals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "exteriors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "transparencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/diplocat.json"
+}

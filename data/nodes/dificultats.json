@@ -1,0 +1,286 @@
+{
+  "concept": "dificultats",
+  "frequency": 10,
+  "edges": [],
+  "markov_transitions": {
+    "tecniques": 0.1111,
+    "trobar": 0.1111,
+    "companyies": 0.1111,
+    "economiques": 0.2222,
+    "financeres": 0.1111,
+    "respiratories": 0.1111,
+    "entendre": 0.1111,
+    "completar": 0.1111
+  },
+  "bayesian_context": {
+    "tecniques": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.75
+    },
+    "arribar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.11
+    },
+    "mercuri": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "significatives": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "continua": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.95
+    },
+    "treball": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.35
+    },
+    "plantin": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.12
+    },
+    "mostra": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.34
+    },
+    "trobar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.29
+    },
+    "pensament": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "avancat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "corona": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.68
+    },
+    "castella": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.63
+    },
+    "erasmisme": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "vicissituds": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "versara": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "consulta": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.66
+    },
+    "empresaris": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.12
+    },
+    "companyies": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "personal": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.75
+    },
+    "qualificat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "insatisfeta": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "poblacio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.48
+    },
+    "politics": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.15
+    },
+    "causa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.16
+    },
+    "corrupcio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.91
+    },
+    "economiques": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "estar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.36
+    },
+    "marcats": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "darrers": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.07
+    },
+    "anys": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.56
+    },
+    "tragedia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "financeres": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "impedir": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.03
+    },
+    "van_marum": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.07
+    },
+    "aconseguir": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.13
+    },
+    "financament": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.72
+    },
+    "experiments": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.77
+    },
+    "decada": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.53
+    },
+    "primera": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.85
+    },
+    "fa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.8
+    },
+    "app": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "stop_covid": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "cat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "simptomes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "febre": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "tos": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "continuada": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "persistent": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "respiratories": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "malestar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "general": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.29
+    },
+    "confessio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "fer": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.34
+    },
+    "maragall": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.66
+    },
+    "pere_bosch": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "carta": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.27
+    },
+    "escriure": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.98
+    },
+    "entendre": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "parla": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.98
+    },
+    "alemanya": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.41
+    },
+    "problema": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.7
+    },
+    "tenia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.78
+    },
+    "antonio_cera": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "trobava": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "completar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "temporada": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dificultats.json"
+}

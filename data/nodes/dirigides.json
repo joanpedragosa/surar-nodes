@@ -1,0 +1,35 @@
+{
+  "concept": "dirigides",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "preguntes": 1.0
+  },
+  "bayesian_context": {
+    "anaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "preguntes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "fet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.83
+    },
+    "pp": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "parlament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dirigides.json"
+}

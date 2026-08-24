@@ -1,0 +1,562 @@
+{
+  "concept": "dirigir",
+  "frequency": 33,
+  "edges": [],
+  "markov_transitions": {
+    "excavacions": 0.0625,
+    "serie": 0.0312,
+    "licula": 0.0312,
+    "sherlock_holmes": 0.0312,
+    "artificial_intelligence": 0.0312,
+    "actors": 0.0312,
+    "concert": 0.0312,
+    "opera": 0.0625,
+    "projecte": 0.0625,
+    "františek": 0.0312,
+    "estrena": 0.0312,
+    "obres": 0.0625,
+    "eduard": 0.0312,
+    "thelma": 0.0312,
+    "pla": 0.0312,
+    "seminari": 0.0312,
+    "imperi": 0.0312,
+    "cap": 0.0312,
+    "avui": 0.0312,
+    "personalment": 0.0312,
+    "the_winter": 0.0312,
+    "endurance": 0.0312,
+    "cecil_b": 0.0312,
+    "jaroslav_kvapil": 0.0312,
+    "mireia_ros": 0.0312,
+    "missa": 0.0312,
+    "desti": 0.0312,
+    "soldats": 0.0312
+  },
+  "bayesian_context": {
+    "excavacions": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.9
+    },
+    "alemanyes": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.9
+    },
+    "olimpia": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.9
+    },
+    "ernst_curtius": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "serie": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.94
+    },
+    "lluis_maria": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.21
+    },
+    "guell": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.21
+    },
+    "licula": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.12
+    },
+    "munich": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "steven_spielberg": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.03
+    },
+    "sherlock_holmes": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.81
+    },
+    "baffled": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.9
+    },
+    "arthur_marvin": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "artificial_intelligence": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "spielberg": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.47
+    },
+    "actors": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.66
+    },
+    "macbeth": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.81
+    },
+    "verdi": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.09
+    },
+    "concert": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.66
+    },
+    "segona": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.75
+    },
+    "temporada": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.23
+    },
+    "sebastian_weigle": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "opera": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.47
+    },
+    "paisos": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.91
+    },
+    "baixos": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.47
+    },
+    "hartmut_haenchen": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "projecte": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.99
+    },
+    "finalment": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.33
+    },
+    "marquand": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "františek": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.81
+    },
+    "neumann": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.9
+    },
+    "estrena": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.79
+    },
+    "der_zwerg": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.73
+    },
+    "colonia": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.43
+    },
+    "otto_klemperer": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "ser": {
+      "likelihood": 0.002,
+      "posterior_boost": 1.97
+    },
+    "obres": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.61
+    },
+    "casa": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.59
+    },
+    "batllo": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.55
+    },
+    "josep": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.43
+    },
+    "bayo": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.21
+    },
+    "considerat": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.05
+    },
+    "david_lynch": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "david_cronenberg": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "empuries": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.9
+    },
+    "emili_gandia": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "eduard": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "napravnik": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "thelma": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.36
+    },
+    "louise": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.36
+    },
+    "ridley_scott": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.9
+    },
+    "sadler": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "wells_opera": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "londres": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.17
+    },
+    "charles_mackerras": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "pla": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.77
+    },
+    "renovacio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.6
+    },
+    "infraestructures": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.6
+    },
+    "sant_ermengol": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.81
+    },
+    "bergman": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.51
+    },
+    "los_angeles": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.03
+    },
+    "seminari": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.21
+    },
+    "cinema": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.33
+    },
+    "lucas": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.33
+    },
+    "decidir": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.05
+    },
+    "imperi": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.36
+    },
+    "contraataca": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.21
+    },
+    "degut": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.9
+    },
+    "funcions": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.13
+    },
+    "productor": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.73
+    },
+    "cap": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.43
+    },
+    "civilitzacio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.47
+    },
+    "egipcia": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.73
+    },
+    "atencio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.3
+    },
+    "cientifica": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.9
+    },
+    "pot": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.25
+    },
+    "avui": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.59
+    },
+    "dia": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.57
+    },
+    "sol": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.52
+    },
+    "objectiu": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.93
+    },
+    "estatic": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "grans": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.77
+    },
+    "volums": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.9
+    },
+    "poder": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.59
+    },
+    "destructiu": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "fer": {
+      "likelihood": 0.001,
+      "posterior_boost": 1.86
+    },
+    "mozart": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.81
+    },
+    "representacio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.03
+    },
+    "noces": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.6
+    },
+    "figaro": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.33
+    },
+    "praga": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.43
+    },
+    "personalment": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "the_winter": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.51
+    },
+    "guest": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.51
+    },
+    "almeida_theatre": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.81
+    },
+    "endurance": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.21
+    },
+    "antartida": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.81
+    },
+    "jesus": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.89
+    },
+    "cecil_b": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "demille": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "rei": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.58
+    },
+    "reis": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.39
+    },
+    "jaroslav_kvapil": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "obra": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.04
+    },
+    "ginebra": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.55
+    },
+    "abril": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.75
+    },
+    "genere": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.02
+    },
+    "era": {
+      "likelihood": 0.001,
+      "posterior_boost": 1.81
+    },
+    "mireia_ros": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.21
+    },
+    "dramatica": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.73
+    },
+    "arquitecte": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.21
+    },
+    "josep_prat": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "delorta": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "visitar": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.51
+    },
+    "verdi_mila": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    },
+    "juny": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.82
+    },
+    "missa": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.33
+    },
+    "requiem": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.21
+    },
+    "funcio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.13
+    },
+    "benefici": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.6
+    },
+    "la_scala": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.6
+    },
+    "volien": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.95
+    },
+    "crear": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.65
+    },
+    "autoritat": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.73
+    },
+    "unica": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.21
+    },
+    "desti": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.66
+    },
+    "metro": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.02
+    },
+    "proposa": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.28
+    },
+    "soldats": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.09
+    },
+    "aragorn": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.21
+    },
+    "porta_negra": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.51
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dirigir.json"
+}

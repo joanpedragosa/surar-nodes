@@ -1,0 +1,523 @@
+{
+  "concept": "director",
+  "frequency": 27,
+  "edges": [],
+  "markov_transitions": {
+    "fotografia": 0.0769,
+    "centre": 0.0385,
+    "irvin_kershner": 0.0385,
+    "complex": 0.0385,
+    "vilaweb": 0.0769,
+    "enpetrol": 0.0385,
+    "presidenta": 0.0385,
+    "estrena": 0.0385,
+    "manuel_trens": 0.0385,
+    "opera": 0.0769,
+    "intel": 0.0385,
+    "cor": 0.0385,
+    "general": 0.1154,
+    "parcs": 0.0385,
+    "executiu": 0.0385,
+    "museu": 0.0385,
+    "galleria": 0.0385,
+    "cie": 0.0385,
+    "licula": 0.0385,
+    "novell": 0.0385,
+    "mitja": 0.0385
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "fotografia": {
+      "likelihood": 0.0025,
+      "posterior_boost": 3.75
+    },
+    "gilbert_taylor": {
+      "likelihood": 0.0025,
+      "posterior_boost": 4.59
+    },
+    "conversat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "cie": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.87
+    },
+    "advocat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.36
+    },
+    "organitzacio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.18
+    },
+    "tanquem": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "dos": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.26
+    },
+    "interns": {
+      "likelihood": 0.0025,
+      "posterior_boost": 3.72
+    },
+    "centre": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.74
+    },
+    "oferir": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.82
+    },
+    "lucas": {
+      "likelihood": 0.0025,
+      "posterior_boost": 3.72
+    },
+    "paper": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.77
+    },
+    "irvin_kershner": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "moment": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.96
+    },
+    "complex": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.64
+    },
+    "lluis_armet": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "obach": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "recaure": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "premi_referent": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "vilaweb": {
+      "likelihood": 0.0025,
+      "posterior_boost": 3.48
+    },
+    "participar": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.22
+    },
+    "avis": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.59
+    },
+    "donava": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.75
+    },
+    "comunicat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.22
+    },
+    "alerta": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.82
+    },
+    "alcalde": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.48
+    },
+    "tarragona": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.32
+    },
+    "delegat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.9
+    },
+    "govern": {
+      "likelihood": 0.0025,
+      "posterior_boost": 2.55
+    },
+    "generalitat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.65
+    },
+    "enpetrol": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.9
+    },
+    "representant": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.55
+    },
+    "govern_civil": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "demanat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.05
+    },
+    "prudencia": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "presidenta": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.36
+    },
+    "funcions": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.22
+    },
+    "ccma": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.75
+    },
+    "ser": {
+      "likelihood": 0.0049,
+      "posterior_boost": 2.33
+    },
+    "estrena": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.88
+    },
+    "opera": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.72
+    },
+    "teatre_nacional": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.99
+    },
+    "brno": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.69
+    },
+    "františek": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.9
+    },
+    "neumann": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.99
+    },
+    "primer": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.36
+    },
+    "manuel_trens": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "paris": {
+      "likelihood": 0.0025,
+      "posterior_boost": 3.35
+    },
+    "any": {
+      "likelihood": 0.0025,
+      "posterior_boost": 2.34
+    },
+    "auguste_vaucorbeil": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "intel": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.45
+    },
+    "ligencia": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.9
+    },
+    "nacional": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.11
+    },
+    "estatunidenc": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.99
+    },
+    "james_clapper": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "cor": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.99
+    },
+    "dresden": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.9
+    },
+    "wilhelm_fischer": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "general": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.33
+    },
+    "residus": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.82
+    },
+    "sebastia": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.64
+    },
+    "sanso": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "parcs": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.82
+    },
+    "jardins": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.9
+    },
+    "nicolau_maria": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.99
+    },
+    "rubio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.99
+    },
+    "tuduri": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "met": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "rudolf_bing": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "vicent_partal": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "executiu": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.27
+    },
+    "comercial": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.64
+    },
+    "aeromexico": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "anko": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "der": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.02
+    },
+    "werff": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "desacords": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "esdevenir": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.64
+    },
+    "museu": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.88
+    },
+    "xavier_barral": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "halanzier": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "vaclav": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.75
+    },
+    "talich": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.12
+    },
+    "alfredo_geri": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "galleria": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "degli": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "uffizi": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "peticio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.36
+    },
+    "fet": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.41
+    },
+    "magistrada": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "jutjat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.13
+    },
+    "instruccio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.45
+    },
+    "numero": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.15
+    },
+    "madrid": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.96
+    },
+    "aluche": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "restringeixi": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "visites": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.42
+    },
+    "membres": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.86
+    },
+    "ong": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.9
+    },
+    "anunciat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.42
+    },
+    "abrams": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "licula": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.73
+    },
+    "gener": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.94
+    },
+    "festival": {
+      "likelihood": 0.0025,
+      "posterior_boost": 3.48
+    },
+    "rebre": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.95
+    },
+    "nominacio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.99
+    },
+    "millor": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.07
+    },
+    "novell": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "chicago": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "mitja": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.85
+    },
+    "informatiu": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.12
+    },
+    "interrogat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "xevi_xirgo": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.59
+    },
+    "tram": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.2
+    },
+    "prioritari": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    },
+    "segons": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.12
+    },
+    "departament": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.11
+    },
+    "ramals": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.9
+    },
+    "aeroport": {
+      "likelihood": 0.0025,
+      "posterior_boost": 3.64
+    },
+    "zona_franca": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.64
+    },
+    "collblanc": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.29
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/director.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "desnutricio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "costat": 1.0
+  },
+  "bayesian_context": {
+    "problemes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "salut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "tenien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "treballadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "costat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "tifus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "tuberculosi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desnutricio.json"
+}

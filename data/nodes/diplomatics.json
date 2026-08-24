@@ -1,0 +1,56 @@
+{
+  "concept": "diplomatics",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "americans": 0.6667,
+    "termini": 0.3333
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.75
+    },
+    "americans": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.64
+    },
+    "convertir": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.34
+    },
+    "ostatges": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "temps": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.45
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "deixaran": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "siria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "treballadors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.02
+    },
+    "termini": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "hores": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/diplomatics.json"
+}

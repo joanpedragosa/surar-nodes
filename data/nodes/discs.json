@@ -1,0 +1,31 @@
+{
+  "concept": "discs",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "digitals": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "gracies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "digitals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "grimpar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/discs.json"
+}

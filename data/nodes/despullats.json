@@ -1,0 +1,27 @@
+{
+  "concept": "despullats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "anys": 1.0
+  },
+  "bayesian_context": {
+    "edat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "nens": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "anaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "anys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.54
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/despullats.json"
+}

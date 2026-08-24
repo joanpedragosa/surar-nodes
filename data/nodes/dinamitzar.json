@@ -1,0 +1,31 @@
+{
+  "concept": "dinamitzar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "territori": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "aconseguir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "projecte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "territori": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "catala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dinamitzar.json"
+}

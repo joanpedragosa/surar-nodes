@@ -1,0 +1,52 @@
+{
+  "concept": "diner",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "brut": 0.5,
+    "public": 0.5
+  },
+  "bayesian_context": {
+    "anima": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "delinquencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "organitzada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "terrorisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "brut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "investiga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "trias": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "suposada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "malversacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "public": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/diner.json"
+}
