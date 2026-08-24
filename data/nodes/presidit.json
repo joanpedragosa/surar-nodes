@@ -1,0 +1,43 @@
+{
+  "concept": "presidit",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "concili": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "concili": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "girona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "legat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "papal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "arquebisbe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "toledo_bernardo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sedirac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/presidit.json"
+}

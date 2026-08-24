@@ -1,0 +1,27 @@
+{
+  "concept": "prestat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "declaracio": 1.0
+  },
+  "bayesian_context": {
+    "declaracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "clara_ponsati": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "tribunal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "edimburg": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/prestat.json"
+}

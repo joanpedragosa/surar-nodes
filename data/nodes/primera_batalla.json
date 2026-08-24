@@ -1,0 +1,23 @@
+{
+  "concept": "primera_batalla",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "acentejo": 1.0
+  },
+  "bayesian_context": {
+    "guanyar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "acentejo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "guanxes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/primera_batalla.json"
+}

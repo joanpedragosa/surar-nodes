@@ -1,0 +1,230 @@
+{
+  "concept": "promoure",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "pau": 0.125,
+    "nova": 0.125,
+    "diputacions": 0.125,
+    "llengua": 0.125,
+    "ermessenda": 0.125,
+    "meir": 0.125,
+    "defensar": 0.125,
+    "globalment": 0.125
+  },
+  "bayesian_context": {
+    "reunir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.72
+    },
+    "meir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "pau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "liders": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "mundials": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "nova": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.19
+    },
+    "exposicio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.48
+    },
+    "barcelona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.04
+    },
+    "josep_puig": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "cadafalch": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "volen": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.29
+    },
+    "diputacions": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "tarragona": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.84
+    },
+    "lleida": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.82
+    },
+    "girona": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "castello": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "valencia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.38
+    },
+    "corredor": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "mediterrani": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.98
+    },
+    "recorrera": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "correllengua": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "quasi": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "indrets": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "pais": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.31
+    },
+    "llengua": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.63
+    },
+    "cultura": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.76
+    },
+    "catalana": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.5
+    },
+    "recordar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "figura": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.42
+    },
+    "montserrat_roig": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "volia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.2
+    },
+    "ermessenda": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "donacions": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "independencia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.47
+    },
+    "economica": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.98
+    },
+    "institucions": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "proxim_orient": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "dret": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.28
+    },
+    "empara": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "constitucio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.58
+    },
+    "espanyola": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.28
+    },
+    "defensar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "qualsevol": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.72
+    },
+    "projecte": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.3
+    },
+    "politic": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.29
+    },
+    "objectiu": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.54
+    },
+    "persegueix": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "freedom_hong": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "kong": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "globalment": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "lluita": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.98
+    },
+    "hong_kong": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "llibertat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/promoure.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "previsiblement",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "immigrants": 1.0
+  },
+  "bayesian_context": {
+    "arribaran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "immigrants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "port": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "valencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/previsiblement.json"
+}

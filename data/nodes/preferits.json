@@ -1,0 +1,43 @@
+{
+  "concept": "preferits",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "catalans": 1.0
+  },
+  "bayesian_context": {
+    "inclou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    },
+    "onada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "ceo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "estudi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "mitjans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "comunicacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "catalans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/preferits.json"
+}

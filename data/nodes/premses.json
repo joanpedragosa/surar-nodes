@@ -1,0 +1,39 @@
+{
+  "concept": "premses",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pedro": 1.0
+  },
+  "bayesian_context": {
+    "pedro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "robles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "lleida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "passar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "dues": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.57
+    },
+    "cinc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/premses.json"
+}

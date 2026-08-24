@@ -1,0 +1,47 @@
+{
+  "concept": "prorrogat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "consell_general": 1.0
+  },
+  "bayesian_context": {
+    "passara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "probablement": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "pressupost": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "generalitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.77
+    },
+    "sera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "consell_general": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "andorra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "congelacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "lloguers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/prorrogat.json"
+}

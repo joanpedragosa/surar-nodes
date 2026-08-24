@@ -1,0 +1,31 @@
+{
+  "concept": "proporcionava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "coberta": 1.0
+  },
+  "bayesian_context": {
+    "coberta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "goma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "sherman": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "certa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "flotabilitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/proporcionava.json"
+}

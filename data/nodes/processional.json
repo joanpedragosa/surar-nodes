@@ -1,0 +1,52 @@
+{
+  "concept": "processional",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ricament": 0.5,
+    "modernista": 0.5
+  },
+  "bayesian_context": {
+    "porta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "sant_donacia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "creu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "ricament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "decorada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "pedreria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mitra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "estil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.73
+    },
+    "custodia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "modernista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/processional.json"
+}

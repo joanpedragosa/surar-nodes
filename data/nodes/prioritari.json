@@ -1,0 +1,72 @@
+{
+  "concept": "prioritari",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "govern": 0.5,
+    "autogovern": 0.5
+  },
+  "bayesian_context": {
+    "tram": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "director": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "general": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "departament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "ramals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "aeroport": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "zona_franca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "collblanc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "objectiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "autogovern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "dues": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.57
+    },
+    "nacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/prioritari.json"
+}

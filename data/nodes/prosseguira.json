@@ -1,0 +1,39 @@
+{
+  "concept": "prosseguira",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "oferta": 1.0
+  },
+  "bayesian_context": {
+    "oferta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "tripartit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "ofereix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "comu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "ultim": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "moment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/prosseguira.json"
+}

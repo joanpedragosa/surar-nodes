@@ -1,0 +1,502 @@
+{
+  "concept": "proteines",
+  "frequency": 24,
+  "edges": [],
+  "markov_transitions": {
+    "general": 0.05,
+    "critical_assessment": 0.05,
+    "serum": 0.15,
+    "membrana": 0.1,
+    "anticongelants": 0.05,
+    "biomolecules": 0.05,
+    "farina": 0.05,
+    "lipids": 0.05,
+    "carbohidrats": 0.1,
+    "linia": 0.05,
+    "aporta": 0.05,
+    "utilitza": 0.05,
+    "dinamica": 0.05,
+    "podem": 0.05,
+    "poden": 0.05,
+    "mitocondri": 0.05
+  },
+  "bayesian_context": {
+    "general": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.91
+    },
+    "valor": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.32
+    },
+    "biologic": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "anomena": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.96
+    },
+    "experiment": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.65
+    },
+    "avalua": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "progres": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "prediccio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "estructura": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.55
+    },
+    "critical_assessment": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "of": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.09
+    },
+    "techniques": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "for": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.6
+    },
+    "protein_structure": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "prediction": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "casp": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "serum": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "compactes": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "globulars": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "considerat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.19
+    },
+    "modelatge": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "ab": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "initio": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "tipus": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.85
+    },
+    "especialment": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.5
+    },
+    "dificil": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.3
+    },
+    "anomenen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.65
+    },
+    "membrana": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.77
+    },
+    "cel": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.24
+    },
+    "lular": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.77
+    },
+    "entren": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.64
+    },
+    "surten": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "electrolits": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "canals": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "ionics": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "fan": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.94
+    },
+    "especies": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.97
+    },
+    "genere": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.16
+    },
+    "notothenioidea": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "sintetitzen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "anticongelants": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "rics": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "insectes": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.74
+    },
+    "poden": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.95
+    },
+    "sintetitzar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "aminoacids": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "biomolecules": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "activa": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "farina": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "aigua": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.21
+    },
+    "ric": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.74
+    },
+    "formatge": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.57
+    },
+    "mao": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.57
+    },
+    "lipids": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "hauria": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.07
+    },
+    "estar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.99
+    },
+    "proporcio": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.65
+    },
+    "equilibrada": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "dieta": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.57
+    },
+    "gos": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "carbohidrats": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "greixos": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "associa": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "pre": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "arnm": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "nucli": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.27
+    },
+    "serie": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.08
+    },
+    "foldit": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "joc": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.57
+    },
+    "linia": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.71
+    },
+    "basat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "plataforma": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.59
+    },
+    "rosetta": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "arn": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "escalfa": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "precipitar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "cent": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.13
+    },
+    "aporta": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "dones": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.25
+    },
+    "consum": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.47
+    },
+    "segol": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "unic": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.2
+    },
+    "projecte": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.83
+    },
+    "dedica": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    },
+    "investigar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.74
+    },
+    "utilitza": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.33
+    },
+    "boinc": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "folding": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "home": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.37
+    },
+    "pes": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.74
+    },
+    "molecular": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "tenen": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.81
+    },
+    "daltons": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "models": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.47
+    },
+    "comprendre": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "pleguen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "dinamica": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "atom": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "complet": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "podem": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.68
+    },
+    "trobar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.62
+    },
+    "barres": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "citoesqueletiques": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "travessar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "barrera": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.74
+    },
+    "mamaria": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "especial": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.39
+    },
+    "immunoglobulines": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "quantes": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.4
+    },
+    "fraccions": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.64
+    },
+    "vuit": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.89
+    },
+    "mitocondri": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "conte": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.2
+    },
+    "matriu": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "dos": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.31
+    },
+    "tercos": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "total": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.47
+    },
+    "traves": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.19
+    },
+    "lules": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/proteines.json"
+}

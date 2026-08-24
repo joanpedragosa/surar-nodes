@@ -1,0 +1,51 @@
+{
+  "concept": "pressa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cordova": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "cordova": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ferran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "iii": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "castella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "demostra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "bellesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "moments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "rossini": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    },
+    "madurant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pressa.json"
+}

@@ -1,0 +1,56 @@
+{
+  "concept": "preocupava",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "guarnicio": 0.5,
+    "xammar": 0.5
+  },
+  "bayesian_context": {
+    "guarnicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "montsegur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "gestions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "duent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "terme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "comte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "ramon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "vii": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "tolosa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "xammar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "posteritat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/preocupava.json"
+}

@@ -1,0 +1,56 @@
+{
+  "concept": "profeta",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "esquerra": 0.5,
+    "segons": 0.5
+  },
+  "bayesian_context": {
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "atribueix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "actualment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "petit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "esquerra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "donatello": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "darrer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "jueus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "malaquies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/profeta.json"
+}

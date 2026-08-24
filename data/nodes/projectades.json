@@ -1,0 +1,27 @@
+{
+  "concept": "projectades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dues": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    },
+    "torres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "campanar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/projectades.json"
+}

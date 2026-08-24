@@ -1,0 +1,150 @@
+{
+  "concept": "productor",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "gilmour": 0.25,
+    "gary_kurtz": 0.25,
+    "curtmetratge": 0.25,
+    "cervesa": 0.25
+  },
+  "bayesian_context": {
+    "treure": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.25
+    },
+    "credits": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "gilmour": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.13
+    },
+    "era": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.5
+    },
+    "gary_kurtz": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "curtmetratge": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "the_final": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "cut": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "waters": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "lucas": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.07
+    },
+    "decidir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.79
+    },
+    "dirigir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.73
+    },
+    "imperi": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "contraataca": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "degut": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.64
+    },
+    "funcions": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.87
+    },
+    "pais": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.44
+    },
+    "primer": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.0
+    },
+    "cervesa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.17
+    },
+    "partir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.35
+    },
+    "estats_units": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.5
+    },
+    "prove": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.07
+    },
+    "nom": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.22
+    },
+    "oxigen": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.04
+    },
+    "mots": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.25
+    },
+    "grecs": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.17
+    },
+    "ὀξύς": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "oxys": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "acid": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "gust": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "acids": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "γενής": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "genēs": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/productor.json"
+}

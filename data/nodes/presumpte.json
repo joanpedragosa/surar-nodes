@@ -1,0 +1,100 @@
+{
+  "concept": "presumpte",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "assassi": 0.25,
+    "delicte": 0.75
+  },
+  "bayesian_context": {
+    "provocat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "incendi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "casa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "assassi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "grup": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.3
+    },
+    "veins": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "acusat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "jordi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "canas": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "delicte": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.39
+    },
+    "fiscal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "citat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "audiencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "espanyola": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.58
+    },
+    "coma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "incitacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "sedicio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "obre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "proces": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.51
+    },
+    "judicial": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "quim_torra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    },
+    "desobediencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/presumpte.json"
+}

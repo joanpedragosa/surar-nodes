@@ -1,0 +1,39 @@
+{
+  "concept": "proporcionals",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "poblacio": 1.0
+  },
+  "bayesian_context": {
+    "hauran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "inversions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "pais_valencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "poblacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/proporcionals.json"
+}

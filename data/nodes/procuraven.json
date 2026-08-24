@@ -1,0 +1,55 @@
+{
+  "concept": "procuraven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "presentar": 1.0
+  },
+  "bayesian_context": {
+    "anomenada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "giovane_scuola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "escola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "verista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "italiana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "realisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "presentar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "escena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "obres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "liriques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/procuraven.json"
+}

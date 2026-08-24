@@ -1,0 +1,27 @@
+{
+  "concept": "preguntar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "carme_forcadell": 1.0
+  },
+  "bayesian_context": {
+    "carme_forcadell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "senyora_rovira": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "demana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "paraula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/preguntar.json"
+}
