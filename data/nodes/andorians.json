@@ -1,0 +1,40 @@
+{
+  "concept": "andorians",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "andoria": 0.5,
+    "jem": 0.5
+  },
+  "bayesian_context": {
+    "disputes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "vulcanians": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "diu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.21
+    },
+    "planeta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "andoria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "destruir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "jem": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/andorians.json"
+}

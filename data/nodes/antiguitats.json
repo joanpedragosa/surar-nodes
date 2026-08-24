@@ -1,0 +1,106 @@
+{
+  "concept": "antiguitats",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "casa": 0.25,
+    "gregues": 0.25,
+    "tasca": 0.25,
+    "rembrandt": 0.25
+  },
+  "bayesian_context": {
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "vendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "rembrandt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "pintures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "casa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "impremta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "utilitzar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    },
+    "models": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "neoclassicisme": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "gregues": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "romanes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "dedicar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "gaspar_homar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "tancar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "taller": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "ebenisteria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "comerc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "tasca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "restaurador": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "obres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.22
+    },
+    "art": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.44
+    },
+    "gran": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/antiguitats.json"
+}

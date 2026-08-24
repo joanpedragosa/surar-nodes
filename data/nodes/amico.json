@@ -1,0 +1,47 @@
+{
+  "concept": "amico",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fritz": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "estrena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.0
+    },
+    "local": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "fritz": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "liorna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "teatres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "sobreviscut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "iris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "italians": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/amico.json"
+}

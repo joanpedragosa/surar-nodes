@@ -1,0 +1,31 @@
+{
+  "concept": "amman",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "seguir": 1.0
+  },
+  "bayesian_context": {
+    "tornar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "seguir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "feina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "camp": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "refugiats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/amman.json"
+}

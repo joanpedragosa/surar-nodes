@@ -1,0 +1,40 @@
+{
+  "concept": "aparella",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "libel": 0.5,
+    "femella": 0.5
+  },
+  "bayesian_context": {
+    "libel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "lula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "orthetrum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cancellatum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "diversos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "mascles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "femella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aparella.json"
+}

@@ -1,0 +1,43 @@
+{
+  "concept": "antics_cavallers",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "legionaris": 1.0
+  },
+  "bayesian_context": {
+    "volen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "treure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "germandat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "legionaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "casernes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "barri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "sant_andreu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/antics_cavallers.json"
+}

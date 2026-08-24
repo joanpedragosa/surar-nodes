@@ -1,0 +1,27 @@
+{
+  "concept": "antigel",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "natural": 1.0
+  },
+  "bayesian_context": {
+    "tenen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.88
+    },
+    "wēkiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sang": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "natural": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/antigel.json"
+}

@@ -1,0 +1,48 @@
+{
+  "concept": "anteriorment",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "familia": 0.5,
+    "preludi": 0.5
+  },
+  "bayesian_context": {
+    "atribuida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "familia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "vergos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "considerava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "mahler": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "simfonies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "preludi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/anteriorment.json"
+}

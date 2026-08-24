@@ -1,0 +1,287 @@
+{
+  "concept": "alumnes",
+  "frequency": 10,
+  "edges": [],
+  "markov_transitions": {
+    "veuran": 0.1,
+    "personal": 0.1,
+    "fills": 0.2,
+    "zero": 0.1,
+    "membres": 0.1,
+    "andorrans": 0.1,
+    "hans_purrmann": 0.1,
+    "demostren": 0.1,
+    "any": 0.1
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.25
+    },
+    "veuran": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "afectats": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.12
+    },
+    "tancament": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.03
+    },
+    "centres": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.91
+    },
+    "educatius": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "portara": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "comarques": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "castello": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.91
+    },
+    "arribada": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.03
+    },
+    "personal": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.45
+    },
+    "academia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.07
+    },
+    "demanda": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "serveis": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "denunciar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.8
+    },
+    "nou": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.86
+    },
+    "professors": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "institut": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "palau": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.29
+    },
+    "haver": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.28
+    },
+    "humiliat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "fills": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "guardies": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "civils": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.03
+    },
+    "fiscalia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.28
+    },
+    "imputat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "delicte": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.52
+    },
+    "odi": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "fet": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.84
+    },
+    "comentaris": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "despectius": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "humiliants": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "envers": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "guardia_civil": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.68
+    },
+    "agents": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.66
+    },
+    "paritat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "discutir": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "zero": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.12
+    },
+    "congregar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "mestres": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.98
+    },
+    "membres": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.29
+    },
+    "sindicats": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "ensenyament": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "representants": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "politics": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.15
+    },
+    "davant": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.24
+    },
+    "prefectura": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "perpinya": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.07
+    },
+    "dimecres": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.98
+    },
+    "estara": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.12
+    },
+    "vigent": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "permet": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.63
+    },
+    "andorrans": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "fer": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.34
+    },
+    "practiques": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "catalunya": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.64
+    },
+    "curs": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.98
+    },
+    "hans_purrmann": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "sarah_stein": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "demostren": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "gran": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.0
+    },
+    "poder": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "senpai": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "escoles": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "secundaries": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "batxillerat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "any": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.76
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/alumnes.json"
+}

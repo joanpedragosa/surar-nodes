@@ -1,0 +1,27 @@
+{
+  "concept": "androides",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vehicles": 1.0
+  },
+  "bayesian_context": {
+    "comercialitzen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "jawas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "parts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "vehicles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/androides.json"
+}

@@ -1,0 +1,44 @@
+{
+  "concept": "anuaris",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fenicis": 0.5,
+    "punics": 0.5
+  },
+  "bayesian_context": {
+    "consultava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fenicis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "flavi_josep": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "treure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "informes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "punics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "periple": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "himilco": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/anuaris.json"
+}

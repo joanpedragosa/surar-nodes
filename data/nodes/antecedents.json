@@ -1,0 +1,19 @@
+{
+  "concept": "antecedents",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "castell": 1.0
+  },
+  "bayesian_context": {
+    "castell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "romans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/antecedents.json"
+}

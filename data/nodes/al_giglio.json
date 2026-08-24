@@ -1,0 +1,23 @@
+{
+  "concept": "al_giglio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "oro": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "balneari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "oro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/al_giglio.json"
+}

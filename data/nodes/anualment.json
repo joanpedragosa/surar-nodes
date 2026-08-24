@@ -1,0 +1,68 @@
+{
+  "concept": "anualment",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "montargull": 0.5,
+    "causa": 0.5
+  },
+  "bayesian_context": {
+    "precipitacions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "rep": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    },
+    "montargull": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "mm": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "emplacen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "premis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "lliuren": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "acte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.63
+    },
+    "quantes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "persones": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.46
+    },
+    "moren": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "causa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "dioxid": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "nitrogen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/anualment.json"
+}

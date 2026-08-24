@@ -1,0 +1,35 @@
+{
+  "concept": "antimicrobians",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "secreten": 1.0
+  },
+  "bayesian_context": {
+    "peptids": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "secreten": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "pell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "aparell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "digestiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "defensines": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/antimicrobians.json"
+}

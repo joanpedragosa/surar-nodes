@@ -1,0 +1,272 @@
+{
+  "concept": "antiguitat",
+  "frequency": 10,
+  "edges": [],
+  "markov_transitions": {
+    "construccio": 0.1,
+    "lladres": 0.1,
+    "minima": 0.1,
+    "diposit": 0.1,
+    "tenen": 0.1,
+    "quadratura": 0.1,
+    "tardana": 0.1,
+    "arts": 0.1,
+    "grega": 0.1,
+    "segles": 0.1
+  },
+  "bayesian_context": {
+    "parla": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.98
+    },
+    "construccio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.47
+    },
+    "restes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.56
+    },
+    "opus": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "spicatum": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "marcaven": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "lladres": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "ferro": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.91
+    },
+    "roent": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "suprimeix": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "esmena": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "consorci": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.07
+    },
+    "auditori": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "orquestra": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.91
+    },
+    "clausula": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "restringia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "subrogacio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "treballadors": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.49
+    },
+    "minima": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "any": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.46
+    },
+    "diposit": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "milions": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.0
+    },
+    "anys": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.85
+    },
+    "tenen": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.89
+    },
+    "piramides": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.95
+    },
+    "segons": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.53
+    },
+    "proves": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.77
+    },
+    "arqueologiques": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "superior": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.4
+    },
+    "problema": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.7
+    },
+    "geometria": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "elemental": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "quedar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.66
+    },
+    "pendent": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "resoldre": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "quadratura": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "cercle": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "periodes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.07
+    },
+    "podem": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.06
+    },
+    "trobar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.99
+    },
+    "objectes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.36
+    },
+    "museu_arqueologic": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "nacional": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.53
+    },
+    "atenes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.85
+    },
+    "prehistoria": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "tardana": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "arts": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "marcials": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "aplica": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "major": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.33
+    },
+    "distincio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "jerarquitzacio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "modernes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "present": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.98
+    },
+    "agnosticisme": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "grega": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "segons_pilar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "giraldez": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.02
+    },
+    "asseguren": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "mostres": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.07
+    },
+    "autenticitat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "segles": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "pedres": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/antiguitat.json"
+}

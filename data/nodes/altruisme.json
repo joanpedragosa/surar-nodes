@@ -1,0 +1,39 @@
+{
+  "concept": "altruisme",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "families": 1.0
+  },
+  "bayesian_context": {
+    "necessitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "possibles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "trasplantaments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "comprensio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "families": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "donants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/altruisme.json"
+}

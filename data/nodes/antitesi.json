@@ -1,0 +1,27 @@
+{
+  "concept": "antitesi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "barroc": 1.0
+  },
+  "bayesian_context": {
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "resulta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "barroc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "renaixement": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/antitesi.json"
+}

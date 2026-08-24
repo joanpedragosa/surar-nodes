@@ -1,0 +1,760 @@
+{
+  "concept": "antiga",
+  "frequency": 34,
+  "edges": [],
+  "markov_transitions": {
+    "catedral": 0.0645,
+    "antonie": 0.0323,
+    "jeroni_xanxo": 0.0323,
+    "ciutat": 0.0323,
+    "edat": 0.0645,
+    "grecia": 0.0323,
+    "roma": 0.0645,
+    "escola": 0.0323,
+    "banesto": 0.0323,
+    "coneix": 0.0645,
+    "capilla": 0.0323,
+    "defensa": 0.0323,
+    "ninges": 0.0645,
+    "funcio": 0.0323,
+    "illa_fradera": 0.0323,
+    "la_seu": 0.0323,
+    "porta": 0.0323,
+    "esglesia": 0.0323,
+    "papir": 0.0323,
+    "erupcions": 0.0323,
+    "manuscrit": 0.0323,
+    "casa": 0.0323,
+    "gondwana": 0.0323,
+    "calcada": 0.0323,
+    "ermita": 0.0323,
+    "παλαιός": 0.0323
+  },
+  "bayesian_context": {
+    "destruir": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.42
+    },
+    "catedral": {
+      "likelihood": 0.0029,
+      "posterior_boost": 3.21
+    },
+    "abd": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "malik": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "fer": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.12
+    },
+    "il": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.0
+    },
+    "lustracio": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "probablement": {
+      "likelihood": 0.0029,
+      "posterior_boost": 3.69
+    },
+    "mes": {
+      "likelihood": 0.0108,
+      "posterior_boost": 2.72
+    },
+    "antonie": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "leeuwenhoek": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "realitzar": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.54
+    },
+    "porta": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.21
+    },
+    "capella": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.87
+    },
+    "santa_maria": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.49
+    },
+    "jeroni_xanxo": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.02
+    },
+    "deia": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.76
+    },
+    "ciutat": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.57
+    },
+    "turo": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "castellciutat": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "era": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.07
+    },
+    "visigotica": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "anomena": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.81
+    },
+    "la_seu": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "vella": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.95
+    },
+    "consumia": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "llet": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.42
+    },
+    "edat": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.34
+    },
+    "mitjana": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.24
+    },
+    "fresca": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "forma": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.67
+    },
+    "formatge": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.42
+    },
+    "conte": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.05
+    },
+    "museu_arqueologic": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.8
+    },
+    "nacional": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.01
+    },
+    "atenes": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.32
+    },
+    "col": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.6
+    },
+    "leccio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.17
+    },
+    "bona": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.24
+    },
+    "objectes": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.84
+    },
+    "grecia": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.27
+    },
+    "gravaven": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "roma": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.09
+    },
+    "portes": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.07
+    },
+    "entrada": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.1
+    },
+    "ciutats": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.15
+    },
+    "fal": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "lus": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "inicien": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "leccions": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.8
+    },
+    "monedes": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.42
+    },
+    "emissions": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.65
+    },
+    "epoca": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.63
+    },
+    "especialista": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "mary_beard": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "historia": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.65
+    },
+    "trobar": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.47
+    },
+    "saint": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.38
+    },
+    "saiens": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "manuscrits": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.89
+    },
+    "biblioteca": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.72
+    },
+    "incloure": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.38
+    },
+    "obra": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.31
+    },
+    "canco": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.17
+    },
+    "estar": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.84
+    },
+    "tancada": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.54
+    },
+    "escola": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.97
+    },
+    "anys": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.05
+    },
+    "arran": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.65
+    },
+    "politica": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.69
+    },
+    "concentracio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.07
+    },
+    "escolar": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "promoguda": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "moment": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.87
+    },
+    "ocupar": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.38
+    },
+    "grup": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.39
+    },
+    "activistes": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.59
+    },
+    "socials": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.04
+    },
+    "banesto": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "placa": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.72
+    },
+    "catalunya": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.13
+    },
+    "disc": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.15
+    },
+    "nebra": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.89
+    },
+    "representacio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.02
+    },
+    "coneix": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.14
+    },
+    "volta": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.05
+    },
+    "cel": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.62
+    },
+    "dificil": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.15
+    },
+    "conservar": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.65
+    },
+    "trobem": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.69
+    },
+    "capilla": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.02
+    },
+    "san_juan": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "bautista": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "tresor": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.65
+    },
+    "representa": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.84
+    },
+    "fagocitosi": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "defensa": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.9
+    },
+    "troba": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.6
+    },
+    "referencia": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.38
+    },
+    "ninges": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "vestits": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.8
+    },
+    "negre": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.43
+    },
+    "llibre": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.81
+    },
+    "recobrar": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "portic": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.65
+    },
+    "funcio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.12
+    },
+    "gloria": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.59
+    },
+    "a_america": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "situada": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.24
+    },
+    "estacio": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.8
+    },
+    "illa_fradera": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.02
+    },
+    "lleida": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.2
+    },
+    "almoina": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.89
+    },
+    "dibuix": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.35
+    },
+    "paper": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.68
+    },
+    "corredissa": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "segle": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.55
+    },
+    "xi": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.89
+    },
+    "emperador": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.22
+    },
+    "constanti": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.45
+    },
+    "edificar": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.02
+    },
+    "esglesia": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.54
+    },
+    "sants_apostols": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "constantinoble": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.8
+    },
+    "recepta": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "cervesa": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.42
+    },
+    "coneguda": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.45
+    },
+    "papir": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "zosim": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "panopolis": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "ocorrer": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.72
+    },
+    "erupcions": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.89
+    },
+    "identificades": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "holoce": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "prop": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.87
+    },
+    "ac": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.07
+    },
+    "any": {
+      "likelihood": 0.001,
+      "posterior_boost": 1.97
+    },
+    "pertany": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.99
+    },
+    "versio": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.89
+    },
+    "manuscrit": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.49
+    },
+    "montecassino": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "fet": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.32
+    },
+    "originar": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.02
+    },
+    "familia": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.63
+    },
+    "lisa": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.45
+    },
+    "llogues": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "lloc": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.61
+    },
+    "vora": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.65
+    },
+    "basilica": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.42
+    },
+    "santo_spirito": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "podien": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.2
+    },
+    "pagar": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.22
+    },
+    "reparacions": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "casa": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.58
+    },
+    "territoris": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.49
+    },
+    "ocupava": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.54
+    },
+    "gondwana": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "india": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.45
+    },
+    "hemisferi": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "sud": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.76
+    },
+    "actuals": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.65
+    },
+    "discorria": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "carretera": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.54
+    },
+    "anava": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.27
+    },
+    "ponts": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.8
+    },
+    "isona": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "calcada": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.19
+    },
+    "romana": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.22
+    },
+    "prove": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.32
+    },
+    "imatge": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.8
+    },
+    "mare": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.54
+    },
+    "deu": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.42
+    },
+    "bosc": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.29
+    },
+    "ermita": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.8
+    },
+    "sant_adjutori": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    },
+    "deriva": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.45
+    },
+    "nom": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.48
+    },
+    "paleoce": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.65
+    },
+    "paraula": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.27
+    },
+    "grega": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.35
+    },
+    "παλαιός": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/antiga.json"
+}

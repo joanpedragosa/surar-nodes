@@ -1,0 +1,23 @@
+{
+  "concept": "amelia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "carl": 1.0
+  },
+  "bayesian_context": {
+    "casar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "carl": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "meck": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/amelia.json"
+}
