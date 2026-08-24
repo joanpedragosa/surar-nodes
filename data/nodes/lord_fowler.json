@@ -1,0 +1,31 @@
+{
+  "concept": "lord_fowler",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "setembre": 1.0
+  },
+  "bayesian_context": {
+    "conversar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "borrell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "reunir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "senadors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "setembre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lord_fowler.json"
+}

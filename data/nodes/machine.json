@@ -1,0 +1,27 @@
+{
+  "concept": "machine",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "learning": 1.0
+  },
+  "bayesian_context": {
+    "usat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "algoritme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "learning": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/machine.json"
+}

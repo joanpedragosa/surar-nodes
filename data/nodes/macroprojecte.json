@@ -1,0 +1,56 @@
+{
+  "concept": "macroprojecte",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cost": 0.5,
+    "instal": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "sistema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "avionica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "segon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "cost": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "podia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "realitzar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.76
+    },
+    "instal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "lacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "laboratori": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "universitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/macroprojecte.json"
+}

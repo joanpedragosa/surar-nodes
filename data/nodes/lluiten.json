@@ -1,0 +1,52 @@
+{
+  "concept": "lluiten",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fan": 0.5,
+    "exercits": 0.5
+  },
+  "bayesian_context": {
+    "fan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "ratpenats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "defensar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "morts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "exercits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "india": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "xina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "altipla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "doklam": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lluiten.json"
+}

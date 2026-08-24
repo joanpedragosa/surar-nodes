@@ -1,0 +1,31 @@
+{
+  "concept": "maksim_gorki",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "andrei_jdanov": 1.0
+  },
+  "bayesian_context": {
+    "definir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "parametres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "estandarditzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "andrei_jdanov": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/maksim_gorki.json"
+}

@@ -1,0 +1,23 @@
+{
+  "concept": "macdonald",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "musicoleg": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "hugh": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "musicoleg": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/macdonald.json"
+}

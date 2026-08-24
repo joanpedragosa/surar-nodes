@@ -1,0 +1,51 @@
+{
+  "concept": "llogar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pisos": 1.0
+  },
+  "bayesian_context": {
+    "presentar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.74
+    },
+    "ajuntament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "permis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "poder": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "pisos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "octubre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "organisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "presentat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/llogar.json"
+}

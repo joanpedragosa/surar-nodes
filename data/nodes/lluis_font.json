@@ -1,0 +1,39 @@
+{
+  "concept": "lluis_font",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "martorell": 1.0
+  },
+  "bayesian_context": {
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "figura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "exempta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "maria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    },
+    "coronament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "facana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "martorell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lluis_font.json"
+}

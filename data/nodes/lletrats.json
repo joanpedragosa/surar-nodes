@@ -1,0 +1,72 @@
+{
+  "concept": "lletrats",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "parlament": 0.6667,
+    "fer": 0.3333
+  },
+  "bayesian_context": {
+    "estudiara": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "ara": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "proposta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.87
+    },
+    "parlament": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.79
+    },
+    "via": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "seguir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "sassoli": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "correcta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "possibilitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "demanara": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "informe": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "investidura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.89
+    },
+    "distancia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lletrats.json"
+}

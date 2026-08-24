@@ -1,0 +1,31 @@
+{
+  "concept": "lluis_armet",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "obach": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "moment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "director": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "complex": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "obach": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lluis_armet.json"
+}

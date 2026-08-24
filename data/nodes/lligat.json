@@ -1,0 +1,56 @@
+{
+  "concept": "lligat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "temperatura": 0.5,
+    "columna": 0.5
+  },
+  "bayesian_context": {
+    "troba": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "estretament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "temperatura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "habit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "cristal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fluorita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "trobem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "centre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "crist": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "columna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lligat.json"
+}

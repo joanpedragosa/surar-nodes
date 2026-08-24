@@ -1,0 +1,35 @@
+{
+  "concept": "llancador",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "javelina": 1.0
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "paper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.2
+    },
+    "important": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "batalla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "hoplitica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "javelina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/llancador.json"
+}

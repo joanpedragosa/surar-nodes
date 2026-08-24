@@ -1,0 +1,31 @@
+{
+  "concept": "majanos",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "xacona": 1.0
+  },
+  "bayesian_context": {
+    "municipi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "troben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "piramides": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "guimar": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.85
+    },
+    "xacona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/majanos.json"
+}

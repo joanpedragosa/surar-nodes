@@ -1,0 +1,27 @@
+{
+  "concept": "llanternons",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ordre": 1.0
+  },
+  "bayesian_context": {
+    "estaran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "disposats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "ordre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "ascendent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/llanternons.json"
+}

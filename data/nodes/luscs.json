@@ -1,0 +1,43 @@
+{
+  "concept": "luscs",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "petits": 1.0
+  },
+  "bayesian_context": {
+    "alimentava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dorudon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "mol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "petits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "peixos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "animals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "patir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "renovacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/luscs.json"
+}

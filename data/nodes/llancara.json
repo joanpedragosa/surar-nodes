@@ -1,0 +1,31 @@
+{
+  "concept": "llancara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "setembre": 1.0
+  },
+  "bayesian_context": {
+    "setembre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "bce": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "noves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "injeccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "liquiditat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/llancara.json"
+}

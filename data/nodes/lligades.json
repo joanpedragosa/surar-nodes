@@ -1,0 +1,35 @@
+{
+  "concept": "lligades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "etapes": 1.0
+  },
+  "bayesian_context": {
+    "estar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "etapes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "estil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "pictoric": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "frida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "vida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lligades.json"
+}

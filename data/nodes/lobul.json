@@ -1,0 +1,61 @@
+{
+  "concept": "lobul",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "roche": 0.3333,
+    "inferior": 0.3333,
+    "superior": 0.3333
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.21
+    },
+    "proces": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.63
+    },
+    "transferida": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "desbordament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "roche": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "situat": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.67
+    },
+    "generalment": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.73
+    },
+    "focus": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.07
+    },
+    "ghon": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "part": {
+      "likelihood": 0.0444,
+      "posterior_boost": 3.82
+    },
+    "superior": {
+      "likelihood": 0.0444,
+      "posterior_boost": 4.53
+    },
+    "inferior": {
+      "likelihood": 0.0444,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lobul.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "llotges",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "altes": 1.0
+  },
+  "bayesian_context": {
+    "reservades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "altes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "jerarquies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "trobem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "tribuna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/llotges.json"
+}

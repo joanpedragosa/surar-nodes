@@ -1,0 +1,39 @@
+{
+  "concept": "luigi_galvani",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "relacio": 1.0
+  },
+  "bayesian_context": {
+    "descobri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "relacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "electricitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "sistema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "nervios": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "segle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "xviii": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/luigi_galvani.json"
+}

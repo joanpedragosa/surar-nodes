@@ -1,0 +1,23 @@
+{
+  "concept": "lockheed_model",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sirius": 1.0
+  },
+  "bayesian_context": {
+    "pilotar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sirius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "charles_lindbergh": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lockheed_model.json"
+}

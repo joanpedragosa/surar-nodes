@@ -1,0 +1,43 @@
+{
+  "concept": "llista_representativa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "patrimoni_immaterial": 1.0
+  },
+  "bayesian_context": {
+    "llista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "entrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "formar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "falles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "valencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "patrimoni_immaterial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "humanitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/llista_representativa.json"
+}
