@@ -1,0 +1,31 @@
+{
+  "concept": "arxiu_fotografic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "barcelona": 1.0
+  },
+  "bayesian_context": {
+    "conserva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "fons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "grafic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "exposicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arxiu_fotografic.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "apostolat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "oracio": 1.0
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "dissenyar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "bandera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "oracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "parroquia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "san_cugat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "rec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/apostolat.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "arrencar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vehicle": 1.0
+  },
+  "bayesian_context": {
+    "vehicle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "policiac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "manifestant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "capo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "aeroport": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arrencar.json"
+}

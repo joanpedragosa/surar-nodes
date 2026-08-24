@@ -1,0 +1,31 @@
+{
+  "concept": "apostar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "governs": 1.0
+  },
+  "bayesian_context": {
+    "governs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "socialistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "disseny": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/apostar.json"
+}

@@ -1,0 +1,72 @@
+{
+  "concept": "aprovades",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "ordinacions": 0.3333,
+    "junta_electoral": 0.6667
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "ordinacions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "germandat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "gremi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "blanquers": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "rei": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.61
+    },
+    "marti": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "huma": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "fan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "publiques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "candidatures": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.95
+    },
+    "junta_electoral": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.57
+    },
+    "butlleti_oficial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "publicaran": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "dissabte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aprovades.json"
+}

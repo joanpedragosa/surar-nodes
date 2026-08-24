@@ -1,0 +1,35 @@
+{
+  "concept": "arbitratge_esportiu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "acceptar": 1.0
+  },
+  "bayesian_context": {
+    "ordenar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "tribunal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "acceptar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "gibraltar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "manera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "immediata": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arbitratge_esportiu.json"
+}

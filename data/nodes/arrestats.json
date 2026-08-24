@@ -1,0 +1,51 @@
+{
+  "concept": "arrestats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "preso": 1.0
+  },
+  "bayesian_context": {
+    "mesura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "cautelar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "mantingut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "seccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "audiencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "girona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "joves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "preso": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "preventiva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arrestats.json"
+}

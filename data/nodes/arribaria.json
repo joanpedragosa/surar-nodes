@@ -1,0 +1,27 @@
+{
+  "concept": "arribaria",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ser": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "gerbert": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "papa_silvestre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "ii": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arribaria.json"
+}

@@ -1,0 +1,109 @@
+{
+  "concept": "ascendeix",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "aigua": 0.5,
+    "multa": 0.25,
+    "benefici": 0.25
+  },
+  "bayesian_context": {
+    "aigua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "vegetals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "traves": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.96
+    },
+    "xilema": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "import": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "multa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "imposat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "comissio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.62
+    },
+    "europea": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.54
+    },
+    "cinc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "bancs": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "milions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "euros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "benefici": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "net": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "consolidat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "registrat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "vidacaixa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "primer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.18
+    },
+    "semestre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "rels": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "cap": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.03
+    },
+    "fulles": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ascendeix.json"
+}

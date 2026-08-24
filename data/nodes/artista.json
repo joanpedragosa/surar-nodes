@@ -1,0 +1,511 @@
+{
+  "concept": "artista",
+  "frequency": 22,
+  "edges": [],
+  "markov_transitions": {
+    "tommaso": 0.0526,
+    "anonim": 0.0526,
+    "ascanio_condivi": 0.0526,
+    "alan_parsons": 0.0526,
+    "britanic": 0.0526,
+    "treballa": 0.0526,
+    "elevada": 0.0526,
+    "proces": 0.0526,
+    "costums": 0.0526,
+    "santiago_sierra": 0.1579,
+    "moment": 0.0526,
+    "execucio": 0.0526,
+    "era": 0.0526,
+    "falsificacio": 0.0526,
+    "viu": 0.0526,
+    "frances": 0.0526,
+    "componen": 0.0526
+  },
+  "bayesian_context": {
+    "enamorat": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "tommaso": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "pintar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.45
+    },
+    "novena": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "taula": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.88
+    },
+    "anonim": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "inferior": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.18
+    },
+    "categoria": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.68
+    },
+    "escriure": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.64
+    },
+    "biografia": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "ascanio_condivi": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "passar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.84
+    },
+    "propia": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.48
+    },
+    "carrera": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.84
+    },
+    "alan_parsons": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "era": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.24
+    },
+    "britanic": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.36
+    },
+    "mes": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.19
+    },
+    "car": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "segle": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.44
+    },
+    "xx": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.41
+    },
+    "francis_bacon": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "evoluciona": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "forma": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.56
+    },
+    "escultura": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.01
+    },
+    "mesura": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.13
+    },
+    "treballa": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "bloc": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.45
+    },
+    "reputacio": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.9
+    },
+    "elevada": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "fomentar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "proces": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.78
+    },
+    "revolucionari": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "marxista": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "costums": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "pais": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.88
+    },
+    "investigar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.78
+    },
+    "diversos": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.04
+    },
+    "investigadors": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.73
+    },
+    "sales": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "reserva": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "museu": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.97
+    },
+    "obres": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.49
+    },
+    "periode": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.79
+    },
+    "denuncia": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.66
+    },
+    "obra": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.49
+    },
+    "santiago_sierra": {
+      "likelihood": 0.0045,
+      "posterior_boost": 4.68
+    },
+    "existencia": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.64
+    },
+    "presos": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.01
+    },
+    "politics": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.81
+    },
+    "espanyol": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.42
+    },
+    "permet": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.29
+    },
+    "veure": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.89
+    },
+    "lleugeresa": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "pinzellades": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.9
+    },
+    "quadres": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.9
+    },
+    "velazquez": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.27
+    },
+    "correccions": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "realitzar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.73
+    },
+    "moment": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.05
+    },
+    "vol": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.42
+    },
+    "evitar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.48
+    },
+    "fira": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.73
+    },
+    "art": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.71
+    },
+    "arco": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "retirada": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.78
+    },
+    "polemiques": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "recolzar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "execucio": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "lluis": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.43
+    },
+    "xvi": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.48
+    },
+    "breu": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "explica": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.78
+    },
+    "cas": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.97
+    },
+    "explorara": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "picasso": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.64
+    },
+    "museu_picasso": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "univers": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "gastronomic": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "prova": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.51
+    },
+    "coneixedor": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "noves": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.21
+    },
+    "tendencies": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.9
+    },
+    "pintura": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.78
+    },
+    "flamenca": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.68
+    },
+    "suavitat": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "rostres": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.84
+    },
+    "utilitzacio": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "paisatge": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.64
+    },
+    "presentar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.71
+    },
+    "familiars": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.78
+    },
+    "falsificacio": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "jutjat": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.22
+    },
+    "numero": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.24
+    },
+    "barcelona": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.32
+    },
+    "apareix": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.0
+    },
+    "mosca": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "prop": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.05
+    },
+    "signatura": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.84
+    },
+    "ser": {
+      "likelihood": 0.0015,
+      "posterior_boost": 1.86
+    },
+    "viu": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.36
+    },
+    "cotitzat": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "final": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.88
+    },
+    "frances": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.3
+    },
+    "natures": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.78
+    },
+    "mortes": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.64
+    },
+    "odilon_redon": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "elements": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.03
+    },
+    "utilitza": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.07
+    },
+    "componen": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "joc": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.6
+    },
+    "contrasts": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "rigidesa": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "linia": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.04
+    },
+    "recta": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "fus": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "arbre": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.38
+    },
+    "mobilitat": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "corba": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "ou": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.84
+    },
+    "lluna": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/artista.json"
+}

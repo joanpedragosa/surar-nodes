@@ -1,0 +1,52 @@
+{
+  "concept": "apliquen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "kihon_kumite": 0.5,
+    "normes": 0.5
+  },
+  "bayesian_context": {
+    "recullen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "tecniques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "kihon_kumite": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "kates": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "normes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "regulen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "eleccions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "congres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "diputats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.92
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/apliquen.json"
+}

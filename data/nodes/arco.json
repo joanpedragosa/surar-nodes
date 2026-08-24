@@ -1,0 +1,59 @@
+{
+  "concept": "arco",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "retirada": 1.0
+  },
+  "bayesian_context": {
+    "promesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "corradino": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "comtessa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "evitar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "fira": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "art": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.74
+    },
+    "retirada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "artista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "santiago_sierra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "polemiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arco.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "apogeu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vanitas": 1.0
+  },
+  "bayesian_context": {
+    "motiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "tindra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "vanitas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/apogeu.json"
+}

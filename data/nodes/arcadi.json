@@ -1,0 +1,35 @@
+{
+  "concept": "arcadi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "espana": 1.0
+  },
+  "bayesian_context": {
+    "cap": {
+      "likelihood": 0.0667,
+      "posterior_boost": 3.93
+    },
+    "seguir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "ports": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "espana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "sostenibilitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arcadi.json"
+}

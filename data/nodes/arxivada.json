@@ -1,0 +1,64 @@
+{
+  "concept": "arxivada",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "opera": 0.5,
+    "oblidada": 0.5
+  },
+  "bayesian_context": {
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "mercadante": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "fitxa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "rappresaglia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "passar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "negativa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "zeyer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "concedir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "autoritzacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "pertinent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "quedar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "oblidada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arxivada.json"
+}

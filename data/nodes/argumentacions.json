@@ -1,0 +1,35 @@
+{
+  "concept": "argumentacions",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "acusats": 1.0
+  },
+  "bayesian_context": {
+    "centrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "acusats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "desvincular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "operatius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "mossos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/argumentacions.json"
+}

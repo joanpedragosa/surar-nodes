@@ -1,0 +1,411 @@
+{
+  "concept": "aria",
+  "frequency": 14,
+  "edges": [],
+  "markov_transitions": {
+    "menor": 0.0714,
+    "final": 0.1429,
+    "cabaletta": 0.0714,
+    "melodia": 0.0714,
+    "dolcissima": 0.0714,
+    "princesa": 0.0714,
+    "opera": 0.0714,
+    "bariton": 0.0714,
+    "apareix": 0.0714,
+    "gamberotto": 0.0714,
+    "amaltea": 0.0714,
+    "calumnia": 0.0714,
+    "paper": 0.0714
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.2
+    },
+    "menor": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.77
+    },
+    "mose": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "col": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.68
+    },
+    "laborador": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "desconegut": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "titula": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.88
+    },
+    "final": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.37
+    },
+    "elisabetta": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "bell": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.93
+    },
+    "alme": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "generose": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "utilitza": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.27
+    },
+    "rossini": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.09
+    },
+    "comptes": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.54
+    },
+    "antigues": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "aries": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "tripartites": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "esquema": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "abreujat": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "cabaletta": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "era": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.15
+    },
+    "novetat": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "any": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.32
+    },
+    "musica": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.37
+    },
+    "melodia": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.18
+    },
+    "acompanyament": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "orquestral": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.98
+    },
+    "declara": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.18
+    },
+    "maurizio": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "dolcissima": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "effigie": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "amor": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.43
+    },
+    "adriana": {
+      "likelihood": 0.0071,
+      "posterior_boost": 4.51
+    },
+    "manifesta": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.28
+    },
+    "princesa": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.84
+    },
+    "bouillon_accerba": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "volutta": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "passio": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.8
+    },
+    "militar": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.43
+    },
+    "fa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.95
+    },
+    "lusio": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "violetes": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "duran": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "mort": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.01
+    },
+    "ensenya": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "cantant": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.03
+    },
+    "paper": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.36
+    },
+    "ventafocs": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.18
+    },
+    "darrera": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.7
+    },
+    "opera": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.83
+    },
+    "diverses": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.4
+    },
+    "capacitats": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.28
+    },
+    "vocals": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.18
+    },
+    "bariton": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.28
+    },
+    "mes": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.09
+    },
+    "famosa": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "mein": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "sehnen": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "wähnen": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "apareix": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.19
+    },
+    "primer": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.64
+    },
+    "acte": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.26
+    },
+    "io": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "umile": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "ancella": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "assembla": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.8
+    },
+    "gamberotto": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "duo": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "germano": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "giulia": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "scala": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "di": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.47
+    },
+    "seta": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "oratoris": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "agafar": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.03
+    },
+    "amaltea": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "ciro": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.03
+    },
+    "in": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.7
+    },
+    "babilonia": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "fragments": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.8
+    },
+    "aprofitar": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "partitura": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.77
+    },
+    "foren": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.88
+    },
+    "celebres": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "barbiere": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "cor": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.27
+    },
+    "piano": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.77
+    },
+    "pianissimo": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "principi": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.43
+    },
+    "crescendo": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "calumnia": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "quantes": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.33
+    },
+    "parts": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.35
+    },
+    "dividida": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "pirro": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.18
+    },
+    "tres": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.56
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aria.json"
+}

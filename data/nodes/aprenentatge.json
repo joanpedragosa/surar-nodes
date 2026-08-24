@@ -1,0 +1,69 @@
+{
+  "concept": "aprenentatge",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "kihon_kumite": 0.3333,
+    "bona": 0.3333,
+    "temps": 0.3333
+  },
+  "bayesian_context": {
+    "deia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "kumite": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "kihon_kumite": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "disposaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "tallers": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "bona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "llibreria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "especialitzada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "tenien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "samurais": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "dedicar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "hores": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    },
+    "temps": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.45
+    },
+    "voluntat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aprenentatge.json"
+}

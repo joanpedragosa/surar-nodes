@@ -1,0 +1,43 @@
+{
+  "concept": "artesania",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "do": 1.0
+  },
+  "bayesian_context": {
+    "combinava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "compositor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "sentit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "segur": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "teatre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "do": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "melodia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "orquestracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/artesania.json"
+}

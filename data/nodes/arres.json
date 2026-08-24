@@ -1,0 +1,32 @@
+{
+  "concept": "arres",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "destrosses": 0.5,
+    "tropes": 0.5
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "tropes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "joseph_lebon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "destrosses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arres.json"
+}

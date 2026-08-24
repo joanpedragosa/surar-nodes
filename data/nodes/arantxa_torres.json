@@ -1,0 +1,27 @@
+{
+  "concept": "arantxa_torres",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "setmana": 1.0
+  },
+  "bayesian_context": {
+    "presentar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "dimissio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "setmana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "passada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arantxa_torres.json"
+}

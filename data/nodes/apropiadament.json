@@ -1,0 +1,43 @@
+{
+  "concept": "apropiadament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "espanyol": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "executiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "europeu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "euroordre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "automatica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "valtonyc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/apropiadament.json"
+}
