@@ -1,0 +1,48 @@
+{
+  "concept": "calculs",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "algebraics": 0.5,
+    "solucionar": 0.5
+  },
+  "bayesian_context": {
+    "basa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "demostracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "teorema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "algebraics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "astuts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "servir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "solucionar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "identitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/calculs.json"
+}

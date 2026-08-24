@@ -1,0 +1,27 @@
+{
+  "concept": "buffo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "figura": 1.0
+  },
+  "bayesian_context": {
+    "presenta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "interessant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "figura": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.63
+    },
+    "don_parmeniano": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/buffo.json"
+}

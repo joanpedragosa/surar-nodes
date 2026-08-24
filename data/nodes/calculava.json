@@ -1,0 +1,56 @@
+{
+  "concept": "calculava",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "valor": 0.5,
+    "metode": 0.5
+  },
+  "bayesian_context": {
+    "valor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "ecu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mitjana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "ponderada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "divises": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "integraven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "metode": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "vandermonde": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "sumes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "parcials": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "arrels": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/calculava.json"
+}

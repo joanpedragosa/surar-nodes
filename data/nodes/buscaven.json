@@ -1,0 +1,36 @@
+{
+  "concept": "buscaven",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "harry_westphal": 0.5,
+    "boot": 0.5
+  },
+  "bayesian_context": {
+    "harry_westphal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "mario_renne": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "municions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "armes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "militars": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "boot": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/buscaven.json"
+}

@@ -1,0 +1,23 @@
+{
+  "concept": "botha",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "embolia": 1.0
+  },
+  "bayesian_context": {
+    "patir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "embolia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "cerebral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/botha.json"
+}

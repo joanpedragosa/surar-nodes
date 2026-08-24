@@ -1,0 +1,23 @@
+{
+  "concept": "bufador",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "greco": 1.0
+  },
+  "bayesian_context": {
+    "pertany": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "greco": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bufador.json"
+}

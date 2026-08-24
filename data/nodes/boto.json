@@ -1,0 +1,44 @@
+{
+  "concept": "boto",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fotografia": 0.5,
+    "revista": 0.5
+  },
+  "bayesian_context": {
+    "estudiar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "fotografia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "alta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "resolucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "publicar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "estudi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "revista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "romanico": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/boto.json"
+}

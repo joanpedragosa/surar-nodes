@@ -1,0 +1,47 @@
+{
+  "concept": "boinc",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "folding": 1.0
+  },
+  "bayesian_context": {
+    "unic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "projecte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "dedica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "investigar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "proteines": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "utilitza": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "plataforma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "folding": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "home": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/boinc.json"
+}

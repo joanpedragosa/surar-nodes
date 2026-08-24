@@ -1,0 +1,27 @@
+{
+  "concept": "cambo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "batlle": 1.0
+  },
+  "bayesian_context": {
+    "assessora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "gaspar_homar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "francesc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "batlle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cambo.json"
+}

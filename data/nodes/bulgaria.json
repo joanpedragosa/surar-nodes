@@ -1,0 +1,39 @@
+{
+  "concept": "bulgaria",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "romania": 1.0
+  },
+  "bayesian_context": {
+    "escollir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "romania": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "representants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "parlament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.67
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "adherir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "unio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bulgaria.json"
+}

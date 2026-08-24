@@ -1,0 +1,35 @@
+{
+  "concept": "bruno_zevi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "gio_ponti": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "professio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "alvar_aalto": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "oscar_niemeyer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "gio_ponti": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "arquitectes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bruno_zevi.json"
+}

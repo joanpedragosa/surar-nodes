@@ -1,0 +1,84 @@
+{
+  "concept": "bruguera",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "teresa_cadafalch": 0.5,
+    "puigdemont": 0.5
+  },
+  "bayesian_context": {
+    "president": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.48
+    },
+    "cercle": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "economia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "juan": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.67
+    },
+    "jose": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.29
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "fill": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "puig": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "joan_puig": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "teresa_cadafalch": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "bogunya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "dit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "puigdemont": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.87
+    },
+    "parlar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "malestar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "catalans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "congres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "espanyol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bruguera.json"
+}

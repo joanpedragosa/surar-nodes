@@ -1,0 +1,43 @@
+{
+  "concept": "calmar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "poble": 1.0
+  },
+  "bayesian_context": {
+    "sembla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "volia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "aconseguir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "pilat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "fent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "pronunciament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sentencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "poble": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/calmar.json"
+}

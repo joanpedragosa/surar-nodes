@@ -1,0 +1,43 @@
+{
+  "concept": "calgui",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mediador": 1.0
+  },
+  "bayesian_context": {
+    "debat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "ada_colau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "mediador": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "internacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "taula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.22
+    },
+    "negociacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "generalitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.07
+    },
+    "moncloa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/calgui.json"
+}

@@ -1,0 +1,44 @@
+{
+  "concept": "caixmir",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "paquistan": 0.5,
+    "estatus": 0.5
+  },
+  "bayesian_context": {
+    "disputa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "india": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "paquistan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "article": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "constitucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "estatus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "especial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/caixmir.json"
+}

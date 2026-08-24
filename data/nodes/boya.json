@@ -1,0 +1,23 @@
+{
+  "concept": "boya",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "politica": 1.0
+  },
+  "bayesian_context": {
+    "torna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "politica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "aranesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/boya.json"
+}

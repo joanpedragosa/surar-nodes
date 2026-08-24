@@ -1,0 +1,80 @@
+{
+  "concept": "brok",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "constitucio": 0.5,
+    "renuncia": 0.5
+  },
+  "bayesian_context": {
+    "constitucio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "maxim": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "responsable": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "unio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "europea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "serien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "termes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "exigiria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pacte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "espanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "renuncia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "independencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "canvi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "millora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "autogovern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "catala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/brok.json"
+}
