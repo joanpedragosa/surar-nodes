@@ -1,0 +1,39 @@
+{
+  "concept": "eco",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ones": 1.0
+  },
+  "bayesian_context": {
+    "partir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "determinar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "posicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "emissor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "soniques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eco.json"
+}

@@ -1,0 +1,56 @@
+{
+  "concept": "dolors_bonella",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "lloc": 0.5,
+    "hospital": 0.5
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "lloc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "suicidar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "refugiar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "nova": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.79
+    },
+    "identitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "morir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "hospital": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "mar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dolors_bonella.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "documentats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "argumenten": 1.0
+  },
+  "bayesian_context": {
+    "treballs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "argumenten": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "rogier": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "fou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "alumne": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "campin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "jacques_daret": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/documentats.json"
+}

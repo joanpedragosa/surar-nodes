@@ -1,0 +1,105 @@
+{
+  "concept": "dominant",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "derrocar": 0.3333,
+    "tonica": 0.3333,
+    "defensa": 0.3333
+  },
+  "bayesian_context": {
+    "desafia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "mascle": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.59
+    },
+    "zebra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "rival": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.95
+    },
+    "derrocar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "lo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "tocant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "nas": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "fregant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "espatlles": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "basada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "harmonia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "musica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.74
+    },
+    "classica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "cadencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "tonica": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "subdominant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "majoria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    },
+    "organismes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "sistema": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.93
+    },
+    "defensa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.95
+    },
+    "immunitari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "innat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dominant.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "dominum",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nostrum": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "trobar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.99
+    },
+    "nostrum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "foli": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dominum.json"
+}

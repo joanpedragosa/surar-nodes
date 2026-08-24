@@ -1,0 +1,52 @@
+{
+  "concept": "dominar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "escena": 0.5,
+    "resta": 0.5
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "iago": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "escena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "arguments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "resta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "segle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "xix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "grans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "passions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "romantiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dominar.json"
+}

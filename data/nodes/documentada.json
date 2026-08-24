@@ -1,0 +1,39 @@
+{
+  "concept": "documentada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "obra": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "autor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    },
+    "descripcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "cristobal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "gracia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/documentada.json"
+}

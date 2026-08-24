@@ -1,0 +1,27 @@
+{
+  "concept": "doralice",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "anselmo": 1.0
+  },
+  "bayesian_context": {
+    "pare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "anselmo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "viatgers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "italians": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/doralice.json"
+}

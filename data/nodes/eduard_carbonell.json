@@ -1,0 +1,31 @@
+{
+  "concept": "eduard_carbonell",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "claustre": 1.0
+  },
+  "bayesian_context": {
+    "concloia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "informe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "claustre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "recreacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eduard_carbonell.json"
+}

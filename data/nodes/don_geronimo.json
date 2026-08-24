@@ -1,0 +1,48 @@
+{
+  "concept": "don_geronimo",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "carolina": 0.5,
+    "figura": 0.5
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "carolina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "paolino": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "los": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "casa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "figura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "crea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "bufo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/don_geronimo.json"
+}

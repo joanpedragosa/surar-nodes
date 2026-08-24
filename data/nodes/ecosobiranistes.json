@@ -1,0 +1,39 @@
+{
+  "concept": "ecosobiranistes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "senador": 1.0
+  },
+  "bayesian_context": {
+    "podien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "elegir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "senador": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "designacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "autonomica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "presidencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "parlament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ecosobiranistes.json"
+}

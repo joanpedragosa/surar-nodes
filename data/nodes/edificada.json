@@ -1,0 +1,31 @@
+{
+  "concept": "edificada",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "segles": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "segles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "xv": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "xiv": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/edificada.json"
+}

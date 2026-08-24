@@ -1,0 +1,35 @@
+{
+  "concept": "duplicitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ajuda": 1.0
+  },
+  "bayesian_context": {
+    "ajuda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "hora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "construir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "bibliografia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "anaclet": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.1
+    },
+    "clet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/duplicitat.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "dolores_salas",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pressio": 1.0
+  },
+  "bayesian_context": {
+    "presentat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "dimissio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "sotmesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "pressio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dolores_salas.json"
+}

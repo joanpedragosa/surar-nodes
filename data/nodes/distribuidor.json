@@ -1,0 +1,27 @@
+{
+  "concept": "distribuidor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "jardi": 1.0
+  },
+  "bayesian_context": {
+    "serveix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "placa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "columnes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "jardi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/distribuidor.json"
+}

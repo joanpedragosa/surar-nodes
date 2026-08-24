@@ -1,0 +1,31 @@
+{
+  "concept": "dui",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "majoria": 1.0
+  },
+  "bayesian_context": {
+    "podra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "cami": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "majoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "independentista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dui.json"
+}

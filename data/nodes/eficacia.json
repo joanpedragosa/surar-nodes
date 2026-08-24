@@ -1,0 +1,47 @@
+{
+  "concept": "eficacia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "juridica": 1.0
+  },
+  "bayesian_context": {
+    "posicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "partit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "pablo_iglesias": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "demanar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "referendum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "pactat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "garanties": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "juridica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eficacia.json"
+}

@@ -1,0 +1,65 @@
+{
+  "concept": "disset",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "vaixells": 0.3333,
+    "anys": 0.3333,
+    "mesos": 0.3333
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.63
+    },
+    "vaixells": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "salpar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "edat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.67
+    },
+    "morir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "anys": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.95
+    },
+    "fa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.2
+    },
+    "urdangarin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "preso": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "mesos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "quantes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.86
+    },
+    "operes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.88
+    },
+    "escriure": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.37
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/disset.json"
+}

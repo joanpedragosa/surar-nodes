@@ -1,0 +1,55 @@
+{
+  "concept": "efes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "any": 1.0
+  },
+  "bayesian_context": {
+    "acceptar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "concili": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "legitimitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "titol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "mare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.76
+    },
+    "deu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    },
+    "dogma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "maternitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "divina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "maria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/efes.json"
+}
