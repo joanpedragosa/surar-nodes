@@ -1,0 +1,27 @@
+{
+  "concept": "albada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "humanitat": 1.0
+  },
+  "bayesian_context": {
+    "relacionat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "humans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "humanitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "ocells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/albada.json"
+}

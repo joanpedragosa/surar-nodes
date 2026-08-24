@@ -1,0 +1,80 @@
+{
+  "concept": "allotja",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cabinet": 0.5,
+    "cort": 0.5
+  },
+  "bayesian_context": {
+    "cabinet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "adjacent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "chambre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "tolles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "llit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "caixa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "segle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "xvi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "esco": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "vuitcentista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "sospita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ladislao": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "noia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "cort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "realitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "veritable": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "aldimira": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/allotja.json"
+}

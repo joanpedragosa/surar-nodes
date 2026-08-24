@@ -1,0 +1,81 @@
+{
+  "concept": "alerta_solidaria",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "policia": 0.3333,
+    "manifestacions": 0.3333,
+    "donar": 0.3333
+  },
+  "bayesian_context": {
+    "col": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.65
+    },
+    "labora": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.25
+    },
+    "govern": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.49
+    },
+    "segons": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.34
+    },
+    "policia": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.26
+    },
+    "manifestacions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "independentistes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "finalitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "crear": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.68
+    },
+    "inicialment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "donar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "formacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "assessorament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "juridic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "militancia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "integrants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "esquerra_independentista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/alerta_solidaria.json"
+}

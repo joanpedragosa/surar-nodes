@@ -1,0 +1,81 @@
+{
+  "concept": "almansor",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "comandant": 0.3333,
+    "hixam": 0.3333,
+    "califa": 0.3333
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "comandant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "exercit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.88
+    },
+    "califa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "cordova": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "proclamar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "nou": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.38
+    },
+    "absencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "hixam": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "muayyad": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "bi": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "lah": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "obligar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "nomenar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "lo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "hereu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "corona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/almansor.json"
+}

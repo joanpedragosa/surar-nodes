@@ -1,0 +1,39 @@
+{
+  "concept": "afebliment",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "virulencia": 1.0
+  },
+  "bayesian_context": {
+    "oficiar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "tedeum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "accio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "gracies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "virulencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "epidemia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "catedral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/afebliment.json"
+}

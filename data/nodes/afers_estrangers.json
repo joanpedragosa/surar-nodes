@@ -1,0 +1,132 @@
+{
+  "concept": "afers_estrangers",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "josep_borrell": 0.1667,
+    "espanyol": 0.1667,
+    "president": 0.1667,
+    "unio": 0.1667,
+    "andorrana": 0.1667,
+    "dema": 0.1667
+  },
+  "bayesian_context": {
+    "ministre": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.96
+    },
+    "josep_borrell": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.33
+    },
+    "cap": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.79
+    },
+    "ministeri": {
+      "likelihood": 0.0143,
+      "posterior_boost": 4.45
+    },
+    "espanyol": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.21
+    },
+    "prohibir": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "entrar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.65
+    },
+    "pais": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.37
+    },
+    "president": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.11
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.62
+    },
+    "enviat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.88
+    },
+    "carta": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.43
+    },
+    "ministres": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.98
+    },
+    "unio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.3
+    },
+    "europea": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.3
+    },
+    "advocats": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.28
+    },
+    "voluntaris": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "gironins": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "diu": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.84
+    },
+    "ministra": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "andorrana": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "maria_ubach": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "presentar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.2
+    },
+    "ambaixador": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.23
+    },
+    "davant": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.4
+    },
+    "dema": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.8
+    },
+    "mati": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.88
+    },
+    "ocupa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.07
+    },
+    "jeremy_hunt": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/afers_estrangers.json"
+}

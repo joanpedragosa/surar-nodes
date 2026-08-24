@@ -1,0 +1,27 @@
+{
+  "concept": "agrada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "iceta": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "borras": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "iceta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ballar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/agrada.json"
+}

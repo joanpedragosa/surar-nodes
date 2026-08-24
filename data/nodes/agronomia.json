@@ -1,0 +1,35 @@
+{
+  "concept": "agronomia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mago": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "considerat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "pare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "mago": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "traduir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "tractat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/agronomia.json"
+}

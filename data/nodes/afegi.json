@@ -1,0 +1,59 @@
+{
+  "concept": "afegi",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "rosettadock": 1.0
+  },
+  "bayesian_context": {
+    "rosettadock": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "paquet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "rosetta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "primer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "experiment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "capri": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "algorisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "prediccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "acoblament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "proteina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "laboratori_baker": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/afegi.json"
+}

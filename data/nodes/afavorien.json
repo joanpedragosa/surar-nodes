@@ -1,0 +1,40 @@
+{
+  "concept": "afavorien",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "noves": 0.5,
+    "enquestes": 0.5
+  },
+  "bayesian_context": {
+    "noves": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "eleccions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "pedro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "sanchez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "enquestes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "electorals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "matteo_salvini": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/afavorien.json"
+}

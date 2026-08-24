@@ -1,0 +1,31 @@
+{
+  "concept": "altiu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "elizabeth": 1.0
+  },
+  "bayesian_context": {
+    "adona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "fitzwilliam_darcy": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "elizabeth": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "a_orgull": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "prejudici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/altiu.json"
+}

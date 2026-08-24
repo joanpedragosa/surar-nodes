@@ -1,0 +1,39 @@
+{
+  "concept": "almirante",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "don": 1.0
+  },
+  "bayesian_context": {
+    "llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "escriure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "hernando": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "colon": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.55
+    },
+    "historia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "don": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "cristobal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/almirante.json"
+}

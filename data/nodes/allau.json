@@ -1,0 +1,48 @@
+{
+  "concept": "allau",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "humana": 0.5,
+    "gent": 0.5
+  },
+  "bayesian_context": {
+    "ocasionat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "persones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.64
+    },
+    "humana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "preparat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "rebre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "gent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "frances": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/allau.json"
+}

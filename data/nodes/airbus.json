@@ -1,0 +1,19 @@
+{
+  "concept": "airbus",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "avions": 1.0
+  },
+  "bayesian_context": {
+    "manufactura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "avions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/airbus.json"
+}

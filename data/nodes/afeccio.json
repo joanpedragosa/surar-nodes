@@ -1,0 +1,44 @@
+{
+  "concept": "afeccio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "celtic": 0.5,
+    "alma": 0.5
+  },
+  "bayesian_context": {
+    "sobresurt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "celtic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "reivindicacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "partits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "equip": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "alma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "cancer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "mama": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/afeccio.json"
+}
