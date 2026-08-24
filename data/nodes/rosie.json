@@ -1,0 +1,80 @@
+{
+  "concept": "rosie",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "norman_rockwell": 0.5,
+    "the": 0.5
+  },
+  "bayesian_context": {
+    "associat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "cartell": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.89
+    },
+    "westinghouse": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "cap": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.45
+    },
+    "dones": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "anomenades": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "quadre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.95
+    },
+    "nom": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.52
+    },
+    "norman_rockwell": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "canco": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "tenia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    },
+    "relacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "we_can": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "do_it": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "the": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "riveter": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/rosie.json"
+}

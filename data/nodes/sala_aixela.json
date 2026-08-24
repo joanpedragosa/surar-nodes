@@ -1,0 +1,59 @@
+{
+  "concept": "sala_aixela",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "barcelona": 1.0
+  },
+  "bayesian_context": {
+    "presentar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.74
+    },
+    "segona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "exposicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "trio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "terre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "miserachs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "masats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "exposar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "junts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sala_aixela.json"
+}

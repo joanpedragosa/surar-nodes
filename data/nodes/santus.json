@@ -1,0 +1,31 @@
+{
+  "concept": "santus",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "maurisius": 1.0
+  },
+  "bayesian_context": {
+    "apareix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "figura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "llegenda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "maurisius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "extrem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/santus.json"
+}

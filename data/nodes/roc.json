@@ -1,0 +1,47 @@
+{
+  "concept": "roc",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tor": 1.0
+  },
+  "bayesian_context": {
+    "instal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "lar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "tor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "maquinaria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "setge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "trencar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "vidre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "autobusos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cop": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/roc.json"
+}

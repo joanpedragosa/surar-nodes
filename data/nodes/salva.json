@@ -1,0 +1,23 @@
+{
+  "concept": "salva",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sam": 1.0
+  },
+  "bayesian_context": {
+    "sam": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "frodo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "cirith_ungol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/salva.json"
+}

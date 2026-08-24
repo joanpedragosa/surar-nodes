@@ -1,0 +1,23 @@
+{
+  "concept": "santos",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pau": 1.0
+  },
+  "bayesian_context": {
+    "quin_nobel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "juan_manuel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "pau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/santos.json"
+}

@@ -1,0 +1,62 @@
+{
+  "concept": "rosina",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "casa": 0.25,
+    "jove": 0.25,
+    "tancar": 0.25,
+    "llibertat": 0.25
+  },
+  "bayesian_context": {
+    "tancada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "casa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "tutor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "enamorada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "jove": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "comte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "amenaca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "bartolo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "tancar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "troba": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "privada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "llibertat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/rosina.json"
+}

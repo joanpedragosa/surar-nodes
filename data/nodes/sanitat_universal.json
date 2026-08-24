@@ -1,0 +1,75 @@
+{
+  "concept": "sanitat_universal",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "salut": 1.0
+  },
+  "bayesian_context": {
+    "nova": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.79
+    },
+    "consellera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "salut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "publica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "ana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "barcelo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "aprovat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "ple": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "consell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "decret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "aprova": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "oferta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "personal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "gestionat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "conselleria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "avui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sanitat_universal.json"
+}

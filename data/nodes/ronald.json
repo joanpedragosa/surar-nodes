@@ -1,0 +1,48 @@
+{
+  "concept": "ronald",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "paisatges": 0.5,
+    "llengues": 0.5
+  },
+  "bayesian_context": {
+    "deia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "fill": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "agradava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "dibuixar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "paisatges": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "arbres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "llicons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "preferides": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "llengues": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ronald.json"
+}

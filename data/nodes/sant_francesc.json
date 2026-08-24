@@ -1,0 +1,76 @@
+{
+  "concept": "sant_francesc",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "llorca": 0.5,
+    "surt": 0.5
+  },
+  "bayesian_context": {
+    "sant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "pobre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "excel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "lencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "patir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "esglesia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.59
+    },
+    "llorca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "esquerdes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "part": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "cos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "surt": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "enquadrament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "natural": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "sobresurt": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "marc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.89
+    },
+    "peu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sant_francesc.json"
+}

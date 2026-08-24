@@ -1,0 +1,39 @@
+{
+  "concept": "roger_ebert",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "nova": 1.0
+  },
+  "bayesian_context": {
+    "descriure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "nova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.09
+    },
+    "esperanca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "experiencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "extra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "corporal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "ressenya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/roger_ebert.json"
+}

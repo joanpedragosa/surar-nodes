@@ -1,0 +1,63 @@
+{
+  "concept": "sanitaria",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "farmaceutica": 1.0
+  },
+  "bayesian_context": {
+    "baixara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "activitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "cambra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "proxims": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mesos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "emergencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "despesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "redueixi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "farmaceutica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sanitaria.json"
+}

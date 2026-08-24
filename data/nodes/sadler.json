@@ -1,0 +1,31 @@
+{
+  "concept": "sadler",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "wells_opera": 1.0
+  },
+  "bayesian_context": {
+    "dirigir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "wells_opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "londres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "charles_mackerras": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sadler.json"
+}

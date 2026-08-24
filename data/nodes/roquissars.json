@@ -1,0 +1,47 @@
+{
+  "concept": "roquissars",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "apareixen": 1.0
+  },
+  "bayesian_context": {
+    "localitzen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "habitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "apareixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "municipi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "area": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "congost": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "rialb": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "forat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "buli": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/roquissars.json"
+}

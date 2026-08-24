@@ -1,0 +1,413 @@
+{
+  "concept": "sant_jordi",
+  "frequency": 20,
+  "edges": [],
+  "markov_transitions": {
+    "princesa": 0.25,
+    "santa_apol": 0.0625,
+    "facana": 0.0625,
+    "muntat": 0.0625,
+    "situada": 0.0625,
+    "nadal": 0.1875,
+    "intervencio": 0.0625,
+    "drac": 0.0625,
+    "mosaic": 0.0625,
+    "palau": 0.0625,
+    "any": 0.0625
+  },
+  "bayesian_context": {
+    "pensar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "podia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.25
+    },
+    "ser": {
+      "likelihood": 0.0017,
+      "posterior_boost": 1.9
+    },
+    "obra": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.53
+    },
+    "taula": {
+      "likelihood": 0.005,
+      "posterior_boost": 3.4
+    },
+    "princesa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "huguet": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.38
+    },
+    "patrons": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "santa_apol": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "lonia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "realitzar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.77
+    },
+    "escultura": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.06
+    },
+    "facana": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.24
+    },
+    "llorenc_matamala": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "encarregar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.08
+    },
+    "familia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.85
+    },
+    "cabrera": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "anomenat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.55
+    },
+    "autor": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.07
+    },
+    "anonim": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "mestre": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.17
+    },
+    "representa": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.06
+    },
+    "muntat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "cavall": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "matant": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "drac": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "pica": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "deixat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.72
+    },
+    "visitants": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "font": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.28
+    },
+    "situada": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.47
+    },
+    "pati": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.88
+    },
+    "tarongers": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "roses": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "grogues": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "organitza": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.58
+    },
+    "tresc": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "principi": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.28
+    },
+    "desembre": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.06
+    },
+    "nadal": {
+      "likelihood": 0.005,
+      "posterior_boost": 4.16
+    },
+    "parat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "actes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.45
+    },
+    "institucionals": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "diada": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "intervencio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.58
+    },
+    "generalitat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.07
+    },
+    "trepitja": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "estan": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.53
+    },
+    "repetides": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "figures": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.11
+    },
+    "sant_marti": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "mosaic": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.68
+    },
+    "pedra": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.15
+    },
+    "presentara": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.45
+    },
+    "consell": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.01
+    },
+    "republica": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.2
+    },
+    "salo": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.65
+    },
+    "palau": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.99
+    },
+    "podem": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.76
+    },
+    "veure": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.93
+    },
+    "museu_nacional": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "art": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.75
+    },
+    "catalunya": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.35
+    },
+    "reial_academia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "fou": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.09
+    },
+    "membre": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.45
+    },
+    "catalana": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.1
+    },
+    "belles_arts": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "temporada": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.45
+    },
+    "any": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.46
+    },
+    "venta": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "llibres": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.36
+    },
+    "major": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.03
+    },
+    "part": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.41
+    },
+    "dissenya": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "subirachs": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "porta": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.84
+    },
+    "sagristia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "capella": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.8
+    },
+    "escut": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.31
+    },
+    "trobem": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.92
+    },
+    "medallons": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "lloc": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.84
+    },
+    "se": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.27
+    },
+    "celebrara": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.4
+    },
+    "cap": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.35
+    },
+    "setmana": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.06
+    },
+    "antiga_fabrica": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "estrella_damm": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "barcelona": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.36
+    },
+    "dia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.79
+    },
+    "anunciat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.55
+    },
+    "celebracio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.72
+    },
+    "realitzaran": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "recepcio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "oficial": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.52
+    },
+    "missa": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.55
+    },
+    "benediccio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sant_jordi.json"
+}

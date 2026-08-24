@@ -1,0 +1,31 @@
+{
+  "concept": "santo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tome": 1.0
+  },
+  "bayesian_context": {
+    "encarregar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "tome": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "andres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "nunez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/santo.json"
+}

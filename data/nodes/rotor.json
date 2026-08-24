@@ -1,0 +1,27 @@
+{
+  "concept": "rotor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "efecte": 1.0
+  },
+  "bayesian_context": {
+    "efecte": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.93
+    },
+    "utilitzen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "vaixells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "magnus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/rotor.json"
+}
