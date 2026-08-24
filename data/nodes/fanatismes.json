@@ -1,0 +1,31 @@
+{
+  "concept": "fanatismes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lluitava": 1.0
+  },
+  "bayesian_context": {
+    "lluitava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "voltaire": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "esglesia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "catolica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "protestantisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fanatismes.json"
+}

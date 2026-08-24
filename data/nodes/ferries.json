@@ -1,0 +1,60 @@
+{
+  "concept": "ferries",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "costat": 0.5,
+    "volen": 0.5
+  },
+  "bayesian_context": {
+    "feia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "servir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "transport": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "material": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "vies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "volen": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.02
+    },
+    "construir": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.0
+    },
+    "dues": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.69
+    },
+    "linies": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.45
+    },
+    "costat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.77
+    },
+    "riu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "quantes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ferries.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "farcit",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "curri": 1.0
+  },
+  "bayesian_context": {
+    "bunny": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "chow": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "pa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "curri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/farcit.json"
+}

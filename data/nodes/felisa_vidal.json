@@ -1,0 +1,35 @@
+{
+  "concept": "felisa_vidal",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "euros": 1.0
+  },
+  "bayesian_context": {
+    "fianca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "demana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "acusat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "magistrada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "instructora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/felisa_vidal.json"
+}

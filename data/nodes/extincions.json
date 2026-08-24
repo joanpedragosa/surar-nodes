@@ -1,0 +1,39 @@
+{
+  "concept": "extincions",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "organismes": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "organismes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "regionals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "patir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "grups": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "marins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "grans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/extincions.json"
+}

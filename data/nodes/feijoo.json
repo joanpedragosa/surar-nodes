@@ -1,0 +1,35 @@
+{
+  "concept": "feijoo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "motius": 1.0
+  },
+  "bayesian_context": {
+    "anira": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "desfilada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "alberto": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "nunez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "motius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "personals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/feijoo.json"
+}

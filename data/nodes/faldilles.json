@@ -1,0 +1,31 @@
+{
+  "concept": "faldilles",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "blanques": 1.0
+  },
+  "bayesian_context": {
+    "coneixia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "classes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "altes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "classe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "blanques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/faldilles.json"
+}

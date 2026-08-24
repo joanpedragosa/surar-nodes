@@ -1,0 +1,35 @@
+{
+  "concept": "facen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "quatre": 1.0
+  },
+  "bayesian_context": {
+    "sol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "licitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "bonig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "votants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "quatre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "preguntes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/facen.json"
+}

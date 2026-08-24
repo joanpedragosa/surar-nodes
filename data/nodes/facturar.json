@@ -1,0 +1,43 @@
+{
+  "concept": "facturar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "clash_royale": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "dolars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "clash_royale": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "primers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "dies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "sortir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "mercat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "milions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/facturar.json"
+}

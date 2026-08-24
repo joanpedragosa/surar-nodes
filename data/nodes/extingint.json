@@ -1,0 +1,23 @@
+{
+  "concept": "extingint",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "se": 1.0
+  },
+  "bayesian_context": {
+    "passar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "regeneradors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/extingint.json"
+}

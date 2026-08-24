@@ -1,0 +1,35 @@
+{
+  "concept": "eximir",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "carles_puigdemont": 1.0
+  },
+  "bayesian_context": {
+    "formacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "politica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "expressar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "suspensio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "jxcat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eximir.json"
+}

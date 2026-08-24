@@ -1,0 +1,65 @@
+{
+  "concept": "fenis",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "giustino_boson": 0.3333,
+    "naturals": 0.3333,
+    "frescos": 0.3333
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.5
+    },
+    "castello": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "di": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    },
+    "giustino_boson": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "defenses": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "castell": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.3
+    },
+    "naturals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "ve": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "remarcada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "funcio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "residencial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "frescos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "merit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fenis.json"
+}

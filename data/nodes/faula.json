@@ -1,0 +1,23 @@
+{
+  "concept": "faula",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sonora": 1.0
+  },
+  "bayesian_context": {
+    "tracta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "sonora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "naturalesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/faula.json"
+}

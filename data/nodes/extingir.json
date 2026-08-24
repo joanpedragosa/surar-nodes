@@ -1,0 +1,31 @@
+{
+  "concept": "extingir",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "definitivament": 1.0
+  },
+  "bayesian_context": {
+    "definitivament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "incendi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "dies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "sinistre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/extingir.json"
+}

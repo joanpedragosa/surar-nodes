@@ -1,0 +1,31 @@
+{
+  "concept": "expositives",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "narratives": 1.0
+  },
+  "bayesian_context": {
+    "posar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "berlioz": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "seccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "narratives": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "paraules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/expositives.json"
+}

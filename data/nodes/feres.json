@@ -1,0 +1,40 @@
+{
+  "concept": "feres",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "quatre": 0.5,
+    "segona": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.75
+    },
+    "ossos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "quatre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.49
+    },
+    "llancats": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "sants": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.57
+    },
+    "segona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    },
+    "escena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.65
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/feres.json"
+}

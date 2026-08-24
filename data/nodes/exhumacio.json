@@ -1,0 +1,48 @@
+{
+  "concept": "exhumacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pp": 0.5,
+    "congres": 0.5
+  },
+  "bayesian_context": {
+    "donara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "suport": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "decret": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "llei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "pp": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "ciutadans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "votara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "congres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/exhumacio.json"
+}

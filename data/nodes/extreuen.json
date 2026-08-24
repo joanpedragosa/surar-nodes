@@ -1,0 +1,73 @@
+{
+  "concept": "extreuen",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "mostres": 0.3333,
+    "terres": 0.3333,
+    "polimerases": 0.3333
+  },
+  "bayesian_context": {
+    "mostres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "aigua": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "potable": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "solvents": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "organics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "terres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "volcaniques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "parc_nacional": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "teide": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "polimerases": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "termoestables": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "microorganismes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "adaptats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "viure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "temperatures": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/extreuen.json"
+}

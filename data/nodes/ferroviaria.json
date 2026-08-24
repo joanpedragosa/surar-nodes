@@ -1,0 +1,60 @@
+{
+  "concept": "ferroviaria",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "generalitat": 0.5,
+    "rendibilitzar": 0.5
+  },
+  "bayesian_context": {
+    "traspassar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "espanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "infraestructura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "generalitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.77
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "objectiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "liberalitzacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "rendibilitzar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "infrastructures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "beneficiar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "usuari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ferroviaria.json"
+}

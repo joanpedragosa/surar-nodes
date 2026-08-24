@@ -1,0 +1,19 @@
+{
+  "concept": "exoprotesis",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "membre": 1.0
+  },
+  "bayesian_context": {
+    "substitueixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "membre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/exoprotesis.json"
+}
