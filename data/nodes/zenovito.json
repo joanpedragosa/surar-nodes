@@ -1,0 +1,32 @@
+{
+  "concept": "zenovito",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sol": 0.5,
+    "ladislao": 0.5
+  },
+  "bayesian_context": {
+    "queda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "sol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.73
+    },
+    "demana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "ladislao": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "filla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/zenovito.json"
+}

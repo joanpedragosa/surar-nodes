@@ -1,0 +1,52 @@
+{
+  "concept": "zelenski",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "presidencials": 0.5,
+    "immunitat": 0.5
+  },
+  "bayesian_context": {
+    "guanyar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "presidencials": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "abril": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "contundent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "proposat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "acabar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "immunitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "judicial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "diputats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.92
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/zelenski.json"
+}

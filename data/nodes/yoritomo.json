@@ -1,0 +1,27 @@
+{
+  "concept": "yoritomo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "kamakura": 1.0
+  },
+  "bayesian_context": {
+    "coneix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "shogunat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "minamoto": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "kamakura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/yoritomo.json"
+}

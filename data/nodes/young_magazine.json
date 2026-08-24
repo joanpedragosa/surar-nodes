@@ -1,0 +1,43 @@
+{
+  "concept": "young_magazine",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "kodansha": 1.0
+  },
+  "bayesian_context": {
+    "publicar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "manga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "dibuixant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "katsuhiro_otomo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "revista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "editorial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "pertany": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "kodansha": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/young_magazine.json"
+}
