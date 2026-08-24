@@ -1,0 +1,77 @@
+{
+  "concept": "suposada",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "corrupcio": 0.3333,
+    "existencia": 0.3333,
+    "malversacio": 0.3333
+  },
+  "bayesian_context": {
+    "preso": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "lula": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "corrupcio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "denuncia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "direccio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "casado": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "bauza": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "existencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "adoctrinament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "balears": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "investiga": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "trias": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "malversacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "diner": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "public": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/suposada.json"
+}

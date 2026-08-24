@@ -1,0 +1,51 @@
+{
+  "concept": "teatre_ford",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cosi": 1.0
+  },
+  "bayesian_context": {
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "veure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "lincoln": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "cosi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "america": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "teatre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "assistir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "president": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "primera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "dama": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/teatre_ford.json"
+}

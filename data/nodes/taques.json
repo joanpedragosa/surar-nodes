@@ -1,0 +1,52 @@
+{
+  "concept": "taques",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "negres": 0.5,
+    "inici": 0.5
+  },
+  "bayesian_context": {
+    "especie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "dragons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "lleopard": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "generalment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "color": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "groc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "negres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "tenen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.58
+    },
+    "inici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "marrons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/taques.json"
+}

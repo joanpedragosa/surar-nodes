@@ -1,0 +1,31 @@
+{
+  "concept": "super",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cotxes": 1.0
+  },
+  "bayesian_context": {
+    "categoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "millors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "cotxes": {
+      "likelihood": 0.0667,
+      "posterior_boost": 6.02
+    },
+    "dbs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/super.json"
+}

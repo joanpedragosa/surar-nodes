@@ -1,0 +1,84 @@
+{
+  "concept": "superfamilia",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "tiranosauroideus": 0.25,
+    "rinocerotoideus": 0.75
+  },
+  "bayesian_context": {
+    "publicar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.63
+    },
+    "article": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.66
+    },
+    "alick_walker": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "nom": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.4
+    },
+    "tiranosauroideus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "periode": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "remunten": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "origens": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "rinocerotoideus": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.3
+    },
+    "eoce": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "inferior": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    },
+    "families": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "formen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "aminodontids": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "rinocerotids": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "hiracodontids": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "quantes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.86
+    },
+    "tres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/superfamilia.json"
+}

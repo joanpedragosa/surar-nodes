@@ -1,0 +1,85 @@
+{
+  "concept": "successor",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "verdi": 0.3333,
+    "lli": 0.3333,
+    "sant": 0.3333
+  },
+  "bayesian_context": {
+    "convertir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.04
+    },
+    "verdi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    },
+    "bellini": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "donizetti": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "lli": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "coincideixen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "practicament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "autors": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.73
+    },
+    "pere": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.47
+    },
+    "consideraven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "segle": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.29
+    },
+    "iv": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "sant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "bisbat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "roma": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "climent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/successor.json"
+}

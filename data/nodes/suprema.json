@@ -1,0 +1,31 @@
+{
+  "concept": "suprema",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "inquisicio": 1.0
+  },
+  "bayesian_context": {
+    "ordena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "diverses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "ocasions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "renovacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "inquisicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/suprema.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "superficials",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "panda": 1.0
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "semblances": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "panda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "vermell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "gats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "domestics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/superficials.json"
+}

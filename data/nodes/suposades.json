@@ -1,0 +1,27 @@
+{
+  "concept": "suposades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "comissions": 1.0
+  },
+  "bayesian_context": {
+    "investiga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "cas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "comissions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "irregulars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/suposades.json"
+}

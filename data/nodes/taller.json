@@ -1,0 +1,414 @@
+{
+  "concept": "taller",
+  "frequency": 22,
+  "edges": [],
+  "markov_transitions": {
+    "louis_michel": 0.0476,
+    "josep_lluis": 0.0476,
+    "deixebles": 0.0952,
+    "der": 0.0952,
+    "mecanic": 0.0476,
+    "botiga": 0.1429,
+    "francesc_vidal": 0.0476,
+    "realitzacio": 0.0476,
+    "ebenisteria": 0.0952,
+    "catala": 0.0476,
+    "orfebreria": 0.0476,
+    "fusteria": 0.0476,
+    "monestir": 0.0476,
+    "arquitectura": 0.0476,
+    "treballava": 0.0476,
+    "llanties": 0.0476
+  },
+  "bayesian_context": {
+    "rebre": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.04
+    },
+    "ensenyament": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.84
+    },
+    "artistic": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.6
+    },
+    "melendez": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.68
+    },
+    "pare": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.94
+    },
+    "louis_michel": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "loo": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "construir": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.14
+    },
+    "josep_lluis": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "sert": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "incorporar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.98
+    },
+    "jaume_huguet": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.73
+    },
+    "deixebles": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "membres": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.25
+    },
+    "familia": {
+      "likelihood": 0.0045,
+      "posterior_boost": 3.29
+    },
+    "vergos": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "heretar": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "der": {
+      "likelihood": 0.0045,
+      "posterior_boost": 3.58
+    },
+    "stockt": {
+      "likelihood": 0.0045,
+      "posterior_boost": 4.26
+    },
+    "jan": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.73
+    },
+    "denunciar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.45
+    },
+    "caporal": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "mossos": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.14
+    },
+    "destinat": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "tarragona": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.41
+    },
+    "mecanic": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "equipada": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "botiga": {
+      "likelihood": 0.0045,
+      "posterior_boost": 4.12
+    },
+    "joies": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "objectes": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.02
+    },
+    "finament": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "treballats": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "condiciona": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "a_nuenen": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "habitacio": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.84
+    },
+    "mostra": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.3
+    },
+    "obra": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.2
+    },
+    "orfebre": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "assimilar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "homar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.81
+    },
+    "francesc_vidal": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "tecniques": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.41
+    },
+    "coneixements": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "integrals": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "monopolitzar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "realitzacio": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.6
+    },
+    "retaules": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.68
+    },
+    "dedicar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.68
+    },
+    "gaspar_homar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "tancar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.6
+    },
+    "ebenisteria": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.38
+    },
+    "comerc": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.3
+    },
+    "antiguitats": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "tasca": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.68
+    },
+    "restaurador": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "obres": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.49
+    },
+    "art": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.71
+    },
+    "exposen": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "prestatges": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "dreta": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.09
+    },
+    "urna": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.84
+    },
+    "catala": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.81
+    },
+    "haver": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.64
+    },
+    "gran": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.37
+    },
+    "orfebreria": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "peninsula": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.48
+    },
+    "iberica": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "monestir": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.64
+    },
+    "sant_isidor": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "lleo": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.71
+    },
+    "treballant": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "sant": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.8
+    },
+    "josep": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.6
+    },
+    "fusteria": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "crucifix": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.9
+    },
+    "don": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.84
+    },
+    "fernando": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.78
+    },
+    "dona": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.67
+    },
+    "sancha": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "fundar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.32
+    },
+    "ricardo_bofill": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "arquitectura": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.25
+    },
+    "treballava": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.84
+    },
+    "francesco_nicosia": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "offizio": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "delle": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "pietre": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "duri": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "aparells": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "il": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.89
+    },
+    "luminacio": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.9
+    },
+    "executava": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "llanties": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "llums": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "aranyes": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "canelobres": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "fanals": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/taller.json"
+}

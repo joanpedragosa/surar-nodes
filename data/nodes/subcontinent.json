@@ -1,0 +1,43 @@
+{
+  "concept": "subcontinent",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "indi": 1.0
+  },
+  "bayesian_context": {
+    "separar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "indi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "gondwana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "continent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "acobla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "acabament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "oligoce": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "asia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/subcontinent.json"
+}

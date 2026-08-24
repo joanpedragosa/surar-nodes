@@ -1,0 +1,40 @@
+{
+  "concept": "stephen_sinclair",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "guio": 0.5,
+    "empresa": 0.5
+  },
+  "bayesian_context": {
+    "conservar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "guio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "new_line": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "frases": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "participar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "empresa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "miramax": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/stephen_sinclair.json"
+}

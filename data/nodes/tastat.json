@@ -1,0 +1,27 @@
+{
+  "concept": "tastat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "edicio": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "vins": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "edicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "premi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tastat.json"
+}

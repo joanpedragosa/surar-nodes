@@ -1,0 +1,52 @@
+{
+  "concept": "substitueix",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "george_donald": 0.5,
+    "cadena": 0.5
+  },
+  "bayesian_context": {
+    "george_donald": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "johnston": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "joan_llonch": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "andreu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cadena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "aminoadipic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "molecula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "acid": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "fenilacetic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "activada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/substitueix.json"
+}

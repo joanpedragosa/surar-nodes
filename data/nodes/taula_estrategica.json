@@ -1,0 +1,60 @@
+{
+  "concept": "taula_estrategica",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "catalana": 0.5,
+    "palau": 0.5
+  },
+  "bayesian_context": {
+    "pactar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "puigdemont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "creacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "catalana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "corredor_mediterrani": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ximo_puig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "estan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "citats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "representants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "reunio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "palau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "pedralbes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/taula_estrategica.json"
+}

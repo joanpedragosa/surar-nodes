@@ -1,0 +1,35 @@
+{
+  "concept": "sustenta",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "forma": 1.0
+  },
+  "bayesian_context": {
+    "forma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.89
+    },
+    "vida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "etica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "defensa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "vives": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "autoconsciencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sustenta.json"
+}

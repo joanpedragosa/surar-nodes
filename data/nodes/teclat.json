@@ -1,0 +1,56 @@
+{
+  "concept": "teclat",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "vestibul": 0.5,
+    "introduir": 0.5
+  },
+  "bayesian_context": {
+    "complementen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "aplicacions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "tercers": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "prem": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "numero": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "planta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "vestibul": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "nou": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.38
+    },
+    "instrument": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "introduir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "mellotron": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/teclat.json"
+}

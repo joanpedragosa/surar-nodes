@@ -1,0 +1,43 @@
+{
+  "concept": "suspendria",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "autonomia": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "espadaler": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "autonomia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "mitjancant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "aplicacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "article": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    },
+    "constitucio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/suspendria.json"
+}

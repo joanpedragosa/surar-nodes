@@ -1,0 +1,31 @@
+{
+  "concept": "sunset_jazz",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "club": 1.0
+  },
+  "bayesian_context": {
+    "fa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.8
+    },
+    "jazz": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "jam": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "session": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "club": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sunset_jazz.json"
+}

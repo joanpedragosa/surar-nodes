@@ -1,0 +1,33 @@
+{
+  "concept": "svend_foyn",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "equipar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "vaixell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "arpons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "capturar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "cetacis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "grans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/svend_foyn.json"
+}
