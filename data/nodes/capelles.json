@@ -1,0 +1,131 @@
+{
+  "concept": "capelles",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "papa": 0.2,
+    "piramides": 0.2,
+    "romaniques": 0.2,
+    "palaus": 0.2,
+    "funeraries": 0.2
+  },
+  "bayesian_context": {
+    "dedicar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.18
+    },
+    "papa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.93
+    },
+    "hilari_i": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "sant": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.6
+    },
+    "joan_baptista": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "joan_evangelista": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "decorades": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "piramides": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.1
+    },
+    "nubia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "relleus": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.18
+    },
+    "reconvertit": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "absis": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.86
+    },
+    "petits": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.69
+    },
+    "solia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "situar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.98
+    },
+    "prop": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.55
+    },
+    "mas": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.95
+    },
+    "romaniques": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "encarrega": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "rei": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.25
+    },
+    "pere": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.8
+    },
+    "sengles": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "retaules": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.18
+    },
+    "palaus": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "imposar": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.33
+    },
+    "model": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.05
+    },
+    "planta": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.96
+    },
+    "octogonal": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.58
+    },
+    "funeraries": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.78
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/capelles.json"
+}

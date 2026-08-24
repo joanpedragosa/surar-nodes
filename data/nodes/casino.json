@@ -1,0 +1,78 @@
+{
+  "concept": "casino",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "arquitecte": 0.25,
+    "alianca": 0.25,
+    "llac": 0.25,
+    "renaixentista": 0.25
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.67
+    },
+    "obra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.92
+    },
+    "arquitecte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "josep_plantada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "fet": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.23
+    },
+    "assemblea": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "general": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "ordinaria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "alianca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "poblenou": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "construir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "llac": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "cascada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "estil": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.43
+    },
+    "renaixentista": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "frances": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/casino.json"
+}

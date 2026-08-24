@@ -1,0 +1,27 @@
+{
+  "concept": "cecor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "radio": 1.0
+  },
+  "bayesian_context": {
+    "comunicaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "comandaments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "superiors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "radio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cecor.json"
+}

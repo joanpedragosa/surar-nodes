@@ -1,0 +1,39 @@
+{
+  "concept": "capitalitzar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "aprovacio": 1.0
+  },
+  "bayesian_context": {
+    "marxar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "xavier_garcia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "albiol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "madrid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "aprovacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "reforma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/capitalitzar.json"
+}

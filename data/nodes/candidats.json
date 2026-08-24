@@ -1,0 +1,224 @@
+{
+  "concept": "candidats",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "part": 0.125,
+    "independentistes": 0.125,
+    "eleccions": 0.125,
+    "pp": 0.375,
+    "candidates": 0.125,
+    "parlament": 0.125
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.34
+    },
+    "part": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.09
+    },
+    "garicano": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "presentar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.14
+    },
+    "primaries": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.87
+    },
+    "donaran": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "suport": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.29
+    },
+    "diputats": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.32
+    },
+    "independentistes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "erc": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.28
+    },
+    "pdc": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "bildu": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "grup": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.0
+    },
+    "mixt": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "presentara": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.84
+    },
+    "debat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "eleccions": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.06
+    },
+    "europees": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "xabier_fortes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "format": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "col": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.92
+    },
+    "loqui": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "avui": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.2
+    },
+    "ser": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.26
+    },
+    "pp": {
+      "likelihood": 0.0125,
+      "posterior_boost": 3.69
+    },
+    "pspv": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.95
+    },
+    "ciutadans": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.23
+    },
+    "compromis": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.48
+    },
+    "unides_podem": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.87
+    },
+    "escollit": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "alcalde": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "pedani": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.64
+    },
+    "candidates": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "presentats": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "utilitzat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "catala": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.55
+    },
+    "cs": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "arma": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "partidista": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "electoral": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.53
+    },
+    "dit": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.66
+    },
+    "valencia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.38
+    },
+    "llengua": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.63
+    },
+    "procediment": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "votacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.74
+    },
+    "israel": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "poblacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.58
+    },
+    "vota": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "llista": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.42
+    },
+    "parlament": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.07
+    },
+    "forjar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "aliances": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/candidats.json"
+}

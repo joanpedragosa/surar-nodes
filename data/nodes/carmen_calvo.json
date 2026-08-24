@@ -1,0 +1,97 @@
+{
+  "concept": "carmen_calvo",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "partits": 0.25,
+    "clinica": 0.5,
+    "coronavirus": 0.25
+  },
+  "bayesian_context": {
+    "responsabilitzat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "partits": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.92
+    },
+    "independentistes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.88
+    },
+    "refusar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "taula": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.52
+    },
+    "ingressada": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "clinica": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.33
+    },
+    "ruber": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.33
+    },
+    "infeccio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "respiratoria": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "hospitalitzada": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "madrid": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.69
+    },
+    "malaltia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "sospiten": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "sanitaris": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.02
+    },
+    "pot": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.05
+    },
+    "patir": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.95
+    },
+    "coronavirus": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "mitja": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.58
+    },
+    "comunicacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.81
+    },
+    "entrevistat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/carmen_calvo.json"
+}

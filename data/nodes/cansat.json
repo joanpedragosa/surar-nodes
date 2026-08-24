@@ -1,0 +1,31 @@
+{
+  "concept": "cansat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "jaufre": 1.0
+  },
+  "bayesian_context": {
+    "jaufre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "rudel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "plaers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "cort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cansat.json"
+}

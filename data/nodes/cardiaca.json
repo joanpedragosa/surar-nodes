@@ -1,0 +1,59 @@
+{
+  "concept": "cardiaca",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "congestiva": 1.0
+  },
+  "bayesian_context": {
+    "condicions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "indicar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "resultats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "majors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "valors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "normals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "malaltia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "addison": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "insuficiencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "congestiva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "xoc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cardiaca.json"
+}

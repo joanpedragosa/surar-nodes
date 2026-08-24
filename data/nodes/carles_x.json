@@ -1,0 +1,59 @@
+{
+  "concept": "carles_x",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "rei": 1.0
+  },
+  "bayesian_context": {
+    "coronar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "rei": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.91
+    },
+    "franca": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.25
+    },
+    "catedral": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.09
+    },
+    "reims": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "motiu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "encarregar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "rossini_il": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "viaggio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "coronacio": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.89
+    },
+    "convidats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "protagonistes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/carles_x.json"
+}

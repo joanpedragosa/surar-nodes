@@ -1,0 +1,475 @@
+{
+  "concept": "causar",
+  "frequency": 17,
+  "edges": [],
+  "markov_transitions": {
+    "esterilitzacio": 0.0588,
+    "maxim": 0.0588,
+    "estralls": 0.0588,
+    "fragmentacio": 0.0588,
+    "presencia": 0.0588,
+    "grans": 0.0588,
+    "falla": 0.0588,
+    "aparicio": 0.0588,
+    "important": 0.0588,
+    "consum": 0.0588,
+    "malalties": 0.0588,
+    "opera": 0.0588,
+    "definicio": 0.0588,
+    "extincio": 0.0588,
+    "greus": 0.0588,
+    "penicil": 0.0588,
+    "pesta": 0.0588
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0078,
+      "posterior_boost": 3.12
+    },
+    "esterilitzacio": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    },
+    "animals": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.23
+    },
+    "joves": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.35
+    },
+    "problemes": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.61
+    },
+    "salut": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.52
+    },
+    "maxim": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.52
+    },
+    "termic": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "mamifers": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.38
+    },
+    "augment": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.42
+    },
+    "taxa": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.84
+    },
+    "especiacio": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "migracions": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "voler": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.57
+    },
+    "fer": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.12
+    },
+    "paisiellisti": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "nit": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.27
+    },
+    "estrena": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.07
+    },
+    "opera": {
+      "likelihood": 0.0039,
+      "posterior_boost": 2.75
+    },
+    "estralls": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "compositor": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.2
+    },
+    "elenc": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "fragmentacio": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "regne": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.62
+    },
+    "edwin": {
+      "likelihood": 0.0039,
+      "posterior_boost": 4.19
+    },
+    "derrota": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "mort": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.22
+    },
+    "devia": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "presencia": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.32
+    },
+    "trompes": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "escenari": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.72
+    },
+    "especial": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.54
+    },
+    "rebombori": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "grans": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.05
+    },
+    "monestirs": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "desenvolupament": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.31
+    },
+    "nova": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.87
+    },
+    "tradicio": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.49
+    },
+    "falla": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.75
+    },
+    "enfrontament": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.95
+    },
+    "bel": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.89
+    },
+    "lic": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "dolor": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "aparicio": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "encreuament": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "ocasional": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "veus": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.65
+    },
+    "certs": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "organums": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "incorporar": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.8
+    },
+    "moviment": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.38
+    },
+    "contrari": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    },
+    "organum": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "important": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.13
+    },
+    "baixes": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.8
+    },
+    "borbonics": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "feines": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    },
+    "excavacio": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "tropes": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.47
+    },
+    "consum": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.62
+    },
+    "drogues": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "syd_barret": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "mentals": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "sabien": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "metges": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "tercer_reich": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "fumar": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    },
+    "malalties": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.75
+    },
+    "cardiaques": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "segons": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.3
+    },
+    "cera": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "sensacio": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "real": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.65
+    },
+    "paraula": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.57
+    },
+    "troba": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.9
+    },
+    "definicio": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.98
+    },
+    "sacre": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    },
+    "circular": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "religio": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.57
+    },
+    "temps": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.7
+    },
+    "mtpe": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    },
+    "extincio": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.62
+    },
+    "foraminifers": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "bentonics": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    },
+    "anys": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.33
+    },
+    "efectes": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.59
+    },
+    "poden": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.1
+    },
+    "mecanismes": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "mes": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.02
+    },
+    "drastics": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "reparacio": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.89
+    },
+    "adn": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.32
+    },
+    "greus": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.95
+    },
+    "aberracions": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "cromosomiques": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "cel": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.91
+    },
+    "lular": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.62
+    },
+    "simptomes": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "penicil": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.65
+    },
+    "lina": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.52
+    },
+    "sodica": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "urticaria": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "pruija": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "vegades": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.24
+    },
+    "xoc": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.95
+    },
+    "anafilactic": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "quantes": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.25
+    },
+    "morts": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.45
+    },
+    "europeus": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.62
+    },
+    "pesta": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "negra": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "milions": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/causar.json"
+}

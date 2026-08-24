@@ -1,0 +1,31 @@
+{
+  "concept": "capitosts",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "gurtel": 1.0
+  },
+  "bayesian_context": {
+    "condemnats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "gurtel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "ricardo_costa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "delicte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "electoral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/capitosts.json"
+}

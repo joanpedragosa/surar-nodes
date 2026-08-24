@@ -1,0 +1,60 @@
+{
+  "concept": "canon",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "tenien": 0.5,
+    "poetic": 0.5
+  },
+  "bayesian_context": {
+    "atribuit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "tenien": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.1
+    },
+    "artistes": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.45
+    },
+    "grecs": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.77
+    },
+    "segle": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.59
+    },
+    "or": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.21
+    },
+    "escultor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "policlet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "defuig": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "espectacle": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "lara": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "poetic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/canon.json"
+}

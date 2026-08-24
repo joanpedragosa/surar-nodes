@@ -1,0 +1,35 @@
+{
+  "concept": "capitol_records",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "estats_units": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "publicitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "mediocre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "pais": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "harvest": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "estats_units": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/capitol_records.json"
+}

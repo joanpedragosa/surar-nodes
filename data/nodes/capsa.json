@@ -1,0 +1,27 @@
+{
+  "concept": "capsa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fusta": 1.0
+  },
+  "bayesian_context": {
+    "guardat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "idol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "or": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "fusta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/capsa.json"
+}

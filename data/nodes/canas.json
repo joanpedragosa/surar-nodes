@@ -1,0 +1,31 @@
+{
+  "concept": "canas",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "presumpte": 1.0
+  },
+  "bayesian_context": {
+    "acusat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "jordi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "presumpte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "delicte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "fiscal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/canas.json"
+}

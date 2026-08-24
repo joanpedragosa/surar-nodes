@@ -1,0 +1,31 @@
+{
+  "concept": "casa_manuel",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "doncel": 1.0
+  },
+  "bayesian_context": {
+    "tipologia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "segueix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "doncel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "masia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "catalana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/casa_manuel.json"
+}
