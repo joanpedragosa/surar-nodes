@@ -1,0 +1,77 @@
+{
+  "concept": "posposada",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "llibretista": 0.3333,
+    "produccio": 0.3333,
+    "estrena": 0.3333
+  },
+  "bayesian_context": {
+    "podria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.82
+    },
+    "acabar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.93
+    },
+    "obra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.05
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "llibretista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "compositor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.95
+    },
+    "produccio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.98
+    },
+    "nova_york": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "davant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "possibilitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "fos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "boicotejada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "estrena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.82
+    },
+    "matilde": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "final": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.74
+    },
+    "temporada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/posposada.json"
+}

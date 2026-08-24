@@ -1,0 +1,70 @@
+{
+  "concept": "polimerasa",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "kary_mullis": 0.25,
+    "humana": 0.25,
+    "adn": 0.25,
+    "translesio": 0.25
+  },
+  "bayesian_context": {
+    "atribuida": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "reaccio": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.45
+    },
+    "cadena": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.4
+    },
+    "kary_mullis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "familia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.45
+    },
+    "pertanyen": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "llevats": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "humana": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "adn": {
+      "likelihood": 0.02,
+      "posterior_boost": 4.33
+    },
+    "polimerases": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "inventar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "tipus": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.53
+    },
+    "translesio": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.02
+    },
+    "especialitzades": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/polimerasa.json"
+}

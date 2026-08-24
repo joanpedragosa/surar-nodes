@@ -1,0 +1,47 @@
+{
+  "concept": "planol",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "proposat": 1.0
+  },
+  "bayesian_context": {
+    "aprofita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "estructura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "proposat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "cerda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "direccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "vents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "arbre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "metres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/planol.json"
+}

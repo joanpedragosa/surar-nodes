@@ -1,0 +1,40 @@
+{
+  "concept": "preferida",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "lilla": 0.5,
+    "hawaians": 0.5
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "comte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "residencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "lilla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "terra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "hawaians": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "poi_bowl": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/preferida.json"
+}

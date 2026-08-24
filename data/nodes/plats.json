@@ -1,0 +1,27 @@
+{
+  "concept": "plats",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "saborosos": 1.0
+  },
+  "bayesian_context": {
+    "saborosos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "reticents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "tastar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "nous": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/plats.json"
+}

@@ -1,0 +1,43 @@
+{
+  "concept": "pradon",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "segons": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "deixeble": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "blas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "antonio_palomino": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "juan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "sanchez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.02
+    },
+    "cotan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pradon.json"
+}

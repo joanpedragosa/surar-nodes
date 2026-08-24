@@ -1,0 +1,84 @@
+{
+  "concept": "plecs",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "vestidures": 0.5,
+    "falles": 0.5
+  },
+  "bayesian_context": {
+    "caiguda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "vestidures": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "maria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    },
+    "voluminosa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "realitzades": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "mantells": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "amplis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "falles": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "controlen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "estructuralment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "zones": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.45
+    },
+    "reemplacament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "complexos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "dolomititzats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "contacte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "roques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "ignies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "intrusives": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/plecs.json"
+}

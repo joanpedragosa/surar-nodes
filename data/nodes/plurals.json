@@ -1,0 +1,52 @@
+{
+  "concept": "plurals",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "forma": 0.5,
+    "artus": 0.5
+  },
+  "bayesian_context": {
+    "deriva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "forma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.89
+    },
+    "ibus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "datiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ablatiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "primitiva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "ubus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "serien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "artus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "artubus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/plurals.json"
+}

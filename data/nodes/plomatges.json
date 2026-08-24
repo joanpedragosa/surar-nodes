@@ -1,0 +1,43 @@
+{
+  "concept": "plomatges",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "alternatius": 1.0
+  },
+  "bayesian_context": {
+    "conegudes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "sistema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "humphrey": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "parkes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "variacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "plomatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "basic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "alternatius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/plomatges.json"
+}

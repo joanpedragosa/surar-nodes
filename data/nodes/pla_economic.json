@@ -1,0 +1,31 @@
+{
+  "concept": "pla_economic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "financer": 1.0
+  },
+  "bayesian_context": {
+    "preguntat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "observanca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "financer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "pais_valencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "isabel_bonig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pla_economic.json"
+}

@@ -1,0 +1,23 @@
+{
+  "concept": "poliedre",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "unio": 1.0
+  },
+  "bayesian_context": {
+    "superficie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "unio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "costats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/poliedre.json"
+}

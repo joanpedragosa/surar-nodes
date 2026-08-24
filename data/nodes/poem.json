@@ -1,0 +1,39 @@
+{
+  "concept": "poem",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "trobar": 1.0
+  },
+  "bayesian_context": {
+    "temes": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.05
+    },
+    "historics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "trobar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.99
+    },
+    "capitells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "interiors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "antic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "nou_testament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/poem.json"
+}

@@ -1,0 +1,23 @@
+{
+  "concept": "poxvirids",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "virus": 1.0
+  },
+  "bayesian_context": {
+    "virus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "grans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "complexos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/poxvirids.json"
+}

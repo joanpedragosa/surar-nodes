@@ -1,0 +1,118 @@
+{
+  "concept": "posara",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "marxa": 0.25,
+    "impediments": 0.25,
+    "funcionament": 0.25,
+    "prova": 0.25
+  },
+  "bayesian_context": {
+    "marxa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "reunio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.69
+    },
+    "botanic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "auditoria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "ciutadana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "demana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "garanties": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "afers": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "estrangers": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "borrell": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "impediments": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "feina": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "funcionament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "setmana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.75
+    },
+    "entrant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "nou": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.25
+    },
+    "hospital": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.9
+    },
+    "temporal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "prova": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "sistema": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.51
+    },
+    "vot": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "electronic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "eleccions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.36
+    },
+    "sindicals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "administracio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "generalitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.47
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/posara.json"
+}

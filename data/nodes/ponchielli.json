@@ -1,0 +1,76 @@
+{
+  "concept": "ponchielli",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "amic": 0.5,
+    "seria": 0.5
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.5
+    },
+    "lletra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "amic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "music": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "achille_formis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "iniciar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "composicio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.98
+    },
+    "creia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "seria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "reaccio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "public": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "element": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "dramatic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "ultrapassava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "liric": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "negativa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ponchielli.json"
+}

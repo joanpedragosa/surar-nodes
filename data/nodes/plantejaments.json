@@ -1,0 +1,31 @@
+{
+  "concept": "plantejaments",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "etics": 1.0
+  },
+  "bayesian_context": {
+    "fonamenta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "postura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "reguant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "etics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "consciencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/plantejaments.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "plantat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "astut": 1.0
+  },
+  "bayesian_context": {
+    "jove": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "filippo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "ben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "astut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/plantat.json"
+}
