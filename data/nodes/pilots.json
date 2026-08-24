@@ -1,0 +1,35 @@
+{
+  "concept": "pilots",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "positiu": 1.0
+  },
+  "bayesian_context": {
+    "sera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "efecte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "causara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "obertura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "escola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "positiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pilots.json"
+}

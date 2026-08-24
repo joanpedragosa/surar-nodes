@@ -1,0 +1,43 @@
+{
+  "concept": "persia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "imperi_roma": 1.0
+  },
+  "bayesian_context": {
+    "iniciar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "campanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "imperi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "principal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "enemic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "imperi_roma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "orient": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/persia.json"
+}

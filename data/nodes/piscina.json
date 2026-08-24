@@ -1,0 +1,39 @@
+{
+  "concept": "piscina",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "problema": 1.0
+  },
+  "bayesian_context": {
+    "retirar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "thorpe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "duel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "problema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "medic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "mig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "jardi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/piscina.json"
+}

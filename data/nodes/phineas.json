@@ -1,0 +1,31 @@
+{
+  "concept": "phineas",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "and": 1.0
+  },
+  "bayesian_context": {
+    "ornitorrinc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "apareix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "and": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "ferb": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "perry": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/phineas.json"
+}

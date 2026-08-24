@@ -1,0 +1,48 @@
+{
+  "concept": "placeta",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vessant": 0.5,
+    "xiques": 0.5
+  },
+  "bayesian_context": {
+    "gran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "vessant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "sud": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "rehabilitacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "integrada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "torre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "andana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "xiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/placeta.json"
+}

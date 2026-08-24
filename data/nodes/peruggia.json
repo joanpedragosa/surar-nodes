@@ -1,0 +1,27 @@
+{
+  "concept": "peruggia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "policia": 1.0
+  },
+  "bayesian_context": {
+    "acompanyat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "alfredo_geri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "policia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/peruggia.json"
+}

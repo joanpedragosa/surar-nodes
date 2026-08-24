@@ -1,0 +1,31 @@
+{
+  "concept": "peumans",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "empresonament": 1.0
+  },
+  "bayesian_context": {
+    "dir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "empresonament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "presos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "politics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "inadmissible": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/peumans.json"
+}

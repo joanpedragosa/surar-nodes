@@ -1,0 +1,76 @@
+{
+  "concept": "pesaro",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "venecia": 0.5,
+    "inauguracio": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "ciutat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.31
+    },
+    "adoptiva": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "compositor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.95
+    },
+    "venecia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "celebrar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "festival_rossini": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "posada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "escena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.65
+    },
+    "gazza": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "ladra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "inauguracio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "nou": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.38
+    },
+    "teatre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pesaro.json"
+}

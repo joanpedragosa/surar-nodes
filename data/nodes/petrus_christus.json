@@ -1,0 +1,27 @@
+{
+  "concept": "petrus_christus",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pietro_summonte": 1.0
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "carta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "esmentava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "pietro_summonte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/petrus_christus.json"
+}

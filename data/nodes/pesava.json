@@ -1,0 +1,19 @@
+{
+  "concept": "pesava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "idol": 1.0
+  },
+  "bayesian_context": {
+    "idol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "or": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pesava.json"
+}

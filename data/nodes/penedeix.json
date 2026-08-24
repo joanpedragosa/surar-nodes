@@ -1,0 +1,27 @@
+{
+  "concept": "penedeix",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cuixart": 1.0
+  },
+  "bayesian_context": {
+    "cuixart": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "fets": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "condemnat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/penedeix.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "pensades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "avingudes": 1.0
+  },
+  "bayesian_context": {
+    "avingudes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "enjardinades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "vianants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pensades.json"
+}

@@ -1,0 +1,68 @@
+{
+  "concept": "peptids",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ribosomal": 0.5,
+    "antimicrobians": 0.5
+  },
+  "bayesian_context": {
+    "uneix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "aminoacid": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "proteic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "residu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cisteina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mitjancant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "sintesi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "ribosomal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "antimicrobians": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "secreten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "pell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "aparell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "digestiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "defensines": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/peptids.json"
+}

@@ -1,0 +1,43 @@
+{
+  "concept": "personalitat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "apadrinar": 1.0
+  },
+  "bayesian_context": {
+    "simbolitza": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "front": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "alt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "boca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "conflicte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "pendent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "apadrinar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "roosevelt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/personalitat.json"
+}

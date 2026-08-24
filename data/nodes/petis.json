@@ -1,0 +1,31 @@
+{
+  "concept": "petis",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "profetes": 1.0
+  },
+  "bayesian_context": {
+    "porta": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.43
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "realitzats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "profetes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "mandorla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/petis.json"
+}

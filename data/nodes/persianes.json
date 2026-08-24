@@ -1,0 +1,31 @@
+{
+  "concept": "persianes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "abaixades": 1.0
+  },
+  "bayesian_context": {
+    "major": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "comercos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "vaga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "abaixades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/persianes.json"
+}

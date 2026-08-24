@@ -1,0 +1,71 @@
+{
+  "concept": "permeables",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "igualen": 1.0
+  },
+  "bayesian_context": {
+    "permet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "membrana": {
+      "likelihood": 0.05,
+      "posterior_boost": 5.02
+    },
+    "cel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "lular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "absencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "transport": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "actiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "molecules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "aigua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "soluts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "igualen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "respectius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "potencials": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "quimics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "costats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/permeables.json"
+}

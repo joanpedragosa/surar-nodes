@@ -1,0 +1,76 @@
+{
+  "concept": "permetria",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "victoria": 0.5,
+    "convocatoria": 0.5
+  },
+  "bayesian_context": {
+    "victoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "jxcat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "manifestat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "puigdemont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "alliberament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "presos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "retorn": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "ell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "exili": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "dir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "pablo_iglesias": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "convocatoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "referendum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/permetria.json"
+}

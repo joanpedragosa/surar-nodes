@@ -1,0 +1,85 @@
+{
+  "concept": "peticions",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "desestimacio": 0.3333,
+    "ciutadania": 0.3333,
+    "ple": 0.3333
+  },
+  "bayesian_context": {
+    "presentat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.72
+    },
+    "desestimacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "cs": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "psc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "pp": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.64
+    },
+    "donen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "objectius": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "govern": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "ciutadania": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "quantes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "ple": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "extraordinari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "pot": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    },
+    "signar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "grup": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.43
+    },
+    "politic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.71
+    },
+    "tres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/peticions.json"
+}

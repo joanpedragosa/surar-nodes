@@ -1,0 +1,31 @@
+{
+  "concept": "pengen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "llacos": 1.0
+  },
+  "bayesian_context": {
+    "llacos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "grocs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "favor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "presos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "politics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pengen.json"
+}
