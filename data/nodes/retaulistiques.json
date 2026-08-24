@@ -1,0 +1,39 @@
+{
+  "concept": "retaulistiques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sant": 1.0
+  },
+  "bayesian_context": {
+    "produir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "representacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "sant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "esteve": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "baixa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "edat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "mitjana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/retaulistiques.json"
+}

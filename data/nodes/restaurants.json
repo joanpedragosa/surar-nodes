@@ -1,0 +1,31 @@
+{
+  "concept": "restaurants",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "menjar": 1.0
+  },
+  "bayesian_context": {
+    "podran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "endur": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "clients": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "menjar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "sobri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/restaurants.json"
+}

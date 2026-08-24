@@ -1,0 +1,35 @@
+{
+  "concept": "reporters",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "explicar": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "objectiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "explicar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "histories": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "traves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "fotografies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reporters.json"
+}

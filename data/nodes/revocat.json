@@ -1,0 +1,40 @@
+{
+  "concept": "revocat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tribunal_suprem": 0.5,
+    "audiencia": 0.5
+  },
+  "bayesian_context": {
+    "tribunal_suprem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "brasil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "llei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "mesures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "audiencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    },
+    "cautelars": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/revocat.json"
+}

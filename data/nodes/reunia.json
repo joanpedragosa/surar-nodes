@@ -1,0 +1,52 @@
+{
+  "concept": "reunia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fotografies": 0.5,
+    "comissio": 0.5
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "primera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "exposicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "fotografies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "xavier_miserachs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ricard": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "terre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ramon_masats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "comissio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reunia.json"
+}

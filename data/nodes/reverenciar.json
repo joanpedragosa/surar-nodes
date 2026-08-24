@@ -1,0 +1,51 @@
+{
+  "concept": "reverenciar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "emperador": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "lema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "moviment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "creat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "grups": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "enfadats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "shogunat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "emperador": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "expulsar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "barbars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reverenciar.json"
+}

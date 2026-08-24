@@ -1,0 +1,64 @@
+{
+  "concept": "reutilitzar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "bona": 0.5,
+    "rossini": 0.5
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "rossini": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "il": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "viaggio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "reims": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "bona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "musica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "le_comte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ory": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "gran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "propia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reutilitzar.json"
+}

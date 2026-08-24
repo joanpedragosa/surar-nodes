@@ -1,0 +1,39 @@
+{
+  "concept": "repuntar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "economia": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "economia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "epoca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "obertura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "comerc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "america": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/repuntar.json"
+}

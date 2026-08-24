@@ -1,0 +1,39 @@
+{
+  "concept": "retocs",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "opera": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "estrenar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "roma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "apaivagar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "censors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/retocs.json"
+}

@@ -1,0 +1,31 @@
+{
+  "concept": "reuneixi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pedro": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "puigdemont": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "pedro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "sanchez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.02
+    },
+    "jxcat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reuneixi.json"
+}

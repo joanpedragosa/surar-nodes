@@ -1,0 +1,658 @@
+{
+  "concept": "restes",
+  "frequency": 29,
+  "edges": [],
+  "markov_transitions": {
+    "portal": 0.0345,
+    "amiens": 0.069,
+    "teixit": 0.069,
+    "administracio": 0.0345,
+    "vaixell": 0.0345,
+    "opus": 0.0345,
+    "centenar": 0.0345,
+    "arqueologiques": 0.0345,
+    "ceramiques": 0.0345,
+    "pintures": 0.069,
+    "cometes": 0.0345,
+    "civilitzacio": 0.0345,
+    "fossils": 0.069,
+    "mamut": 0.069,
+    "peces": 0.0345,
+    "prosalirus": 0.0345,
+    "periode": 0.0345,
+    "trobades": 0.0345,
+    "mortals": 0.0345,
+    "trobar": 0.0345,
+    "set": 0.0345,
+    "romanes": 0.0345,
+    "empremtes": 0.0345,
+    "mascles": 0.0345
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.38
+    },
+    "portal": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.72
+    },
+    "castell": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.02
+    },
+    "restaurar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.66
+    },
+    "recull": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.52
+    },
+    "darrera": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.39
+    },
+    "escena": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.67
+    },
+    "historia": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.01
+    },
+    "segle": {
+      "likelihood": 0.0023,
+      "posterior_boost": 2.62
+    },
+    "segons": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.09
+    },
+    "traslladen": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "amiens": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.56
+    },
+    "requeria": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "proces": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.66
+    },
+    "clonacio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "trobar": {
+      "likelihood": 0.008,
+      "posterior_boost": 3.37
+    },
+    "teixit": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.39
+    },
+    "tou": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.56
+    },
+    "mamut": {
+      "likelihood": 0.0046,
+      "posterior_boost": 4.26
+    },
+    "fundar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.2
+    },
+    "pobles": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.12
+    },
+    "francs": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.56
+    },
+    "visigots": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.52
+    },
+    "llombards": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.86
+    },
+    "administracio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.39
+    },
+    "romana": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.59
+    },
+    "regnes": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "buscava": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "equip": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.07
+    },
+    "nino_lamboglia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "vaixell": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.29
+    },
+    "hauria": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.99
+    },
+    "transportat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "escultures": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.15
+    },
+    "parla": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.52
+    },
+    "antiguitat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.56
+    },
+    "construccio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.01
+    },
+    "opus": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "spicatum": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "volien": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.01
+    },
+    "extreure": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "cadena": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.33
+    },
+    "adn": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.09
+    },
+    "creu": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.88
+    },
+    "contindra": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "fossa": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.72
+    },
+    "cementiri": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.02
+    },
+    "municipal": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.29
+    },
+    "paterna": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.39
+    },
+    "centenar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.79
+    },
+    "afusellats": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "franquisme": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "operaris": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "arqueologiques": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "ciutat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.34
+    },
+    "bætulo": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "remoure": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "terres": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.24
+    },
+    "ceramiques": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "iberiques": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "troba": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.67
+    },
+    "absidiola": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.56
+    },
+    "pintures": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.19
+    },
+    "decoratives": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.39
+    },
+    "suggereixen": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.72
+    },
+    "col": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.38
+    },
+    "lisions": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "cometes": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.86
+    },
+    "periode": {
+      "likelihood": 0.0023,
+      "posterior_boost": 2.97
+    },
+    "formacio": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.21
+    },
+    "tenen": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.44
+    },
+    "paper": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.74
+    },
+    "important": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.91
+    },
+    "models": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.39
+    },
+    "computacionals": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "ensopegar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "harry_westphal": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.16
+    },
+    "mario_renne": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.16
+    },
+    "civilitzacio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.52
+    },
+    "prehistorica": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "examinar": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.09
+    },
+    "hans_sloane": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "fossils": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.59
+    },
+    "dents": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.09
+    },
+    "ullals": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "ser": {
+      "likelihood": 0.0034,
+      "posterior_boost": 2.19
+    },
+    "descobertes": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.26
+    },
+    "primeres": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.39
+    },
+    "sud": {
+      "likelihood": 0.0034,
+      "posterior_boost": 3.3
+    },
+    "africa": {
+      "likelihood": 0.0034,
+      "posterior_boost": 3.66
+    },
+    "poden": {
+      "likelihood": 0.0023,
+      "posterior_boost": 2.87
+    },
+    "avui": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.64
+    },
+    "dia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.34
+    },
+    "peces": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.13
+    },
+    "pintura": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.66
+    },
+    "negra": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.86
+    },
+    "macedonia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "italia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.91
+    },
+    "trobades": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.26
+    },
+    "prosalirus": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "bitis": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "kayenta": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "arizona": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "ous": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.56
+    },
+    "prop": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.93
+    },
+    "compsognathus": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.61
+    },
+    "alemany": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.39
+    },
+    "podem": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.6
+    },
+    "basicament": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.86
+    },
+    "museu": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.85
+    },
+    "barcelona": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.2
+    },
+    "part": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.25
+    },
+    "troben": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.83
+    },
+    "inferior": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.06
+    },
+    "anys": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.12
+    },
+    "edat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.81
+    },
+    "bronze": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.17
+    },
+    "mortals": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "llull": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "daten": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "cap": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.19
+    },
+    "ac": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.13
+    },
+    "podria": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.84
+    },
+    "tractar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.48
+    },
+    "se": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.12
+    },
+    "llegenda": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.2
+    },
+    "trasllat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.79
+    },
+    "reconstruccio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "capella": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.64
+    },
+    "arles": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "xiv": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.29
+    },
+    "cementeri": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "lloc": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.68
+    },
+    "lliurament": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.56
+    },
+    "families": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.29
+    },
+    "set": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.85
+    },
+    "morts": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.22
+    },
+    "repressio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.45
+    },
+    "franquista": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.79
+    },
+    "tipus": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.48
+    },
+    "romanes": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.66
+    },
+    "camps": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.22
+    },
+    "construir": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.72
+    },
+    "coneixements": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.86
+    },
+    "empremtes": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "essers": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.72
+    },
+    "vius": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "paleontologia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "medicina": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.79
+    },
+    "antropologia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "biologica": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "forense": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "partir": {
+      "likelihood": 0.0023,
+      "posterior_boost": 2.97
+    },
+    "conegut": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.1
+    },
+    "mascles": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.92
+    },
+    "reines": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/restes.json"
+}

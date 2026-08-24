@@ -1,0 +1,84 @@
+{
+  "concept": "revolucionari",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "rus": 0.5,
+    "marxista": 0.5
+  },
+  "bayesian_context": {
+    "atacaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "publicacions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "diari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "sovietics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "proletariat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "rus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "fomentar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "artista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "proces": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.63
+    },
+    "marxista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "transmetia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "le": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "mariage": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "figaro": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "cases": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "regnants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "vent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/revolucionari.json"
+}

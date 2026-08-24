@@ -1,0 +1,64 @@
+{
+  "concept": "reparar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ports": 0.5,
+    "danys": 0.5
+  },
+  "bayesian_context": {
+    "ocasionat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "danys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "ports": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "carreteres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "transport": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "public": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "litoral": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "costara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ocasionats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "gloria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "trenta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "milions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "euros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reparar.json"
+}

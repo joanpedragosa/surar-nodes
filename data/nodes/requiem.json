@@ -1,0 +1,68 @@
+{
+  "concept": "requiem",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "missa": 0.5,
+    "funcio": 0.5
+  },
+  "bayesian_context": {
+    "veure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "critica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "foscor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "propia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "missa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "visitar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "verdi_mila": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "juny": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "dirigir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "funcio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "benefici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "la_scala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/requiem.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "residencial",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "castell": 1.0
+  },
+  "bayesian_context": {
+    "ve": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "remarcada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "funcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "castell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "fenis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "frescos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "merit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/residencial.json"
+}

@@ -1,0 +1,51 @@
+{
+  "concept": "ricament",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "decorada": 1.0
+  },
+  "bayesian_context": {
+    "primera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "vestibul": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "decorada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "porta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "sant_donacia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "creu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "processional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "pedreria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mitra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ricament.json"
+}

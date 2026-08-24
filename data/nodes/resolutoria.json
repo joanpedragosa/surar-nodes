@@ -1,0 +1,43 @@
+{
+  "concept": "resolutoria",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "radi": 1.0
+  },
+  "bayesian_context": {
+    "circumferencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "tangent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "punt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "tres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "circumferencies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "pot": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "radi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "imaginari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/resolutoria.json"
+}

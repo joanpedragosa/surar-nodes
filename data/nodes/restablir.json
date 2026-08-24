@@ -1,0 +1,27 @@
+{
+  "concept": "restablir",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "comerc": 1.0
+  },
+  "bayesian_context": {
+    "volia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "solima": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "comerc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.64
+    },
+    "india": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/restablir.json"
+}

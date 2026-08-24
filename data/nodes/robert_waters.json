@@ -1,0 +1,23 @@
+{
+  "concept": "robert_waters",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cambridge": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "originari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "cambridge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/robert_waters.json"
+}

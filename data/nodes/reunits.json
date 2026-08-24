@@ -1,0 +1,43 @@
+{
+  "concept": "reunits",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fisics": 1.0
+  },
+  "bayesian_context": {
+    "congres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "fisics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "british_association": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "for": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "the": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "advancement": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "of": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "science": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reunits.json"
+}

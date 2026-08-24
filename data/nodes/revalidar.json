@@ -1,0 +1,39 @@
+{
+  "concept": "revalidar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "majoria": 1.0
+  },
+  "bayesian_context": {
+    "semblava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "podia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "majoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "botanic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "maig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/revalidar.json"
+}
