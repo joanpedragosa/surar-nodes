@@ -1,0 +1,36 @@
+{
+  "concept": "internat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ashraf": 0.5,
+    "alan_garcia": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "ashraf": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "hospital": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "alan_garcia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "casimiro_ulloa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/internat.json"
+}

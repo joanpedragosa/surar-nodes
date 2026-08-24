@@ -1,0 +1,31 @@
+{
+  "concept": "institut_nacional",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "medicina_legal": 1.0
+  },
+  "bayesian_context": {
+    "publicat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "xifres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "victimes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "medicina_legal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "ciencies_forenses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/institut_nacional.json"
+}

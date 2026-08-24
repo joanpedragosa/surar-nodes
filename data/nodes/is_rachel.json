@@ -1,0 +1,27 @@
+{
+  "concept": "is_rachel",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "corrie": 1.0
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "estrenar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "my_name": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "corrie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/is_rachel.json"
+}

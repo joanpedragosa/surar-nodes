@@ -1,0 +1,47 @@
+{
+  "concept": "irene_lozano",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "prevaricacio": 1.0
+  },
+  "bayesian_context": {
+    "presentat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "quim_torra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "denuncia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "delictes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "acusa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "prevaricacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "calumnies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "obstruccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "justicia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/irene_lozano.json"
+}

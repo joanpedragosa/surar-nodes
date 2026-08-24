@@ -1,0 +1,56 @@
+{
+  "concept": "investir",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "manuel_valls": 0.5,
+    "carles_puigdemont": 0.5
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "manuel_valls": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "batllessa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    },
+    "ada_colau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "defensen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "reforma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "llei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "presidencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "poder": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/investir.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "invertir",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "capital": 1.0
+  },
+  "bayesian_context": {
+    "empresari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "madrileny": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "capital": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "construccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "nous": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "habitatges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "emilio_reus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/invertir.json"
+}

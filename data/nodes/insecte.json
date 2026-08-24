@@ -1,0 +1,19 @@
+{
+  "concept": "insecte",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "domesticar": 1.0
+  },
+  "bayesian_context": {
+    "domesticar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "abelles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/insecte.json"
+}

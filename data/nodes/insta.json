@@ -1,0 +1,19 @@
+{
+  "concept": "insta",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "govern": 1.0
+  },
+  "bayesian_context": {
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "actuar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/insta.json"
+}

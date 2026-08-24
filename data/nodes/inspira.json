@@ -1,0 +1,98 @@
+{
+  "concept": "inspira",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "la_batalla": 0.25,
+    "redaccio": 0.25,
+    "segons": 0.25,
+    "arquitectura": 0.25
+  },
+  "bayesian_context": {
+    "la_batalla": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "centaures": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "les_metamorfosis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "ovidi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "redaccio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "una_visita": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "repugnant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "visita": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "papa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "karol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "jozef": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "wojtyła": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "joan_pau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "ii": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.9
+    },
+    "belgica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "segons": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.92
+    },
+    "alcazar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "las_meninas": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "arquitectura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "cristiana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "romana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inspira.json"
+}

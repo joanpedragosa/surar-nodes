@@ -1,0 +1,35 @@
+{
+  "concept": "irreverent",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "obra": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "familia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "envers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "religio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/irreverent.json"
+}

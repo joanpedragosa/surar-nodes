@@ -1,0 +1,27 @@
+{
+  "concept": "interromp",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "seccio": 1.0
+  },
+  "bayesian_context": {
+    "seccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "breu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "interludi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "orquestral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/interromp.json"
+}

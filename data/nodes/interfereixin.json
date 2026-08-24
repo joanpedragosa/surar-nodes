@@ -1,0 +1,35 @@
+{
+  "concept": "interfereixin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "absolucio": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "eva_labarta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "absolucio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "homs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "emocions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "sentiments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/interfereixin.json"
+}

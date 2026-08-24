@@ -1,0 +1,27 @@
+{
+  "concept": "interroguen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "capita": 1.0
+  },
+  "bayesian_context": {
+    "capita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "ernestina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "confusio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "martino": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/interroguen.json"
+}

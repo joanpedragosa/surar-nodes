@@ -1,0 +1,81 @@
+{
+  "concept": "interferometre",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "alta": 0.3333,
+    "habitacio": 0.3333,
+    "soterrani": 0.3333
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.09
+    },
+    "sensibilitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "alta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "volien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "eliminar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "instal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "lant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "habitacio": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.0
+    },
+    "efectes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "termics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "vibratoris": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "tancada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "muntar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "soterrani": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "parets": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "pedra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "pesada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/interferometre.json"
+}

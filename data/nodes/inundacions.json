@@ -1,0 +1,56 @@
+{
+  "concept": "inundacions",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mocoa": 0.5,
+    "comarca": 0.5
+  },
+  "bayesian_context": {
+    "localitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "hagut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "mocoa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "import": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "destina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "indemnitzar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "victimes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "comarca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "llevant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "mallorca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "milions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inundacions.json"
+}

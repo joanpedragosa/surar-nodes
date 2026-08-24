@@ -1,0 +1,23 @@
+{
+  "concept": "israelia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "benjamin_netanyahu": 1.0
+  },
+  "bayesian_context": {
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "ministre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "benjamin_netanyahu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/israelia.json"
+}

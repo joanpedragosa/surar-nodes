@@ -1,0 +1,72 @@
+{
+  "concept": "interposat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "opera": 0.5,
+    "recursos": 0.5
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "verdi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "cami": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "renaixement": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "rossini": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    },
+    "lleis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "valencianes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "recursos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "habitatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "pobresa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "energetica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/interposat.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "isis",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vall": 1.0
+  },
+  "bayesian_context": {
+    "trobat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "fossils": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "vall": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "zeuglodon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/isis.json"
+}
