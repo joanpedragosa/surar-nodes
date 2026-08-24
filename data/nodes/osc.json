@@ -1,0 +1,31 @@
+{
+  "concept": "osc",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "llengua": 1.0
+  },
+  "bayesian_context": {
+    "llengua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "italica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "substituir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "escrit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "llati": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/osc.json"
+}

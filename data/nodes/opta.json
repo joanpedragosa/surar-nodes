@@ -1,0 +1,52 @@
+{
+  "concept": "opta",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sanchez": 0.5,
+    "dona": 0.5
+  },
+  "bayesian_context": {
+    "sanchez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "referendum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "declaracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "unilateral": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "independencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "dona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "honrada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "premi_crexells": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/opta.json"
+}

@@ -1,0 +1,23 @@
+{
+  "concept": "oschin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "observatori": 1.0
+  },
+  "bayesian_context": {
+    "telescopi_samuel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "observatori": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "palomar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/oschin.json"
+}

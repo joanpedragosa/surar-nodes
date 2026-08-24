@@ -1,0 +1,27 @@
+{
+  "concept": "ocultin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "identitat": 1.0
+  },
+  "bayesian_context": {
+    "endureixen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sancions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "especialment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "identitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ocultin.json"
+}

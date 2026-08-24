@@ -1,0 +1,19 @@
+{
+  "concept": "obstruit",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "passatge": 1.0
+  },
+  "bayesian_context": {
+    "passatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "drake": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obstruit.json"
+}

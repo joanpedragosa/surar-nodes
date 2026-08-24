@@ -1,0 +1,35 @@
+{
+  "concept": "orange",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ciutada": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "baro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ciutada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "rus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "anomenat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "boris_skossyreff": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/orange.json"
+}

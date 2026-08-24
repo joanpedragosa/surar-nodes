@@ -1,0 +1,35 @@
+{
+  "concept": "output",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "eurocom": 1.0
+  },
+  "bayesian_context": {
+    "tipus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.93
+    },
+    "articles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "escriure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "revista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "eurocom": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "informatics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/output.json"
+}

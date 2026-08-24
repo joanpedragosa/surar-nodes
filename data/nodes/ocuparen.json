@@ -1,0 +1,39 @@
+{
+  "concept": "ocuparen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tro": 1.0
+  },
+  "bayesian_context": {
+    "morir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "lluis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "habsburg": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "tro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "hongares": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "sense": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "hereus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ocuparen.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "optimament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "arbre": 1.0
+  },
+  "bayesian_context": {
+    "creix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "arbre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "pa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "zones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "equatorials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "tropicals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/optimament.json"
+}

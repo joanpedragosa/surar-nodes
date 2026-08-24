@@ -1,0 +1,35 @@
+{
+  "concept": "ofegada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "deixa": 1.0
+  },
+  "bayesian_context": {
+    "katia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "dona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "viu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "deixa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "trobar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.99
+    },
+    "cami": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ofegada.json"
+}

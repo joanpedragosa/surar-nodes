@@ -1,0 +1,43 @@
+{
+  "concept": "oportunitat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "govern": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "obrir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "finestra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "coalicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "interessos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "independentisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "basc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/oportunitat.json"
+}

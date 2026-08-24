@@ -1,0 +1,27 @@
+{
+  "concept": "olimpica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "basquet": 1.0
+  },
+  "bayesian_context": {
+    "acollir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "badalona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "subseu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "basquet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/olimpica.json"
+}

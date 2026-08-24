@@ -1,0 +1,94 @@
+{
+  "concept": "ofert",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "buch": 0.25,
+    "dialeg": 0.25,
+    "valls": 0.25,
+    "liceu": 0.25
+  },
+  "bayesian_context": {
+    "buch": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "faci": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "trasllat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "presos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.74
+    },
+    "mossos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.88
+    },
+    "esquadra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "dialeg": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "proposat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "govern": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.06
+    },
+    "venecuela": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "mexic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "uruguai": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "valls": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "colau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "estesa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "quantes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.86
+    },
+    "vegades": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    },
+    "liceu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "obra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.92
+    },
+    "tres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.1
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ofert.json"
+}

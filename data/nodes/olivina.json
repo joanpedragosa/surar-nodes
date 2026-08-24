@@ -1,0 +1,52 @@
+{
+  "concept": "olivina",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "piroxe": 0.5,
+    "peridotites": 0.5
+  },
+  "bayesian_context": {
+    "considerar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "incloure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "subcomissio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "roques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "volcaniques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "riques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "piroxe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "conte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "peridotites": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/olivina.json"
+}

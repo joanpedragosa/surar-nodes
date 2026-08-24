@@ -1,0 +1,48 @@
+{
+  "concept": "olimpiades",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cup": 0.5,
+    "mexic": 0.5
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "aprovin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "referendum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "situat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "monument": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "mexic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "ruta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "amistat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/olimpiades.json"
+}

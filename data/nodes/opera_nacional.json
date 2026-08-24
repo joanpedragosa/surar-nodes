@@ -1,0 +1,52 @@
+{
+  "concept": "opera_nacional",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "polonesa": 0.5,
+    "finlandia": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "lliurat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "polonesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "krol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "roger": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "representacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "finlandia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "helsinki": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/opera_nacional.json"
+}

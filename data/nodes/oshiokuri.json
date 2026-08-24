@@ -1,0 +1,31 @@
+{
+  "concept": "oshiokuri",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "bune": 1.0
+  },
+  "bayesian_context": {
+    "llargada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "feien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "generalment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "bune": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "metres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/oshiokuri.json"
+}

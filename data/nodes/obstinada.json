@@ -1,0 +1,27 @@
+{
+  "concept": "obstinada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "aristocrata": 1.0
+  },
+  "bayesian_context": {
+    "lady_sarah": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "ashley": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "aristocrata": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "britanica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obstinada.json"
+}
