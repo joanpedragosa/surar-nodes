@@ -1,0 +1,23 @@
+{
+  "concept": "croat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "girona": 1.0
+  },
+  "bayesian_context": {
+    "assetjava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "exercit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "girona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/croat.json"
+}

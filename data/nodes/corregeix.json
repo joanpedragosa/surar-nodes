@@ -1,0 +1,51 @@
+{
+  "concept": "corregeix",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "junta": 1.0
+  },
+  "bayesian_context": {
+    "junta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "manifestacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "compromis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "pla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "cobertura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "rtve": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "materia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "entrevistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "candidatures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/corregeix.json"
+}

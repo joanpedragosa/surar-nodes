@@ -1,0 +1,43 @@
+{
+  "concept": "criticava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "racv": 1.0
+  },
+  "bayesian_context": {
+    "racv": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "entorns": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "cientifics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "escas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "rigor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "academic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "seues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "propostes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/criticava.json"
+}

@@ -1,0 +1,51 @@
+{
+  "concept": "corroborat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "toni_marti": 1.0
+  },
+  "bayesian_context": {
+    "toni_marti": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "jean": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "claude_juncker": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "compromis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "continuar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "avancant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "negociacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "associacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "unio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "europa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/corroborat.json"
+}

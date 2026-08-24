@@ -1,0 +1,31 @@
+{
+  "concept": "dakota",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nord": 1.0
+  },
+  "bayesian_context": {
+    "apuntar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "registre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "poder": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "votar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "nord": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dakota.json"
+}

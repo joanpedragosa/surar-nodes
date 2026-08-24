@@ -1,0 +1,39 @@
+{
+  "concept": "cupido",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cinta": 1.0
+  },
+  "bayesian_context": {
+    "mans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "cinta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "rosa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "seda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "travessat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "corradino": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "fletxa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cupido.json"
+}

@@ -1,0 +1,82 @@
+{
+  "concept": "corresponen",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "protestants": 0.25,
+    "arrels": 0.25,
+    "art_modern": 0.25,
+    "pm": 0.25
+  },
+  "bayesian_context": {
+    "protestants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "set": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.71
+    },
+    "dies": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "creacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "processos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "evolutius": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "periode": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "arrels": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "partitura": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "tardoromantic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "segles": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "art_modern": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "xix": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.9
+    },
+    "xx": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "longituds": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "ona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.64
+    },
+    "pm": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/corresponen.json"
+}

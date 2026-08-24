@@ -1,0 +1,43 @@
+{
+  "concept": "daniyya",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "abu": 1.0
+  },
+  "bayesian_context": {
+    "autoproclamar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "emir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "abu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "jayx": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "muwaffaq": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "emirat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "constituir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "muwaffa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/daniyya.json"
+}

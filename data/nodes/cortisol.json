@@ -1,0 +1,19 @@
+{
+  "concept": "cortisol",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "hormona": 1.0
+  },
+  "bayesian_context": {
+    "hormona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "estres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cortisol.json"
+}

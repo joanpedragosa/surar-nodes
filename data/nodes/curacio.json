@@ -1,0 +1,44 @@
+{
+  "concept": "curacio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "coneguts": 0.5,
+    "ferida": 0.5
+  },
+  "bayesian_context": {
+    "comunica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "malalt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "coneguts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "provat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "metastasi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ferida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "sortit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "malament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/curacio.json"
+}

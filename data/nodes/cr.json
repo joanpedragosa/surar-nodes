@@ -1,0 +1,33 @@
+{
+  "concept": "cr",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "consideracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "assigna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "especie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "uicn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "perill": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "critic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cr.json"
+}

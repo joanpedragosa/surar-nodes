@@ -1,0 +1,44 @@
+{
+  "concept": "cosme",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "vell": 0.6667,
+    "medici": 0.3333
+  },
+  "bayesian_context": {
+    "creu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "encarregar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "obra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.05
+    },
+    "vell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "deia": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.11
+    },
+    "fill": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.21
+    },
+    "joan": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.4
+    },
+    "medici": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.07
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cosme.json"
+}

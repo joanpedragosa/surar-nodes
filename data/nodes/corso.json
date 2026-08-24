@@ -1,0 +1,60 @@
+{
+  "concept": "corso",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "bolonya": 0.5,
+    "tardor": 0.5
+  },
+  "bayesian_context": {
+    "teatro": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.2
+    },
+    "bolonya": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "estrena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.7
+    },
+    "equivoco": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "stravagante": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "teatre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "fou": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.79
+    },
+    "contractat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "rossini": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    },
+    "temporada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "ser": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.55
+    },
+    "tardor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/corso.json"
+}

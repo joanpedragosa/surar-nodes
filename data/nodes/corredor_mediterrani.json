@@ -1,0 +1,55 @@
+{
+  "concept": "corredor_mediterrani",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ximo_puig": 1.0
+  },
+  "bayesian_context": {
+    "pactar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "puigdemont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "creacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "taula_estrategica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "catalana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "ximo_puig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "reclamara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "acte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "empresarial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "anunciat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "vicente_boluda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/corredor_mediterrani.json"
+}

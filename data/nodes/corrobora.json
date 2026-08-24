@@ -1,0 +1,60 @@
+{
+  "concept": "corrobora",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "informe": 0.5,
+    "dimissio": 0.5
+  },
+  "bayesian_context": {
+    "informe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "advocacia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "presentat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "tribunal_superior": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "justicia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "espionatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "dimissio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.64
+    },
+    "cifuentes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "caiguda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "picat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pp": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/corrobora.json"
+}

@@ -1,0 +1,27 @@
+{
+  "concept": "corsari",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "viatger": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "william_dampier": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "viatger": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "britanic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/corsari.json"
+}

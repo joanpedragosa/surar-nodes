@@ -1,0 +1,27 @@
+{
+  "concept": "costums",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pais": 1.0
+  },
+  "bayesian_context": {
+    "enamorat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "artista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "pais": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "huguet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/costums.json"
+}

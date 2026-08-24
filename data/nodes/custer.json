@@ -1,0 +1,48 @@
+{
+  "concept": "custer",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tropes": 0.5,
+    "versio": 0.5
+  },
+  "bayesian_context": {
+    "morir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "batalla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "little_bighorn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "general": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "tropes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "apareixia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "versio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "oficial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "heroi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/custer.json"
+}

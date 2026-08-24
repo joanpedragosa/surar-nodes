@@ -1,0 +1,68 @@
+{
+  "concept": "creditors",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "paquet": 0.5,
+    "condicions": 0.5
+  },
+  "bayesian_context": {
+    "pactara": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "grec": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.43
+    },
+    "formalitzat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "grecia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "paquet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "reformes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "haura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "adoptar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "hel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "le": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "pactant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "condicions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "rescat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/creditors.json"
+}

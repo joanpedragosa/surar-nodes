@@ -1,0 +1,29 @@
+{
+  "concept": "danses",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "haver": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "repetir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "aplaudiments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "public": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "estrena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.3
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/danses.json"
+}

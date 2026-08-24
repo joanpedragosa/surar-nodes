@@ -1,0 +1,47 @@
+{
+  "concept": "corresponsals",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "enviar": 1.0
+  },
+  "bayesian_context": {
+    "rivalitzaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "diaris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "americans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "enviar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "nombre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "gran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "quans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "nord": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/corresponsals.json"
+}
