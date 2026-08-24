@@ -1,0 +1,33 @@
+{
+  "concept": "juridica_assessora",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "contempla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "possibilitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "interposar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "querella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "dictamen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "comissio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/juridica_assessora.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "junta_territorial",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "palma": 1.0
+  },
+  "bayesian_context": {
+    "carrec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "ostentava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "palma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "jose": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "maria_rodriguez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "president": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/junta_territorial.json"
+}

@@ -1,0 +1,56 @@
+{
+  "concept": "juan_manuel",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "quintela": 0.6667,
+    "santos": 0.3333
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.21
+    },
+    "persona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "mentit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "quintela": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "testificat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "avui": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.62
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.87
+    },
+    "espanyol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    },
+    "quin_nobel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "santos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "pau": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/juan_manuel.json"
+}

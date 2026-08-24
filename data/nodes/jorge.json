@@ -1,0 +1,27 @@
+{
+  "concept": "jorge",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fernandez": 1.0
+  },
+  "bayesian_context": {
+    "conversat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "fernandez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "daniel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "alfonso": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/jorge.json"
+}

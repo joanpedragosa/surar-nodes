@@ -1,0 +1,48 @@
+{
+  "concept": "joan_comorera",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "secretari": 0.5,
+    "atemptat": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "secretari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "general": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "partit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "conseller": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "economia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "generalitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.77
+    },
+    "patir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "atemptat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/joan_comorera.json"
+}

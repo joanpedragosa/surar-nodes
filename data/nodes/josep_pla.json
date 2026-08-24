@@ -1,0 +1,52 @@
+{
+  "concept": "josep_pla",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mala": 0.5,
+    "notes": 0.5
+  },
+  "bayesian_context": {
+    "comentat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "mala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "relacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "escriure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.67
+    },
+    "notes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "guardades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "arxiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "decada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "seixanta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/josep_pla.json"
+}

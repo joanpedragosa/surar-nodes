@@ -1,0 +1,27 @@
+{
+  "concept": "john_ruskin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "romantica": 1.0
+  },
+  "bayesian_context": {
+    "mentalitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "tenien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "augustus_pugin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "romantica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/john_ruskin.json"
+}

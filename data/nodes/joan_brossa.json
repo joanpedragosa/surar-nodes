@@ -1,0 +1,47 @@
+{
+  "concept": "joan_brossa",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "poeta": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "lider": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "dau": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "set": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "poeta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.64
+    },
+    "col": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.35
+    },
+    "laborar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "idea": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/joan_brossa.json"
+}

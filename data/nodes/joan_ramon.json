@@ -1,0 +1,27 @@
+{
+  "concept": "joan_ramon",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "casals": 1.0
+  },
+  "bayesian_context": {
+    "batlle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "molins": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "rei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.09
+    },
+    "casals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/joan_ramon.json"
+}

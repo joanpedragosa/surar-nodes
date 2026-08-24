@@ -1,0 +1,23 @@
+{
+  "concept": "jonathan_hill",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "arran": 1.0
+  },
+  "bayesian_context": {
+    "dimitir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "arran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "brexit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/jonathan_hill.json"
+}

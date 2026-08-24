@@ -1,0 +1,60 @@
+{
+  "concept": "jusapol",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vigilants": 0.5,
+    "casa": 0.5
+  },
+  "bayesian_context": {
+    "encarar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "membres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "sindicat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "policiac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "vigilants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "seguretat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "provar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "entrar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "casa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "republica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "passat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "novembre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/jusapol.json"
+}

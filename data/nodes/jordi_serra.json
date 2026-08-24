@@ -1,0 +1,23 @@
+{
+  "concept": "jordi_serra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "alcalde": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "alcalde": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "badalona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/jordi_serra.json"
+}

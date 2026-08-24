@@ -1,0 +1,39 @@
+{
+  "concept": "josep_costa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "eusebi": 1.0
+  },
+  "bayesian_context": {
+    "recollit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.02
+    },
+    "notificacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "eusebi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "campdepadros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "rebut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "avui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/josep_costa.json"
+}

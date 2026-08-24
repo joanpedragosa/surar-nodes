@@ -1,0 +1,19 @@
+{
+  "concept": "jcf",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pere_fuset": 1.0
+  },
+  "bayesian_context": {
+    "president": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "pere_fuset": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/jcf.json"
+}

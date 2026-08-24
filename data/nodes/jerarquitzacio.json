@@ -1,0 +1,39 @@
+{
+  "concept": "jerarquitzacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "antiguitat": 1.0
+  },
+  "bayesian_context": {
+    "arts": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.37
+    },
+    "marcials": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.55
+    },
+    "aplica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "major": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "distincio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "antiguitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.02
+    },
+    "modernes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/jerarquitzacio.json"
+}

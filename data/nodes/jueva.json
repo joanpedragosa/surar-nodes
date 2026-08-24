@@ -1,0 +1,64 @@
+{
+  "concept": "jueva",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "grec": 0.5,
+    "dc": 0.5
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.5
+    },
+    "literatura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "grec": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.43
+    },
+    "jueus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "parlaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "gentils": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "conversos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "religio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "obtenir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.95
+    },
+    "victoria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "romans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "gran_revolta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "dc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/jueva.json"
+}

@@ -1,0 +1,23 @@
+{
+  "concept": "johann_breyne",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "teoria": 1.0
+  },
+  "bayesian_context": {
+    "teoria": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.88
+    },
+    "corroborar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "sloan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/johann_breyne.json"
+}

@@ -1,0 +1,47 @@
+{
+  "concept": "jura",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "antenore": 1.0
+  },
+  "bayesian_context": {
+    "antenore": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "donar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "assassi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "paisatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "autentic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ornans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "serralada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/jura.json"
+}

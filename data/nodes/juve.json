@@ -1,0 +1,23 @@
+{
+  "concept": "juve",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "barcelona": 1.0
+  },
+  "bayesian_context": {
+    "neixer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "xavier_romeu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.02
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/juve.json"
+}
