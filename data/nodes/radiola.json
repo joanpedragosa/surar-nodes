@@ -1,0 +1,45 @@
+{
+  "concept": "radiola",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "radio_paris": 1.0
+  },
+  "bayesian_context": {
+    "anomena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    },
+    "emissora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "privada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "emile_girardeau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "radio_paris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/radiola.json"
+}

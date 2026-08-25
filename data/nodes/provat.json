@@ -1,0 +1,37 @@
+{
+  "concept": "provat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "metastasi": 1.0
+  },
+  "bayesian_context": {
+    "metastasi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "curacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ferida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "sortit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "malament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/provat.json"
+}

@@ -1,0 +1,57 @@
+{
+  "concept": "pugin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "exobase": 1.0
+  },
+  "bayesian_context": {
+    "permet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "elements": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "quimics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "lleugers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "exobase": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "vent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "hidrodinamic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "superior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "atmosfera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pugin.json"
+}

@@ -1,0 +1,50 @@
+{
+  "concept": "publicava",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "caricatures": 0.5,
+    "llibres": 0.5
+  },
+  "bayesian_context": {
+    "caricatures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "esquella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "torratxa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "picarol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "llibres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "liturgics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "corona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "espanyola": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/publicava.json"
+}

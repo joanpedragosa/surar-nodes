@@ -1,0 +1,41 @@
+{
+  "concept": "proxims",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mesos": 1.0
+  },
+  "bayesian_context": {
+    "baixara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "activitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "cambra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "mesos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "emergencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "sanitaria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/proxims.json"
+}

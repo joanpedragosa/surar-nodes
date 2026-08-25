@@ -1,0 +1,132 @@
+{
+  "concept": "protesten",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "migrants": 0.25,
+    "abandonament": 0.25,
+    "catalans": 0.25,
+    "manifestants": 0.25
+  },
+  "bayesian_context": {
+    "migrants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "CIE": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "sapadors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "valencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "privacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "llibertat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.75
+    },
+    "injusta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "condicions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "inhumanes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "abandonament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "manca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "democracia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "interna": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "catalans": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.91
+    },
+    "segons": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.92
+    },
+    "anadolu_agency": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "reunio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.69
+    },
+    "gabinet": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "espanyol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.15
+    },
+    "barcelona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.04
+    },
+    "manifestants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "regio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "administrativa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "especial": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "xinesa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "fa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.2
+    },
+    "cinc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "mesos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/protesten.json"
+}

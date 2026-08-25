@@ -1,0 +1,57 @@
+{
+  "concept": "quioscs",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "premsa": 1.0
+  },
+  "bayesian_context": {
+    "atacaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "activistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "hezbol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "llocs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "reunio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.29
+    },
+    "llibreries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "premsa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "mujaidins": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "grups": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "esquerres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/quioscs.json"
+}

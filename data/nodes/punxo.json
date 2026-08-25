@@ -1,0 +1,37 @@
+{
+  "concept": "punxo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ceramica": 1.0
+  },
+  "bayesian_context": {
+    "trobar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.99
+    },
+    "coves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "fulla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "silex": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "ceramica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/punxo.json"
+}

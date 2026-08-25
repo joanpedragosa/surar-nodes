@@ -1,0 +1,39 @@
+{
+  "concept": "puntuals",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "afectacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "tipus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    },
+    "mutacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "deu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.64
+    },
+    "sindrome": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "MELAS": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/puntuals.json"
+}

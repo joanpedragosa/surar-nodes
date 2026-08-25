@@ -1,0 +1,45 @@
+{
+  "concept": "reaccionat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lucas": 1.0
+  },
+  "bayesian_context": {
+    "lucas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "controversia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "estereotips": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "racials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "negat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "categoricament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "implicacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reaccionat.json"
+}

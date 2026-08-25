@@ -1,0 +1,71 @@
+{
+  "concept": "ramal",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "sud": 0.5,
+    "obrir": 0.25,
+    "metres": 0.25
+  },
+  "bayesian_context": {
+    "afegir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.99
+    },
+    "linia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.3
+    },
+    "obrir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "sud": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "setembre": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.45
+    },
+    "collblanc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "foc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "any": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.68
+    },
+    "posar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.65
+    },
+    "funcionament": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.17
+    },
+    "recorregut": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "tenia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.0
+    },
+    "metres": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.61
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.9459101490553132
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ramal.json"
+}

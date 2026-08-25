@@ -1,0 +1,104 @@
+{
+  "concept": "rambla",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "carmel": 0.25,
+    "catalunya": 0.25,
+    "ripoll": 0.25,
+    "santa_monica": 0.25
+  },
+  "bayesian_context": {
+    "passar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "anomenar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "se": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.95
+    },
+    "carrer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    },
+    "prat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "carmel": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "instal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    },
+    "lar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "jujol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "catalunya": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.03
+    },
+    "barcelona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.04
+    },
+    "residien": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "nois": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "realitzar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.46
+    },
+    "atemptat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "ripoll": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "forma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.29
+    },
+    "font": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "santa_monica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "teatre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "epidaure": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/rambla.json"
+}

@@ -1,0 +1,53 @@
+{
+  "concept": "reactor",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "nuclear": 1.0
+  },
+  "bayesian_context": {
+    "oxida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "microbiologicament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ferro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "ferros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "primer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "controlada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "reaccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "cadena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "nuclear": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reactor.json"
+}

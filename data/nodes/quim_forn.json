@@ -1,0 +1,84 @@
+{
+  "concept": "quim_forn",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "novembre": 0.25,
+    "permis": 0.25,
+    "preso": 0.25,
+    "passat": 0.25
+  },
+  "bayesian_context": {
+    "novembre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.79
+    },
+    "preso": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "preventiva": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "concedit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.74
+    },
+    "espanyol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.15
+    },
+    "permis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "excarceracio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "poder": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "assistir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "passat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.77
+    },
+    "mes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.61
+    },
+    "juny": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    },
+    "ple": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "constitucio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.88
+    },
+    "ajuntament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/quim_forn.json"
+}

@@ -1,0 +1,45 @@
+{
+  "concept": "rarament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ataquen": 1.0
+  },
+  "bayesian_context": {
+    "lleons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "ataquen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "girafes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "adultes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "causa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "risc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "prendre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/rarament.json"
+}

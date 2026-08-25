@@ -1,0 +1,37 @@
+{
+  "concept": "real_academia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "espanola": 1.0
+  },
+  "bayesian_context": {
+    "funcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "espanola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "regular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "llengua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "castellana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/real_academia.json"
+}

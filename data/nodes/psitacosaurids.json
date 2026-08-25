@@ -1,0 +1,54 @@
+{
+  "concept": "psitacosaurids",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "osborn": 0.5,
+    "junt": 0.5
+  },
+  "bayesian_context": {
+    "anomenar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "familia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "osborn": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "genere": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "classificat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "actualment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "junt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "psitacosaure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "hongshanosaurus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/psitacosaurids.json"
+}
