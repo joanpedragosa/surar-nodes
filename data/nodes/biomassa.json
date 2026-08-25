@@ -1,0 +1,49 @@
+{
+  "concept": "biomassa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "animal": 1.0
+  },
+  "bayesian_context": {
+    "superen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "formigues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "percentatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "animal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "terrestre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "vertebrats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "representen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/biomassa.json"
+}

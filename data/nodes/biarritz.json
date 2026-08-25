@@ -1,0 +1,45 @@
+{
+  "concept": "biarritz",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "cimera": 1.0
+  },
+  "bayesian_context": {
+    "celebra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "cimera": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.95
+    },
+    "celebrat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "aterrat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "mohamad_javad": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "zarif": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "aeroport": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/biarritz.json"
+}

@@ -1,0 +1,45 @@
+{
+  "concept": "benedetto",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "venecia": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    },
+    "actuacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "mila": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "teatro_san": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "venecia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/benedetto.json"
+}

@@ -1,0 +1,41 @@
+{
+  "concept": "balloon_flower",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "jeff_koons": 1.0
+  },
+  "bayesian_context": {
+    "crear": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "jeff_koons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "centre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "font": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/balloon_flower.json"
+}

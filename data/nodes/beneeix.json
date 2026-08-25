@@ -1,0 +1,33 @@
+{
+  "concept": "beneeix",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "opcio": 1.0
+  },
+  "bayesian_context": {
+    "opcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "descartat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "junqueras": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "joan_tarda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/beneeix.json"
+}

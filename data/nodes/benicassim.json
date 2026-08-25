@@ -1,0 +1,37 @@
+{
+  "concept": "benicassim",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "the_killers": 1.0
+  },
+  "bayesian_context": {
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "musical": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "actuar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "festival_internacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "the_killers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/benicassim.json"
+}

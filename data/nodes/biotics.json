@@ -1,0 +1,45 @@
+{
+  "concept": "biotics",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "abiotics": 1.0
+  },
+  "bayesian_context": {
+    "funcionen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "factors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "abiotics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "manera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "interrelacionada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "consten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ecosistemes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/biotics.json"
+}

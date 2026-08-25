@@ -1,0 +1,77 @@
+{
+  "concept": "bargallo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "quim_torra": 1.0
+  },
+  "bayesian_context": {
+    "anat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "josep": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "quim_torra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "institut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "palau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "sant_andreu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "barca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "traslladar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "suport": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "professors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "centre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "continuin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "exercint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "llibertat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "catedra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bargallo.json"
+}

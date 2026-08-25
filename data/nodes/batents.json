@@ -1,0 +1,62 @@
+{
+  "concept": "batents",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "portes": 0.5,
+    "exteriors": 0.5
+  },
+  "bayesian_context": {
+    "funcio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "tenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "forja": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "portes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "element": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "ornamental": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "reforc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "material": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "exteriors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "bronze": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/batents.json"
+}

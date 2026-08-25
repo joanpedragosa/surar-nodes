@@ -1,0 +1,57 @@
+{
+  "concept": "bienvenu_mbutu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mondondo": 1.0
+  },
+  "bayesian_context": {
+    "presentar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.74
+    },
+    "denuncia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "brusel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mondondo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "legar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "llibre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "insult": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "poble": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "congoles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bienvenu_mbutu.json"
+}

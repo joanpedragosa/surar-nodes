@@ -1,0 +1,45 @@
+{
+  "concept": "bip",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "participada": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "sigui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "decisio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "participada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "democratica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "bases": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bip.json"
+}

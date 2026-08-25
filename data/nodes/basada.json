@@ -1,0 +1,320 @@
+{
+  "concept": "basada",
+  "frequency": 12,
+  "edges": [],
+  "markov_transitions": {
+    "peter_grimes": 0.0833,
+    "personatge": 0.0833,
+    "harmonia": 0.0833,
+    "contes": 0.0833,
+    "versio": 0.0833,
+    "classificacio": 0.0833,
+    "licula": 0.0833,
+    "monticello": 0.0833,
+    "llibret": 0.0833,
+    "obra": 0.0833,
+    "series": 0.0833,
+    "opera": 0.0833
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.9
+    },
+    "llibret": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.6
+    },
+    "peter_grimes": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "montagu_slater": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "rodar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "licula": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.38
+    },
+    "personatge": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.52
+    },
+    "mireia_ros": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "harmonia": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.99
+    },
+    "musica": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.14
+    },
+    "classica": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "cadencia": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "tonica": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "subdominant": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "dominant": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "contes": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.04
+    },
+    "fades": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "russos": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "mes": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.16
+    },
+    "populars": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.8
+    },
+    "versio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.34
+    },
+    "cinematografica": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "akira": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "manga": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.83
+    },
+    "homonim": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "dibuixant": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "katsuhiro_otomo": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "classificacio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.95
+    },
+    "llista": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.55
+    },
+    "top": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "artists_of": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "all_time": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "votacions": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.99
+    },
+    "acumulades": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "album": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.42
+    },
+    "artistes": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.55
+    },
+    "inclosos": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "seleccio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "cancons": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.95
+    },
+    "disc": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.6
+    },
+    "monticello": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "villa_capra": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "palladio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "comedia": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "leonore": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "ou": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "amour": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "conjugal": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "ser": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.1
+    },
+    "primer": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.7
+    },
+    "opera": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.9
+    },
+    "verdi": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.53
+    },
+    "obra": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.45
+    },
+    "shakespeare": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "macbeth": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "pot": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.68
+    },
+    "fer": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.26
+    },
+    "servir": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.09
+    },
+    "definicio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.83
+    },
+    "series": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.91
+    },
+    "calcular": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "funcions": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.57
+    },
+    "trigonometriques": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "arguments": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "complexos": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "obres": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.75
+    },
+    "cisma": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "inglaterra": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "the": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.46
+    },
+    "life": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "of": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.39
+    },
+    "henry": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "VIII": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.91
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.08330000000000001,
+    0.0,
+    2.5649493574615367
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/basada.json"
+}

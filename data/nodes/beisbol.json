@@ -1,0 +1,57 @@
+{
+  "concept": "beisbol",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "mes": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.21
+    },
+    "jugador": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "mes": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.03
+    },
+    "conegut": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "ichiro_suzuki": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "esport": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "popular": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "comencar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.55
+    },
+    "lliga": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/beisbol.json"
+}

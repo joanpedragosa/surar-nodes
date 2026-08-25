@@ -1,0 +1,45 @@
+{
+  "concept": "bici",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ciutat": 1.0
+  },
+  "bayesian_context": {
+    "instal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "lar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "carril": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "avinguda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "diagonal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bici.json"
+}

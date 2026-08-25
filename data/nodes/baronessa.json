@@ -1,0 +1,54 @@
+{
+  "concept": "baronessa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sueca": 0.5,
+    "erika": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "fill": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "karol_szymanowski": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "terratinent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "polones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "sueca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "neguen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "erika": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "festa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/baronessa.json"
+}

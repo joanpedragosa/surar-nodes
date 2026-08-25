@@ -1,0 +1,114 @@
+{
+  "concept": "barbier",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "seville": 0.3333,
+    "paisiello": 0.6667
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "primera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.37
+    },
+    "obra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.05
+    },
+    "beaumarchais": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "comte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "almaviva": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "servent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "barber": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "figaro": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "le": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "seville": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "ou": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "precaution": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "inutile": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "exit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "mozart": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.15
+    },
+    "dirigis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "atencio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "cap": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.16
+    },
+    "teatre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "paisiello": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.95
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "veure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.75
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/barbier.json"
+}

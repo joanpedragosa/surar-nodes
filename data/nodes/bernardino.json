@@ -1,0 +1,37 @@
+{
+  "concept": "bernardino",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lopez": 1.0
+  },
+  "bayesian_context": {
+    "encarregar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "nou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.86
+    },
+    "claustre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "lopez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "carvajal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bernardino.json"
+}

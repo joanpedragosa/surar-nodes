@@ -1,0 +1,41 @@
+{
+  "concept": "basaltiques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "islandia": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "trobat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "cop": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "cavitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "islandia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/basaltiques.json"
+}

@@ -1,0 +1,118 @@
+{
+  "concept": "bicicleta",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "muntanya": 0.5,
+    "damunt": 0.5
+  },
+  "bayesian_context": {
+    "arriscat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "baixar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "muntanya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "mont": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "fuji": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "causa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "multituds": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "dificultat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "control": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "velocitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "primera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.37
+    },
+    "escultura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.88
+    },
+    "art": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.57
+    },
+    "trobat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "roda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "damunt": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "tamboret": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "mitja": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "transport": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "apostat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "ciutat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.31
+    },
+    "mes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.73
+    },
+    "sostenible": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bicicleta.json"
+}

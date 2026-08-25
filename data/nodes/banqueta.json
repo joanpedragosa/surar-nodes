@@ -1,0 +1,29 @@
+{
+  "concept": "banqueta",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "banc": 1.0
+  },
+  "bayesian_context": {
+    "alcada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "banc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "cm": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/banqueta.json"
+}

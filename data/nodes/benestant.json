@@ -1,0 +1,74 @@
+{
+  "concept": "benestant",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "ordinaria": 0.5,
+    "estocolm": 0.5
+  },
+  "bayesian_context": {
+    "tipus": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.75
+    },
+    "vida": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.9
+    },
+    "portava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "pintor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "mantenir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "lisa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "classe": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "mitjana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "ordinaria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "provenia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "karin": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "åkerblom": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "familia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "estocolm": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/benestant.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "biennals",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "exhumacions": 1.0
+  },
+  "bayesian_context": {
+    "intervindrien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "fosses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "mitjancant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "plans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "exhumacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/biennals.json"
+}

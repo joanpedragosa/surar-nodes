@@ -1,0 +1,41 @@
+{
+  "concept": "BB",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "control": 1.0
+  },
+  "bayesian_context": {
+    "construir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "control": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "remot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "posar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "venda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "sphero": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bb.json"
+}

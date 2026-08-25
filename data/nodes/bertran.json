@@ -1,0 +1,69 @@
+{
+  "concept": "bertran",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "vacalaria": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "vacalaria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "enginyer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "maquines": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.07
+    },
+    "enviar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "montsegur": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "homes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    },
+    "propers": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "comte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "tolosa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "construir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "artilleria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bertran.json"
+}
