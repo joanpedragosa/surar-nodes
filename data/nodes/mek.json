@@ -1,0 +1,45 @@
+{
+  "concept": "MEK",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "monafeqin": 1.0
+  },
+  "bayesian_context": {
+    "atacar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "khomeini": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "titllar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "monafeqin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "hipocrites": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "kafir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "infidels": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mek.json"
+}

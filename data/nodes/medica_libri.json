@@ -1,0 +1,53 @@
+{
+  "concept": "medica_libri",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "septem": 1.0
+  },
+  "bayesian_context": {
+    "sobreviure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "de_re": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "septem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "font": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "particularment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "profunda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "coneixement": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "medic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/medica_libri.json"
+}

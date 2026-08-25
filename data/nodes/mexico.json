@@ -1,0 +1,31 @@
+{
+  "concept": "mexico",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "transliterar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "castella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "nom": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mexico.json"
+}

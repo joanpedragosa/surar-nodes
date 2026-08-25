@@ -1,0 +1,77 @@
+{
+  "concept": "mendoza",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "cardenal": 1.0
+  },
+  "bayesian_context": {
+    "ocupar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "carrec": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.2
+    },
+    "cardenal": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.77
+    },
+    "cisneros": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "obres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.34
+    },
+    "segle": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.29
+    },
+    "XV": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "respatller": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "cadira": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "episcopal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "tallat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "dues": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.39
+    },
+    "imatges": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "escut": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mendoza.json"
+}

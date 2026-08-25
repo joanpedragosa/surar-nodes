@@ -1,0 +1,41 @@
+{
+  "concept": "miners",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "grans": 1.0
+  },
+  "bayesian_context": {
+    "produeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "ambients": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "grans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "quantitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "pols": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "aerosols": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/miners.json"
+}

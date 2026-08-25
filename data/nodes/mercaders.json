@@ -1,0 +1,42 @@
+{
+  "concept": "mercaders",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "estrangers": 0.5,
+    "parts": 0.5
+  },
+  "bayesian_context": {
+    "compraven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "esclaus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "estrangers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "venien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "parts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "europa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mercaders.json"
+}

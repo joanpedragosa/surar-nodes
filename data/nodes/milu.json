@@ -1,0 +1,78 @@
+{
+  "concept": "milu",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "pa": 0.3333,
+    "unio": 0.6667
+  },
+  "bayesian_context": {
+    "roba": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "pa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "enviats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "tintin": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.74
+    },
+    "unio": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.97
+    },
+    "sovietica": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.77
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "motiu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "enviar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "informar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "politiques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "govern": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "bolxevic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "iossif": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "stalin": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/milu.json"
+}

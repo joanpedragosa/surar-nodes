@@ -1,0 +1,41 @@
+{
+  "concept": "mineralitzacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "obtinguda": 1.0
+  },
+  "bayesian_context": {
+    "aprecia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "periodes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "ordovicia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "jurassic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "obtinguda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "epoques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mineralitzacio.json"
+}

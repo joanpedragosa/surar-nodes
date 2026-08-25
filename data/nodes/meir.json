@@ -1,0 +1,50 @@
+{
+  "concept": "meir",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "promoure": 0.3333,
+    "pau": 0.6667
+  },
+  "bayesian_context": {
+    "reunir": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.45
+    },
+    "promoure": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.95
+    },
+    "pau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "liders": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "mundials": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "proxim_orient": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "papa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "VI": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/meir.json"
+}

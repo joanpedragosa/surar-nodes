@@ -1,0 +1,41 @@
+{
+  "concept": "miquel",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "farre": 1.0
+  },
+  "bayesian_context": {
+    "dissenyar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "periode": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "domenech": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "roura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "farre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "albages": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/miquel.json"
+}
