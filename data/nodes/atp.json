@@ -1,0 +1,49 @@
+{
+  "concept": "ATP",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sintasa": 1.0
+  },
+  "bayesian_context": {
+    "important": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "matriu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "produccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "traves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "tornen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "protons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "complex": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "sintasa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/atp.json"
+}

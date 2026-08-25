@@ -1,0 +1,61 @@
+{
+  "concept": "baker",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "amp": 1.0
+  },
+  "bayesian_context": {
+    "confeccionat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "document": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "anomenat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "cros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "border_m": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "amp": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "a_index": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mckenzie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "mescla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "roy_thomas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/baker.json"
+}

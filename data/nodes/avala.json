@@ -1,0 +1,94 @@
+{
+  "concept": "avala",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tribunal": 0.5,
+    "investidura": 0.5
+  },
+  "bayesian_context": {
+    "tribunal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "comptes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "numeros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "cs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "motiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "participen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "avui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "bases": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "ERC": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "consulta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "interna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "decidir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "partit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "investidura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "pedro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "sanchez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "president": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/avala.json"
+}

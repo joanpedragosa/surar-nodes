@@ -1,0 +1,76 @@
+{
+  "concept": "associar",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "falla": 0.25,
+    "imatginers": 0.25,
+    "grec": 0.25,
+    "pompeu_fabra": 0.25
+  },
+  "bayesian_context": {
+    "falla": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "matrimoni": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "martinez_sierra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "lejarraga": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "imatginers": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "gran": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.1
+    },
+    "quantitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "encarrecs": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "grec": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "occident": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "llati": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "cristia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "paganisme": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "pompeu_fabra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/associar.json"
+}

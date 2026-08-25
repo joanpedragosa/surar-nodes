@@ -1,0 +1,53 @@
+{
+  "concept": "assemblea_municipal",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lisboa": 1.0
+  },
+  "bayesian_context": {
+    "sol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "licita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "lisboa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "resolucio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "aprovat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "llibertat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "presos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "politics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "catalans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/assemblea_municipal.json"
+}

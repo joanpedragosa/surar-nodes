@@ -1,0 +1,80 @@
+{
+  "concept": "baldaqui",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "miquel_angel": 0.25,
+    "bronze": 0.25,
+    "pampols": 0.25,
+    "calvari": 0.25
+  },
+  "bayesian_context": {
+    "dissenyar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.91
+    },
+    "miquel_angel": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "encarreguen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "realitzacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "bronze": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "altar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "major": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "teixeix": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "raim": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "pampols": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "emmarcara": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "arc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "triomfal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "calvari": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "jesus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/baldaqui.json"
+}

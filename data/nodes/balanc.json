@@ -1,0 +1,66 @@
+{
+  "concept": "balanc",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "danys": 0.5,
+    "acte": 0.5
+  },
+  "bayesian_context": {
+    "acabar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "guerra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "banda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "iraniana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "danys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "considerable": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "dia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "roda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "premsa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "acte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "octubre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/balanc.json"
+}

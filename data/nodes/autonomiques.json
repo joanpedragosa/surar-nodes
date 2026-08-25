@@ -1,0 +1,78 @@
+{
+  "concept": "autonomiques",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "catalunya": 0.5,
+    "espanyoles": 0.5
+  },
+  "bayesian_context": {
+    "poden": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.55
+    },
+    "definir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "eleccions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.48
+    },
+    "catalunya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    },
+    "relacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "resta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "generar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "traslladin": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "canvis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "municipals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "espanyoles": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "sinergies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "competencies": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.89
+    },
+    "superar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "ATC": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/autonomiques.json"
+}

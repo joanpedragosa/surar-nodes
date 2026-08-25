@@ -1,0 +1,333 @@
+{
+  "concept": "avancar",
+  "frequency": 11,
+  "edges": [],
+  "markov_transitions": {
+    "eleccions": 0.2,
+    "resultat": 0.1,
+    "jujol": 0.1,
+    "estabilitat": 0.1,
+    "llei": 0.1,
+    "vacances": 0.1,
+    "objectius": 0.1,
+    "negociacions": 0.1,
+    "PSC": 0.1
+  },
+  "bayesian_context": {
+    "oposa": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "eleccions": {
+      "likelihood": 0.0091,
+      "posterior_boost": 3.4
+    },
+    "compromis": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.64
+    },
+    "permet": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.59
+    },
+    "resultat": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.64
+    },
+    "demostracio": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "analisi": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.87
+    },
+    "cas": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.27
+    },
+    "general": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.25
+    },
+    "sospesar": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "puig": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.84
+    },
+    "jujol": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.94
+    },
+    "moviments": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.91
+    },
+    "avantguardistes": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "diu": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.65
+    },
+    "necessiten": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "comunitats": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "autonomes": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "poder": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.06
+    },
+    "estabilitat": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.94
+    },
+    "llei": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.95
+    },
+    "habitatge": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.87
+    },
+    "integral": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "bloqueig": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "cronic": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "PP": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.08
+    },
+    "ciutadans": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.09
+    },
+    "necessitat": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.81
+    },
+    "plantejat": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "direccio": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.44
+    },
+    "ford": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "cent": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.47
+    },
+    "onze": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.81
+    },
+    "treballadors": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.45
+    },
+    "vacances": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "estiu": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.6
+    },
+    "objectiu": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.41
+    },
+    "busca": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "pacte": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.45
+    },
+    "podem": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.01
+    },
+    "EUPV": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "segons": {
+      "likelihood": 0.0061,
+      "posterior_boost": 2.78
+    },
+    "perez": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.68
+    },
+    "garijo": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "guanyar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.47
+    },
+    "tindre": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "major": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.29
+    },
+    "forca": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.43
+    },
+    "possible": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.59
+    },
+    "blindar": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "canvis": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.54
+    },
+    "servit": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "cimera": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.08
+    },
+    "cap": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.6
+    },
+    "setmana": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.31
+    },
+    "realitzada": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "ginebra": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.03
+    },
+    "puigdemont": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.3
+    },
+    "comencar": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.99
+    },
+    "objectius": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.03
+    },
+    "comuns": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.84
+    },
+    "partits": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.28
+    },
+    "independentistes": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.54
+    },
+    "entitats": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.78
+    },
+    "reunit": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.75
+    },
+    "PSPV": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.81
+    },
+    "unides_podem": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.73
+    },
+    "fer": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.3
+    },
+    "negociacions": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.84
+    },
+    "tancar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.6
+    },
+    "govern": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.63
+    },
+    "volen": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.15
+    },
+    "presentar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.01
+    },
+    "junts": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.49
+    },
+    "units": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "PSC": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.49
+    },
+    "municipals": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.75
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1111111111111111,
+    0.0,
+    2.4849066497880004
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/avancar.json"
+}

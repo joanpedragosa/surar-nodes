@@ -1,0 +1,45 @@
+{
+  "concept": "attilio_piccioni",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vicepresident": 1.0
+  },
+  "bayesian_context": {
+    "signar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "canceller": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "italia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "vicepresident": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "EUA": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "lyndon_b": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "johnson": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/attilio_piccioni.json"
+}

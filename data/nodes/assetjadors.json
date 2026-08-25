@@ -1,0 +1,65 @@
+{
+  "concept": "assetjadors",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rendicio": 1.0
+  },
+  "bayesian_context": {
+    "normalment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "preferible": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "rendicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "setge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "evitar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "baixes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "donar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "exemple": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "futures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ciutats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "assetjades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/assetjadors.json"
+}

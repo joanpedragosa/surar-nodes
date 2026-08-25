@@ -1,0 +1,46 @@
+{
+  "concept": "autoanomena",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pressio": 0.5,
+    "govern": 0.5
+  },
+  "bayesian_context": {
+    "pressio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "popular": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "revolucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "colors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "progressista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/autoanomena.json"
+}

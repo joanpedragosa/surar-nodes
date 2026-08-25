@@ -1,0 +1,45 @@
+{
+  "concept": "aureola",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "astral": 1.0
+  },
+  "bayesian_context": {
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "fa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.8
+    },
+    "joc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "contrast": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "elements": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "astral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aureola.json"
+}

@@ -1,0 +1,110 @@
+{
+  "concept": "austeritat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "solidesa": 0.5,
+    "votades": 0.5
+  },
+  "bayesian_context": {
+    "destaca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "edifici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "escola": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "dames_negres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "solidesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "estan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "marcades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "eleccions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "assemblees": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "nacionals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "escocia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "pais": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "gal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "nord": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "irlanda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "politiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "votades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ciutadans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "territoris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "futur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "nacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "referendum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "escoces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/austeritat.json"
+}

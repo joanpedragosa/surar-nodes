@@ -1,0 +1,58 @@
+{
+  "concept": "aventura",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "barranquisme": 0.5,
+    "lemur": 0.5
+  },
+  "bayesian_context": {
+    "practiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "esportives": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "apte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "congost": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "barranquisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "zones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "lemur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "cua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "anellada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "altes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aventura.json"
+}

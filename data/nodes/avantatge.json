@@ -1,0 +1,98 @@
+{
+  "concept": "avantatge",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "evolutiu": 0.5,
+    "zebres": 0.5
+  },
+  "bayesian_context": {
+    "evolutiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "pot": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "conferir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "virus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "deriva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "genetica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "resistencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "medicaments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "antivirics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "zebres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "posin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "costat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "zebra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "tingui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "darrere": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "ofereix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "animals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "angle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "visio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/avantatge.json"
+}

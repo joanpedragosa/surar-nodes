@@ -1,0 +1,66 @@
+{
+  "concept": "assenyalen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "equivocadament": 0.5,
+    "ruines": 0.5
+  },
+  "bayesian_context": {
+    "equivocadament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "llibres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "proposit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cavendish": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "determinar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "constant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "gravitacional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ruines": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "paisatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "fugacitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "temps": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.62
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/assenyalen.json"
+}
