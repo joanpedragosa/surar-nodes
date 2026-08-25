@@ -1,0 +1,125 @@
+{
+  "concept": "venedor",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "totalitat": 0.2,
+    "beneficis": 0.2,
+    "cobrar": 0.2,
+    "preus": 0.2,
+    "llibres": 0.2
+  },
+  "bayesian_context": {
+    "captura": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "totalitat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "excedent": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "consumidor": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "augmenta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "substancialment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "beneficis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "forma": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.19
+    },
+    "ideal": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "discriminacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "preus": {
+      "likelihood": 0.02,
+      "posterior_boost": 4.85
+    },
+    "cobrar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "comprador": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.03
+    },
+    "maxim": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "disposat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "pagar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "discrimina": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "cobra": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "diferents": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.86
+    },
+    "compradors": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "llibres": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "utilitzava": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "emmagatzemar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "documents": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "new_paradigm": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "research_group": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.2,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/venedor.json"
+}

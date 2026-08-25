@@ -1,0 +1,53 @@
+{
+  "concept": "versava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "peticio": 1.0
+  },
+  "bayesian_context": {
+    "peticio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "conjunta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "presentar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "ERC": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "jxcat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "espionatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "delegats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "generalitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.07
+    },
+    "exterior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/versava.json"
+}

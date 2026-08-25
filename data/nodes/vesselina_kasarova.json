@@ -1,0 +1,53 @@
+{
+  "concept": "vesselina_kasarova",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cor": 1.0
+  },
+  "bayesian_context": {
+    "gravar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "cor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "radio_bavaresa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "orquestra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "radio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "munic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cantar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "festival": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "salzburg": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vesselina_kasarova.json"
+}

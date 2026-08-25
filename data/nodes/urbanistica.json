@@ -1,0 +1,69 @@
+{
+  "concept": "urbanistica",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "enginyer": 1.0
+  },
+  "bayesian_context": {
+    "suposa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "amenaca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "recurrent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "zona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "font_roja": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "especulacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "afront": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "podien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "perdonar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "arquitectes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "adjudicar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "responsabilitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "enginyer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/urbanistica.json"
+}

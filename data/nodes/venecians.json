@@ -1,0 +1,58 @@
+{
+  "concept": "venecians",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tebia": 0.5,
+    "polvori": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "acollida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "semiramide": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "tebia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "temple": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "parteno": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "setge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "atenes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "polvori": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/venecians.json"
+}

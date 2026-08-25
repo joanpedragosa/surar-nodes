@@ -1,0 +1,69 @@
+{
+  "concept": "urgencia",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "president": 1.0
+  },
+  "bayesian_context": {
+    "concentracio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "convocat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "ANC": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "clar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "pare": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "enviar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "carolina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "convent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "emplacat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "caracter": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "president": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.48
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "ple": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/urgencia.json"
+}

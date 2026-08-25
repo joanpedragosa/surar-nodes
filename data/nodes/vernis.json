@@ -1,0 +1,37 @@
+{
+  "concept": "vernis",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "organic": 1.0
+  },
+  "bayesian_context": {
+    "protegida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "repintada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "negre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "fons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "organic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vernis.json"
+}

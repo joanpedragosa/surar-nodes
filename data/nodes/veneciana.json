@@ -1,0 +1,61 @@
+{
+  "concept": "veneciana",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "negroponte": 1.0
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "caure": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.77
+    },
+    "colonia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "negroponte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "context": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "historic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "situa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "opera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "caiguda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "mans": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.32
+    },
+    "turcs": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/veneciana.json"
+}

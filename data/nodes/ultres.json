@@ -1,0 +1,96 @@
+{
+  "concept": "ultres",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "espanyolistes": 0.25,
+    "banderes": 0.25,
+    "biblioteca_gregori": 0.25,
+    "escampar": 0.25
+  },
+  "bayesian_context": {
+    "concentrat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "caserna": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "policia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    },
+    "espanyola": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.58
+    },
+    "espanyolistes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "portaven": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "banderes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "espanyoles": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "volien": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    },
+    "entrar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.89
+    },
+    "biblioteca_gregori": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "maians": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "tactica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "propaganda": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "utilitzen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "grups": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.64
+    },
+    "escampar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "noticies": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "falses": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ultres.json"
+}

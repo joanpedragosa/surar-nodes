@@ -1,0 +1,53 @@
+{
+  "concept": "vacances",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estiu": 1.0
+  },
+  "bayesian_context": {
+    "necessitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "plantejat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "direccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "ford": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "cent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "onze": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "treballadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "avancar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "estiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vacances.json"
+}

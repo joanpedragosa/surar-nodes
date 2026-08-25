@@ -1,0 +1,367 @@
+{
+  "concept": "vaixell",
+  "frequency": 19,
+  "edges": [],
+  "markov_transitions": {
+    "royal_marines": 0.0588,
+    "arpons": 0.0588,
+    "dos": 0.0588,
+    "personatge": 0.0588,
+    "estranger": 0.1176,
+    "rescatat": 0.0588,
+    "naufragi": 0.0588,
+    "hauria": 0.0588,
+    "ocea": 0.0588,
+    "dreta": 0.0588,
+    "confiscat": 0.0588,
+    "christopher": 0.0588,
+    "port": 0.0588,
+    "capitanejava": 0.0588,
+    "cinc": 0.1176
+  },
+  "bayesian_context": {
+    "detenir": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.84
+    },
+    "royal_marines": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "equipar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "arpons": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "capturar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.79
+    },
+    "cetacis": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.57
+    },
+    "grans": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.0
+    },
+    "svend_foyn": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "davant": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.97
+    },
+    "dos": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.41
+    },
+    "passatgers": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.75
+    },
+    "mes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 1.97
+    },
+    "llegeix": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.27
+    },
+    "diari": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.17
+    },
+    "personatge": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.32
+    },
+    "interpretat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.97
+    },
+    "william_bendix": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "senten": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "homes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.33
+    },
+    "daland": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.14
+    },
+    "comencen": {
+      "likelihood": 0.0035,
+      "posterior_boost": 4.2
+    },
+    "apareixer": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.62
+    },
+    "formes": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.54
+    },
+    "fantasmagoriques": {
+      "likelihood": 0.0035,
+      "posterior_boost": 4.75
+    },
+    "estranger": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.77
+    },
+    "espantats": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "diu": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.42
+    },
+    "rescatat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.14
+    },
+    "eleonore": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "pot": {
+      "likelihood": 0.0053,
+      "posterior_boost": 2.95
+    },
+    "provocar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.57
+    },
+    "tempesta": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.14
+    },
+    "naufragi": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "buscava": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.27
+    },
+    "equip": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.26
+    },
+    "nino_lamboglia": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.27
+    },
+    "restes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.29
+    },
+    "hauria": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.17
+    },
+    "transportat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "escultures": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.33
+    },
+    "ordena": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.97
+    },
+    "shackleton": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.14
+    },
+    "octubre": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.91
+    },
+    "abandonar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.75
+    },
+    "quedar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.39
+    },
+    "encalmat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "ocea": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.63
+    },
+    "causa": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.89
+    },
+    "manca": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.47
+    },
+    "vent": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.45
+    },
+    "apareix": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.36
+    },
+    "primer": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.51
+    },
+    "punt": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.13
+    },
+    "caracteristic": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.97
+    },
+    "just": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.57
+    },
+    "darrere": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.63
+    },
+    "dreta": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.16
+    },
+    "imatge": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.05
+    },
+    "duia": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.84
+    },
+    "petroli": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.67
+    },
+    "confiscat": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "siria": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.71
+    },
+    "anava": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.52
+    },
+    "christopher": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.05
+    },
+    "tärnström": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.05
+    },
+    "direccio": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.21
+    },
+    "xina": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.35
+    },
+    "forma": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.62
+    },
+    "pedestal": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.97
+    },
+    "monument": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.79
+    },
+    "proa": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.27
+    },
+    "arribar": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.83
+    },
+    "port": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.52
+    },
+    "barcelona": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.38
+    },
+    "dimecres": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.71
+    },
+    "capitanejava": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "la_pinta": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.75
+    },
+    "quantes": {
+      "likelihood": 0.0035,
+      "posterior_boost": 2.49
+    },
+    "dones": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.35
+    },
+    "viatgen": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.45
+    },
+    "cinc": {
+      "likelihood": 0.0035,
+      "posterior_boost": 3.15
+    },
+    "persones": {
+      "likelihood": 0.0018,
+      "posterior_boost": 2.67
+    },
+    "acollir": {
+      "likelihood": 0.0018,
+      "posterior_boost": 3.71
+    },
+    "centes": {
+      "likelihood": 0.0018,
+      "posterior_boost": 4.05
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.06663999999999999,
+    0.0,
+    2.995732273553991
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vaixell.json"
+}

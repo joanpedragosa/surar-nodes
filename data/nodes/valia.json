@@ -1,0 +1,118 @@
+{
+  "concept": "valia",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "visigots": 0.1667,
+    "regnat": 0.1667,
+    "constanci": 0.1667,
+    "col": 0.1667,
+    "romans": 0.1667,
+    "rei": 0.1667
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.5
+    },
+    "rei": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.61
+    },
+    "visigots": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "fer": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.55
+    },
+    "pactes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "regnat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "romans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "pactar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "constanci": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "col": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.05
+    },
+    "laborar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "causa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.39
+    },
+    "crisi": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.82
+    },
+    "subsistencia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "poble": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.72
+    },
+    "visigot": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "demanar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.6
+    },
+    "representats": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.29
+    },
+    "intervencio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "militar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.8
+    },
+    "hispania": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "ser": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.38
+    },
+    "escollit": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.17
+    },
+    "setembre": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.45
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1667,
+    0.0,
+    1.9459101490553132
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/valia.json"
+}

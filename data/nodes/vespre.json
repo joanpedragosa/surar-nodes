@@ -1,0 +1,109 @@
+{
+  "concept": "vespre",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "recepcio": 1.0
+  },
+  "bayesian_context": {
+    "confluiran": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "torra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "morenes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "avui": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.92
+    },
+    "recepcio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "oficial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "privada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "smithsonian_folklife": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "festival": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    },
+    "enviat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "sanchez": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.54
+    },
+    "missatge": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "integrants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "crida": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "hora": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "decidir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "patronat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "turisme": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "obrissin": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "oficines": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "atencio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "public": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "vuit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vespre.json"
+}

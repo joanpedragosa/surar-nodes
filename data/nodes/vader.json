@@ -1,0 +1,78 @@
+{
+  "concept": "vader",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "demana": 0.5,
+    "mig": 0.5
+  },
+  "bayesian_context": {
+    "ataca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "emperador": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "demana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "luke": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.06
+    },
+    "tregui": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "mascara": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "poder": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "veure": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.62
+    },
+    "propis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "ulls": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "talla": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "llegeix": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "mig": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    },
+    "combat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "sentiments": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vader.json"
+}

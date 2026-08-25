@@ -1,0 +1,53 @@
+{
+  "concept": "USA",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "troballes": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "publicades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "troballes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "baruch_braunstein": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "archivo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "historico": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "nacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "madrid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/usa.json"
+}

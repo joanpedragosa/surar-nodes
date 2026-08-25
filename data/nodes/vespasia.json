@@ -1,0 +1,33 @@
+{
+  "concept": "vespasia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "consol": 1.0
+  },
+  "bayesian_context": {
+    "esdeve": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "consol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "novena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "vegada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vespasia.json"
+}

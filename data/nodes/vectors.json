@@ -1,0 +1,39 @@
+{
+  "concept": "vectors",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "transmeten": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "habitualment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "virus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "planta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "organismes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "coneguts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vectors.json"
+}

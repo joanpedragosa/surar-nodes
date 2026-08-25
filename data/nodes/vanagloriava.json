@@ -1,0 +1,61 @@
+{
+  "concept": "vanagloriava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "teatro_san": 1.0
+  },
+  "bayesian_context": {
+    "teatro_san": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "carlo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "orquestra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "excepcional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "companyia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "millors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "cantants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "residents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "disponibles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "qualsevol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "lloc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vanagloriava.json"
+}
