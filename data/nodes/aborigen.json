@@ -1,0 +1,49 @@
+{
+  "concept": "aborigen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "aconsegui": 1.0
+  },
+  "bayesian_context": {
+    "basat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "tiger_tale": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "mite": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "aconsegui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "ratlles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "llop": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "marsupial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aborigen.json"
+}

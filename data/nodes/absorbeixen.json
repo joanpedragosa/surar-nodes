@@ -1,0 +1,45 @@
+{
+  "concept": "absorbeixen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mengen": 1.0
+  },
+  "bayesian_context": {
+    "diuen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "cel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "lules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "mengen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "patogens": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "particules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "fagocits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/absorbeixen.json"
+}

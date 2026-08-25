@@ -1,0 +1,57 @@
+{
+  "concept": "aclarir",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "circumstancies": 1.0
+  },
+  "bayesian_context": {
+    "obert": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "fiscalia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "investigacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "circumstancies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "morts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "hagut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "residencies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "capellades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "olesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "montserrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aclarir.json"
+}

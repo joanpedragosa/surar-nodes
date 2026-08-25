@@ -1,0 +1,49 @@
+{
+  "concept": "abbey_road",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "studio_two": 1.0
+  },
+  "bayesian_context": {
+    "enregistrar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "album": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "studio_two": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "estudis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "gravar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "soundtrack": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "venjanca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "sith": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/abbey_road.json"
+}

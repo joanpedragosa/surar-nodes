@@ -1,0 +1,96 @@
+{
+  "concept": "acompanyar",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "jordi_cardoner": 0.25,
+    "album": 0.25,
+    "banda": 0.25,
+    "carles": 0.25
+  },
+  "bayesian_context": {
+    "jordi_cardoner": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "pau_vilanova": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "preso": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "lledoners": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "bartomeu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "anomena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    },
+    "curtmetratge": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "llancar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "album": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.89
+    },
+    "the_final": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "cut": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "fotograf": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "banda": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.84
+    },
+    "peter_hince": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "soldats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "podien": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "carles": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "italia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.77
+    },
+    "suissos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/acompanyar.json"
+}

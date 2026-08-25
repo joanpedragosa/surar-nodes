@@ -1,0 +1,29 @@
+{
+  "concept": "abraca",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ventafocs": 1.0
+  },
+  "bayesian_context": {
+    "ventafocs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "pare": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "germanastres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/abraca.json"
+}

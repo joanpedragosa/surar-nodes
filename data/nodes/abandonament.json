@@ -1,0 +1,132 @@
+{
+  "concept": "abandonament",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "secretari": 0.25,
+    "produccio": 0.25,
+    "manca": 0.25,
+    "lloc": 0.25
+  },
+  "bayesian_context": {
+    "enviat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "carta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.67
+    },
+    "notificar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "secretari": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "nacions_unides": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "marca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "gazza": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "ladra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "produccio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.86
+    },
+    "operes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.88
+    },
+    "comiques": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "moment": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.79
+    },
+    "endavant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "protesten": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "manca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "democracia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "interna": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "quantes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.86
+    },
+    "persones": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.34
+    },
+    "investigats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "delictes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "malversacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "diners": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "publics": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "lloc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    },
+    "feina": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "funcionaris": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "cinc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/abandonament.json"
+}

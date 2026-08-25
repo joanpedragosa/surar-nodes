@@ -1,0 +1,112 @@
+{
+  "concept": "admet",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "legislacio": 0.25,
+    "marie": 0.25,
+    "macron": 0.25,
+    "sempre": 0.25
+  },
+  "bayesian_context": {
+    "legislacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "espanyola": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.58
+    },
+    "cas": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.71
+    },
+    "dret": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.58
+    },
+    "adquisicio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "preferent": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "inquili": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "inquilins": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "renunciin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "marie": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "estima": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "cinq": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "mars": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "macron": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "extrema": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "dreta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    },
+    "ambiguitats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "sempre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "solucio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "equacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "suma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "dos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.07
+    },
+    "quadrats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/admet.json"
+}

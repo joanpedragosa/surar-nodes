@@ -1,0 +1,70 @@
+{
+  "concept": "adultes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "causa": 0.5,
+    "planta": 0.5
+  },
+  "bayesian_context": {
+    "lleons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "rarament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ataquen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "girafes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "risc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "prendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "planta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "alimenten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "femelles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "alimentar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "eruga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/adultes.json"
+}

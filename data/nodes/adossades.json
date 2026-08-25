@@ -1,0 +1,45 @@
+{
+  "concept": "adossades",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mur": 1.0
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "semicolumnes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "tres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "ordres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "inferiors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "admeten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/adossades.json"
+}

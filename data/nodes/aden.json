@@ -1,0 +1,41 @@
+{
+  "concept": "aden",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "otomans": 1.0
+  },
+  "bayesian_context": {
+    "conquerir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "otomans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "peces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "artilleria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "fortificar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aden.json"
+}

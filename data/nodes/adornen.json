@@ -1,0 +1,54 @@
+{
+  "concept": "adornen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "part": 0.5,
+    "diversos": 0.5
+  },
+  "bayesian_context": {
+    "formes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "exterior": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "setial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "arquitectoniques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "vegetals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "diversos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "vaixells": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "coloms": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/adornen.json"
+}

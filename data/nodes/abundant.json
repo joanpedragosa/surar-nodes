@@ -1,0 +1,66 @@
+{
+  "concept": "abundant",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "atmosfera": 0.5,
+    "regolit": 0.5
+  },
+  "bayesian_context": {
+    "neixen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "epoca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "aliment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "component": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "mes": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.03
+    },
+    "atmosfera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "ura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "meta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "element": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "regolit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "lunar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "oxigen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/abundant.json"
+}

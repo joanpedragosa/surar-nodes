@@ -1,0 +1,54 @@
+{
+  "concept": "abstencions",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "haver": 0.5,
+    "produit": 0.5
+  },
+  "bayesian_context": {
+    "quantes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.46
+    },
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "votacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "investidura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "divuit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "produit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "miquel_iceta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "senador": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/abstencions.json"
+}

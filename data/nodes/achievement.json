@@ -1,0 +1,65 @@
+{
+  "concept": "achievement",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "segons": 1.0
+  },
+  "bayesian_context": {
+    "epoca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "compren": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "etapa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "martinez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "montanes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "years": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "of": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "proske": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "realitzacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "crist": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "clemencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/achievement.json"
+}

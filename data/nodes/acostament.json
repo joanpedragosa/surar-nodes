@@ -1,0 +1,33 @@
+{
+  "concept": "acostament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cuba": 1.0
+  },
+  "bayesian_context": {
+    "iniciar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "cuba": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "administracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "barack_obama": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/acostament.json"
+}
