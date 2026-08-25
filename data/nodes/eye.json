@@ -1,0 +1,61 @@
+{
+  "concept": "eye",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "majoria": 1.0
+  },
+  "bayesian_context": {
+    "immigrants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "refugiats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "troben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "sea": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.72
+    },
+    "watch": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "majoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "provinents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "africa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "subsahariana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "libia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "egipte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eye.json"
+}

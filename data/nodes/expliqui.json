@@ -1,0 +1,61 @@
+{
+  "concept": "expliqui",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "partit_democrata": 1.0
+  },
+  "bayesian_context": {
+    "preten": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "PSOE": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "partit_democrata": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "catala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "aspectes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "legacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "presentat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "demanar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "congres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/expliqui.json"
+}

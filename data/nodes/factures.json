@@ -1,0 +1,116 @@
+{
+  "concept": "factures",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "institut": 0.25,
+    "diputacio": 0.25,
+    "falses": 0.25,
+    "pendents": 0.25
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.18
+    },
+    "responsabilitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "cobrament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "institut": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "noos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "segons": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.92
+    },
+    "inaki": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "undargarin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "membres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "entitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "faciliten": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "diputacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "productora": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "enviar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.96
+    },
+    "falses": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "triacom": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "seria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "injeccio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "economia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "suposaria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "administracions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "pagaren": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "pendents": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "milions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.4
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/factures.json"
+}

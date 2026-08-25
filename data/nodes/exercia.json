@@ -1,0 +1,53 @@
+{
+  "concept": "exercia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "figura": 1.0
+  },
+  "bayesian_context": {
+    "paper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.2
+    },
+    "figura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "humana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "representacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "paisatges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "escenes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "historiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "hokusai": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "secundari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/exercia.json"
+}

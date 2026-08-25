@@ -1,0 +1,47 @@
+{
+  "concept": "ferrocarrils_catalans",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "adquirir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "capital": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "NEE": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "cop": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "passada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "primera_guerra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "civil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "accionistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ferrocarrils_catalans.json"
+}

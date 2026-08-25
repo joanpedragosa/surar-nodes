@@ -1,0 +1,29 @@
+{
+  "concept": "faltar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mes": 1.0
+  },
+  "bayesian_context": {
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "instint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "politic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/faltar.json"
+}

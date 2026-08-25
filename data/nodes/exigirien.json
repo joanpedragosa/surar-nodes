@@ -1,0 +1,41 @@
+{
+  "concept": "exigirien",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "PP": 1.0
+  },
+  "bayesian_context": {
+    "PP": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "rectifiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "canvi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "abstencio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "politiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "retrogrades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/exigirien.json"
+}

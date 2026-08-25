@@ -1,0 +1,127 @@
+{
+  "concept": "febre",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "tropical": 0.25,
+    "tos": 0.25,
+    "groga": 0.5
+  },
+  "bayesian_context": {
+    "mori": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "christopher": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "tärnström": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "tropical": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "primera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.25
+    },
+    "fa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.2
+    },
+    "app": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "stop_covid": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "CAT": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "simptomes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "tos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "continuada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "persistent": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "dificultats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "respiratories": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "malestar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "general": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "data": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.86
+    },
+    "aparicio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "brots": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "groga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "europa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.84
+    },
+    "descobriment": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "america": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.81
+    },
+    "endemica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "zones": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "tropicals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/febre.json"
+}

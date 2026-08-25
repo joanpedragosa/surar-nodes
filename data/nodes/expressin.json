@@ -1,0 +1,57 @@
+{
+  "concept": "expressin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "previament": 1.0
+  },
+  "bayesian_context": {
+    "exigeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "llei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "facin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "ciutadans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "poder": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "votar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "estats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "previament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "mitjancant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "registre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/expressin.json"
+}

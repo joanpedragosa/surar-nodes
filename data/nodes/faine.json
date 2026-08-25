@@ -1,0 +1,46 @@
+{
+  "concept": "faine",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "obra_social": 0.5,
+    "decisio": 0.5
+  },
+  "bayesian_context": {
+    "ferm": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "defensor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "obra_social": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "anunciara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "decisio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "dijous": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "ve": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/faine.json"
+}

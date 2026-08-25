@@ -1,0 +1,54 @@
+{
+  "concept": "ferdinand",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "von": 0.5,
+    "lesseps": 0.5
+  },
+  "bayesian_context": {
+    "demostrar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "von": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "lindemann": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "nombre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "transcendent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "president": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "lesseps": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "franca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ferdinand.json"
+}

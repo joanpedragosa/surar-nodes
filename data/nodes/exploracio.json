@@ -1,0 +1,37 @@
+{
+  "concept": "exploracio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "arqueologica": 1.0
+  },
+  "bayesian_context": {
+    "signar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "grec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "arqueologica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "olimpia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "alemanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/exploracio.json"
+}

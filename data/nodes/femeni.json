@@ -1,0 +1,90 @@
+{
+  "concept": "femeni",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "principal": 0.5,
+    "mont": 0.5
+  },
+  "bayesian_context": {
+    "ludeix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "murasaki": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "personatge": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "principal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.82
+    },
+    "obra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.05
+    },
+    "genere": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "catala": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "gran": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "majoria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    },
+    "paraules": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "primera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.37
+    },
+    "declinacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "jocs": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "olimpic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "basquet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "mont": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "real": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/femeni.json"
+}

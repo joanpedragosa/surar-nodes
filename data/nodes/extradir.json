@@ -1,0 +1,70 @@
+{
+  "concept": "extradir",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "president": 0.5,
+    "dos": 0.5
+  },
+  "bayesian_context": {
+    "refusat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "tribunal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "alemany": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "slesvig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "holstein": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "president": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "pais": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "dos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "opositors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "detinguts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "turquia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/extradir.json"
+}

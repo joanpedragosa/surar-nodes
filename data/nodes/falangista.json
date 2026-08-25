@@ -1,0 +1,70 @@
+{
+  "concept": "falangista",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "contramanifestacio": 0.5,
+    "evitar": 0.5
+  },
+  "bayesian_context": {
+    "constancia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "interior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "ajornes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "concentracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "contramanifestacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "independentista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "ajornar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "evitar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "possibles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "problemes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "ordre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "public": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/falangista.json"
+}

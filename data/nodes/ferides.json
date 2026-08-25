@@ -1,0 +1,54 @@
+{
+  "concept": "ferides",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "llatzer": 0.5,
+    "rates": 0.5
+  },
+  "bayesian_context": {
+    "llepa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "gos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "escena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "llatzer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "lepros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "resulten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "rates": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "mesqueres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "primavera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ferides.json"
+}
