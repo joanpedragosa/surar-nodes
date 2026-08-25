@@ -1,0 +1,41 @@
+{
+  "concept": "dooku",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mestre": 1.0
+  },
+  "bayesian_context": {
+    "fuig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "fragor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "batalla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "sigut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "yoda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mestre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dooku.json"
+}

@@ -1,0 +1,98 @@
+{
+  "concept": "divinitat",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "crist": 0.6667,
+    "religio": 0.3333
+  },
+  "bayesian_context": {
+    "mes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.73
+    },
+    "maria": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.09
+    },
+    "acostumava": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.15
+    },
+    "col": {
+      "likelihood": 0.0444,
+      "posterior_boost": 3.95
+    },
+    "locar": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.7
+    },
+    "legi": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.81
+    },
+    "apostolic": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.25
+    },
+    "testimoni": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.25
+    },
+    "ocular": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.95
+    },
+    "crist": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.16
+    },
+    "sant_climent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "taull": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "defineix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "cosa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "sagrada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "sacra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "relacionat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "manera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    },
+    "religio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "misteris": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/divinitat.json"
+}

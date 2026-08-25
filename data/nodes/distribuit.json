@@ -1,0 +1,62 @@
+{
+  "concept": "distribuit",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cameres": 0.5,
+    "comunicat": 0.5
+  },
+  "bayesian_context": {
+    "finalitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "cameres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "policia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "londres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "reduir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "crim": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "violencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "comunicat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "moncloa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "canals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "premsa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/distribuit.json"
+}

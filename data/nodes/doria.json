@@ -1,0 +1,37 @@
+{
+  "concept": "doria",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "spinola": 1.0
+  },
+  "bayesian_context": {
+    "families": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "poderoses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "genova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "spinola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "imperiale": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/doria.json"
+}

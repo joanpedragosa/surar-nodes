@@ -1,0 +1,91 @@
+{
+  "concept": "donzella",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "terinka": 0.2,
+    "neu": 0.6,
+    "pskov": 0.2
+  },
+  "bayesian_context": {
+    "persegueix": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "intendent": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "castell": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.78
+    },
+    "bella": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "terinka": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "deia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.59
+    },
+    "era": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.57
+    },
+    "neu": {
+      "likelihood": 0.02,
+      "posterior_boost": 4.96
+    },
+    "rimski": {
+      "likelihood": 0.02,
+      "posterior_boost": 5.03
+    },
+    "korsakov": {
+      "likelihood": 0.02,
+      "posterior_boost": 5.03
+    },
+    "millor": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.8
+    },
+    "opera": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.27
+    },
+    "ser": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.46
+    },
+    "primera": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.15
+    },
+    "pskov": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "llegir": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "any": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.76
+    },
+    "escriure": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.28
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/donzella.json"
+}

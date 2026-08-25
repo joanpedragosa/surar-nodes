@@ -1,0 +1,78 @@
+{
+  "concept": "distribueix",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "escena": 0.5,
+    "apol": 0.5
+  },
+  "bayesian_context": {
+    "escena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "meitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "dreta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "estructura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "piramidal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "vertex": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ruines": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "fons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "apol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "lo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "majoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "grans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "regions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "muntanyoses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vell_continent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/distribueix.json"
+}

@@ -1,0 +1,58 @@
+{
+  "concept": "ECU",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mitjana": 0.5,
+    "monedes": 0.5
+  },
+  "bayesian_context": {
+    "calculava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "valor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "mitjana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "ponderada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "divises": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "integraven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "costat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "existir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "monedes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "nacionals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ecu.json"
+}

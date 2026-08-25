@@ -1,0 +1,41 @@
+{
+  "concept": "dorsal",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rosegador": 1.0
+  },
+  "bayesian_context": {
+    "color": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "tenen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.88
+    },
+    "regio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "rosegador": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "rogenc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "intens": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dorsal.json"
+}

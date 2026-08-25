@@ -1,0 +1,49 @@
+{
+  "concept": "ECCE",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ANCILLA": 1.0
+  },
+  "bayesian_context": {
+    "respon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "verge_maria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "retira": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "ANCILLA": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "DÑI": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "soc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "esclava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "senyor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ecce.json"
+}

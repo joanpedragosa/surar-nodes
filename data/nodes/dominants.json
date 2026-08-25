@@ -1,0 +1,45 @@
+{
+  "concept": "dominants",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cretaci": 1.0
+  },
+  "bayesian_context": {
+    "ocells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "havien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "formes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "cretaci": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "ichthyornis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "confuciusornis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "hesperornis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dominants.json"
+}

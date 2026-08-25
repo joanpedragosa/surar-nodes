@@ -1,0 +1,66 @@
+{
+  "concept": "edicions",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "biblia": 0.5,
+    "especials": 0.5
+  },
+  "bayesian_context": {
+    "biblia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "editar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "la_compagnie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "hebreu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "grec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "llancar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "lucas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "especials": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "tres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "primeres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "licules": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "cinemes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/edicions.json"
+}

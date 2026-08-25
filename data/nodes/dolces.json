@@ -1,0 +1,41 @@
+{
+  "concept": "dolces",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sense": 1.0
+  },
+  "bayesian_context": {
+    "formes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "mostra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "escultura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "sense": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "gens": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "dramatisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dolces.json"
+}

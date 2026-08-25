@@ -1,0 +1,88 @@
+{
+  "concept": "donacio",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "trasplantaments": 0.25,
+    "llegat": 0.25,
+    "segueix": 0.25,
+    "organs": 0.25
+  },
+  "bayesian_context": {
+    "coordina": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "programes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "trasplantaments": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "teresa_pont": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "aconseguir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "exemplars": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "adquisicions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "compra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "llegat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "diposit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "segueix": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "tendencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "baixa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "viu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "crescut": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "organs": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "cadaver": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/donacio.json"
+}

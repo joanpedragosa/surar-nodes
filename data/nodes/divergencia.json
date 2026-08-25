@@ -1,0 +1,37 @@
+{
+  "concept": "divergencia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fons": 1.0
+  },
+  "bayesian_context": {
+    "mantenen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "grups": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "juliol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "fons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/divergencia.json"
+}

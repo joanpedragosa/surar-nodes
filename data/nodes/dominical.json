@@ -1,0 +1,74 @@
+{
+  "concept": "dominical",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "solsona": 0.5,
+    "entrevistat": 0.5
+  },
+  "bayesian_context": {
+    "defensar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "dret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "decidir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "catalans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "glosa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "full": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "solsona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "bisbe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "xavier_novell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "entrevistat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "jörg": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "meuthen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "frankfurter_allgemeinen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sonntagszeitung": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dominical.json"
+}

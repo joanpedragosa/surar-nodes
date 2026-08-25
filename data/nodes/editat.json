@@ -1,0 +1,92 @@
+{
+  "concept": "editat",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "posteriorment": 0.2,
+    "LP": 0.4,
+    "llibre": 0.2,
+    "minim": 0.2
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.02,
+      "posterior_boost": 2.93
+    },
+    "posteriorment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "llibre": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.94
+    },
+    "recopilatori": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "LP": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.93
+    },
+    "regne_unit": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "empresa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.84
+    },
+    "espana": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "mejor": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "plaza": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "jane": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "juny": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.64
+    },
+    "quantes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.77
+    },
+    "adaptacions": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "genji": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "manga": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "minim": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "cinc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/editat.json"
+}

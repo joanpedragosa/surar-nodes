@@ -1,0 +1,53 @@
+{
+  "concept": "duets",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "conte": 1.0
+  },
+  "bayesian_context": {
+    "competeixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "personatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "principals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "semiramide": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "dos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "conte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "parelles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "magnifics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/duets.json"
+}

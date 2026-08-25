@@ -1,0 +1,45 @@
+{
+  "concept": "doctor_pi",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "molist": 1.0
+  },
+  "bayesian_context": {
+    "dedicat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "carrer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "molist": {
+      "likelihood": 0.05,
+      "posterior_boost": 5.72
+    },
+    "emili_pi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "anomenar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "carretera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "manicomi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/doctor_pi.json"
+}

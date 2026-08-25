@@ -1,0 +1,37 @@
+{
+  "concept": "eee",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "PC": 1.0
+  },
+  "bayesian_context": {
+    "precursor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "tipus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.93
+    },
+    "ordinadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "PC": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "asus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eee.json"
+}

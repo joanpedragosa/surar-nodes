@@ -1,0 +1,76 @@
+{
+  "concept": "ebner",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "manera": 0.25,
+    "traductologia": 0.25,
+    "aprendre": 0.25,
+    "projectes": 0.25
+  },
+  "bayesian_context": {
+    "aprendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "catala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "manera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.71
+    },
+    "autodidactica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "estudiar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "traductologia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "fer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.72
+    },
+    "servir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.56
+    },
+    "gramatiques": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "diccionaris": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "projectes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "col": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.22
+    },
+    "laborar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "informatics": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ebner.json"
+}

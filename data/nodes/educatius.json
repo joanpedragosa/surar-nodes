@@ -1,0 +1,106 @@
+{
+  "concept": "educatius",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "evitar": 0.5,
+    "diputats": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.63
+    },
+    "alumnes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "veuran": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "afectats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "tancament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "centres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "preveu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "tancar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "presidenta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "govern": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.07
+    },
+    "illes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "decretat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "quim_torra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    },
+    "evitar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    },
+    "expansio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "coronavirus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "poden": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.42
+    },
+    "visitar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "diputats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.62
+    },
+    "vox": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "horari": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "lectiu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/educatius.json"
+}

@@ -1,0 +1,42 @@
+{
+  "concept": "edicte",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cesar_august": 0.5,
+    "empadronament": 0.5
+  },
+  "bayesian_context": {
+    "ordenar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "cesar_august": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "desplacen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "betlem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "atendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "empadronament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/edicte.json"
+}
