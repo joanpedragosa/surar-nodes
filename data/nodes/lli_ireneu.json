@@ -1,0 +1,33 @@
+{
+  "concept": "lli_ireneu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lio": 1.0
+  },
+  "bayesian_context": {
+    "refereix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "lio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "bisbe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "roma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lli_ireneu.json"
+}

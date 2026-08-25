@@ -1,0 +1,97 @@
+{
+  "concept": "llibrets",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "punic": 0.2,
+    "versions": 0.2,
+    "testimonis": 0.2,
+    "paper": 0.2,
+    "franz_schreker": 0.2
+  },
+  "bayesian_context": {
+    "escrivia": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.59
+    },
+    "punic": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "donatistes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "catolics": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "llegia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "public": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.47
+    },
+    "versions": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "morals": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "reunien": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "testimonis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "sagrades": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "escriptures": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "inventar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "alcoi": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "paper": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.5
+    },
+    "fumar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "compositor": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.72
+    },
+    "propis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "franz_schreker": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.2,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/llibrets.json"
+}

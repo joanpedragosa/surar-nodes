@@ -1,0 +1,53 @@
+{
+  "concept": "llucanes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "franco": 1.0
+  },
+  "bayesian_context": {
+    "exercit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "fou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "incapac": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "aturar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "guerrilles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "plana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "vic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "franco": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/llucanes.json"
+}

@@ -1,0 +1,54 @@
+{
+  "concept": "ludeix",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "murasaki": 0.5,
+    "nom": 0.5
+  },
+  "bayesian_context": {
+    "murasaki": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "personatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "femeni": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "principal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "nom": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "balneari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "flor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "lis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ludeix.json"
+}

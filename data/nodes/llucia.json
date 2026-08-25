@@ -1,0 +1,78 @@
+{
+  "concept": "llucia",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "samosata": 0.5,
+    "bernat_martorell": 0.5
+  },
+  "bayesian_context": {
+    "historia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "vertadera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "samosata": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "significat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "dacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "col": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.35
+    },
+    "leccio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "torres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "entrada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "martiri": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "santa": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.67
+    },
+    "bernat_martorell": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "costat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.77
+    },
+    "capella": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.62
+    },
+    "situada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/llucia.json"
+}

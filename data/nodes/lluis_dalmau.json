@@ -1,0 +1,70 @@
+{
+  "concept": "lluis_dalmau",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "mare": 0.5,
+    "sant_agusti": 0.5
+  },
+  "bayesian_context": {
+    "realitzar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.46
+    },
+    "mare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.76
+    },
+    "deu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.64
+    },
+    "consellers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "coincidir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "van_eyck": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "portugal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "diu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.08
+    },
+    "quadre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.82
+    },
+    "pintar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.89
+    },
+    "retaule": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.39
+    },
+    "fer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.72
+    },
+    "sant_agusti": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lluis_dalmau.json"
+}

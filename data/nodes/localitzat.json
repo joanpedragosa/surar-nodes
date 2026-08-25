@@ -1,0 +1,45 @@
+{
+  "concept": "localitzat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "menys": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "cumuls": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "menys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "anys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.54
+    },
+    "llum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "sol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "tres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/localitzat.json"
+}

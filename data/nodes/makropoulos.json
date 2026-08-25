@@ -1,0 +1,37 @@
+{
+  "concept": "makropoulos",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "any": 1.0
+  },
+  "bayesian_context": {
+    "edat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "tenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "anys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "estrenar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/makropoulos.json"
+}

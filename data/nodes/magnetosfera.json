@@ -1,0 +1,53 @@
+{
+  "concept": "magnetosfera",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "saturn": 1.0
+  },
+  "bayesian_context": {
+    "saturn": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.07
+    },
+    "mes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.73
+    },
+    "petita": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "jupiter": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "estudiara": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "sondes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "orbita": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "esten": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "tita": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/magnetosfera.json"
+}
