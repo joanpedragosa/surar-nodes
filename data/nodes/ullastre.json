@@ -1,0 +1,33 @@
+{
+  "concept": "ullastre",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "romanic": 1.0
+  },
+  "bayesian_context": {
+    "estil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "ermita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "sant_pere": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "romanic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ullastre.json"
+}

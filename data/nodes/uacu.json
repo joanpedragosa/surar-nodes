@@ -1,0 +1,66 @@
+{
+  "concept": "UACU",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "membrana": 0.5,
+    "enzims": 0.5
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    },
+    "cel": {
+      "likelihood": 0.0444,
+      "posterior_boost": 4.26
+    },
+    "lula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "membrana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "nucli": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "organuls": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "usava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "catalitzar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "reaccions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "enzims": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "avantpassada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "lules": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/uacu.json"
+}

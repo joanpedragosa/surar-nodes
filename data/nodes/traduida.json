@@ -1,0 +1,29 @@
+{
+  "concept": "traduida",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "castella": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "castella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/traduida.json"
+}

@@ -1,0 +1,53 @@
+{
+  "concept": "ubicacions",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "manera": 1.0
+  },
+  "bayesian_context": {
+    "article": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    },
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "emblema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "nacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "mostrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "certes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "manera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "continuada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ubicacions.json"
+}

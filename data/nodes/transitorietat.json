@@ -1,0 +1,78 @@
+{
+  "concept": "transitorietat",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "convertiria": 0.5,
+    "juridica": 0.5
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.21
+    },
+    "article": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.79
+    },
+    "llei": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.81
+    },
+    "convertiria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "tribunal_superior": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "justicia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "catalunya": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.45
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.87
+    },
+    "filtrat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "esborrany": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "el_pais": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "juridica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "lleis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "desconnexio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "referendum": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/transitorietat.json"
+}

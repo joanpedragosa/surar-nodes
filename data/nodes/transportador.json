@@ -1,0 +1,41 @@
+{
+  "concept": "transportador",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "llum": 1.0
+  },
+  "bayesian_context": {
+    "assenyala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "eter": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "llum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "rene": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "descartes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/transportador.json"
+}

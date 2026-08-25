@@ -1,0 +1,103 @@
+{
+  "concept": "UGT",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "CGT": 0.25,
+    "aturades": 0.25,
+    "CCOO": 0.5
+  },
+  "bayesian_context": {
+    "donara": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "suport": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.5
+    },
+    "vaga": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.65
+    },
+    "CGT": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "encapcalava": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "manifestacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.84
+    },
+    "maxims": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "dirigents": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "estatals": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "CCOO": {
+      "likelihood": 0.0267,
+      "posterior_boost": 5.08
+    },
+    "convocat": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.33
+    },
+    "aturades": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "dues": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.17
+    },
+    "hores": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.61
+    },
+    "lema": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "marxes": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.93
+    },
+    "convocades": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "moment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.69
+    },
+    "lleo": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "solucions": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "sindicats": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ugt.json"
+}

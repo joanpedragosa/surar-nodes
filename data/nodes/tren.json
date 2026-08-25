@@ -1,0 +1,310 @@
+{
+  "concept": "tren",
+  "frequency": 12,
+  "edges": [],
+  "markov_transitions": {
+    "camions": 0.0833,
+    "sarria": 0.25,
+    "llevant": 0.0833,
+    "curta": 0.0833,
+    "regional": 0.0833,
+    "sitges": 0.0833,
+    "esllavissada": 0.0833,
+    "manresa": 0.0833,
+    "alta": 0.0833,
+    "implicava": 0.0833
+  },
+  "bayesian_context": {
+    "traslladaren": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "pintures": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.28
+    },
+    "murals": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.04
+    },
+    "taull": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "cap": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.57
+    },
+    "barcelona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.17
+    },
+    "camions": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "coneixia": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.95
+    },
+    "popularment": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "ferrocarril": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.29
+    },
+    "sarria": {
+      "likelihood": 0.0139,
+      "posterior_boost": 4.65
+    },
+    "conegut": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.48
+    },
+    "possibilitara": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "implantar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "llevant": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "tramvia": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "palma": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.8
+    },
+    "conveni": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "mobilitat": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "sostenible": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.83
+    },
+    "volen": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.12
+    },
+    "construir": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.1
+    },
+    "prop": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.31
+    },
+    "presa": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.8
+    },
+    "via": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.6
+    },
+    "curta": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "ferir": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "riza_jan": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "ahmadzai": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "diverses": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.47
+    },
+    "persones": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.87
+    },
+    "regional": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "destral": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "se": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.48
+    },
+    "ls": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "investiga": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.87
+    },
+    "tres": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.63
+    },
+    "veins": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.69
+    },
+    "haver": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.9
+    },
+    "tallat": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "vies": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "sitges": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "provocat": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.95
+    },
+    "accident": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.95
+    },
+    "esllavissada": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "ser": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.1
+    },
+    "causa": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.09
+    },
+    "provocar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.77
+    },
+    "disminucio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "trafic": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "obres": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.75
+    },
+    "soterrament": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "tornara": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "estar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.29
+    },
+    "funcionament": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.87
+    },
+    "servei": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.44
+    },
+    "manresa": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.8
+    },
+    "sant_vicenc": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "castellet": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "divendres": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.6
+    },
+    "quantes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.69
+    },
+    "xarxes": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.87
+    },
+    "alta": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.37
+    },
+    "velocitat": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.47
+    },
+    "hores": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.23
+    },
+    "implicava": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "tarrega": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "principis": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.53
+    },
+    "segle": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.7
+    },
+    "XX": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.99
+    },
+    "quatre": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.89
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.09997000000000002,
+    0.0,
+    2.5649493574615367
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tren.json"
+}

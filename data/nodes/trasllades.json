@@ -1,0 +1,33 @@
+{
+  "concept": "trasllades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cauterets": 1.0
+  },
+  "bayesian_context": {
+    "recomanar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "doctor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "maragall": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "cauterets": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/trasllades.json"
+}

@@ -1,0 +1,45 @@
+{
+  "concept": "trivials",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "degenerats": 1.0
+  },
+  "bayesian_context": {
+    "proposit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "construccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "conceptes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "matematics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "excloure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "casos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "degenerats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/trivials.json"
+}

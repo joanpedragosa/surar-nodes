@@ -1,0 +1,35 @@
+{
+  "concept": "trapezoidal",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "capcalera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "planta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "claustre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "forma": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.41
+    },
+    "laberint": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/trapezoidal.json"
+}

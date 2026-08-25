@@ -1,0 +1,45 @@
+{
+  "concept": "tro",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "hongares": 1.0
+  },
+  "bayesian_context": {
+    "morir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "lluis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "habsburg": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "ocuparen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "hongares": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "sense": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "hereus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tro.json"
+}

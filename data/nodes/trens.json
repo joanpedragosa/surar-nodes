@@ -1,0 +1,283 @@
+{
+  "concept": "trens",
+  "frequency": 15,
+  "edges": [],
+  "markov_transitions": {
+    "serie": 0.2143,
+    "hora": 0.0714,
+    "circulen": 0.1429,
+    "cancel": 0.0714,
+    "hospitals": 0.0714,
+    "mitjancant": 0.0714,
+    "actual": 0.0714,
+    "prova": 0.0714,
+    "alta": 0.0714,
+    "rodalies": 0.0714,
+    "conduccio": 0.0714
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.75
+    },
+    "vagons": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "tenen": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.71
+    },
+    "serie": {
+      "likelihood": 0.0089,
+      "posterior_boost": 3.88
+    },
+    "dos": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.8
+    },
+    "hora": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.37
+    },
+    "punta": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.37
+    },
+    "circulen": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "cancel": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.25
+    },
+    "lar": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.66
+    },
+    "mitjana": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.59
+    },
+    "diaria": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.45
+    },
+    "any": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.59
+    },
+    "passat": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.5
+    },
+    "vint": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.51
+    },
+    "organitzar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.65
+    },
+    "hospitals": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "general": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.11
+    },
+    "pancho_villa": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "funcionaven": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "mitjancant": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.37
+    },
+    "contactes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "cel": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.97
+    },
+    "lules": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.27
+    },
+    "fotoelectriques": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "utilitzat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.81
+    },
+    "ajuntament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.16
+    },
+    "barcelona": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.77
+    },
+    "estacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.15
+    },
+    "gaudi": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.9
+    },
+    "fer": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.46
+    },
+    "estudis": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.4
+    },
+    "estadistics": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "actual": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.35
+    },
+    "comencar": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.15
+    },
+    "passar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.0
+    },
+    "acabar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.23
+    },
+    "obres": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.65
+    },
+    "prova": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.67
+    },
+    "podrien": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.81
+    },
+    "parada": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "alta": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.27
+    },
+    "velocitat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.37
+    },
+    "prat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "llobregat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "percentatge": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.42
+    },
+    "rodalies": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "regionals": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "renfe": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "donaran": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "servici": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "dia": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.91
+    },
+    "dona_treballadora": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "circular": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "conduccio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "automatica": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "gener": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.19
+    },
+    "linia": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.21
+    },
+    "sense": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.3
+    },
+    "conductor": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.45
+    },
+    "controlats": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "centre": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.99
+    },
+    "control": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.59
+    },
+    "metro": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.36
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0908909090909091,
+    0.0,
+    2.772588722239781
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/trens.json"
+}

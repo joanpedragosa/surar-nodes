@@ -1,0 +1,96 @@
+{
+  "concept": "trobades",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "costat": 0.25,
+    "territorials": 0.25,
+    "restes": 0.25,
+    "anys": 0.25
+  },
+  "bayesian_context": {
+    "espasses": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "costat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.65
+    },
+    "disc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "gran": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.1
+    },
+    "qualitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "inicia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "avui": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "tarragona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "territorials": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "ser": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.55
+    },
+    "restes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "prosalirus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "bitis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "formacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.77
+    },
+    "kayenta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "arizona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "anys": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.95
+    },
+    "edat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.67
+    },
+    "bronze": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/trobades.json"
+}

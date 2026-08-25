@@ -1,0 +1,62 @@
+{
+  "concept": "treves",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "guerra": 0.5,
+    "esporadiques": 0.5
+  },
+  "bayesian_context": {
+    "presenciar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "guerra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "llewelyn_wyn": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "griffith": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "diversos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "intents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "repetir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "esporadiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "despres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "nadal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/treves.json"
+}

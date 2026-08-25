@@ -1,0 +1,53 @@
+{
+  "concept": "trente",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "aniversari": 1.0
+  },
+  "bayesian_context": {
+    "coincidir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "compareixenca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "felipe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "VI": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "ple": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "aniversari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "adhesio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "espanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "UE": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/trente.json"
+}

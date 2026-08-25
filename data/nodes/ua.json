@@ -1,0 +1,77 @@
+{
+  "concept": "ua",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "diversos": 1.0
+  },
+  "bayesian_context": {
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "detectar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "objectes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "grandaria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "terra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "distancia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "aproximada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "diversos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "estudis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "sol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.73
+    },
+    "trobava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "sedna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "descobert": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "aproximadament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ua.json"
+}
