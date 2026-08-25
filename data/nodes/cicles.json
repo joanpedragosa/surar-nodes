@@ -1,0 +1,65 @@
+{
+  "concept": "cicles",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "electorals": 1.0
+  },
+  "bayesian_context": {
+    "segueixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "estats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "propis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "electorals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "mesura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "PCR": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "convencional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "acumulacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "ADN": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "final": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "nombre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "predeterminat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cicles.json"
+}

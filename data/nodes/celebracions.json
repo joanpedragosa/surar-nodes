@@ -1,0 +1,58 @@
+{
+  "concept": "celebracions",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "liturgiques": 0.5,
+    "florencia": 0.5
+  },
+  "bayesian_context": {
+    "absis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "punt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "principal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "liturgiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "motiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "florencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "cinque": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "centenari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "naixement": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/celebracions.json"
+}

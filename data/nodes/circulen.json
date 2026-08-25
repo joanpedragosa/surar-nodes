@@ -1,0 +1,50 @@
+{
+  "concept": "circulen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "hora": 0.5,
+    "linia": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "trens": {
+      "likelihood": 0.05,
+      "posterior_boost": 5.03
+    },
+    "hora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "punta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "linia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.78
+    },
+    "sense": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "conductor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "serie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/circulen.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "choice_awards",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "premis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "guanyar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "premi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "millor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "licula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "people": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/choice_awards.json"
+}

@@ -1,0 +1,66 @@
+{
+  "concept": "celler",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vi": 0.5,
+    "can_roca": 0.5
+  },
+  "bayesian_context": {
+    "vi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "rebut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "gran_vinari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "or": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "clos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "peguera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "tipus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    },
+    "sopar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "sera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "protagonista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "can_roca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "benefic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/celler.json"
+}

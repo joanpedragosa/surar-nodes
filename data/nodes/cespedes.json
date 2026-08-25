@@ -1,0 +1,57 @@
+{
+  "concept": "cespedes",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "toledo": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "reixa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "entrada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "capilla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "los": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "reyes_viejos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "domingo": {
+      "likelihood": 0.0444,
+      "posterior_boost": 5.45
+    },
+    "era": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.09
+    },
+    "ferrer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "toledo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cespedes.json"
+}

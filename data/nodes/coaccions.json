@@ -1,0 +1,49 @@
+{
+  "concept": "coaccions",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "josep": 1.0
+  },
+  "bayesian_context": {
+    "denunciar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "metge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "josep": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "gargante": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "denunciat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "tomas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "guitarte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "amenaces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/coaccions.json"
+}

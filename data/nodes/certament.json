@@ -1,0 +1,33 @@
+{
+  "concept": "certament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "isabel": 1.0
+  },
+  "bayesian_context": {
+    "obrir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "isabel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "clara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "simo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/certament.json"
+}

@@ -1,0 +1,74 @@
+{
+  "concept": "cinque",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "tram": 0.5,
+    "centenari": 0.5
+  },
+  "bayesian_context": {
+    "situat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "laberint": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "octogonal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "tram": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "nau": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "motiu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "celebracions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "florencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "centenari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "naixement": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "bisbe": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "roma": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cinque.json"
+}

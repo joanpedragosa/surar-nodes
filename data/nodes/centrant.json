@@ -1,0 +1,57 @@
+{
+  "concept": "centrant",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "se": 1.0
+  },
+  "bayesian_context": {
+    "realitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "edicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "dialegs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "paul_martin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "smith": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "sequencies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "accio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "ben_burtt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/centrant.json"
+}

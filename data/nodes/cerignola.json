@@ -1,0 +1,49 @@
+{
+  "concept": "cerignola",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "rantzau": 1.0
+  },
+  "bayesian_context": {
+    "buscar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "tranquil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "litat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "mascagni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "treball": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "volia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "reprendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "rantzau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cerignola.json"
+}
