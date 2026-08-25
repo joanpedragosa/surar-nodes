@@ -1,0 +1,41 @@
+{
+  "concept": "inspeccionar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "genitals": 1.0
+  },
+  "bayesian_context": {
+    "fan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "mascles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "determinar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "receptivitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "femella": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.93
+    },
+    "genitals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inspeccionar.json"
+}

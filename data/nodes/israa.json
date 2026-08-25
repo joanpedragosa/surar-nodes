@@ -1,0 +1,61 @@
+{
+  "concept": "israa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ghomgham": 1.0
+  },
+  "bayesian_context": {
+    "ghomgham": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "activista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "defensora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "drets": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "humans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "aplicar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "pena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "motius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "politics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/israa.json"
+}

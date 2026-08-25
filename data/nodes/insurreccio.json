@@ -1,0 +1,49 @@
+{
+  "concept": "insurreccio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sarda": 1.0
+  },
+  "bayesian_context": {
+    "necessitava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "rei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.09
+    },
+    "recursos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "afrontar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "garanties": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "guerra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "genova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "sarda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/insurreccio.json"
+}

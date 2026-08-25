@@ -1,0 +1,41 @@
+{
+  "concept": "insipida",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "inferiors": 1.0
+  },
+  "bayesian_context": {
+    "estarien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "valors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "relacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "normals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "diabetis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "inferiors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/insipida.json"
+}

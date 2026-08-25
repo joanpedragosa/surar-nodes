@@ -1,0 +1,45 @@
+{
+  "concept": "invita",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tripulacio": 1.0
+  },
+  "bayesian_context": {
+    "tripulacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "daland": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "homes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "estranger": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "uneixin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "festa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "capvespre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/invita.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "institut_politecnic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "edificar": 1.0
+  },
+  "bayesian_context": {
+    "tracat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "edificar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "josep_maria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "monrava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "forma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.89
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/institut_politecnic.json"
+}

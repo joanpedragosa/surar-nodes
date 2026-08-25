@@ -1,0 +1,57 @@
+{
+  "concept": "innovadors",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tecnologia": 1.0
+  },
+  "bayesian_context": {
+    "utilitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "pink_floyd": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "enregistrament": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.55
+    },
+    "the_final": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "cut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "efectes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "so": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "tecnologia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "moderna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "audio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/innovadors.json"
+}

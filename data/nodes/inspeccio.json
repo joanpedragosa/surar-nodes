@@ -1,0 +1,82 @@
+{
+  "concept": "inspeccio",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "seguiment": 0.3333,
+    "treball": 0.6667
+  },
+  "bayesian_context": {
+    "implicaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "visites": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "pastorals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "correccio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "accio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "legislativa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "seguiment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "denunciar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "treball": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.18
+    },
+    "falses": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "beques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "volen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.72
+    },
+    "participar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "sindicats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "investigacions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "accidents": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inspeccio.json"
+}

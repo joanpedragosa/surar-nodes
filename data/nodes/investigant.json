@@ -1,0 +1,53 @@
+{
+  "concept": "investigant",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "jose": 1.0
+  },
+  "bayesian_context": {
+    "anomena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "cas": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.83
+    },
+    "quantes": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.28
+    },
+    "actuacions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "mossos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "estan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.35
+    },
+    "persones": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.46
+    },
+    "jose": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "mata": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/investigant.json"
+}

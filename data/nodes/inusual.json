@@ -1,0 +1,58 @@
+{
+  "concept": "inusual",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "gran": 0.5,
+    "noia": 0.5
+  },
+  "bayesian_context": {
+    "crear": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "rafael": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "gran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "col": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "leccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "pintures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "trobem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "noia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "elegancia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "personal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inusual.json"
+}

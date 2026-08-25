@@ -1,0 +1,87 @@
+{
+  "concept": "ivan",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "terrible": 0.25,
+    "nombros": 0.25,
+    "vania": 0.5
+  },
+  "bayesian_context": {
+    "pensa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "fill": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    },
+    "dimitrij": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "terrible": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "envair": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "casa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "nombros": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "grup": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.3
+    },
+    "soldats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "polonesos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "explica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "vania": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "sentiments": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "amor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "patri": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "orfe": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "recollir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ivan.json"
+}

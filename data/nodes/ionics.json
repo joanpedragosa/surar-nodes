@@ -1,0 +1,83 @@
+{
+  "concept": "ionics",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "anomenen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "proteines": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "membrana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "cel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "lular": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "entren": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "surten": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "electrolits": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.25
+    },
+    "canals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "actuen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "elements": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "inorganics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "combinacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "motors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "fara": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.94
+    },
+    "servir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "quimics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ionics.json"
+}

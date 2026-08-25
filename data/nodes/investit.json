@@ -1,0 +1,112 @@
+{
+  "concept": "investit",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "avui": 0.25,
+    "carles_puigdemont": 0.25,
+    "jean_marc": 0.25,
+    "puigdemont": 0.25
+  },
+  "bayesian_context": {
+    "avui": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "president": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.26
+    },
+    "govern": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.97
+    },
+    "pedro": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.56
+    },
+    "sanchez": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.62
+    },
+    "notificat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "disposicio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "ser": {
+      "likelihood": 0.0133,
+      "posterior_boost": 2.75
+    },
+    "diu": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.99
+    },
+    "costa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    },
+    "sera": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.54
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.77
+    },
+    "puguin": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "donar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.45
+    },
+    "se": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.86
+    },
+    "condicions": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    },
+    "partit": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.44
+    },
+    "jean_marc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "pujol": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "els_republicans": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "pot": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.05
+    },
+    "puigdemont": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.65
+    },
+    "brussel": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.0
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/investit.json"
+}

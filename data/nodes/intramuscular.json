@@ -1,0 +1,49 @@
+{
+  "concept": "intramuscular",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lentament": 1.0
+  },
+  "bayesian_context": {
+    "absorbeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "penicil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "lina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "benzatinica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "circulacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sanguinia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "injeccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "lentament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/intramuscular.json"
+}

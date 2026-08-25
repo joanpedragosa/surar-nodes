@@ -1,0 +1,82 @@
+{
+  "concept": "interposar",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "querella": 0.6667,
+    "demanda": 0.3333
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.28
+    },
+    "querella": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.95
+    },
+    "govern": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "president": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.48
+    },
+    "espanyol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    },
+    "demanda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "civil": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "llarena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "consellers": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "exiliats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "contempla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "possibilitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "dictamen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "comissio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.75
+    },
+    "juridica_assessora": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/interposar.json"
+}

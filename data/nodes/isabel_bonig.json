@@ -1,0 +1,61 @@
+{
+  "concept": "isabel_bonig",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "PP": 1.0
+  },
+  "bayesian_context": {
+    "preguntat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "observanca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "pla_economic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "financer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "pais_valencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "presidenta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "PP": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "PPCV": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "partit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    },
+    "politic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.59
+    },
+    "pertany": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/isabel_bonig.json"
+}
