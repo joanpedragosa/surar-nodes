@@ -1,0 +1,54 @@
+{
+  "concept": "massenet",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "agafar": 0.5,
+    "preparatius": 0.5
+  },
+  "bayesian_context": {
+    "volia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "agafar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "historia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "goethe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "traslladat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "preparatius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "estrena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.0
+    },
+    "viena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/massenet.json"
+}

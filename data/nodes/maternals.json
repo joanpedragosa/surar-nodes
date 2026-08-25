@@ -1,0 +1,37 @@
+{
+  "concept": "maternals",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "culte": 1.0
+  },
+  "bayesian_context": {
+    "representacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "trobem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "divinitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "culte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "fertilitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/maternals.json"
+}

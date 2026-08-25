@@ -1,0 +1,37 @@
+{
+  "concept": "malmeses",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "infraestructures": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "infraestructures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "agraries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "temporal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "gloria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/malmeses.json"
+}

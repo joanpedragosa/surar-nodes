@@ -1,0 +1,37 @@
+{
+  "concept": "marvel",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lucasfilm": 1.0
+  },
+  "bayesian_context": {
+    "propietari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "lucasfilm": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "pixar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "the_walt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "disney_company": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/marvel.json"
+}

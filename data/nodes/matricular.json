@@ -1,0 +1,37 @@
+{
+  "concept": "matricular",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "roger_waters": 1.0
+  },
+  "bayesian_context": {
+    "roger_waters": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "carrera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "arquitectura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "regent_street": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "polytechnic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/matricular.json"
+}

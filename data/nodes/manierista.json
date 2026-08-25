@@ -1,0 +1,57 @@
+{
+  "concept": "manierista",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "verticalitat": 1.0
+  },
+  "bayesian_context": {
+    "composicio": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.28
+    },
+    "quadre": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.25
+    },
+    "plenament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "pot": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    },
+    "considerar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "palladio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "arquitecte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "fa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.32
+    },
+    "sigui": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "verticalitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/manierista.json"
+}

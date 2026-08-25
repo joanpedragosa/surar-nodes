@@ -1,0 +1,33 @@
+{
+  "concept": "marko_daniel",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fundacio": 1.0
+  },
+  "bayesian_context": {
+    "fundacio": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.0
+    },
+    "dirigira": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "miro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/marko_daniel.json"
+}

@@ -1,0 +1,45 @@
+{
+  "concept": "martin_diez",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "joan": 1.0
+  },
+  "bayesian_context": {
+    "executar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "retaule": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.99
+    },
+    "continuant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "tracat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "valencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "joan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "tours": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/martin_diez.json"
+}

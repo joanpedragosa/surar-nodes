@@ -1,0 +1,33 @@
+{
+  "concept": "marine_le",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pen": 1.0
+  },
+  "bayesian_context": {
+    "partit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "candidata": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "pen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "front_nacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/marine_le.json"
+}

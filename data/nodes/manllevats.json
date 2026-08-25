@@ -1,0 +1,49 @@
+{
+  "concept": "manllevats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rutes": 1.0
+  },
+  "bayesian_context": {
+    "duen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "terme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "funcions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "similars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "enzims": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "rutes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "metaboliques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "diferents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/manllevats.json"
+}
