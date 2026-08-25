@@ -1,0 +1,65 @@
+{
+  "concept": "jocs_paralimpics",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "barcelona": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "karate": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "porta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "terme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "exhibicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "aplicacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "paralimpica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "jocs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "marcar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "fita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "historia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/jocs_paralimpics.json"
+}

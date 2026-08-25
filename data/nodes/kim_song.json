@@ -1,0 +1,45 @@
+{
+  "concept": "kim_song",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "reuters": 1.0
+  },
+  "bayesian_context": {
+    "ambaixador": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "nord": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "corea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "ONU": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "comunicat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "reuters": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/kim_song.json"
+}

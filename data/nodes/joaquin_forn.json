@@ -1,0 +1,53 @@
+{
+  "concept": "joaquin_forn",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "deu": 1.0
+  },
+  "bayesian_context": {
+    "delicte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "condemnat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "deu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "anys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.54
+    },
+    "mig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "preso": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "sedicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/joaquin_forn.json"
+}

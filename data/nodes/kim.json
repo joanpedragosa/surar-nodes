@@ -1,0 +1,37 @@
+{
+  "concept": "kim",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "guerra": 1.0
+  },
+  "bayesian_context": {
+    "historia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "dir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "repetiria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "guerra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "corea": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/kim.json"
+}

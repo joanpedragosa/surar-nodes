@@ -1,0 +1,65 @@
+{
+  "concept": "joseph_banks",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fruit": 1.0
+  },
+  "bayesian_context": {
+    "volia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "alimentar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "fruit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "arbre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "pa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "esclaus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "americans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "antilles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "britanic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "estendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "cultiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "carib": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/joseph_banks.json"
+}

@@ -1,0 +1,33 @@
+{
+  "concept": "joshua_wong",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "revolucio": 1.0
+  },
+  "bayesian_context": {
+    "revolta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "encapcalar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "revolucio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "paraigues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/joshua_wong.json"
+}

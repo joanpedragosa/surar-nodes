@@ -1,0 +1,33 @@
+{
+  "concept": "juliana",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "semproniana": 1.0
+  },
+  "bayesian_context": {
+    "enterrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "cugat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "semproniana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/juliana.json"
+}

@@ -1,0 +1,54 @@
+{
+  "concept": "jōmon",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "geometrica": 0.5,
+    "petites": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "decoracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "estatues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "periode": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "geometrica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "trobar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.69
+    },
+    "petites": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "religioses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "funeraries": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/jōmon.json"
+}

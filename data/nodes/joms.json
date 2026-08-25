@@ -1,0 +1,41 @@
+{
+  "concept": "joms",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "zona": 1.0
+  },
+  "bayesian_context": {
+    "ubicada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "zona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "oest": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "costa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "libia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/joms.json"
+}

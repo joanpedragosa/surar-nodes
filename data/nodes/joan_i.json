@@ -1,0 +1,90 @@
+{
+  "concept": "joan_i",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "portugal": 0.25,
+    "castella": 0.75
+  },
+  "bayesian_context": {
+    "ampliar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "capellanies": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "vint": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.68
+    },
+    "cinc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.42
+    },
+    "era": {
+      "likelihood": 0.0133,
+      "posterior_boost": 2.87
+    },
+    "pare": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.58
+    },
+    "rei": {
+      "likelihood": 0.02,
+      "posterior_boost": 3.87
+    },
+    "portugal": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.4
+    },
+    "isabel": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "lancaster": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "esposa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.93
+    },
+    "castella": {
+      "likelihood": 0.02,
+      "posterior_boost": 4.41
+    },
+    "elionor": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "arago": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "sicilia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "morir": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.78
+    },
+    "alcala": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "henares": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/joan_i.json"
+}

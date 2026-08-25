@@ -1,0 +1,53 @@
+{
+  "concept": "jugant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ells": 1.0
+  },
+  "bayesian_context": {
+    "participen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cadells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "vida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "ells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "intentant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "comencar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "jugar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "adults": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/jugant.json"
+}

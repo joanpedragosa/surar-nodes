@@ -1,0 +1,50 @@
+{
+  "concept": "kandinski",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "qualsevol": 0.5,
+    "llenguatge": 0.5
+  },
+  "bayesian_context": {
+    "accessible": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "qualsevol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "esser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "huma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "llenguatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "universal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/kandinski.json"
+}
