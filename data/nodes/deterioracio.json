@@ -1,0 +1,37 @@
+{
+  "concept": "deterioracio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "habitats": 1.0
+  },
+  "bayesian_context": {
+    "obstaculitzat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "habitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "recuperacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "poblacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "rinoceronts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/deterioracio.json"
+}

@@ -1,0 +1,78 @@
+{
+  "concept": "dinamarca",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "sobirania": 0.5,
+    "suissa": 0.5
+  },
+  "bayesian_context": {
+    "reclamen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "sobirania": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.77
+    },
+    "illa_hans": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "canada": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.62
+    },
+    "pot": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    },
+    "resoldre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "disputa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "regne": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "principi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "condomini": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "paisos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.95
+    },
+    "visitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "puigdemont": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.87
+    },
+    "belgica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "suissa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dinamarca.json"
+}

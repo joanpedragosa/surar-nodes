@@ -1,0 +1,45 @@
+{
+  "concept": "diagnosi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "anonimat": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "mantenir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "persona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "explica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "anonimat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/diagnosi.json"
+}

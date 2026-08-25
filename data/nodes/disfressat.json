@@ -1,0 +1,46 @@
+{
+  "concept": "disfressat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pastor": 0.5,
+    "rei": 0.5
+  },
+  "bayesian_context": {
+    "voler": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "fugir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "ferran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "pastor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "rei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.79
+    },
+    "jacobo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "uberto": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/disfressat.json"
+}

@@ -1,0 +1,41 @@
+{
+  "concept": "disculpar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "presencia": 1.0
+  },
+  "bayesian_context": {
+    "parlat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "mariano_rajoy": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "ministre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "estonia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "presencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/disculpar.json"
+}

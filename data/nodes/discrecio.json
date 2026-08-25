@@ -1,0 +1,54 @@
+{
+  "concept": "discrecio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "junts": 0.5,
+    "esquerra_republicana": 0.5
+  },
+  "bayesian_context": {
+    "sol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.73
+    },
+    "licita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "junts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "esquerra_republicana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "demana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "negociacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "investidura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/discrecio.json"
+}

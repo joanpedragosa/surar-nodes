@@ -1,0 +1,147 @@
+{
+  "concept": "dirigit",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "peticio": 0.1429,
+    "advocat": 0.1429,
+    "oriol_junqueras": 0.1429,
+    "olivier": 0.1429,
+    "douglas": 0.1429,
+    "escrit": 0.1429,
+    "rossini": 0.1429
+  },
+  "bayesian_context": {
+    "peticio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.95
+    },
+    "elsa_artadi": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.8
+    },
+    "espanyol": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.21
+    },
+    "advocat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.95
+    },
+    "josep_rull": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "demanar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.54
+    },
+    "sigui": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.64
+    },
+    "alliberat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "oriol_junqueras": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.78
+    },
+    "piulada": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "quim_torra": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.54
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.62
+    },
+    "ben": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.78
+    },
+    "olivier": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "segons": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.68
+    },
+    "ferguson": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "guio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.07
+    },
+    "douglas": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "oposicio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.07
+    },
+    "constitucio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.64
+    },
+    "lecompton": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "escrit": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.62
+    },
+    "franca": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.58
+    },
+    "ada_colau": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.64
+    },
+    "piulet": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "rossini": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.09
+    },
+    "joventut": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.28
+    },
+    "oratori": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "haydn": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "bolonya": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1429,
+    0.0,
+    2.0794415416798357
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dirigit.json"
+}

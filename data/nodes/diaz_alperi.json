@@ -1,0 +1,33 @@
+{
+  "concept": "diaz_alperi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "euros": 1.0
+  },
+  "bayesian_context": {
+    "quantitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "pensaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "defraudat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/diaz_alperi.json"
+}

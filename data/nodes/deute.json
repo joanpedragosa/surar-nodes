@@ -1,0 +1,151 @@
+{
+  "concept": "deute",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "convergencia_democratica": 0.1429,
+    "sobirana": 0.1429,
+    "public": 0.1429,
+    "tenia": 0.1429,
+    "article": 0.1429,
+    "espanyol": 0.1429,
+    "historic": 0.1429
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.23
+    },
+    "convergencia_democratica": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "catalunya": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.09
+    },
+    "joan_manuel": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "parra": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "cessava": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "compra": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "titols": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "sobirana": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "anys": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.71
+    },
+    "anteriors": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.23
+    },
+    "nadal": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.14
+    },
+    "public": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.32
+    },
+    "grecia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.95
+    },
+    "supera": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "PIB": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "ajuntament": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.49
+    },
+    "milions": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.45
+    },
+    "euros": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.55
+    },
+    "article": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.72
+    },
+    "prioritza": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "liquidacio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "espanyol": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.91
+    },
+    "tema": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.59
+    },
+    "tractara": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "comissio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.38
+    },
+    "reforma": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.78
+    },
+    "sistema": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.26
+    },
+    "financament": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.88
+    },
+    "autonomic": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "valoracio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "historic": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.78
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1429,
+    0.0,
+    2.0794415416798357
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/deute.json"
+}

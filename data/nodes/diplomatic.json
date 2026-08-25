@@ -1,0 +1,65 @@
+{
+  "concept": "diplomatic",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "joseph_douillet": 1.0
+  },
+  "bayesian_context": {
+    "ambaixada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "estats_units": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "personal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "posseeix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "andorra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "paisos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.95
+    },
+    "exterior": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "cos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "joseph_douillet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "rostov": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "don": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/diplomatic.json"
+}

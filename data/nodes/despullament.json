@@ -1,0 +1,37 @@
+{
+  "concept": "despullament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vestidures": 1.0
+  },
+  "bayesian_context": {
+    "conegut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "espoli": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "vestidures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "crist": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "calvari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/despullament.json"
+}

@@ -1,0 +1,66 @@
+{
+  "concept": "dipositar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "euros": 0.5,
+    "generalitat": 0.5
+  },
+  "bayesian_context": {
+    "euros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "banc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "mirabaud": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "abdul": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "generalitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.77
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "tres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "sarges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "procedents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "catedral": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "urgell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dipositar.json"
+}

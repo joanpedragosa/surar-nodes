@@ -1,0 +1,122 @@
+{
+  "concept": "diari_oficial",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "unio": 0.25,
+    "generalitat": 0.75
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.15
+    },
+    "consultar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "unio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.54
+    },
+    "europea": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.54
+    },
+    "linia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.48
+    },
+    "impedir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "rajoy": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    },
+    "publicacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "nomenaments": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "consellers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "generalitat": {
+      "likelihood": 0.025,
+      "posterior_boost": 3.95
+    },
+    "DOGC": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "publicar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.63
+    },
+    "decret": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "nomenament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "butlleti": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "fet": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.23
+    },
+    "public": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "cessament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "alfred_bosch": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "conseller": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "accio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    },
+    "exterior": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.91
+    },
+    "relacions_institucionals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "transparencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/diari_oficial.json"
+}

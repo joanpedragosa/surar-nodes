@@ -1,0 +1,33 @@
+{
+  "concept": "desvetllat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "noticia": 1.0
+  },
+  "bayesian_context": {
+    "fet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.83
+    },
+    "investigacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "noticia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "eldiario": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desvetllat.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "disposem",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cas": 1.0
+  },
+  "bayesian_context": {
+    "cas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "produccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "catalana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "dades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "fiables": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/disposem.json"
+}

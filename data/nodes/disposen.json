@@ -1,0 +1,41 @@
+{
+  "concept": "disposen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "diputats": 1.0
+  },
+  "bayesian_context": {
+    "diputats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.22
+    },
+    "hemicicle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "parlament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "politic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/disposen.json"
+}

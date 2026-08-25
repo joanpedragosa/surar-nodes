@@ -1,0 +1,37 @@
+{
+  "concept": "discussio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cerimonia": 1.0
+  },
+  "bayesian_context": {
+    "ocorrer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "cerimonia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "religiosa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "privada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "emperador": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/discussio.json"
+}

@@ -1,0 +1,54 @@
+{
+  "concept": "disminueix",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mesura": 0.5,
+    "temperatura": 0.5
+  },
+  "bayesian_context": {
+    "mesura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "augmenta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "altitud": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "massa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "forestal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "temperatura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "congelacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "dissolucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "molalitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/disminueix.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "dilma_rousseff",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "mocio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "censura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dilma_rousseff.json"
+}

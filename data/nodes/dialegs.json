@@ -1,0 +1,100 @@
+{
+  "concept": "dialegs",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "paul_martin": 0.25,
+    "pintura": 0.25,
+    "planxes": 0.25,
+    "recitatiu": 0.25
+  },
+  "bayesian_context": {
+    "realitzar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.46
+    },
+    "edicio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "centrant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "se": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.95
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "paul_martin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "smith": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "pintura": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "vicente_carducho": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "introdueix": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "planxes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "kirby": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "stan_lee": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "utilitza": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.81
+    },
+    "rossini": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.34
+    },
+    "bianca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "falliero": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "major": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "recitatiu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "secco": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dialegs.json"
+}

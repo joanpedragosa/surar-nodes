@@ -1,0 +1,37 @@
+{
+  "concept": "dinamiques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ecosistema": 1.0
+  },
+  "bayesian_context": {
+    "provoquen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "variacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "factors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "modificacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "ecosistema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dinamiques.json"
+}
