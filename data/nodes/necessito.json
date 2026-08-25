@@ -1,0 +1,81 @@
+{
+  "concept": "necessito",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "escoltar": 1.0
+  },
+  "bayesian_context": {
+    "respondre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "liszt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "saint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "saëns": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "pregar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "permetes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "tocar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "fragments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "samson": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "escoltar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "voste": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "escrit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "acabi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "fare": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "representar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/necessito.json"
+}

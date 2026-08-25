@@ -1,0 +1,37 @@
+{
+  "concept": "neri",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sagrada_familia": 1.0
+  },
+  "bayesian_context": {
+    "recorregut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "feia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "antoni_gaudi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "sant_felip": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "sagrada_familia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/neri.json"
+}

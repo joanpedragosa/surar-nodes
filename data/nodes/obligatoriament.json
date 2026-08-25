@@ -1,0 +1,54 @@
+{
+  "concept": "obligatoriament",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "actuacions": 0.5,
+    "segons": 0.5
+  },
+  "bayesian_context": {
+    "incorporar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "actuacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "judicials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "sixte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "gargante": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "dia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "hora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "desnonament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obligatoriament.json"
+}

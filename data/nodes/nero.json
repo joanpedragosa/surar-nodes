@@ -1,0 +1,49 @@
+{
+  "concept": "nero",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cristians": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "martiritzats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "pere": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "pau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "persecucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "persecucions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cristians": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nero.json"
+}

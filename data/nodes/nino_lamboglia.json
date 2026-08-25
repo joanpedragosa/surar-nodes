@@ -1,0 +1,62 @@
+{
+  "concept": "nino_lamboglia",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "restes": 0.5,
+    "argolles": 0.5
+  },
+  "bayesian_context": {
+    "comandava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "equip": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "buscava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "restes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "vaixell": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "hauria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "transportat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "escultures": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    },
+    "trobar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.51
+    },
+    "argolles": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "plom": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nino_lamboglia.json"
+}

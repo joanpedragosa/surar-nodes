@@ -1,0 +1,111 @@
+{
+  "concept": "nominacio",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "oscar": 0.25,
+    "partit_democrata": 0.25,
+    "millor": 0.5
+  },
+  "bayesian_context": {
+    "defensaven": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "mitjans": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.88
+    },
+    "obtenir": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.3
+    },
+    "rickman": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "actuacions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "oscar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "millor": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.37
+    },
+    "actor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "secundari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "aconseguit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "hillary_clinton": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "nombre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "delegats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "necessaris": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "partit_democrata": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "casa_blanca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "categoria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "primera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.25
+    },
+    "festival": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "rebre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    },
+    "director": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.99
+    },
+    "novell": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "chicago": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nominacio.json"
+}

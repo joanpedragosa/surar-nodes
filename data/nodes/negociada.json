@@ -1,0 +1,78 @@
+{
+  "concept": "negociada",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "parts": 0.5,
+    "conflicte": 0.5
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "mas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "beneficiaria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "politica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "parts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "demanaren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "diaris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "influents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "editorials": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ahir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "solucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "conflicte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "espanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/negociada.json"
+}

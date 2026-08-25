@@ -1,0 +1,50 @@
+{
+  "concept": "neguen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "baronessa": 0.5,
+    "existeixi": 0.5
+  },
+  "bayesian_context": {
+    "baronessa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "erika": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "festa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "pretenen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "esquarterar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "politics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "PP": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "existeixi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/neguen.json"
+}

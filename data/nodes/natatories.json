@@ -1,0 +1,41 @@
+{
+  "concept": "natatories",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dits": 1.0
+  },
+  "bayesian_context": {
+    "desenvolupat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "especies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "membranes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "dits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "potes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "cua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/natatories.json"
+}

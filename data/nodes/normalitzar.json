@@ -1,0 +1,53 @@
+{
+  "concept": "normalitzar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "injusticia": 1.0
+  },
+  "bayesian_context": {
+    "pensa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "joan_tarda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "estaria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "comitiva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "visites": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "presos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "politics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "contribuir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "injusticia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/normalitzar.json"
+}

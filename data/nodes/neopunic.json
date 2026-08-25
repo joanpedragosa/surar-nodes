@@ -1,0 +1,41 @@
+{
+  "concept": "neopunic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "part": 1.0
+  },
+  "bayesian_context": {
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "suposa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "traduir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "important": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "biblia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/neopunic.json"
+}

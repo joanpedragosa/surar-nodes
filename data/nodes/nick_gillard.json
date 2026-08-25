@@ -1,0 +1,53 @@
+{
+  "concept": "nick_gillard",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "liam_neeson": 1.0
+  },
+  "bayesian_context": {
+    "entrenar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "liam_neeson": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ewan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mcgregor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "contractar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "crear": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.56
+    },
+    "estil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.73
+    },
+    "lluita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nick_gillard.json"
+}

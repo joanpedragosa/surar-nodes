@@ -1,0 +1,41 @@
+{
+  "concept": "obligaven",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "carrecs": 1.0
+  },
+  "bayesian_context": {
+    "funcions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "carrecs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "cort": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "pintor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "cerimonial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "palau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obligaven.json"
+}

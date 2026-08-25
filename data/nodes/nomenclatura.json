@@ -1,0 +1,125 @@
+{
+  "concept": "nomenclatura",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "louis_bernard": 0.2,
+    "naturalesa": 0.2,
+    "plantes": 0.2,
+    "segons": 0.2,
+    "metodica": 0.2
+  },
+  "bayesian_context": {
+    "realitzar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.59
+    },
+    "primer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    },
+    "intent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "reformar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "louis_bernard": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "guyton": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "morveau": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "reflectir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "naturalesa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "substancies": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.65
+    },
+    "tracta": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.85
+    },
+    "international_code": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "of": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.69
+    },
+    "botanical_nomenclature": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "plantes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.29
+    },
+    "fongs": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "adaptar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "se": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.78
+    },
+    "segons": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.74
+    },
+    "lavoisier": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "teoria": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.8
+    },
+    "titol": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.69
+    },
+    "memoria": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "desenvolupament": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.76
+    },
+    "principis": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.83
+    },
+    "metodica": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.2,
+    0.0,
+    1.9459101490553132
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nomenclatura.json"
+}

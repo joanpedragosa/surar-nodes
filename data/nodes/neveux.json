@@ -1,0 +1,45 @@
+{
+  "concept": "neveux",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "martinů": 1.0
+  },
+  "bayesian_context": {
+    "fascinats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "martinů": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "somnis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "sorgeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "julietta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "teatral": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/neveux.json"
+}

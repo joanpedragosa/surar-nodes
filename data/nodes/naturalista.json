@@ -1,0 +1,53 @@
+{
+  "concept": "naturalista",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "obra": 1.0
+  },
+  "bayesian_context": {
+    "filosofia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "adopten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cientifics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "epoca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "tipic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "clarobscur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "velazquez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "sevillana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/naturalista.json"
+}

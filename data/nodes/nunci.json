@@ -1,0 +1,82 @@
+{
+  "concept": "nunci",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "papal": 0.5,
+    "apostolic": 0.5
+  },
+  "bayesian_context": {
+    "viatja": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "papal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "davant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "cort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "ferran_i": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "principis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "presencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "batejat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "lluis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "apostolic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "ambaixadors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "personalitats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "reialesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "noblesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nunci.json"
+}

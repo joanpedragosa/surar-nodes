@@ -1,0 +1,45 @@
+{
+  "concept": "nodrit",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "grup": 1.0
+  },
+  "bayesian_context": {
+    "ordena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "suplici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ponc_pilat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "escena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "mig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "espectadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nodrit.json"
+}

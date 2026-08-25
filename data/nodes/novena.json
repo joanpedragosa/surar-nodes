@@ -1,0 +1,82 @@
+{
+  "concept": "novena",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "taula": 0.5,
+    "vegada": 0.5
+  },
+  "bayesian_context": {
+    "pintar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.02
+    },
+    "taula": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.74
+    },
+    "artista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "anonim": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "inferior": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.04
+    },
+    "categoria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "posicio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.98
+    },
+    "llista": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "schindler": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "top": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "american_film": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "institute": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "esdeve": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "vespasia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "consol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "vegada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/novena.json"
+}

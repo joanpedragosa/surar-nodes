@@ -1,0 +1,62 @@
+{
+  "concept": "notificat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sanchez": 0.5,
+    "jxcat": 0.5
+  },
+  "bayesian_context": {
+    "sanchez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "disposicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "investit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "grup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.6
+    },
+    "politic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "jxcat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "abstindra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "debat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "investidura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "ERC": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/notificat.json"
+}
