@@ -1,0 +1,37 @@
+{
+  "concept": "esgotar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sol": 1.0
+  },
+  "bayesian_context": {
+    "sol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "barri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "finals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "segle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.77
+    },
+    "xix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/esgotar.json"
+}

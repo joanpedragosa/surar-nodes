@@ -1,0 +1,45 @@
+{
+  "concept": "escultoriques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pa": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "daurats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "dossers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "troben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "escenes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "pa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "or": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/escultoriques.json"
+}

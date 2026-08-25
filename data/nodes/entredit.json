@@ -1,0 +1,57 @@
+{
+  "concept": "entredit",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ministre": 1.0
+  },
+  "bayesian_context": {
+    "ficava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ministre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "justicia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "declaracions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "capacitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "jutge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "audiencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "navarra_ricardo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "gonzalez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/entredit.json"
+}

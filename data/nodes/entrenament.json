@@ -1,0 +1,111 @@
+{
+  "concept": "entrenament",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "basquet": 0.3333,
+    "primerenc": 0.3333,
+    "competicions": 0.3333
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.09
+    },
+    "conegut": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "allen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "pare": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "basquet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "contribuir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "desenvolupament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "hokusai": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "impressor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "primerenc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "llibre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "comerc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "tecniques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "impressio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "utilitzava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "palestra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "gimnas": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "competicions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "atletiques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "lloc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "reunio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.82
+    },
+    "ciutadans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.65
+    },
+    "homes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/entrenament.json"
+}

@@ -1,0 +1,53 @@
+{
+  "concept": "espectroscopica",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "atmosfera": 1.0
+  },
+  "bayesian_context": {
+    "components": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "castor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "binaria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "calcula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "analisi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "atmosfera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "metal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "licitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "estrella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/espectroscopica.json"
+}

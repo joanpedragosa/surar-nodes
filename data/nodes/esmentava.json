@@ -1,0 +1,33 @@
+{
+  "concept": "esmentava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "petrus_christus": 1.0
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "carta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "petrus_christus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "pietro_summonte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/esmentava.json"
+}

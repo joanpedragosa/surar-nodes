@@ -1,0 +1,88 @@
+{
+  "concept": "escollir",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "zona": 0.25,
+    "tema": 0.25,
+    "bulgaria": 0.25,
+    "consellers": 0.25
+  },
+  "bayesian_context": {
+    "zona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "gizeh": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "kheops": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "giambologna": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "tema": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    },
+    "poder": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "demostrar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "facultats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "bulgaria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "romania": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "representants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "parlament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.37
+    },
+    "utilitza": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.81
+    },
+    "consellers": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "districte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "resultats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "electorals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/escollir.json"
+}

@@ -1,0 +1,33 @@
+{
+  "concept": "epaphai",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tangencies": 1.0
+  },
+  "bayesian_context": {
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "perdut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "ἐπαφαί": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "tangencies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/epaphai.json"
+}

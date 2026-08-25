@@ -1,0 +1,29 @@
+{
+  "concept": "escrivint",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "versio": 1.0
+  },
+  "bayesian_context": {
+    "feia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "beethoven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "versio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/escrivint.json"
+}

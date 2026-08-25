@@ -1,0 +1,57 @@
+{
+  "concept": "equestres",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "velazquez": 1.0
+  },
+  "bayesian_context": {
+    "tonalitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "mostra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "figura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "grans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "retrats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "velazquez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "calida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "to": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "paisatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "fred": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/equestres.json"
+}

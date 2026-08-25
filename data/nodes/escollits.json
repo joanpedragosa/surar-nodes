@@ -1,0 +1,53 @@
+{
+  "concept": "escollits",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dos": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "equip": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "luhrmann": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "cop": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "actors": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.48
+    },
+    "principals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "buscar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "secundaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/escollits.json"
+}

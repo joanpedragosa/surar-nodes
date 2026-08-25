@@ -1,0 +1,61 @@
+{
+  "concept": "escorcollat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "policia": 1.0
+  },
+  "bayesian_context": {
+    "responsabilitza": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "empreses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "policia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "turca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "donar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "suport": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "financer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "moviment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "clergue": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "fethullah": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "gulen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/escorcollat.json"
+}

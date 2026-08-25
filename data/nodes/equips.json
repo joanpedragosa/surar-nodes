@@ -1,0 +1,143 @@
+{
+  "concept": "equips",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "requeria": 0.3333,
+    "multidisciplinaris": 0.3333,
+    "negociadors": 0.3333
+  },
+  "bayesian_context": {
+    "iniciativa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "protesta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "jugadors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "dos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.07
+    },
+    "requeria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "obra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.92
+    },
+    "crear": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.56
+    },
+    "escenaris": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "necessaris": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "costosos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "possibilitara": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "nou": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.26
+    },
+    "centre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.56
+    },
+    "mes": {
+      "likelihood": 0.025,
+      "posterior_boost": 3.08
+    },
+    "sinergies": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "investigacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "competitivitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "internacional": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "fomentara": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "creacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "multidisciplinaris": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "recerca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "podra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "obtenir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.82
+    },
+    "recursos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "reuniran": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "negociadors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "PSOE": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.81
+    },
+    "unides_podem": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "congres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.84
+    },
+    "espanyol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.15
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/equips.json"
+}

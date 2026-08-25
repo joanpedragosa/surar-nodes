@@ -1,0 +1,50 @@
+{
+  "concept": "enviats",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "japo": 0.5,
+    "tintin": 0.5
+  },
+  "bayesian_context": {
+    "avaluat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "avions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "japo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "radiacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "tintin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "milu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "unio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "sovietica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/enviats.json"
+}

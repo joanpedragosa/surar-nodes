@@ -1,0 +1,54 @@
+{
+  "concept": "espagnole",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "franc": 0.5,
+    "public": 0.5
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "libreto": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "heure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "franc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "nohain": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "acollida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "public": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "critica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/espagnole.json"
+}

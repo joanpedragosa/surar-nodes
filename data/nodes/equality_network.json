@@ -1,0 +1,57 @@
+{
+  "concept": "equality_network",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ELEN": 1.0
+  },
+  "bayesian_context": {
+    "xarxa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "pertany": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "accio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "cultural": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "pais_valencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "xarxa_europea": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "igualtat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "linguistica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "european_language": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "ELEN": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/equality_network.json"
+}
