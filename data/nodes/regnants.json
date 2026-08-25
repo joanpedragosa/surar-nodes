@@ -1,0 +1,74 @@
+{
+  "concept": "regnants",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "vent": 0.5,
+    "santo_domingo": 0.5
+  },
+  "bayesian_context": {
+    "prohibir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "le": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.81
+    },
+    "mariage": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "figaro": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.67
+    },
+    "cases": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.65
+    },
+    "transmetia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "vent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "revolucionari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "enterrats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "familiars": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "monarques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "santo_domingo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/regnants.json"
+}

@@ -1,0 +1,57 @@
+{
+  "concept": "refugiat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "posada": 1.0
+  },
+  "bayesian_context": {
+    "posada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "prop": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "napols": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "don_parmenione": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "aventurer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "jactancios": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "atrevit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "criat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "martino": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "conte_alberto": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/refugiat.json"
+}

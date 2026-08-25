@@ -1,0 +1,37 @@
+{
+  "concept": "recessos",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "judici": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "servir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "judici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "descansar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/recessos.json"
+}

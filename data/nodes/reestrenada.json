@@ -1,0 +1,29 @@
+{
+  "concept": "reestrenada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "licula": 1.0
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "licula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reestrenada.json"
+}

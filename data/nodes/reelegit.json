@@ -1,0 +1,29 @@
+{
+  "concept": "reelegit",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "president": 1.0
+  },
+  "bayesian_context": {
+    "president": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "generalitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.07
+    },
+    "ximo_puig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reelegit.json"
+}

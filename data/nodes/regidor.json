@@ -1,0 +1,134 @@
+{
+  "concept": "regidor",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "nomenat": 0.1429,
+    "capgirem_vic": 0.1429,
+    "joan_coma": 0.2857,
+    "votacions": 0.1429,
+    "junts": 0.1429,
+    "coma": 0.1429
+  },
+  "bayesian_context": {
+    "presideix": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "consells": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "nomenat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "alcalde": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "capgirem_vic": {
+      "likelihood": 0.0125,
+      "posterior_boost": 5.12
+    },
+    "joan_coma": {
+      "likelihood": 0.0125,
+      "posterior_boost": 4.82
+    },
+    "tancat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "sala": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.56
+    },
+    "vegada": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.57
+    },
+    "aprovada": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "mocio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.87
+    },
+    "aplaudiment": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "formacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.47
+    },
+    "politica": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.31
+    },
+    "renunciara": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    },
+    "comu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.96
+    },
+    "votacions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "ple": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "ajuntament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    },
+    "pugui": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "participar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "junts": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "catalunya_joaquim": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "forn": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "partit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    },
+    "CUP": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.5
+    },
+    "coma": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1667,
+    0.0,
+    2.1972245773362196
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/regidor.json"
+}

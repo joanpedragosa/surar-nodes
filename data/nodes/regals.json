@@ -1,0 +1,62 @@
+{
+  "concept": "regals",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "reynders": 0.5,
+    "podran": 0.5
+  },
+  "bayesian_context": {
+    "plasmat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "moment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "francken": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "reynders": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "twitter": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "podran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "acceptar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "diputats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.92
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "euros": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/regals.json"
+}

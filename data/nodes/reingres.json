@@ -1,0 +1,33 @@
+{
+  "concept": "reingres",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vidal": 1.0
+  },
+  "bayesian_context": {
+    "denegar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "vidal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "falta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "aptitud": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reingres.json"
+}

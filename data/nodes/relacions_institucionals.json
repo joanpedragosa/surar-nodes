@@ -1,0 +1,122 @@
+{
+  "concept": "relacions_institucionals",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "transparencia": 0.6667,
+    "exteriors": 0.3333
+  },
+  "bayesian_context": {
+    "mantindra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "departament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "accio": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.26
+    },
+    "exterior": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.33
+    },
+    "transparencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "pla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "desplegament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "previst": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "reactivar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "obertura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "delegacions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "govern": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.19
+    },
+    "estranger": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "adscrit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "diplocat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "afers": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "exteriors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "butlleti": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "fet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.35
+    },
+    "public": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "cessament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "alfred_bosch": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "conseller": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "diari_oficial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "generalitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.59
+    },
+    "catalunya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/relacions_institucionals.json"
+}

@@ -1,0 +1,85 @@
+{
+  "concept": "regulava",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "produccio": 1.0
+  },
+  "bayesian_context": {
+    "condemnava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "llei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "produccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "venda": {
+      "likelihood": 0.05,
+      "posterior_boost": 5.09
+    },
+    "cervesa": {
+      "likelihood": 0.05,
+      "posterior_boost": 5.12
+    },
+    "respectes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "criteri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "fabricacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "establert": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "mort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "fets": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "sancionava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "aigualir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "obrir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "local": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "sense": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "autoritzacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/regulava.json"
+}

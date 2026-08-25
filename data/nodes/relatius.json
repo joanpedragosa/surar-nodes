@@ -1,0 +1,57 @@
+{
+  "concept": "relatius",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "funeral": 1.0
+  },
+  "bayesian_context": {
+    "congregat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "secretariat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "presidencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "RASD": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "discutir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "ultims": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "preparatius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "funeral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "enterrament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "abdelaziz": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/relatius.json"
+}

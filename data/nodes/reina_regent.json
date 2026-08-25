@@ -1,0 +1,65 @@
+{
+  "concept": "reina_regent",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "palau": 1.0
+  },
+  "bayesian_context": {
+    "havien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "instal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "lat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "orgues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "electrics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "exposicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "universal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "salo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "palau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "belles_arts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reina_regent.json"
+}

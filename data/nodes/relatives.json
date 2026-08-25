@@ -1,0 +1,45 @@
+{
+  "concept": "relatives",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "figures": 1.0
+  },
+  "bayesian_context": {
+    "manierisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "relacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "proporcions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "figures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "absencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "jerarquia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "logica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/relatives.json"
+}

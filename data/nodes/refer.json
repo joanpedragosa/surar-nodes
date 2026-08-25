@@ -1,0 +1,41 @@
+{
+  "concept": "refer",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "amistat": 1.0
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "amistat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "xammar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "pla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "partir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "anys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.54
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/refer.json"
+}

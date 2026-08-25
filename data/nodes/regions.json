@@ -1,0 +1,441 @@
+{
+  "concept": "regions",
+  "frequency": 18,
+  "edges": [],
+  "markov_transitions": {
+    "polars": 0.0588,
+    "fosques": 0.0588,
+    "italianes": 0.0588,
+    "sud": 0.0588,
+    "ara": 0.0588,
+    "costaneres": 0.0588,
+    "tropicals": 0.0588,
+    "florida": 0.0588,
+    "antartida": 0.0588,
+    "muntanyoses": 0.0588,
+    "insulars": 0.0588,
+    "clima": 0.0588,
+    "provenien": 0.0588,
+    "parlaven": 0.0588,
+    "alcaren": 0.0588,
+    "centrals": 0.0588,
+    "espanyoles": 0.0588
+  },
+  "bayesian_context": {
+    "temperatures": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.52
+    },
+    "polars": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "mes": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.27
+    },
+    "altes": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.69
+    },
+    "avui": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.85
+    },
+    "dia": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.54
+    },
+    "havien": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.19
+    },
+    "examinades": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "fosques": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "genoma": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.99
+    },
+    "complexitat": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.17
+    },
+    "representen": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.47
+    },
+    "mapes": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "italianes": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "drena": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "riu": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.43
+    },
+    "balsas": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "depressio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "sud": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.33
+    },
+    "altipla_mexica": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "possibilitat": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.57
+    },
+    "estudi": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.2
+    },
+    "ara": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.23
+    },
+    "inexplorades": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "nova": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.84
+    },
+    "metodologia": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "bioinformatica": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "podem": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.8
+    },
+    "trobar": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.74
+    },
+    "xatrac_artic": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "costaneres": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "parts": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.24
+    },
+    "temperades": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "fredes": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "nord": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.91
+    },
+    "america": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.16
+    },
+    "eurasia": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "diversitat": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.93
+    },
+    "gran": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.46
+    },
+    "anurs": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.17
+    },
+    "tropicals": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.93
+    },
+    "trobat": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.18
+    },
+    "mati": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.47
+    },
+    "francina_armengol": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "francesco_pigliaru": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "gilles_simeoni": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "edifici": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.14
+    },
+    "comite": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.77
+    },
+    "viu": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.45
+    },
+    "estats_units": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.03
+    },
+    "especie": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.1
+    },
+    "dues": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.62
+    },
+    "florida": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.07
+    },
+    "ecosistema": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.07
+    },
+    "tenien": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.03
+    },
+    "antartida": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.07
+    },
+    "quedat": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.66
+    },
+    "cobertes": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "glac": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "tundra": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "distribueix": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "apol": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.66
+    },
+    "lo": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.31
+    },
+    "majoria": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.02
+    },
+    "grans": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.03
+    },
+    "muntanyoses": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "vell_continent": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "insulars": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "signat": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.59
+    },
+    "declaracio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.39
+    },
+    "reivindicativa": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "illes_balears": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.07
+    },
+    "corsega": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "sardenya": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.99
+    },
+    "gozo": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "clima": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.69
+    },
+    "mediterrani": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.62
+    },
+    "adaptat": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.17
+    },
+    "especies": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.09
+    },
+    "california": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "africa": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.39
+    },
+    "australia": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.54
+    },
+    "xile": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "provenien": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.23
+    },
+    "classes": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.87
+    },
+    "educades": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "trilingues": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "parlaven": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "llengues": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "diferents": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.31
+    },
+    "llati": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.9
+    },
+    "grec": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.66
+    },
+    "alcaren": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "foren": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "posteriorment": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "erodides": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "centrals": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.29
+    },
+    "alps": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "venia": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "immigracio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "majoritariament": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.87
+    },
+    "espanyoles": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.49
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.058799999999999984,
+    0.0,
+    2.9444389791664403
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/regions.json"
+}

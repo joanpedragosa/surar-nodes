@@ -1,0 +1,113 @@
+{
+  "concept": "receptors",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "adsorpcio": 0.2,
+    "tactils": 0.2,
+    "TCR": 0.2,
+    "reconeixement": 0.2,
+    "olfactius": 0.2
+  },
+  "bayesian_context": {
+    "caracteristics": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "adsorpcio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "DC": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "diuen": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "tactils": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "ales": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "ratpenats": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "cel": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.44
+    },
+    "lules": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.75
+    },
+    "merkel": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "poden": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.63
+    },
+    "ser": {
+      "likelihood": 0.0133,
+      "posterior_boost": 2.75
+    },
+    "utilitzats": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.93
+    },
+    "TCR": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.63
+    },
+    "NK": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.15
+    },
+    "restringits": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.33
+    },
+    "reconeixement": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.4
+    },
+    "patrons": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.03
+    },
+    "gossos": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "tenen": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.19
+    },
+    "milions": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.3
+    },
+    "olfactius": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "bloodhounds": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.2,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/receptors.json"
+}

@@ -1,0 +1,74 @@
+{
+  "concept": "reescriure",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "szymanowski": 0.5,
+    "poema": 0.5
+  },
+  "bayesian_context": {
+    "szymanowski": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "segon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "acte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "servia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "poema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "classic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "vida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.78
+    },
+    "cort": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "heian": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "comunicar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "fines": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "lusions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "oculta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reescriure.json"
+}

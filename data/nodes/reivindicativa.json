@@ -1,0 +1,70 @@
+{
+  "concept": "reivindicativa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dissabte": 0.5,
+    "illes_balears": 0.5
+  },
+  "bayesian_context": {
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "celebrara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "manifestacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "dissabte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "vinent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "regions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "insulars": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "signat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "declaracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "illes_balears": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "corsega": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "sardenya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "gozo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reivindicativa.json"
+}

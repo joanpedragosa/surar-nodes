@@ -1,0 +1,41 @@
+{
+  "concept": "remasteritzat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mobile_fidelity": 1.0
+  },
+  "bayesian_context": {
+    "llancar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "meddle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "format": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "LP": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "mobile_fidelity": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "sound_lab": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/remasteritzat.json"
+}
