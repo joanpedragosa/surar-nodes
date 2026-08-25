@@ -1,0 +1,41 @@
+{
+  "concept": "pret",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "porter": 1.0
+  },
+  "bayesian_context": {
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "leccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "introdueix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "partir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "anys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.54
+    },
+    "porter": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pret.json"
+}

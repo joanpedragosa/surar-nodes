@@ -1,0 +1,58 @@
+{
+  "concept": "preventives",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ramaders": 0.5,
+    "fonamentals": 0.5
+  },
+  "bayesian_context": {
+    "pren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "mesures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "ramaders": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fonamentals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "manteniment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "bona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "nutricio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "reduccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "estres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "ovelles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/preventives.json"
+}

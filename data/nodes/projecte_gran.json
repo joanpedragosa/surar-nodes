@@ -1,0 +1,49 @@
+{
+  "concept": "projecte_gran",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "simi": 1.0
+  },
+  "bayesian_context": {
+    "organitzacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "fa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.8
+    },
+    "campanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "atorguin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "primats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "drets": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "legals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "simi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/projecte_gran.json"
+}

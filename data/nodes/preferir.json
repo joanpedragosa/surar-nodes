@@ -1,0 +1,50 @@
+{
+  "concept": "preferir",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "commedia": 0.5,
+    "aristocracia": 0.5
+  },
+  "bayesian_context": {
+    "tradicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "commedia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "lirica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "autors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "aristocracia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "escoltar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "musica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "italians": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/preferir.json"
+}

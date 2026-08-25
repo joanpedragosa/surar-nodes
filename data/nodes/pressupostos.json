@@ -1,0 +1,288 @@
+{
+  "concept": "pressupostos",
+  "frequency": 10,
+  "edges": [],
+  "markov_transitions": {
+    "CUP": 0.1111,
+    "socials": 0.1111,
+    "espanyol": 0.1111,
+    "podria": 0.1111,
+    "generalitat": 0.1111,
+    "anteriors": 0.2222,
+    "govern": 0.1111,
+    "confianca": 0.1111
+  },
+  "bayesian_context": {
+    "abstingut": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "votacio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.65
+    },
+    "CUP": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.4
+    },
+    "PP": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.12
+    },
+    "diu": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.69
+    },
+    "colau": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.95
+    },
+    "error": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "historic": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.63
+    },
+    "bloquejar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "socials": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.56
+    },
+    "derivara": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "valencians": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "manca": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.75
+    },
+    "inversions": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "originada": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "falta": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.07
+    },
+    "espanyol": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.05
+    },
+    "retallades": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "serveis": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "publics": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.68
+    },
+    "fonamentals": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "negociaran": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "comuns": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "govern": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.97
+    },
+    "podria": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.59
+    },
+    "passar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.18
+    },
+    "bloquen": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "tramitacio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "precipitar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "final": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.21
+    },
+    "legislatura": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "impugnara": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "albiol": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "contenen": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.98
+    },
+    "partida": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "financar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "referendum": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.18
+    },
+    "generalitat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.07
+    },
+    "basa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.85
+    },
+    "parlament": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.27
+    },
+    "aprovar": {
+      "likelihood": 0.01,
+      "posterior_boost": 4.14
+    },
+    "implementacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "anteriors": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "informe": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.47
+    },
+    "anual": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.98
+    },
+    "tribunal": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.34
+    },
+    "comptes_europeu": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "incompliran": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "objectiu": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.45
+    },
+    "deficit": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.07
+    },
+    "marcat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "brussel": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.7
+    },
+    "segons": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.53
+    },
+    "advertit": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "comissio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.23
+    },
+    "europea": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.15
+    },
+    "mig": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.52
+    },
+    "punt": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.4
+    },
+    "mecanisme": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.98
+    },
+    "fet": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.84
+    },
+    "servir": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.16
+    },
+    "confianca": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "quantes": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.47
+    },
+    "vegades": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.47
+    },
+    "negat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "dues": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1249875,
+    0.0,
+    2.3978952727983707
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pressupostos.json"
+}

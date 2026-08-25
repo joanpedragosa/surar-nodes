@@ -1,0 +1,62 @@
+{
+  "concept": "preguntat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "observanca": 0.5,
+    "sanchez": 0.5
+  },
+  "bayesian_context": {
+    "observanca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pla_economic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "financer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "pais_valencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "isabel_bonig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "sanchez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "iglesias": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "donaria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "suport": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "hipotetica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "aplicacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/preguntat.json"
+}

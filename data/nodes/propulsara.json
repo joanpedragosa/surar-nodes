@@ -1,0 +1,57 @@
+{
+  "concept": "propulsara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mes": 1.0
+  },
+  "bayesian_context": {
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "mallorca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "regular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "tasca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "incidencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "politica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "creacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "registre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "lobbys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "pressio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/propulsara.json"
+}

@@ -1,0 +1,41 @@
+{
+  "concept": "primer_monument",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "historic": 1.0
+  },
+  "bayesian_context": {
+    "declaracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "donar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "edifici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "historic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "pobles_hispanics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/primer_monument.json"
+}

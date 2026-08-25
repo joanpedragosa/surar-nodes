@@ -1,0 +1,110 @@
+{
+  "concept": "produides",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "motors": 0.5,
+    "gramnegatius": 0.5
+  },
+  "bayesian_context": {
+    "podria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "desperfectes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "pigmentacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "llibre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "vibracions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "motors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "avio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "administra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "penicil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "lina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "sodica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "casos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "difteria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "infeccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "aparell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "respiratori": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "genital": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "certes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "gramnegatius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "meningitis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "endocarditis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/produides.json"
+}

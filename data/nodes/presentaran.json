@@ -1,0 +1,58 @@
+{
+  "concept": "presentaran",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "PSOE": 0.5,
+    "ICV": 0.5
+  },
+  "bayesian_context": {
+    "PSOE": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "unides_podem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "programa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "coalicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "congres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "ICV": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "podem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.75
+    },
+    "eleccions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "espanyoles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/presentaran.json"
+}

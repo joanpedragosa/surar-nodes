@@ -1,0 +1,42 @@
+{
+  "concept": "president_torra",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "joan_tarda": 0.5,
+    "publico": 0.5
+  },
+  "bayesian_context": {
+    "rectificat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "declaracions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "joan_tarda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "diari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "publico": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/president_torra.json"
+}

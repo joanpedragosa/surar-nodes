@@ -1,0 +1,92 @@
+{
+  "concept": "pretenen",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "crear": 0.25,
+    "esquarterar": 0.25,
+    "evitar": 0.25,
+    "esperar": 0.25
+  },
+  "bayesian_context": {
+    "crear": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.56
+    },
+    "parc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "diversions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "esquarterar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "politics": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.54
+    },
+    "PP": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "neguen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "existeixi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "evitar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    },
+    "moviment_cinc": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "estels": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "partit_democratic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "avancament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "eleccions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.36
+    },
+    "esperar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "manifestants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "deixin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "llibertat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.75
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pretenen.json"
+}

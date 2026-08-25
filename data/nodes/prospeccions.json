@@ -1,0 +1,66 @@
+{
+  "concept": "prospeccions",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "gas": 0.5,
+    "terratremols": 0.5
+  },
+  "bayesian_context": {
+    "vota": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "dia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "avui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "parlament_europeu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "informe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "gas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "petroli": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "mar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "endins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "efectes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "indirectes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "terratremols": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/prospeccions.json"
+}

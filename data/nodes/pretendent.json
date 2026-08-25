@@ -1,0 +1,38 @@
+{
+  "concept": "pretendent",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "charlotte": 0.5,
+    "plau": 0.5
+  },
+  "bayesian_context": {
+    "charlotte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "albert": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "plau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "terinka": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "jiři": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pretendent.json"
+}

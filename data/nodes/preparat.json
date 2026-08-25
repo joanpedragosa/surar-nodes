@@ -1,0 +1,100 @@
+{
+  "concept": "preparat",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "pais": 0.25,
+    "european_forum": 0.25,
+    "ANC": 0.25,
+    "rebre": 0.25
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.63
+    },
+    "actes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.84
+    },
+    "pais": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.61
+    },
+    "mes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.61
+    },
+    "se": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.95
+    },
+    "celebrar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "acte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.51
+    },
+    "european_forum": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "alpbach": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "aprovat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "document": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.91
+    },
+    "ANC": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "vuitena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "assemblea": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "general": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "govern": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.07
+    },
+    "rebre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    },
+    "allau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "gent": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.71
+    },
+    "frances": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/preparat.json"
+}

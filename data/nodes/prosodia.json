@@ -1,0 +1,49 @@
+{
+  "concept": "prosodia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "llengua": 1.0
+  },
+  "bayesian_context": {
+    "aconsegueix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "leoš": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "janaček": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "combinar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "llengua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "materna": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "tractament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "simfonic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/prosodia.json"
+}

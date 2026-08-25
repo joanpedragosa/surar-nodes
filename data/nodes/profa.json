@@ -1,0 +1,33 @@
+{
+  "concept": "profa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sagrat": 1.0
+  },
+  "bayesian_context": {
+    "existeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "separacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "absoluta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "sagrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/profa.json"
+}
