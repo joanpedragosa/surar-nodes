@@ -1,0 +1,66 @@
+{
+  "concept": "afores",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pekin": 0.5,
+    "nucli": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "atacades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "tropes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "japoneses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "pekin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "placa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "antigament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "esplanada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "nucli": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "antic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/afores.json"
+}

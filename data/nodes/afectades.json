@@ -1,0 +1,37 @@
+{
+  "concept": "afectades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "figures": 1.0
+  },
+  "bayesian_context": {
+    "figures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "sant_domni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "santa_caterina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "filtracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "aigua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/afectades.json"
+}

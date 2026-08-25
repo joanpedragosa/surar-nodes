@@ -1,0 +1,41 @@
+{
+  "concept": "alegres",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "comares": 1.0
+  },
+  "bayesian_context": {
+    "basava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "falstaff": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "comedia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "comares": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "windsor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/alegres.json"
+}

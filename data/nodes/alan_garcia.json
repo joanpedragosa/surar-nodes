@@ -1,0 +1,55 @@
+{
+  "concept": "alan_garcia",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "veure": 0.3333,
+    "residencia": 0.3333,
+    "casimiro_ulloa": 0.3333
+  },
+  "bayesian_context": {
+    "veure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.75
+    },
+    "agents": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "ferit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "anaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "arrestar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "residencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "hospital": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "internat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "casimiro_ulloa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/alan_garcia.json"
+}

@@ -1,0 +1,41 @@
+{
+  "concept": "alcaren",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "foren": 1.0
+  },
+  "bayesian_context": {
+    "regions": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.07
+    },
+    "foren": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "posteriorment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "erodides": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "centrals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "alps": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/alcaren.json"
+}

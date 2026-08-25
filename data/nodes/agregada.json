@@ -1,0 +1,37 @@
+{
+  "concept": "agregada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "montargull": 1.0
+  },
+  "bayesian_context": {
+    "terme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "municipal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "montargull": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "artesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "segre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/agregada.json"
+}

@@ -1,0 +1,62 @@
+{
+  "concept": "alternatives",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tall": 0.5,
+    "linia": 0.5
+  },
+  "bayesian_context": {
+    "proposat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "ajuntament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "generalitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.77
+    },
+    "diverses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "tall": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "proposa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "estudi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "diferents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "linia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.78
+    },
+    "metro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "lleuger": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/alternatives.json"
+}

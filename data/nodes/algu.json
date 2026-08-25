@@ -1,0 +1,58 @@
+{
+  "concept": "algu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "accepta": 0.5,
+    "trencat": 0.5
+  },
+  "bayesian_context": {
+    "negociacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "accepta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "dret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "autodeterminacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "maria_sirvent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "viciat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "queixa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "antonio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "trencat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "tests": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/algu.json"
+}

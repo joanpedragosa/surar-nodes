@@ -1,0 +1,66 @@
+{
+  "concept": "agrait",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "trapero": 0.5,
+    "fuset": 0.5
+  },
+  "bayesian_context": {
+    "trapero": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "membres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "mossos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "carta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "feina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "gestio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "atemptat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "fuset": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "suport": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "ciutada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "festa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/agrait.json"
+}

@@ -1,0 +1,74 @@
+{
+  "concept": "afer",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "wagner": 0.5,
+    "intern": 0.5
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "wagner": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "cosima": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "von": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "bulow": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "posar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "practica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "paisos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "democratics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "europeus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "inici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "guerra_civil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "interferencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "intern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/afer.json"
+}

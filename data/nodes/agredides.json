@@ -1,0 +1,49 @@
+{
+  "concept": "agredides",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "persones": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "persones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "declarat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "judici": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "proces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "policia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "espanyola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "guardia_civil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/agredides.json"
+}

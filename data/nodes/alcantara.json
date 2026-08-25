@@ -1,0 +1,45 @@
+{
+  "concept": "alcantara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "jurado": 1.0
+  },
+  "bayesian_context": {
+    "considera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "francisco": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "jurado": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "pintura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "tapiro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "inexpressiva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "mecanica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/alcantara.json"
+}
