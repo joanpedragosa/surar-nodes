@@ -1,0 +1,41 @@
+{
+  "concept": "generalitat_pere",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "macias": 1.0
+  },
+  "bayesian_context": {
+    "inaugurar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "estacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "alcalde": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "clos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "conseller": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "macias": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/generalitat_pere.json"
+}

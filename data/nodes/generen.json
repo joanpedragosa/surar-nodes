@@ -1,0 +1,58 @@
+{
+  "concept": "generen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "preses": 0.5,
+    "comptes": 0.5
+  },
+  "bayesian_context": {
+    "preses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "minusculs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "corrents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "electrics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "comptes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "societat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "valenciana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "profunda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "desafeccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/generen.json"
+}

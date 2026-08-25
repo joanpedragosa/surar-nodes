@@ -1,0 +1,37 @@
+{
+  "concept": "franz_liszt",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dues": 1.0
+  },
+  "bayesian_context": {
+    "quantes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.46
+    },
+    "simfonies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "corals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "escriure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/franz_liszt.json"
+}

@@ -1,0 +1,54 @@
+{
+  "concept": "gerent",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "egevasa": 0.5,
+    "CDC": 0.5
+  },
+  "bayesian_context": {
+    "avui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "egevasa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "alberto": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "hernandez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "campa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ex": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "CDC": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "germa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "gordo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gerent.json"
+}

@@ -1,0 +1,50 @@
+{
+  "concept": "geopolitica",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "estado": 0.5,
+    "peninsular": 0.5
+  },
+  "bayesian_context": {
+    "dedicada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "espana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "estado": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "imperio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "fonaments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "peninsular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/geopolitica.json"
+}

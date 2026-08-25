@@ -1,0 +1,33 @@
+{
+  "concept": "gaspar_llamazares",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "esquerra_unida": 1.0
+  },
+  "bayesian_context": {
+    "formacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "dona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "baixa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "esquerra_unida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gaspar_llamazares.json"
+}

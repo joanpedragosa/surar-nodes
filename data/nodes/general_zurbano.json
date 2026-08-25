@@ -1,0 +1,37 @@
+{
+  "concept": "general_zurbano",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "bisbe": 1.0
+  },
+  "bayesian_context": {
+    "deia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "rebatejar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "lo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "carrer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "bisbe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/general_zurbano.json"
+}

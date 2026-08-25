@@ -1,0 +1,46 @@
+{
+  "concept": "franz_seydelmann",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "compositor": 0.5,
+    "il": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "compositor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "compondre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "il": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "turco": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "in": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "italia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/franz_seydelmann.json"
+}

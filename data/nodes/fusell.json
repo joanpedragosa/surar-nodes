@@ -1,0 +1,29 @@
+{
+  "concept": "fusell",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "submari": 1.0
+  },
+  "bayesian_context": {
+    "perfeccionar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "foyn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "submari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fusell.json"
+}

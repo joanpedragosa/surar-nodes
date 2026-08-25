@@ -1,0 +1,45 @@
+{
+  "concept": "generalitzar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "battani": 1.0
+  },
+  "bayesian_context": {
+    "battani": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "resultat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "euclides": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "geometria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "esferica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "principi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "segle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/generalitzar.json"
+}

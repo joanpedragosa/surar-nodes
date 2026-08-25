@@ -1,0 +1,65 @@
+{
+  "concept": "gedenckwurdigen",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "historien": 1.0
+  },
+  "bayesian_context": {
+    "publicar": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.06
+    },
+    "periodic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "relation": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "aller": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "furnemmen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "und": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "historien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "wolfenbuttel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "primer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    },
+    "historia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "periodisme": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gedenckwurdigen.json"
+}

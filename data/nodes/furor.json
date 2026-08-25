@@ -1,0 +1,53 @@
+{
+  "concept": "furor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "belcantista": 1.0
+  },
+  "bayesian_context": {
+    "resulta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "sorprenent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "invencio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "musical": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "alhora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "belcantista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "riquesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "orquestral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/furor.json"
+}

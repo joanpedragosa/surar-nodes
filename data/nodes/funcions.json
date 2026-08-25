@@ -1,0 +1,630 @@
+{
+  "concept": "funcions",
+  "frequency": 24,
+  "edges": [],
+  "markov_transitions": {
+    "generalitat": 0.0417,
+    "CCMA": 0.0417,
+    "sinus": 0.0833,
+    "vitals": 0.0417,
+    "actualment": 0.0417,
+    "pedro": 0.0417,
+    "productor": 0.0417,
+    "trigonometriques": 0.25,
+    "guarniments": 0.0417,
+    "similars": 0.0417,
+    "barreres": 0.0417,
+    "milions": 0.0417,
+    "PP": 0.0417,
+    "obligaven": 0.0417,
+    "afirma": 0.0417,
+    "consecutives": 0.0417,
+    "diferents": 0.0417,
+    "partir": 0.0417
+  },
+  "bayesian_context": {
+    "president": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.88
+    },
+    "generalitat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.7
+    },
+    "artur_mas": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.3
+    },
+    "demanat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.1
+    },
+    "prudencia": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "director": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.22
+    },
+    "presidenta": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.42
+    },
+    "CCMA": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "sinus": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "cosinus": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "linealment": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "independents": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "alenteixen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "vitals": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "ratpenats": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.29
+    },
+    "fa": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.43
+    },
+    "actualment": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.99
+    },
+    "altar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.42
+    },
+    "cripta": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "oposen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "diputats": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.14
+    },
+    "jxcat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.96
+    },
+    "investidura": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.99
+    },
+    "espanyol": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.68
+    },
+    "pedro": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.88
+    },
+    "sanchez": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.65
+    },
+    "lucas": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.47
+    },
+    "decidir": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.19
+    },
+    "dirigir": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.13
+    },
+    "imperi": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.5
+    },
+    "contraataca": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "degut": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "productor": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "permet": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.25
+    },
+    "atribuir": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "definicio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.83
+    },
+    "basant": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "se": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.2
+    },
+    "circumferencia": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "goniometrica": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "valor": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.62
+    },
+    "trigonometriques": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "angles": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "tinguin": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "qualsevol": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.25
+    },
+    "conjunt": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.09
+    },
+    "nombres": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.57
+    },
+    "reals": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.74
+    },
+    "diferencien": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "presenten": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.39
+    },
+    "sentit": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.72
+    },
+    "poden": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.65
+    },
+    "aplicar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.53
+    },
+    "cop": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.07
+    },
+    "mes": {
+      "likelihood": 0.0014,
+      "posterior_boost": 1.88
+    },
+    "ampli": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "paraula": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.42
+    },
+    "equivalent": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "metode": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.39
+    },
+    "definir": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.65
+    },
+    "fer": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.26
+    },
+    "servir": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.09
+    },
+    "formula": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.91
+    },
+    "euler": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "especulat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "guarniments": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "cap": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.28
+    },
+    "triceratop": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "duen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "terme": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.84
+    },
+    "similars": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "enzims": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "manllevats": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "rutes": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "metaboliques": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "diferents": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.19
+    },
+    "derivada": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "necessaria": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "demostrar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.6
+    },
+    "barreres": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "quimiques": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "protegeixen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "infeccions": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "sera": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.87
+    },
+    "inversio": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    },
+    "exercit": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.98
+    },
+    "aprovat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.29
+    },
+    "govern": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.6
+    },
+    "milions": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.63
+    },
+    "euros": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.72
+    },
+    "grups": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.87
+    },
+    "recolzat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.65
+    },
+    "proposta": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.97
+    },
+    "presentar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.67
+    },
+    "conflicte": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.2
+    },
+    "atribucions": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "PP": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.74
+    },
+    "UPN": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "foro_asturias": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "serveixen": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "relacions": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.91
+    },
+    "hipotenusa": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "cares": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    },
+    "expressar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "pot": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.38
+    },
+    "basada": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.57
+    },
+    "series": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.6
+    },
+    "calcular": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "arguments": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "complexos": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.04
+    },
+    "importants": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.13
+    },
+    "formules": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "suma": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "diferencia": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    },
+    "obligaven": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "carrecs": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.32
+    },
+    "cort": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.53
+    },
+    "pintor": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.13
+    },
+    "cerimonial": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "palau": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.91
+    },
+    "afirma": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.87
+    },
+    "rufi": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "aquileia": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "exercir": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.65
+    },
+    "conjuntament": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "climent": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    },
+    "lli": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.6
+    },
+    "anaclet": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.42
+    },
+    "episcopals": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "quantes": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.11
+    },
+    "consecutives": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.65
+    },
+    "arribar": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.73
+    },
+    "ser": {
+      "likelihood": 0.0014,
+      "posterior_boost": 1.83
+    },
+    "representada": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    },
+    "opera": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.31
+    },
+    "trenta": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.97
+    },
+    "nou": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.49
+    },
+    "religio": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.42
+    },
+    "magia": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "tenien": {
+      "likelihood": 0.0014,
+      "posterior_boost": 2.9
+    },
+    "cultura": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.29
+    },
+    "home": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.07
+    },
+    "primitiu": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.95
+    },
+    "partir": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.05
+    },
+    "evolucionat": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.34
+    },
+    "noves": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.17
+    },
+    "passos": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.8
+    },
+    "existents": {
+      "likelihood": 0.0014,
+      "posterior_boost": 4.17
+    },
+    "ruta": {
+      "likelihood": 0.0014,
+      "posterior_boost": 3.69
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.05558333333333332,
+    0.0,
+    3.2188758248682006
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/funcions.json"
+}

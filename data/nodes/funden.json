@@ -1,0 +1,41 @@
+{
+  "concept": "funden",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "formigues": 1.0
+  },
+  "bayesian_context": {
+    "formigues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "femelles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "perdre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "ales": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "propia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "colonia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/funden.json"
+}

@@ -1,0 +1,41 @@
+{
+  "concept": "fujiwara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "emperador": 1.0
+  },
+  "bayesian_context": {
+    "intentar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "donar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "cop": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "clan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "emperador": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "junnin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fujiwara.json"
+}
