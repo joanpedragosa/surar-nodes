@@ -1,0 +1,86 @@
+{
+  "concept": "zeyer",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "concedir": 0.5,
+    "escriure": 0.5
+  },
+  "bayesian_context": {
+    "passar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "negativa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "concedir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "autoritzacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "pertinent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "quedar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "arxivada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "oblidada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "esperanca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "tenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "escriure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.67
+    },
+    "llibret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "dvořak": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "convertiria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/zeyer.json"
+}

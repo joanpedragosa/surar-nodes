@@ -1,0 +1,69 @@
+{
+  "concept": "XXV",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "conferencia": 1.0
+  },
+  "bayesian_context": {
+    "ciutat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "celebra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "conferencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "parts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "convencio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "marc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "canvi_climatic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ONU": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "madrid": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "pais": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "presideix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "xile": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/xxv.json"
+}

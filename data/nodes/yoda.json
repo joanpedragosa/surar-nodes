@@ -1,0 +1,42 @@
+{
+  "concept": "yoda",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dooku": 0.5,
+    "dexter": 0.5
+  },
+  "bayesian_context": {
+    "sigut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "dooku": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mestre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "personatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "digitals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "dexter": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/yoda.json"
+}

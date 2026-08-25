@@ -1,0 +1,41 @@
+{
+  "concept": "zundert",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "brabant_septentrional": 1.0
+  },
+  "bayesian_context": {
+    "provincia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "brabant_septentrional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ciutat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "neixer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "vincent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "gogh": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/zundert.json"
+}

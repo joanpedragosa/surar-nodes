@@ -1,0 +1,81 @@
+{
+  "concept": "yougov",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fet": 1.0
+  },
+  "bayesian_context": {
+    "elaborat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "enquesta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "degut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "canvi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "tendencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "relacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "independentisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "escocia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "gent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "votar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "brexit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "vegada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "independentista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/yougov.json"
+}
