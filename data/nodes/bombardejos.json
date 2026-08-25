@@ -1,0 +1,70 @@
+{
+  "concept": "bombardejos",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "barcelona": 0.5,
+    "blitz": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "buidades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "instal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "lacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "museu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "fugint": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    },
+    "utilitzaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "linies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "metro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "blitz": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "refugis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "aeris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bombardejos.json"
+}

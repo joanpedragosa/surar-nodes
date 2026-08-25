@@ -1,0 +1,54 @@
+{
+  "concept": "bufetada",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "electoral": 0.5,
+    "agent": 0.5
+  },
+  "bayesian_context": {
+    "rebut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "forta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "electoral": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "ciutadans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "donar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "agent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "jove": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "algeria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "oberta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bufetada.json"
+}

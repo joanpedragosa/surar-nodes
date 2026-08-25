@@ -1,0 +1,58 @@
+{
+  "concept": "brutus",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "tiberio_calcagni": 0.5,
+    "museu_nacional": 0.5
+  },
+  "bayesian_context": {
+    "acabar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.93
+    },
+    "bust": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "tiberio_calcagni": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "podem": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.58
+    },
+    "trobar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.51
+    },
+    "museu_nacional": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "bargello": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "aproximadament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/brutus.json"
+}

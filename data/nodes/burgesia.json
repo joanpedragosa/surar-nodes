@@ -1,0 +1,74 @@
+{
+  "concept": "burgesia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "toledana": 0.5,
+    "flamenca": 0.5
+  },
+  "bayesian_context": {
+    "retratava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "natura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "morta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "museu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "prado": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "rebost": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ben": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "assortit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "casa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "toledana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "agradava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "flamenca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "luxe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "art": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.74
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/burgesia.json"
+}

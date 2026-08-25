@@ -1,0 +1,260 @@
+{
+  "concept": "bombers",
+  "frequency": 11,
+  "edges": [],
+  "markov_transitions": {
+    "mes": 0.1,
+    "tarragona": 0.2,
+    "privats": 0.2,
+    "edificis": 0.1,
+    "cotxe": 0.1,
+    "pancarta": 0.1,
+    "dotze": 0.1,
+    "posar": 0.1
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.21
+    },
+    "serveis": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.84
+    },
+    "hagut": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.84
+    },
+    "fer": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.3
+    },
+    "mes": {
+      "likelihood": 0.0061,
+      "posterior_boost": 2.48
+    },
+    "apagat": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "matalas": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "intentar": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.11
+    },
+    "succionar": {
+      "likelihood": 0.0061,
+      "posterior_boost": 5.28
+    },
+    "tarragona": {
+      "likelihood": 0.0121,
+      "posterior_boost": 4.31
+    },
+    "privats": {
+      "likelihood": 0.0121,
+      "posterior_boost": 4.89
+    },
+    "enpetrol": {
+      "likelihood": 0.0121,
+      "posterior_boost": 4.89
+    },
+    "flux": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.68
+    },
+    "productes": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.21
+    },
+    "vessats": {
+      "likelihood": 0.0061,
+      "posterior_boost": 5.28
+    },
+    "traves": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.82
+    },
+    "tubs": {
+      "likelihood": 0.0061,
+      "posterior_boost": 5.28
+    },
+    "danyats": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.81
+    },
+    "protegir": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.94
+    },
+    "edificis": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.64
+    },
+    "instal": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.39
+    },
+    "lacions": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.91
+    },
+    "propers": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "radiacions": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "calor": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "trobar": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.95
+    },
+    "cotxe": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.08
+    },
+    "aixafat": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "bloc": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.75
+    },
+    "formigo": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.38
+    },
+    "penjar": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "pancarta": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.84
+    },
+    "setembre": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.19
+    },
+    "terrat": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "museu": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.27
+    },
+    "historia": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.13
+    },
+    "catalunya": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.6
+    },
+    "hora": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.2
+    },
+    "comenca": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.62
+    },
+    "manifestacio": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.49
+    },
+    "unitaria": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "metges": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "professors": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.03
+    },
+    "estudiants": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.81
+    },
+    "dotze": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.66
+    },
+    "ser": {
+      "likelihood": 0.0061,
+      "posterior_boost": 2.42
+    },
+    "primers": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.63
+    },
+    "efectius": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.81
+    },
+    "acudir": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.59
+    },
+    "lloc": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.39
+    },
+    "fets": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.92
+    },
+    "quantes": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.43
+    },
+    "dotacions": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "mobils": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "parcs": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "publics": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.64
+    },
+    "posar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.38
+    },
+    "disposicio": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.03
+    },
+    "empesa": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.12499999999999999,
+    0.0,
+    2.4849066497880004
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bombers.json"
+}

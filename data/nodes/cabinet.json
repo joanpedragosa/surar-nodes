@@ -1,0 +1,78 @@
+{
+  "concept": "cabinet",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "adjacent": 0.5,
+    "col": 0.5
+  },
+  "bayesian_context": {
+    "allotja": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "adjacent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "chambre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "tolles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "llit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "caixa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "segle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "XVI": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "esco": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "vuitcentista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "prove": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "col": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "leccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "industrial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "riccardo_gualino": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cabinet.json"
+}

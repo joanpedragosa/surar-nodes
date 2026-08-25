@@ -1,0 +1,38 @@
+{
+  "concept": "calculadores",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "usa": 0.5,
+    "tenen": 0.5
+  },
+  "bayesian_context": {
+    "usa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "tenen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.88
+    },
+    "funcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "arrel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "quadrada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/calculadores.json"
+}

@@ -1,0 +1,50 @@
+{
+  "concept": "cacats",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sirenis": 0.5,
+    "segles": 0.5
+  },
+  "bayesian_context": {
+    "sirenis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "carn": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "augmentar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "nombre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "cetacis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "segles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "XVI": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "XIX": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cacats.json"
+}

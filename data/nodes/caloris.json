@@ -1,0 +1,54 @@
+{
+  "concept": "caloris",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "costat": 0.5,
+    "km": 0.5
+  },
+  "bayesian_context": {
+    "atribueixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "fractures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "escarpes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "crater": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "costat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "oposat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "planeta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "diametre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "km": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/caloris.json"
+}

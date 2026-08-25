@@ -1,0 +1,58 @@
+{
+  "concept": "bonig",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sortida": 0.5,
+    "votants": 0.5
+  },
+  "bayesian_context": {
+    "sortida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "jutjat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "contenta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "satisfeta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "sol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.73
+    },
+    "licitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "votants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "facen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "quatre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "preguntes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bonig.json"
+}

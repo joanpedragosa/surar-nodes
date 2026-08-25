@@ -1,0 +1,45 @@
+{
+  "concept": "boadilla",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "monte": 1.0
+  },
+  "bayesian_context": {
+    "desitjava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "enterrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "lluis_antoni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "capella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "palau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "monte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/boadilla.json"
+}

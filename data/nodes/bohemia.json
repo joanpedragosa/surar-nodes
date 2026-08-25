@@ -1,0 +1,45 @@
+{
+  "concept": "bohemia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "plaga": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "classificades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "rates": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "mesqueres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "alliberament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "plaga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "alliberar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bohemia.json"
+}

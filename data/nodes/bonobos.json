@@ -1,0 +1,53 @@
+{
+  "concept": "bonobos",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "orangutans": 1.0
+  },
+  "bayesian_context": {
+    "recomanacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "PGS": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "ximpanzes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "orangutans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "goril": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "siguin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "utilitzats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "experimentacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "animal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bonobos.json"
+}

@@ -1,0 +1,94 @@
+{
+  "concept": "bossa",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "monedes": 0.6667,
+    "gran": 0.3333
+  },
+  "bayesian_context": {
+    "porta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "sant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "bavo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "monedes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "capa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "inferior": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    },
+    "tenia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.18
+    },
+    "rolin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "introdueix": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "lladre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "objectes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.76
+    },
+    "damunt": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "taula": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.62
+    },
+    "indicacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "dona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.4
+    },
+    "forma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.29
+    },
+    "generos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "pobres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bossa.json"
+}

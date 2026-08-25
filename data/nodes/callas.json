@@ -1,0 +1,49 @@
+{
+  "concept": "callas",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "refusar": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "refusar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "paper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.2
+    },
+    "cantat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "vanessa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "angles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/callas.json"
+}

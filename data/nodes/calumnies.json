@@ -1,0 +1,61 @@
+{
+  "concept": "calumnies",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "obstruccio": 1.0
+  },
+  "bayesian_context": {
+    "delicte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "denunciat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "inaki": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "rivera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "delictes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "acusa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "quim_torra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "irene_lozano": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "prevaricacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "obstruccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "justicia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/calumnies.json"
+}

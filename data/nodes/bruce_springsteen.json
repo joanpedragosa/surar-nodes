@@ -1,0 +1,33 @@
+{
+  "concept": "bruce_springsteen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dissabte": 1.0
+  },
+  "bayesian_context": {
+    "celebrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "concert": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "dissabte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "nit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bruce_springsteen.json"
+}
