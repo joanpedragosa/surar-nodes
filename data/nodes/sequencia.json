@@ -1,0 +1,96 @@
+{
+  "concept": "sequencia",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "identica": 0.25,
+    "principi": 0.25,
+    "ADN": 0.25,
+    "aminoacidica": 0.25
+  },
+  "bayesian_context": {
+    "utilitza": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.81
+    },
+    "plantilla": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "reparacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "identica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "continua": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "principi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "alfabet": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "proposat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "serveixi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "ADN": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "caracters": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "clau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "partir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "investigadors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "intenten": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "derivar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "estructura": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.86
+    },
+    "proteina": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "aminoacidica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sequencia.json"
+}

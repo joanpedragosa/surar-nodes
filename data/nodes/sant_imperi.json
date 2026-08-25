@@ -1,0 +1,41 @@
+{
+  "concept": "sant_imperi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "roma": 1.0
+  },
+  "bayesian_context": {
+    "dona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "suport": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "fraccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "guelfa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "malatesta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "roma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sant_imperi.json"
+}

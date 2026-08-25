@@ -1,0 +1,41 @@
+{
+  "concept": "sebastia_bennasar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dissabte": 1.0
+  },
+  "bayesian_context": {
+    "coordinat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "festival": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "ara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "sabra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "substitut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dissabte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sebastia_bennasar.json"
+}

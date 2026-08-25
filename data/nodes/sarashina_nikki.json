@@ -1,0 +1,45 @@
+{
+  "concept": "sarashina_nikki",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cap": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "introduit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "personatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "menciona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "final": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "treball": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sarashina_nikki.json"
+}

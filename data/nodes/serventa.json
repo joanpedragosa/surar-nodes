@@ -1,0 +1,53 @@
+{
+  "concept": "serventa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ernestina": 1.0
+  },
+  "bayesian_context": {
+    "canviat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "berenice": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "paper": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.2
+    },
+    "ernestina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "poder": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "jutjar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "millor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "futur": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "marit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/serventa.json"
+}

@@ -1,0 +1,49 @@
+{
+  "concept": "shikibu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "edicio": 1.0
+  },
+  "bayesian_context": {
+    "creu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "introduir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "edicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "primers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "manuscrits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "discrepancies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "primeres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "copies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/shikibu.json"
+}

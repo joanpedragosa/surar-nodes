@@ -1,0 +1,154 @@
+{
+  "concept": "sarria",
+  "frequency": 10,
+  "edges": [],
+  "markov_transitions": {
+    "barcelona": 0.6,
+    "sant_gervasi": 0.4
+  },
+  "bayesian_context": {
+    "coneixia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "popularment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "ferrocarril": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "barcelona": {
+      "likelihood": 0.02,
+      "posterior_boost": 3.42
+    },
+    "tren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "conegut": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.86
+    },
+    "comprometre": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "constituir": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "consell": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.31
+    },
+    "municipal": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.75
+    },
+    "districte": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "sant_gervasi": {
+      "likelihood": 0.01,
+      "posterior_boost": 5.03
+    },
+    "comissio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.23
+    },
+    "seguiment": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "obres": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.12
+    },
+    "troben": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.29
+    },
+    "jardins": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "tamarita": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "al_districte": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "era": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.28
+    },
+    "estadi": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "demolir": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.55
+    },
+    "ser": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.46
+    },
+    "causa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.16
+    },
+    "provocar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.85
+    },
+    "disminucio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "trafic": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "soterrament": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "inaugurat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "municipis": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "unia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "linia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.08
+    },
+    "gracia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.75
+    },
+    "cassoles": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    2.3978952727983707
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sarria.json"
+}

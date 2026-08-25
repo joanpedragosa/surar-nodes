@@ -1,0 +1,87 @@
+{
+  "concept": "sepulcre",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "capella": 0.25,
+    "sant": 0.25,
+    "bisbe": 0.5
+  },
+  "bayesian_context": {
+    "capella": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "bisbe": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.32
+    },
+    "berenguer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "anglesola": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "era": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.67
+    },
+    "cos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.65
+    },
+    "descobrir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.78
+    },
+    "sant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.54
+    },
+    "candid": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "realitzar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.46
+    },
+    "avila_alonso": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "carrillo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "vasco": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "zarza": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "material": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "fet": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.23
+    },
+    "alabastre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sepulcre.json"
+}

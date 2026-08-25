@@ -1,0 +1,49 @@
+{
+  "concept": "servei_catala",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "salut": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "professionals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "sortir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "ultim": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "salut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "mil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/servei_catala.json"
+}

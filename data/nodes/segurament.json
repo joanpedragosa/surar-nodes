@@ -1,0 +1,70 @@
+{
+  "concept": "segurament",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "debat": 0.5,
+    "segle": 0.5
+  },
+  "bayesian_context": {
+    "finalitzara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "debat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "realment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "genji": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "escrita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "murasaki_shikibu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "mai": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "provenen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "caps": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "bronze": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "segle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "xii": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/segurament.json"
+}

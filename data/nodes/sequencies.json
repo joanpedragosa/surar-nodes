@@ -1,0 +1,74 @@
+{
+  "concept": "sequencies",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "accio": 0.5,
+    "emocio": 0.5
+  },
+  "bayesian_context": {
+    "realitzar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.76
+    },
+    "edicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "centrant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "accio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "ben_burtt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "juga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "llista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "schindler": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "sobrietat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "blanc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "negre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "emocio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sequencies.json"
+}

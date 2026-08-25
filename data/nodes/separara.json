@@ -1,0 +1,37 @@
+{
+  "concept": "separara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rousseff": 1.0
+  },
+  "bayesian_context": {
+    "temps": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.92
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "rousseff": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "carrec": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "dies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/separara.json"
+}

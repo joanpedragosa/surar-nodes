@@ -1,0 +1,50 @@
+{
+  "concept": "sastre",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "camp": 0.5,
+    "sabo": 0.5
+  },
+  "bayesian_context": {
+    "morir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "ramon_puigdelloses": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "camp": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "gusen": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "nom": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.82
+    },
+    "rep": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.43
+    },
+    "guix": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.07
+    },
+    "sabo": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sastre.json"
+}

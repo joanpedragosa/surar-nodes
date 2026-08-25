@@ -1,0 +1,78 @@
+{
+  "concept": "serp",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "arboricola": 0.5,
+    "diversos": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "introduida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "arboricola": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "bruna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "guam": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "simbols": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "medievals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "paisatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "estan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "ubicats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "personatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "freixe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "figuera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "diversos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "animals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/serp.json"
+}

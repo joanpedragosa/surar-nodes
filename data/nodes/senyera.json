@@ -1,0 +1,41 @@
+{
+  "concept": "senyera",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "catalana": 1.0
+  },
+  "bayesian_context": {
+    "simbolitzaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "columnes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "catalana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "trobem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.56
+    },
+    "disseny": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/senyera.json"
+}

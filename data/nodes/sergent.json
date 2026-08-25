@@ -1,0 +1,49 @@
+{
+  "concept": "sergent",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "espanyols": 1.0
+  },
+  "bayesian_context": {
+    "demanar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "ajuda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "bisbe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "urgell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "quatre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "guardies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "civils": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "espanyols": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sergent.json"
+}
