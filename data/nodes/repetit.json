@@ -1,0 +1,66 @@
+{
+  "concept": "repetit",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "rivera": 0.5,
+    "diferents": 0.5
+  },
+  "bayesian_context": {
+    "rivera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "campanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "faria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "president": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "mariano_rajoy": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "forma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.59
+    },
+    "terminologia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "matematica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "xifratge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "diferents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "claus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "grup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.6
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/repetit.json"
+}

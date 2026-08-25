@@ -1,0 +1,29 @@
+{
+  "concept": "ressorgira",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "crida_nacional": 1.0
+  },
+  "bayesian_context": {
+    "crida_nacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "republica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "setembre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ressorgira.json"
+}

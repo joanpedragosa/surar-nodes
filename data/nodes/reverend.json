@@ -1,0 +1,66 @@
+{
+  "concept": "reverend",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "nevil_maskelyne": 0.5,
+    "samuel_horsley": 0.5
+  },
+  "bayesian_context": {
+    "formava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "comite": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "cientifics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "reial_societat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "londres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "astronom_reial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "nevil_maskelyne": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "henry_cavendish": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "benjamin_franklin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "daines_barrington": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "samuel_horsley": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reverend.json"
+}

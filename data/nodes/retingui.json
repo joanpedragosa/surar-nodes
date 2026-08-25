@@ -1,0 +1,77 @@
+{
+  "concept": "retingui",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "centre": 1.0
+  },
+  "bayesian_context": {
+    "ficar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "vaga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "fam": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "interns": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "CIE": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "reclamar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "se": {
+      "likelihood": 0.0667,
+      "posterior_boost": 3.85
+    },
+    "ls": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.48
+    },
+    "deixi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "llibertat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "denunciar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "centre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "expulsar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "los": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "pais": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/retingui.json"
+}

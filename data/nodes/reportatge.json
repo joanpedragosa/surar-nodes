@@ -1,0 +1,140 @@
+{
+  "concept": "reportatge",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "comic": 0.1667,
+    "fotografic": 0.5,
+    "AD": 0.1667,
+    "voltant": 0.1667
+  },
+  "bayesian_context": {
+    "titular": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.65
+    },
+    "video": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.04
+    },
+    "promocional": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "comic": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "beneath": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "the": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.76
+    },
+    "dome": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "coneixer": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.91
+    },
+    "gerardo_boto": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "existia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.65
+    },
+    "gracies": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.87
+    },
+    "publicacio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "fotografic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "culmina": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "conjunt": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.69
+    },
+    "imatges": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.76
+    },
+    "diferenciava": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "fotoperiodisme": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "fotografia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "documental": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "revista": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.83
+    },
+    "publicar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.46
+    },
+    "AD": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "diari": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.67
+    },
+    "fet": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.05
+    },
+    "voltant": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.76
+    },
+    "judici": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.66
+    },
+    "los": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.79
+    },
+    "angeles": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "times": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.250025,
+    0.0,
+    1.9459101490553132
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reportatge.json"
+}

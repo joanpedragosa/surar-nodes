@@ -1,0 +1,120 @@
+{
+  "concept": "repartiment",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "impost": 0.25,
+    "refugiats": 0.25,
+    "principal": 0.25,
+    "segons": 0.25
+  },
+  "bayesian_context": {
+    "acordar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "impost": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "turisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "sostenible": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "comissio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.62
+    },
+    "prendra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "mesures": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "govern": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.07
+    },
+    "alemany": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "paisos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.82
+    },
+    "UE": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "oposin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "refugiats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "consideraven": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "part": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.09
+    },
+    "principal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.69
+    },
+    "projecte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.6
+    },
+    "film": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "infantil": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "propietats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "afecta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "segons": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.92
+    },
+    "liber_iudiciorum": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "latifundis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "minifundis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/repartiment.json"
+}

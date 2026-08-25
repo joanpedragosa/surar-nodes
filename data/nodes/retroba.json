@@ -1,0 +1,37 @@
+{
+  "concept": "retroba",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "rodoreda": 1.0
+  },
+  "bayesian_context": {
+    "rodoreda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "traslladar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "carrer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "chauffour": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "amant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/retroba.json"
+}

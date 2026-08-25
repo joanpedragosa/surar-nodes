@@ -1,0 +1,98 @@
+{
+  "concept": "residu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cisteina": 0.5,
+    "quadratic": 0.5
+  },
+  "bayesian_context": {
+    "uneix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "aminoacid": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "proteic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cisteina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mitjancant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "sintesi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "peptids": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ribosomal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "determina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "problema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "quadratic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "multiple": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "nombre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "primer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "escriu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "suma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "quadrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "perfecte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/residu.json"
+}

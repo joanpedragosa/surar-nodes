@@ -1,0 +1,45 @@
+{
+  "concept": "retolar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "castella": 1.0
+  },
+  "bayesian_context": {
+    "volgut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "castella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "senyals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "transit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "poble": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/retolar.json"
+}

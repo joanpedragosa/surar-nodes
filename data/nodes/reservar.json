@@ -1,0 +1,41 @@
+{
+  "concept": "reservar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "allargar": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "metres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "allargar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "andanes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "decidia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "perllongar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reservar.json"
+}

@@ -1,0 +1,70 @@
+{
+  "concept": "ribosomes",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "exportar": 0.5,
+    "exterior": 0.5
+  },
+  "bayesian_context": {
+    "traduit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "ARN": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "missatger": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "formar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.92
+    },
+    "proteina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "cal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "arriba": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "exportar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "arnm": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "troben": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "exterior": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "nucli": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ribosomes.json"
+}

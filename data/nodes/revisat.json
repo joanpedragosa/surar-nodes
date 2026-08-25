@@ -1,0 +1,49 @@
+{
+  "concept": "revisat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "consell_nacional": 1.0
+  },
+  "bayesian_context": {
+    "consell_nacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "pdecat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "situacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "politica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "actual": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "darrers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "resultats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "electorals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/revisat.json"
+}

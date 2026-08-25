@@ -1,0 +1,73 @@
+{
+  "concept": "respiratori",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "aparell": 1.0
+  },
+  "bayesian_context": {
+    "administra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "penicil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "lina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "sodica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "casos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "difteria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "infeccions": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.85
+    },
+    "aparell": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.42
+    },
+    "genital": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "certes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "produides": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "gramnegatius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "meningitis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "endocarditis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/respiratori.json"
+}

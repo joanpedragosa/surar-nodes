@@ -1,0 +1,50 @@
+{
+  "concept": "reptes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "planteja": 0.5,
+    "afrontar": 0.5
+  },
+  "bayesian_context": {
+    "planteja": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "semiramide": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "vocals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "afrontar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "lemurs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "madagascar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "climatics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "geografics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reptes.json"
+}
