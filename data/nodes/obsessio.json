@@ -1,0 +1,41 @@
+{
+  "concept": "obsessio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "malaltissa": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "armengol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "vox": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "paisos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "catalans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "malaltissa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obsessio.json"
+}

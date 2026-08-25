@@ -1,0 +1,74 @@
+{
+  "concept": "ocupant",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dos": 0.5,
+    "edifici": 0.5
+  },
+  "bayesian_context": {
+    "troben": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "relleus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "pedra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "timpans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "neogotics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "portes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "temps": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.62
+    },
+    "fa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.8
+    },
+    "estan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "edifici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "carrer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "lleida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "anys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ocupant.json"
+}

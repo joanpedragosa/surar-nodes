@@ -1,0 +1,33 @@
+{
+  "concept": "organoclorats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sintetics": 1.0
+  },
+  "bayesian_context": {
+    "PCB": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "compostos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "aromatics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "sintetics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/organoclorats.json"
+}

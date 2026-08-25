@@ -1,0 +1,70 @@
+{
+  "concept": "oda",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "forta": 0.5,
+    "atacar": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "descendent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "oda_nobunaga": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "branques": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.0
+    },
+    "clan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "tenien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "forta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "rivalitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "vassall": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "atacar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "flanc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "esquerre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "inaba_ittetsu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/oda.json"
+}

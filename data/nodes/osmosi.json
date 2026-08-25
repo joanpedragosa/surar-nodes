@@ -1,0 +1,62 @@
+{
+  "concept": "osmosi",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "membranes": 0.6667,
+    "tercera": 0.3333
+  },
+  "bayesian_context": {
+    "descobrir": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.21
+    },
+    "membranes": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.37
+    },
+    "semipermeables": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "henri_dutrochet": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "partir": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.95
+    },
+    "explica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "tercera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "teoria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "descens": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "pressio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "vapor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/osmosi.json"
+}

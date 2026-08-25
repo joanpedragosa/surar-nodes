@@ -1,0 +1,39 @@
+{
+  "concept": "operations",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "servia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "kirby": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "segona_guerra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "mundial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "european_theater": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "of": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/operations.json"
+}

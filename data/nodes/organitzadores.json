@@ -1,0 +1,49 @@
+{
+  "concept": "organitzadores",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ciutadans": 1.0
+  },
+  "bayesian_context": {
+    "vetat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "entitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "ciutadans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "acces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "manifestacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "pactes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "ultradreta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "vox": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/organitzadores.json"
+}

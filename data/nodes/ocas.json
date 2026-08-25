@@ -1,0 +1,33 @@
+{
+  "concept": "ocas",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "vida": 1.0
+  },
+  "bayesian_context": {
+    "coneixer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "fama": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "compositor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "vida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ocas.json"
+}

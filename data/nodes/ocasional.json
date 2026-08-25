@@ -1,0 +1,57 @@
+{
+  "concept": "ocasional",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "veus": 1.0
+  },
+  "bayesian_context": {
+    "causar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "aparicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "encreuament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "veus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "certs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "organums": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "incorporar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "moviment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "contrari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "organum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ocasional.json"
+}

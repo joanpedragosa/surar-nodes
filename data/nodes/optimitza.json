@@ -1,0 +1,57 @@
+{
+  "concept": "optimitza",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sistema": 1.0
+  },
+  "bayesian_context": {
+    "sistema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "reactiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "escala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "laboratori": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "oxidacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "precipitacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ferro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "produccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "schwertmannita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "neta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/optimitza.json"
+}

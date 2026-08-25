@@ -1,0 +1,61 @@
+{
+  "concept": "obtenint",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "passaport": 1.0
+  },
+  "bayesian_context": {
+    "volen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "evitar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "britanics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "passaport": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "qualsevol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "impediment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "hora": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.54
+    },
+    "treballar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "paisos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "unio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "europea": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obtenint.json"
+}

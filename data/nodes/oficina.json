@@ -1,0 +1,129 @@
+{
+  "concept": "oficina",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "federal": 0.2,
+    "correus": 0.2,
+    "gracia": 0.2,
+    "atencio": 0.2,
+    "ocupat": 0.2
+  },
+  "bayesian_context": {
+    "impulsar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "campanya": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.59
+    },
+    "excavacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "lloc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.44
+    },
+    "federal": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "saxonia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "anhalt": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "arribar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.41
+    },
+    "marconi": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "correus": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "britanica": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "fer": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.63
+    },
+    "ahir": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "accio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.74
+    },
+    "gracia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "barcelona": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.95
+    },
+    "podran": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "consultar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "socis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "conformitat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "atencio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "barcelonista": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "ocupat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "manresa": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.48
+    },
+    "passeig": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "pere": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.95
+    },
+    "III": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.2,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/oficina.json"
+}

@@ -1,0 +1,49 @@
+{
+  "concept": "oligopoli",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "electric": 1.0
+  },
+  "bayesian_context": {
+    "possibilitara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "barcelona_energia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "desconnectar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "electric": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "impulsar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "sobirania": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "energetica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/oligopoli.json"
+}

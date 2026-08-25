@@ -1,0 +1,135 @@
+{
+  "concept": "ofensiva",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "militar": 0.2,
+    "govern": 0.6,
+    "regio": 0.2
+  },
+  "bayesian_context": {
+    "portant": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "militar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.88
+    },
+    "kurdistan": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "turquia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    },
+    "govern": {
+      "likelihood": 0.02,
+      "posterior_boost": 3.44
+    },
+    "espanyol": {
+      "likelihood": 0.02,
+      "posterior_boost": 3.53
+    },
+    "independentisme": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "forca": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.77
+    },
+    "desesperada": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "vol": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.06
+    },
+    "engegar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "declaracio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.95
+    },
+    "independentista": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "bloc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "inculpar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "kurds": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "dimecres": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "forces": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "milicians": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "iraquians": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "estar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.66
+    },
+    "preparant": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "important": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.66
+    },
+    "regio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "kirkuk": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "prop": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.69
+    },
+    "mossul": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "nord": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.46
+    },
+    "irac": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ofensiva.json"
+}

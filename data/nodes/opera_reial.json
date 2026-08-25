@@ -1,0 +1,37 @@
+{
+  "concept": "opera_reial",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estocolm": 1.0
+  },
+  "bayesian_context": {
+    "aconseguir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "jove": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "treball": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "apuntador": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "estocolm": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/opera_reial.json"
+}

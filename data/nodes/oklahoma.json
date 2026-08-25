@@ -1,0 +1,41 @@
+{
+  "concept": "oklahoma",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "quarta": 1.0
+  },
+  "bayesian_context": {
+    "concentrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "quarta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "poblacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "amerindia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "estats_units": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/oklahoma.json"
+}

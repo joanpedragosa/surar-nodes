@@ -1,0 +1,58 @@
+{
+  "concept": "ofendre",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vell": 0.5,
+    "kasparov": 0.5
+  },
+  "bayesian_context": {
+    "rossini": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.64
+    },
+    "escriure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.67
+    },
+    "paisiello": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "allunyar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "possibilitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "vell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "compositor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "kasparov": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "decisio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "campomanes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ofendre.json"
+}

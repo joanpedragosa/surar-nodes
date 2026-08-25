@@ -1,0 +1,82 @@
+{
+  "concept": "oferia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "obediencia": 0.5,
+    "imatges": 0.5
+  },
+  "bayesian_context": {
+    "obediencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "rei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.79
+    },
+    "alfons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "fes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "millors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "condicions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "imatges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "estil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.73
+    },
+    "subjectivista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "imposar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "pantalla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "cinema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "expressionista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "deformacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "expressiva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "realitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/oferia.json"
+}

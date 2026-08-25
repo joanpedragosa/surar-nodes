@@ -1,0 +1,50 @@
+{
+  "concept": "obtindre",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "escons": 0.5,
+    "grau": 0.5
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "escons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "partit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "politic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "BJP": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "dret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "grau": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "doctor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obtindre.json"
+}

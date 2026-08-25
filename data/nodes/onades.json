@@ -1,0 +1,49 @@
+{
+  "concept": "onades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "industrialitzacio": 1.0
+  },
+  "bayesian_context": {
+    "designa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "terme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "revolucions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "industrials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "diferents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    },
+    "industrialitzacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "anaren": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "succeint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/onades.json"
+}

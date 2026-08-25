@@ -1,0 +1,57 @@
+{
+  "concept": "obtindra",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "partit": 1.0
+  },
+  "bayesian_context": {
+    "partit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.13
+    },
+    "alexis_tsipras": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "guanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "bonus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "cinquanta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "diputats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.22
+    },
+    "preveu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "llei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "grega": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/obtindra.json"
+}
