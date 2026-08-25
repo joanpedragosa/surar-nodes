@@ -1,0 +1,53 @@
+{
+  "concept": "fotografiar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "investigadors": 1.0
+  },
+  "bayesian_context": {
+    "creuen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "investigadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "treballaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "aigues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "fiji": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "hibrid": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "rorqual": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "blau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "iubarta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fotografiar.json"
+}

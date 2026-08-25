@@ -1,0 +1,53 @@
+{
+  "concept": "forjar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "aliances": 1.0
+  },
+  "bayesian_context": {
+    "procediment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "votacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "israel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "poblacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "vota": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "llista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "candidats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "parlament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.97
+    },
+    "aliances": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/forjar.json"
+}

@@ -1,0 +1,69 @@
+{
+  "concept": "fires",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ginebra": 1.0
+  },
+  "bayesian_context": {
+    "desplacar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "rutes": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.48
+    },
+    "comercials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "xampanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "roine": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ginebra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "rin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "guerra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "cent_anys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "segles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "XIV": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "XV": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fires.json"
+}

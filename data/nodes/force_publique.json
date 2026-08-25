@@ -1,0 +1,61 @@
+{
+  "concept": "force_publique",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "exercit": 1.0
+  },
+  "bayesian_context": {
+    "amotinar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "diverses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "ocasions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "soldats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "actuava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "exercit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "ocupacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "policia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "servei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "empreses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "comercials": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/force_publique.json"
+}

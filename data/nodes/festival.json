@@ -1,0 +1,484 @@
+{
+  "concept": "festival",
+  "frequency": 26,
+  "edges": [],
+  "markov_transitions": {
+    "any": 0.0455,
+    "edicions_musicals": 0.0455,
+    "ara": 0.0455,
+    "salzburg": 0.0455,
+    "novel": 0.0455,
+    "festivals": 0.0455,
+    "toquio": 0.0909,
+    "sant_sebastia": 0.0455,
+    "edimburg": 0.0455,
+    "cap_roig": 0.0455,
+    "orquestra_simfonica": 0.0455,
+    "camden": 0.0909,
+    "pesaro_la": 0.0455,
+    "tiana_negra": 0.0455,
+    "rebre": 0.0455,
+    "chicago": 0.0455,
+    "donara": 0.0455,
+    "atacar": 0.0455,
+    "cannes": 0.0455,
+    "feslloch": 0.0455
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0013,
+      "posterior_boost": 1.87
+    },
+    "espectadors": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.83
+    },
+    "tingut": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.29
+    },
+    "any": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.07
+    },
+    "dirigeix": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.66
+    },
+    "organitza": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.47
+    },
+    "edicions_musicals": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "clipper": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "coordinat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "ara": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.07
+    },
+    "sebastia_bennasar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "cantar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.71
+    },
+    "salzburg": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "vesselina_kasarova": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "diu": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.29
+    },
+    "novel": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.17
+    },
+    "negra": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.91
+    },
+    "catala": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.74
+    },
+    "tiana_negra": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "consolidat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "gran_fira": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "segons": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.13
+    },
+    "fuset": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "festivals": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "estiu": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.23
+    },
+    "valencia": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.87
+    },
+    "organitzar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.41
+    },
+    "romul": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "gran": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.31
+    },
+    "era": {
+      "likelihood": 0.0013,
+      "posterior_boost": 1.9
+    },
+    "dibuix": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.77
+    },
+    "fer": {
+      "likelihood": 0.0038,
+      "posterior_boost": 2.4
+    },
+    "toquio": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.91
+    },
+    "monjo": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.91
+    },
+    "budista": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "confluiran": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "torra": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.07
+    },
+    "morenes": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.21
+    },
+    "avui": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.69
+    },
+    "vespre": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "recepcio": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.91
+    },
+    "oficial": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.41
+    },
+    "privada": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.5
+    },
+    "smithsonian_folklife": {
+      "likelihood": 0.0038,
+      "posterior_boost": 4.79
+    },
+    "guanya": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "hitchcock": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.77
+    },
+    "conquilla": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "plata": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.71
+    },
+    "sant_sebastia": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "presentar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.93
+    },
+    "opera": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.28
+    },
+    "companyia": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.29
+    },
+    "opera_mariinsky": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "edimburg": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "celebra": {
+      "likelihood": 0.0038,
+      "posterior_boost": 3.79
+    },
+    "cap_roig": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "calella": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "palafrugell": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "quina_orquestra": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "interpretar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.57
+    },
+    "rossini_opera": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "orquestra_simfonica": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "RAI": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "tori": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "mida": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.01
+    },
+    "tenia": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.38
+    },
+    "metres": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.98
+    },
+    "quadrats": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.41
+    },
+    "soprano": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.57
+    },
+    "paper": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.79
+    },
+    "principal": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.88
+    },
+    "donna": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.13
+    },
+    "lago": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.13
+    },
+    "camden": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "kiri_te": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "kanawa": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "ciutat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.39
+    },
+    "londres": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.27
+    },
+    "pesaro_la": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "celebrara": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.29
+    },
+    "divendres": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.27
+    },
+    "dissabte": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.29
+    },
+    "rebre": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.27
+    },
+    "nominacio": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.31
+    },
+    "millor": {
+      "likelihood": 0.0038,
+      "posterior_boost": 3.56
+    },
+    "director": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.48
+    },
+    "novell": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "chicago": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "donara": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.96
+    },
+    "dema": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.53
+    },
+    "discurs": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.66
+    },
+    "quim_torra": {
+      "likelihood": 0.0038,
+      "posterior_boost": 3.45
+    },
+    "esdeveniment": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.53
+    },
+    "se": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.17
+    },
+    "igualada": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "edicio": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.25
+    },
+    "european_balloon": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "atacar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.47
+    },
+    "pedro": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.85
+    },
+    "smithsonian": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "premi": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.17
+    },
+    "guanyar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.1
+    },
+    "the_sugarland": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "express": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "cannes": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "guio": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.5
+    },
+    "trajectories": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "reconegut": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.91
+    },
+    "premis": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.41
+    },
+    "gramoxone_ska": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "band": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "feslloch": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.050039999999999994,
+    0.0,
+    3.295836866004329
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/festival.json"
+}

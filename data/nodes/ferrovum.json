@@ -1,0 +1,37 @@
+{
+  "concept": "ferrovum",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "myxofaciens": 1.0
+  },
+  "bayesian_context": {
+    "betaproteobacteri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "acidofil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "utilitza": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "sistema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "myxofaciens": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ferrovum.json"
+}

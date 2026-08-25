@@ -1,0 +1,117 @@
+{
+  "concept": "font_roja",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "desertificacio": 0.2,
+    "especulacio": 0.2,
+    "incendis": 0.2,
+    "provincia": 0.2,
+    "lleis": 0.2
+  },
+  "bayesian_context": {
+    "presenta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.66
+    },
+    "resistencia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "zona": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.18
+    },
+    "desertificacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "erosio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "suposa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "amenaca": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "recurrent": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "especulacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "urbanistica": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "perill": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "mes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.52
+    },
+    "gran": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.0
+    },
+    "incendis": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "forestals": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "zones": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.93
+    },
+    "desertificades": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "proxima": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "provincia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "alacant": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "lleis": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.48
+    },
+    "protegien": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "segle": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.07
+    },
+    "xvi": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.2,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/font_roja.json"
+}

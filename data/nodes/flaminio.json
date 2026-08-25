@@ -1,0 +1,37 @@
+{
+  "concept": "flaminio",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "archivaldo": 1.0
+  },
+  "bayesian_context": {
+    "acompanyava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "archivaldo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "rei": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.61
+    },
+    "assegura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "res": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/flaminio.json"
+}

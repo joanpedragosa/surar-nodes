@@ -1,0 +1,65 @@
+{
+  "concept": "fossilitzats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dinosaures": 1.0
+  },
+  "bayesian_context": {
+    "indiquen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "coprolits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "excrements": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "dinosaures": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.03
+    },
+    "ells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "menjaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "angiospermes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "majoria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "herbivors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "alimentaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "principalment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "gimnospermes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fossilitzats.json"
+}

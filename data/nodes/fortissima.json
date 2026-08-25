@@ -1,0 +1,61 @@
+{
+  "concept": "fortissima",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fugida": 1.0
+  },
+  "bayesian_context": {
+    "imposar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "octubre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "diari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "ara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "fugida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "capitals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "caixabank": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "banc_sabadell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fortissima.json"
+}

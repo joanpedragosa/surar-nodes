@@ -1,0 +1,37 @@
+{
+  "concept": "flash",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "backs": 1.0
+  },
+  "bayesian_context": {
+    "comenca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "licula": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.46
+    },
+    "conjunt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "backs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "primera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/flash.json"
+}

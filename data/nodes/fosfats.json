@@ -1,0 +1,82 @@
+{
+  "concept": "fosfats",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "compostos": 0.5,
+    "acid": 0.5
+  },
+  "bayesian_context": {
+    "produeix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "complexacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "residus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "radioactius": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "compostos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "organics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "sulfits": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "equilibri": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "ajuden": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "mantenir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "lactats": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "acid": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "base": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.13
+    },
+    "sals": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "comunes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "serum": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fosfats.json"
+}

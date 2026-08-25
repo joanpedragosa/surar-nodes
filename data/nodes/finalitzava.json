@@ -1,0 +1,37 @@
+{
+  "concept": "finalitzava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tracat": 1.0
+  },
+  "bayesian_context": {
+    "estacio": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.63
+    },
+    "tracat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "linia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "poble_nou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "MZA": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/finalitzava.json"
+}

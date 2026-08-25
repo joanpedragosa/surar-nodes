@@ -1,0 +1,53 @@
+{
+  "concept": "ficcio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "extrems": 1.0
+  },
+  "bayesian_context": {
+    "impressionar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "kirby": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "aventures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ciencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "climes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "transcorren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "majoritariament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "novel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "extrems": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ficcio.json"
+}

@@ -1,0 +1,35 @@
+{
+  "concept": "focalitzat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "dona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "llum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "enterrament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "sant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "llorenc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/focalitzat.json"
+}

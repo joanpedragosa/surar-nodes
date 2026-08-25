@@ -1,0 +1,112 @@
+{
+  "concept": "festes",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "festivals": 0.25,
+    "galants": 0.25,
+    "nadalenques": 0.25,
+    "gracia": 0.25
+  },
+  "bayesian_context": {
+    "organitza": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "engros": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "acomiadar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "festivals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "recollien": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "sovint": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "paisatges": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "galants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "pastorals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "dinars": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "herba": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "personatges": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.66
+    },
+    "aristocratics": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "aventures": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "amoroses": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "cortesanes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "fugar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "dona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.4
+    },
+    "mark_darcy": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "nadalenques": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "acaben": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "gracia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "agost": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/festes.json"
+}
