@@ -1,0 +1,41 @@
+{
+  "concept": "colorants",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "capa": 1.0
+  },
+  "bayesian_context": {
+    "aglutinen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "pigments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "capa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "pictorica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "cola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "animal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/colorants.json"
+}

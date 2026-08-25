@@ -1,0 +1,33 @@
+{
+  "concept": "comunals",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "publics": 1.0
+  },
+  "bayesian_context": {
+    "seguir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "sent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "bens": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "publics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comunals.json"
+}

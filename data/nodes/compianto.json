@@ -1,0 +1,37 @@
+{
+  "concept": "compianto",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sul": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "sul": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cristo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "morto": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "guido_mazzoni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/compianto.json"
+}

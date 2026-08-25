@@ -1,0 +1,49 @@
+{
+  "concept": "comptant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lli": 1.0
+  },
+  "bayesian_context": {
+    "considera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "constitucions_apostoliques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "climent_i": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "fou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "segon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "papa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "lli": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comptant.json"
+}

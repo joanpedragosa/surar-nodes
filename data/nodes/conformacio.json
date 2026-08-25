@@ -1,0 +1,53 @@
+{
+  "concept": "conformacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "grup": 1.0
+  },
+  "bayesian_context": {
+    "sol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "licita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "cambra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "laura_borras": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "reconsideri": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "decisio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "permetre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "multiple": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/conformacio.json"
+}

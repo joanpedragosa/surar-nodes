@@ -1,0 +1,49 @@
+{
+  "concept": "confident",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dona": 1.0
+  },
+  "bayesian_context": {
+    "papers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "secundaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "tradicionals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "amiga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "dona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "rival": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "menor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "quantia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/confident.json"
+}

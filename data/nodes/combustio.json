@@ -1,0 +1,61 @@
+{
+  "concept": "combustio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "heli": 1.0
+  },
+  "bayesian_context": {
+    "passar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "nucli": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "heli": {
+      "likelihood": 0.05,
+      "posterior_boost": 5.3
+    },
+    "consumir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "complet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "formar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "capa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "passa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "expandeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "rapidament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "refreda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/combustio.json"
+}

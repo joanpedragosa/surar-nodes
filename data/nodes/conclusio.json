@@ -1,0 +1,58 @@
+{
+  "concept": "conclusio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "arribar": 0.5,
+    "obra": 0.5
+  },
+  "bayesian_context": {
+    "arribar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "especialistes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "holandesos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "tractava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "afegit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "estudiant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "ajudar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "revisio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "osvald_chlubna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/conclusio.json"
+}

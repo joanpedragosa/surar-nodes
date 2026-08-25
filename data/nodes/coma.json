@@ -1,0 +1,175 @@
+{
+  "concept": "coma",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "mossos": 0.1429,
+    "incitacio": 0.1429,
+    "presumpte": 0.1429,
+    "comissio": 0.1429,
+    "final": 0.1429,
+    "capgirem_vic": 0.1429,
+    "desobeir": 0.1429
+  },
+  "bayesian_context": {
+    "detingut": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.1
+    },
+    "mossos": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.64
+    },
+    "esquadra": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.0
+    },
+    "acusa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.07
+    },
+    "incitacio": {
+      "likelihood": 0.0095,
+      "posterior_boost": 5.0
+    },
+    "sedicio": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.4
+    },
+    "citat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.98
+    },
+    "audiencia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "espanyola": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.34
+    },
+    "presumpte": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "delicte": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.68
+    },
+    "denunciat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.93
+    },
+    "albiol": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "detencio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "comissio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.38
+    },
+    "europea": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.3
+    },
+    "fer": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.49
+    },
+    "conferencia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.86
+    },
+    "premsa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.82
+    },
+    "final": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.37
+    },
+    "octubre": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.34
+    },
+    "partit": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.29
+    },
+    "regidor": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.28
+    },
+    "capgirem_vic": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "arguments": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "porten": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.23
+    },
+    "desobeir": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "tribunals": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "segons": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.68
+    },
+    "paraules": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "reconeixem": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "autoritat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "cap": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.79
+    },
+    "tribunal": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.49
+    },
+    "drets": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.56
+    },
+    "fonamentals": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "mes": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.38
+    },
+    "elementals": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1429,
+    0.0,
+    2.0794415416798357
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/coma.json"
+}

@@ -1,0 +1,61 @@
+{
+  "concept": "comandants",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "aliats": 1.0
+  },
+  "bayesian_context": {
+    "ordres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "enviar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "aliats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "desembre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "prevenir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "qualsevol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "intent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "repetir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "treva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "anterior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comandants.json"
+}

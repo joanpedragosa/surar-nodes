@@ -1,0 +1,62 @@
+{
+  "concept": "condicionar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "schinas": 0.5,
+    "politica": 0.5
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "royo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "schinas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pronunciaments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "eleccions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "politica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "lluis_i": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "accio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "pare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "madrastra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/condicionar.json"
+}

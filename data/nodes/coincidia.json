@@ -1,0 +1,62 @@
+{
+  "concept": "coincidia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "data": 0.5,
+    "any": 0.5
+  },
+  "bayesian_context": {
+    "data": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "estrena": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.3
+    },
+    "star_wars": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "reton": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "jedi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "dia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "licula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "original": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "egipci": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "sideri": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/coincidia.json"
+}

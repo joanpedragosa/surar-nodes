@@ -1,0 +1,66 @@
+{
+  "concept": "colonitzadors",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "romans": 0.3333,
+    "holandesos": 0.6667
+  },
+  "bayesian_context": {
+    "fundar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "barcelona": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.17
+    },
+    "romans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "pensar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "animal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "assemblava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "porc": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "primers": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "holandesos": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.07
+    },
+    "anomenar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "lo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "aardvark": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/colonitzadors.json"
+}

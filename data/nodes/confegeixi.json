@@ -1,0 +1,45 @@
+{
+  "concept": "confegeixi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "llista": 1.0
+  },
+  "bayesian_context": {
+    "demana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "proces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "constituent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "llista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "partir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "primaries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/confegeixi.json"
+}

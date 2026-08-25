@@ -1,0 +1,61 @@
+{
+  "concept": "combustible",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "racionament": 1.0
+  },
+  "bayesian_context": {
+    "produit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "manifestacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "iran": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "pujada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "preus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "racionament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "gasolina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "camuflaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "tancs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "inicialment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "diposits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/combustible.json"
+}

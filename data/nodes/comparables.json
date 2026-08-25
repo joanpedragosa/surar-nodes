@@ -1,0 +1,37 @@
+{
+  "concept": "comparables",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "longitud": 1.0
+  },
+  "bayesian_context": {
+    "longitud": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "ona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "distancies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "interatomiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "cristalls": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/comparables.json"
+}

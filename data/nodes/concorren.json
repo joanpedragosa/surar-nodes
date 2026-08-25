@@ -1,0 +1,45 @@
+{
+  "concept": "concorren",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "junts": 1.0
+  },
+  "bayesian_context": {
+    "partits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "estan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "decidint": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "junts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "compromis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "podem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.05
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/concorren.json"
+}
