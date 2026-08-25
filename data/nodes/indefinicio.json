@@ -1,0 +1,74 @@
+{
+  "concept": "indefinicio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "organismes": 0.5,
+    "degradacio": 0.5
+  },
+  "bayesian_context": {
+    "produir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "ferrocarrils": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "organismes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "implicats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "gestionar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "regim": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "explotacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "xarxa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "degradacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "material": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "instal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "lacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/indefinicio.json"
+}

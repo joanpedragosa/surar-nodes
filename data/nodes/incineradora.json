@@ -1,0 +1,69 @@
+{
+  "concept": "incineradora",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sant_adria": 1.0
+  },
+  "bayesian_context": {
+    "anava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "comboi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mossos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "interceptat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "sant_adria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "besos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "prove": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "energia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "verda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "proveeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "consistori": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "majoritariament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "planta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/incineradora.json"
+}

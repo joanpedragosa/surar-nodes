@@ -1,0 +1,57 @@
+{
+  "concept": "indice",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "historico": 1.0
+  },
+  "bayesian_context": {
+    "historico": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "espanol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "instrument": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "imprescindible": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "normalitzacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "treball": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "historiografic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "publica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "centre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "periodicament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/indice.json"
+}

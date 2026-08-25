@@ -1,0 +1,42 @@
+{
+  "concept": "infern",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "astarotte": 0.5,
+    "lloc": 0.5
+  },
+  "bayesian_context": {
+    "princeses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "astarotte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "representat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "lloc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "foc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "ombrivol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/infern.json"
+}

@@ -1,0 +1,38 @@
+{
+  "concept": "influenciar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "obra": 0.5,
+    "pobles": 0.5
+  },
+  "bayesian_context": {
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "alonso_cano": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "talles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pobles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "nadius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/influenciar.json"
+}

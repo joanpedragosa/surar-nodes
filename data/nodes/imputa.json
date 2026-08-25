@@ -1,0 +1,152 @@
+{
+  "concept": "imputa",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "neus_lloveras": 0.2,
+    "fiscalia": 0.4,
+    "ministeri": 0.2,
+    "fiscalia_superior": 0.2
+  },
+  "bayesian_context": {
+    "delicte": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.82
+    },
+    "se": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.86
+    },
+    "neus_lloveras": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.03
+    },
+    "desobediencia": {
+      "likelihood": 0.02,
+      "posterior_boost": 4.63
+    },
+    "delictes": {
+      "likelihood": 0.0267,
+      "posterior_boost": 4.55
+    },
+    "fiscalia": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.88
+    },
+    "lula": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "da": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "silva": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "emblanquiment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "falsedat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "ideologica": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "frau": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "documental": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "organitzacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.91
+    },
+    "criminal": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "ministeri": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "public": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.47
+    },
+    "prevaricacio": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.37
+    },
+    "malversacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "fons": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.63
+    },
+    "publics": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "professors": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "odi": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "fiscalia_superior": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "catalunya": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.93
+    },
+    "artur_mas": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "joana_ortega": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "irene_rigau": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "suspensio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "consulta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "fer": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.63
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/imputa.json"
+}

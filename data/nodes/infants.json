@@ -1,0 +1,53 @@
+{
+  "concept": "infants",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "prematurs": 1.0
+  },
+  "bayesian_context": {
+    "ofereixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "llet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "humana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "bancs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "prematurs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "lergics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "treuen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "llengua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "lector": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/infants.json"
+}

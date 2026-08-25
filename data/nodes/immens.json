@@ -1,0 +1,37 @@
+{
+  "concept": "immens",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "encenser": 1.0
+  },
+  "bayesian_context": {
+    "botafumeiro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "encenser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "llauto": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "banyat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "argent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/immens.json"
+}

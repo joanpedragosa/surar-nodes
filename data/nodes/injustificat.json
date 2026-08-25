@@ -1,0 +1,53 @@
+{
+  "concept": "injustificat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "improcedent": 1.0
+  },
+  "bayesian_context": {
+    "valora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "fiscalia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "espanyola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.18
+    },
+    "permis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "sortida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "jordi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "sanchez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.02
+    },
+    "prematur": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "improcedent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/injustificat.json"
+}

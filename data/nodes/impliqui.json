@@ -1,0 +1,82 @@
+{
+  "concept": "impliqui",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "defensa": 0.5,
+    "futur": 0.5
+  },
+  "bayesian_context": {
+    "demanat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "alfred_bosch": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "defensa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "democracia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "proces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "catala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "comunitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "internacional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "cecot": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "futur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "resoldre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "conflicte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "politic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/impliqui.json"
+}

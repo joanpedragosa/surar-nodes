@@ -1,0 +1,33 @@
+{
+  "concept": "inaugurada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estacio": 1.0
+  },
+  "bayesian_context": {
+    "haver": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "estacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "reis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "espanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inaugurada.json"
+}

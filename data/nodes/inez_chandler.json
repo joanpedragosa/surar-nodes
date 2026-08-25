@@ -1,0 +1,29 @@
+{
+  "concept": "inez_chandler",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "richter": 1.0
+  },
+  "bayesian_context": {
+    "mare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.76
+    },
+    "richter": {
+      "likelihood": 0.05,
+      "posterior_boost": 5.2
+    },
+    "soprano": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inez_chandler.json"
+}

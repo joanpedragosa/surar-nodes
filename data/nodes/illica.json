@@ -1,0 +1,37 @@
+{
+  "concept": "illica",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "llibret": 1.0
+  },
+  "bayesian_context": {
+    "interessar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "tema": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "volia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "escriure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.67
+    },
+    "llibret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/illica.json"
+}

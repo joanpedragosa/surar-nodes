@@ -1,0 +1,78 @@
+{
+  "concept": "influents",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "editorials": 0.5,
+    "mes": 0.5
+  },
+  "bayesian_context": {
+    "demanaren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "diaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "mes": {
+      "likelihood": 0.05,
+      "posterior_boost": 3.38
+    },
+    "editorials": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ahir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "solucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "negociada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "conflicte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "espanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "solucions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "proposaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "autogovern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "referendum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "pactat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/influents.json"
+}

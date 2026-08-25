@@ -1,0 +1,41 @@
+{
+  "concept": "inert",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "carboni": 1.0
+  },
+  "bayesian_context": {
+    "formar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "fusio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "heli": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "nucli": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "carboni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "oxigen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inert.json"
+}

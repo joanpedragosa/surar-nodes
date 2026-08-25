@@ -1,0 +1,49 @@
+{
+  "concept": "inconformisme",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "malestar": 1.0
+  },
+  "bayesian_context": {
+    "actituds": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "representatives": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "punk": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "malestar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "soroll": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sexualitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "violencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "protesta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inconformisme.json"
+}

@@ -1,0 +1,57 @@
+{
+  "concept": "inflexio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "carrera": 1.0
+  },
+  "bayesian_context": {
+    "andy_mabbet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "disc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "punt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "carrera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "grup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.6
+    },
+    "suposen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "sanders": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "victories": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "americanes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "terrorisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/inflexio.json"
+}

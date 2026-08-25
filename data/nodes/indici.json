@@ -1,0 +1,37 @@
+{
+  "concept": "indici",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "exit": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "exit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "adelaide": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "historia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/indici.json"
+}

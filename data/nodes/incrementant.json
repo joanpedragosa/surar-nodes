@@ -1,0 +1,49 @@
+{
+  "concept": "incrementant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "elements": 1.0
+  },
+  "bayesian_context": {
+    "expandeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "wagner": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "possibilitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "harmonia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "elements": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "cromatics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "suspensio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "harmonica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/incrementant.json"
+}

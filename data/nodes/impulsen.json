@@ -1,0 +1,37 @@
+{
+  "concept": "impulsen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ara": 1.0
+  },
+  "bayesian_context": {
+    "campanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "ara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "hora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "AMI": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ACM": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/impulsen.json"
+}

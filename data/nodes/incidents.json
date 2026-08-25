@@ -1,0 +1,102 @@
+{
+  "concept": "incidents",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "segons": 0.5,
+    "placa": 0.5
+  },
+  "bayesian_context": {
+    "responsables": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "segons": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.92
+    },
+    "buch": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "grups": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.64
+    },
+    "reduits": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "violents": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "resolt": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "desnonament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "banc_expropiat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "gracia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "sense": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "passat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.77
+    },
+    "barri": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "ultims": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "tres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.1
+    },
+    "dies": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "escandalitzat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "veinat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "registrat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "placa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.64
+    },
+    "italia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/incidents.json"
+}
