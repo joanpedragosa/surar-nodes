@@ -1,0 +1,62 @@
+{
+  "concept": "el_rei",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "bohusch": 0.6667,
+    "lear": 0.3333
+  },
+  "bayesian_context": {
+    "apareix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "perfilat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "psicologicament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "bohusch": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "nan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "escriure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.5
+    },
+    "rainer_maria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "rilke": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "obra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.05
+    },
+    "lear": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "shakespeare": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/el_rei.json"
+}

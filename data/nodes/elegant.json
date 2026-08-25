@@ -1,0 +1,70 @@
+{
+  "concept": "elegant",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "auster": 0.5,
+    "tunica": 0.5
+  },
+  "bayesian_context": {
+    "vestia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "auster": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vestit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "groc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "laura_almerich": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vesteix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "orfebre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "tunica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "color": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "vermell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "mena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "casquet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/elegant.json"
+}

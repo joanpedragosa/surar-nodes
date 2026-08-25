@@ -1,0 +1,41 @@
+{
+  "concept": "endureixin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "penes": 1.0
+  },
+  "bayesian_context": {
+    "cas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.31
+    },
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "buch": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "penes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "robatoris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "multireincidencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/endureixin.json"
+}

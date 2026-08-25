@@ -1,0 +1,50 @@
+{
+  "concept": "enquestes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "electorals": 0.5,
+    "empat": 0.5
+  },
+  "bayesian_context": {
+    "afavorien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "electorals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "matteo_salvini": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mostren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "empat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "dos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "blocs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/enquestes.json"
+}

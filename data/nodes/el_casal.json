@@ -1,0 +1,37 @@
+{
+  "concept": "el_casal",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "catala": 1.0
+  },
+  "bayesian_context": {
+    "organitzat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "debat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "electoral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "catala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "brussel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/el_casal.json"
+}

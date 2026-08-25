@@ -1,0 +1,33 @@
+{
+  "concept": "emplacen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "premis": 1.0
+  },
+  "bayesian_context": {
+    "premis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "lliuren": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "acte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "anualment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/emplacen.json"
+}

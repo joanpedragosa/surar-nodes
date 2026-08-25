@@ -1,0 +1,50 @@
+{
+  "concept": "enginy",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "don_parmeniano": 0.5,
+    "parodia": 0.5
+  },
+  "bayesian_context": {
+    "intervencions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "considerable": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "don_parmeniano": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "caracteritzava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "peces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "parodia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "gracia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "sentiment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/enginy.json"
+}

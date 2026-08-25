@@ -1,0 +1,54 @@
+{
+  "concept": "encarrega",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "monument": 0.5,
+    "rei": 0.5
+  },
+  "bayesian_context": {
+    "monument": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "inicialment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "cristobal_cascante": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "rei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.79
+    },
+    "pere": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "sengles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "retaules": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "capelles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "palaus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/encarrega.json"
+}

@@ -1,0 +1,41 @@
+{
+  "concept": "encausar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "netanyahu": 1.0
+  },
+  "bayesian_context": {
+    "delicte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "fiscal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "general": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "netanyahu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "corrupcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/encausar.json"
+}

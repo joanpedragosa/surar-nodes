@@ -1,0 +1,132 @@
+{
+  "concept": "electric",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "impulsar": 0.25,
+    "tram": 0.25,
+    "atlanta": 0.25,
+    "llars": 0.25
+  },
+  "bayesian_context": {
+    "possibilitara": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "barcelona_energia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "desconnectar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "ciutat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.09
+    },
+    "oligopoli": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "impulsar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "sobirania": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "energetica": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "interromput": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "subministrament": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.03
+    },
+    "tram": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.93
+    },
+    "causa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.46
+    },
+    "vent": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    },
+    "temps": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.22
+    },
+    "poden": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.33
+    },
+    "transportar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "ions": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "carregats": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "electricament": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "corrent": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "produit": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "tall": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "atlanta": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "podra": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "iniciar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.77
+    },
+    "se": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.86
+    },
+    "llars": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "gener": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.66
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/electric.json"
+}

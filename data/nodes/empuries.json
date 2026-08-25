@@ -1,0 +1,78 @@
+{
+  "concept": "empuries",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "emili_gandia": 0.5,
+    "alt_emporda": 0.5
+  },
+  "bayesian_context": {
+    "dirigir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.91
+    },
+    "excavacions": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.0
+    },
+    "emili_gandia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "troba": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "mosaic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "escena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    },
+    "agamemnon": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "ifigenia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "ruines": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "comarca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "castello": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "alt_emporda": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "impulsar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "puig": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "riba": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/empuries.json"
+}

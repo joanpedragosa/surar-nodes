@@ -1,0 +1,53 @@
+{
+  "concept": "embarga",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tribunal": 1.0
+  },
+  "bayesian_context": {
+    "tribunal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "comptes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "artur_mas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "acabar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "pagar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "fianca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "proces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "judicial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/embarga.json"
+}

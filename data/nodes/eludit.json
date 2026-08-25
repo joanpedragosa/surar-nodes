@@ -1,0 +1,41 @@
+{
+  "concept": "eludit",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "felipe": 1.0
+  },
+  "bayesian_context": {
+    "felipe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "VI": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "mobile_world": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "congress": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "pavello": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "catalunya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eludit.json"
+}

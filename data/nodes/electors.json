@@ -1,0 +1,85 @@
+{
+  "concept": "electors",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "haurien": 1.0
+  },
+  "bayesian_context": {
+    "sentenciat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "unanimitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "tribunal_europeu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "drets_humans": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "vulnerat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "drets": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.93
+    },
+    "politics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "cens": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "votacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "percentatge": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "haurien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "votat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "candidat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "liberal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "segons": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.04
+    },
+    "diari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "le_soir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/electors.json"
+}

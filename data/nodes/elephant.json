@@ -1,0 +1,45 @@
+{
+  "concept": "elephant",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "agost": 1.0
+  },
+  "bayesian_context": {
+    "illa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "homes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "shackleton": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "dia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "arriba": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "yelcho": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "agost": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/elephant.json"
+}

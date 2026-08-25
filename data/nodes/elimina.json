@@ -1,0 +1,50 @@
+{
+  "concept": "elimina",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "jöns": 0.5,
+    "PCR": 0.5
+  },
+  "bayesian_context": {
+    "jöns": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "jacob_berzelius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cercles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "figures": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "PCR": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "qualsevol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "proces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "post": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/elimina.json"
+}

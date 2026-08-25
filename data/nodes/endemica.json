@@ -1,0 +1,66 @@
+{
+  "concept": "endemica",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "continent": 0.5,
+    "febre": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.05,
+      "posterior_boost": 3.44
+    },
+    "originaria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "malaltia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "desconeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "africa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "contrari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "continent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "america": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "febre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "groga": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "zones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "tropicals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/endemica.json"
+}

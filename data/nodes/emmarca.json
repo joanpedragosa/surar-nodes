@@ -1,0 +1,62 @@
+{
+  "concept": "emmarca",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "noia": 0.5,
+    "relacio": 0.5
+  },
+  "bayesian_context": {
+    "espai": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "noia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "triangular": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "horitzontal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "relacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "senpai": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "kōhai": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "japo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "ensenyament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "arts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "marcials": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/emmarca.json"
+}

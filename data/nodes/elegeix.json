@@ -1,0 +1,46 @@
+{
+  "concept": "elegeix",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "alcalde": 0.5,
+    "nou": 0.5
+  },
+  "bayesian_context": {
+    "alcalde": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "pedani": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "directament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "votacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.56
+    },
+    "president": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "secretes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/elegeix.json"
+}

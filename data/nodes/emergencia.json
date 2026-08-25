@@ -1,0 +1,182 @@
+{
+  "concept": "emergencia",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "internacional": 0.1667,
+    "sanitaria": 0.1667,
+    "TB": 0.1667,
+    "OMS": 0.1667,
+    "habitacional": 0.1667,
+    "segons": 0.1667
+  },
+  "bayesian_context": {
+    "declarat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.07
+    },
+    "tedros_adhanom": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "ghebreyesus": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "internacional": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.8
+    },
+    "coronavirus": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "baixara": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "activitat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.82
+    },
+    "cambra": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.54
+    },
+    "proxims": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "mesos": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.47
+    },
+    "sanitaria": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "fet": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.99
+    },
+    "tornes": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "introduir": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "cirurgia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "part": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.85
+    },
+    "tractament": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "tuberculosi": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.18
+    },
+    "TB": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.14
+    },
+    "reunit": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.95
+    },
+    "comite": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.18
+    },
+    "OMS": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "ginebra": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.23
+    },
+    "llei": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.44
+    },
+    "suport": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.35
+    },
+    "PSC": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.69
+    },
+    "PP": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.27
+    },
+    "habitacional": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "fase": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.0
+    },
+    "passat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.53
+    },
+    "pla": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.44
+    },
+    "PROCICAT": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "posar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.58
+    },
+    "marxa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.9
+    },
+    "protocol": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "segons": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.68
+    },
+    "enpetrol": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "cap": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.79
+    },
+    "minuts": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.86
+    },
+    "atemptat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1667,
+    0.0,
+    2.0794415416798357
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/emergencia.json"
+}

@@ -1,0 +1,39 @@
+{
+  "concept": "electroestatica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "generar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "descarregues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "electriques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "sotmetre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "gasos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "maquina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/electroestatica.json"
+}
