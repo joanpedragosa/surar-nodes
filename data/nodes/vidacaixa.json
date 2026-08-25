@@ -1,0 +1,86 @@
+{
+  "concept": "vidacaixa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "primes": 0.5,
+    "primer": 0.5
+  },
+  "bayesian_context": {
+    "import": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "comercialitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "primes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "aportacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "primers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "mesos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "milions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "ascendeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "benefici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "net": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "consolidat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "registrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "primer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "semestre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vidacaixa.json"
+}

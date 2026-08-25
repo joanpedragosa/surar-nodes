@@ -1,0 +1,217 @@
+{
+  "concept": "votants",
+  "frequency": 9,
+  "edges": [],
+  "markov_transitions": {
+    "abstenir": 0.1111,
+    "centres": 0.1111,
+    "facen": 0.1111,
+    "tradicionalment": 0.1111,
+    "barcelona": 0.1111,
+    "dia": 0.1111,
+    "federal": 0.1111,
+    "principat": 0.1111,
+    "mostrar": 0.1111
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.22
+    },
+    "abstenir": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "membre": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.79
+    },
+    "partit_popular": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.29
+    },
+    "vestits": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "centres": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.96
+    },
+    "electorals": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.14
+    },
+    "roba": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "tradicional": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "sol": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.08
+    },
+    "licitat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.82
+    },
+    "bonig": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "facen": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "quatre": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.01
+    },
+    "preguntes": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.23
+    },
+    "apunten": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "tradicionalment": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "poder": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.15
+    },
+    "votar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.64
+    },
+    "oficines": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "estatals": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "ciutat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.84
+    },
+    "registra": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "augment": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.99
+    },
+    "barcelona": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.69
+    },
+    "poden": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.07
+    },
+    "exercir": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "vot": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.73
+    },
+    "anticipat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "dia": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.83
+    },
+    "assenyalat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "financament": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.77
+    },
+    "reben": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "estats": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.61
+    },
+    "fer": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.38
+    },
+    "mes": {
+      "likelihood": 0.0074,
+      "posterior_boost": 2.56
+    },
+    "facil": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "registre": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "federal": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "principat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.87
+    },
+    "sis": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.23
+    },
+    "punts": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.71
+    },
+    "percentuals": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "percentatge": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.64
+    },
+    "mostrar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.96
+    },
+    "favor": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.69
+    },
+    "independencia": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.42
+    },
+    "eleccions": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.01
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.11109999999999999,
+    0.0,
+    2.302585092994046
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/votants.json"
+}

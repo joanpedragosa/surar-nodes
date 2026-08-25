@@ -1,0 +1,82 @@
+{
+  "concept": "xavier_miserachs",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "despres": 0.5,
+    "ricard": 0.5
+  },
+  "bayesian_context": {
+    "celebrar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "actes": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.27
+    },
+    "exposicions": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.95
+    },
+    "honor": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.77
+    },
+    "despres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "mort": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "fer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.84
+    },
+    "primera": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.37
+    },
+    "exposicio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.91
+    },
+    "reunia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "fotografies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "ricard": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "terre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "ramon_masats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "celebrat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/xavier_miserachs.json"
+}

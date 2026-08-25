@@ -1,0 +1,41 @@
+{
+  "concept": "xapar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "escultura": 1.0
+  },
+  "bayesian_context": {
+    "material": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "escultura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "santa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "maria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    },
+    "reformar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "argent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/xapar.json"
+}

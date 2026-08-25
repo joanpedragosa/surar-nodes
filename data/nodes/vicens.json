@@ -1,0 +1,50 @@
+{
+  "concept": "vicens",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "carles_pi": 0.5,
+    "annales": 0.5
+  },
+  "bayesian_context": {
+    "encarregar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "projecte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "encapcalar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "carles_pi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "sunyer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "criteris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "seguir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "annales": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vicens.json"
+}

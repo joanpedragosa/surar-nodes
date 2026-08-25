@@ -1,0 +1,57 @@
+{
+  "concept": "xavier_barral",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "convertir": 1.0
+  },
+  "bayesian_context": {
+    "esdevenir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "director": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "museu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "objectiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "convertir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "MNAC": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "louvre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "catala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/xavier_barral.json"
+}

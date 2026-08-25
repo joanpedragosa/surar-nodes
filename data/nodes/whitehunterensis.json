@@ -1,0 +1,66 @@
+{
+  "concept": "whitehunterensis",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "oligoce": 0.5,
+    "arribada": 0.5
+  },
+  "bayesian_context": {
+    "visque": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "mekosuchus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "oligoce": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "queensland": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "probablement": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "extincio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "arribada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "humans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "regio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "habitava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/whitehunterensis.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "wilfried_menghin",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fotografies": 1.0
+  },
+  "bayesian_context": {
+    "veure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "fotografies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "disc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "celeste": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "rebre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/wilfried_menghin.json"
+}

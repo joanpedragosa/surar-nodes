@@ -1,0 +1,37 @@
+{
+  "concept": "villegas",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "juan_izquierdo": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "pare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "ana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "juan_izquierdo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "casar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/villegas.json"
+}

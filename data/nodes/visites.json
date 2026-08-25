@@ -1,0 +1,382 @@
+{
+  "concept": "visites",
+  "frequency": 15,
+  "edges": [],
+  "markov_transitions": {
+    "pagament": 0.0714,
+    "gratuites": 0.0714,
+    "interns": 0.0714,
+    "programades": 0.0714,
+    "ONG": 0.0714,
+    "pastorals": 0.0714,
+    "comentades": 0.0714,
+    "presos": 0.0714,
+    "xammar": 0.0714,
+    "membres": 0.0714,
+    "ebibliocat": 0.0714,
+    "domicili": 0.0714,
+    "youtube": 0.0714,
+    "fer": 0.0714
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.88
+    },
+    "fer": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.63
+    },
+    "pagament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "turistes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "gratuites": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "estudiants": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.67
+    },
+    "especialistes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "entitats": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.65
+    },
+    "sense": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.3
+    },
+    "anim": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "lucre": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "limiten": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "interns": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "CIE": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "aluche": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.85
+    },
+    "persones": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.77
+    },
+    "demanin": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "expressament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "ser": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.01
+    },
+    "visitades": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "suspes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.9
+    },
+    "conselleria": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "programades": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "canviat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "previ": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "avis": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "direccio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.31
+    },
+    "condicions": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.55
+    },
+    "dur": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.51
+    },
+    "terme": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.04
+    },
+    "ONG": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.45
+    },
+    "implicaven": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "pastorals": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "correccio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "accio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.26
+    },
+    "legislativa": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "inspeccio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "seguiment": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "organitza": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.7
+    },
+    "servei": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.35
+    },
+    "museus": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "hamburg": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "comentades": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "guanyar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.33
+    },
+    "museu": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.14
+    },
+    "anys": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.39
+    },
+    "reputacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "pensa": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.67
+    },
+    "joan_tarda": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "estaria": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "comitiva": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "presos": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.17
+    },
+    "politics": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.97
+    },
+    "contribuir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "normalitzar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "injusticia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "sovintejar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "xammar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.65
+    },
+    "pla": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.11
+    },
+    "llofriu": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "granollers": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "peticio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.62
+    },
+    "fet": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.66
+    },
+    "magistrada": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "jutjat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.39
+    },
+    "instruccio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.7
+    },
+    "numero": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.4
+    },
+    "madrid": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.22
+    },
+    "director": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.42
+    },
+    "restringeixi": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "membres": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.11
+    },
+    "augmentat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "ebibliocat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "utilitzava": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.62
+    },
+    "rosendo_ribeiro": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "zebra": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "muntura": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "domicili": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "quantes": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.59
+    },
+    "youtube": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "generar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "anunci": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "primera": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.68
+    },
+    "setmana": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.18
+    },
+    "milions": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.83
+    },
+    "policia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.26
+    },
+    "satti": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "tres": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.53
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0714,
+    0.0,
+    2.772588722239781
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/visites.json"
+}

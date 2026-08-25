@@ -1,0 +1,42 @@
+{
+  "concept": "villaroya",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "montsia": 0.5,
+    "academia": 0.5
+  },
+  "bayesian_context": {
+    "venir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "montsia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "exercit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "ingressar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "academia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "aire": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/villaroya.json"
+}

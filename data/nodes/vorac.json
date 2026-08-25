@@ -1,0 +1,33 @@
+{
+  "concept": "vorac",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "gat": 1.0
+  },
+  "bayesian_context": {
+    "depredador": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "ratpenats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "gat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vorac.json"
+}

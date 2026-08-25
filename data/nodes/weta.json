@@ -1,0 +1,81 @@
+{
+  "concept": "weta",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "usar": 1.0
+  },
+  "bayesian_context": {
+    "equip": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "usar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "fons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "accio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "canviar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "cara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "digital": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "causa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "dificultat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "suposava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "articular": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "rostre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "marioneta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "barbarbrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "treballava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "steven_regelous": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/weta.json"
+}

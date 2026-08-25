@@ -1,0 +1,65 @@
+{
+  "concept": "vocacio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "canvi": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "quedi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "clar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "CUP": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "proces": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "independencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "irreversible": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "constituent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "clara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "canvi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "social": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/vocacio.json"
+}

@@ -1,0 +1,58 @@
+{
+  "concept": "westinghouse",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cap": 0.5,
+    "museu_nacional": 0.5
+  },
+  "bayesian_context": {
+    "associat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cartell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "dones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "anomenades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "rosie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "exposar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "cartells": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "museu_nacional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "historia_americana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/westinghouse.json"
+}

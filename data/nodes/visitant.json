@@ -1,0 +1,37 @@
+{
+  "concept": "visitant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "passaven": 1.0
+  },
+  "bayesian_context": {
+    "mostrava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "passaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cursor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "enllacos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "eslogan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/visitant.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "winterstein",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "comenta": 1.0
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.68
+    },
+    "comenta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "comissio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "processos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "judicials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/winterstein.json"
+}

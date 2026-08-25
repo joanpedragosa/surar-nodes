@@ -1,0 +1,35 @@
+{
+  "concept": "växjö",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "institut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "ensenyament_secundari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "enviat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "linne": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/växjö.json"
+}
