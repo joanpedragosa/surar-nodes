@@ -1,0 +1,37 @@
+{
+  "concept": "conveni_col",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lectiu": 1.0
+  },
+  "bayesian_context": {
+    "planta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "signa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "avui": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "lectiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "ford_almussafes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/conveni_col.json"
+}

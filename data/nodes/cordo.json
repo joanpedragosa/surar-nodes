@@ -1,0 +1,53 @@
+{
+  "concept": "cordo",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mossos": 1.0
+  },
+  "bayesian_context": {
+    "quedar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "rodejats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "participants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "manifestacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "falange": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "mossos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "esquadra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "colla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "manifestants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cordo.json"
+}

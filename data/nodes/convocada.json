@@ -1,0 +1,187 @@
+{
+  "concept": "convocada",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "publicament": 0.125,
+    "manifestacio": 0.125,
+    "avui": 0.125,
+    "concentracio": 0.125,
+    "aturada": 0.125,
+    "pedro": 0.125,
+    "vaga": 0.25
+  },
+  "bayesian_context": {
+    "publicament": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "reunio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.39
+    },
+    "pedro": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.65
+    },
+    "sanchez": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.42
+    },
+    "quim_torra": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.48
+    },
+    "govern": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.77
+    },
+    "expressat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "voluntat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "trobada": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "fes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "lluny": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "focus": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "mediatics": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "pressio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.74
+    },
+    "manifestacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.63
+    },
+    "jardinets": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "gracia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.84
+    },
+    "hora": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.64
+    },
+    "avui": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.2
+    },
+    "mesa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.78
+    },
+    "deu": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.04
+    },
+    "concentracio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.69
+    },
+    "dissabte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "dotze": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.8
+    },
+    "migdia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "aturada": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "servei": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.62
+    },
+    "aeroport": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.87
+    },
+    "prat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "cap": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.74
+    },
+    "setmana": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.45
+    },
+    "se": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.66
+    },
+    "celebrara": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.8
+    },
+    "conferencia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.8
+    },
+    "presidents": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "dia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.18
+    },
+    "quedat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "vaga": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.74
+    },
+    "feminista": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "divendres": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.78
+    },
+    "maig": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.45
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.14285714285714285,
+    0.0,
+    2.1972245773362196
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/convocada.json"
+}

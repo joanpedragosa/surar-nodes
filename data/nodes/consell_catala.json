@@ -1,0 +1,49 @@
+{
+  "concept": "consell_catala",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "alimentacio": 1.0
+  },
+  "bayesian_context": {
+    "haura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "confeccionar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "pla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "estrategic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "laboracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "alimentacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/consell_catala.json"
+}

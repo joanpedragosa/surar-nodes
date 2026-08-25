@@ -1,0 +1,57 @@
+{
+  "concept": "corneta",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "quilometres": 1.0
+  },
+  "bayesian_context": {
+    "distancia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "poden": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "sentir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "sons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "quilometres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "nom": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    },
+    "coneixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "vocalitzacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fortes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "mascles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/corneta.json"
+}

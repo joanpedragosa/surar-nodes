@@ -1,0 +1,42 @@
+{
+  "concept": "consell_europeu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "charles_michel": 0.5,
+    "donald_tusk": 0.5
+  },
+  "bayesian_context": {
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.56
+    },
+    "president": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "charles_michel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "relleva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "carrec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "donald_tusk": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/consell_europeu.json"
+}

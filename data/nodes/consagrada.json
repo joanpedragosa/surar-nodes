@@ -1,0 +1,88 @@
+{
+  "concept": "consagrada",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "prevencio": 0.25,
+    "any": 0.25,
+    "catedral": 0.25,
+    "capella": 0.25
+  },
+  "bayesian_context": {
+    "apareix": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    },
+    "emissio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "televisio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "prevencio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "cancer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "mama": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "tactic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "ser": {
+      "likelihood": 0.025,
+      "posterior_boost": 3.02
+    },
+    "segona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.66
+    },
+    "catedral": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.14
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "sant_just": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "epoca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.55
+    },
+    "romanica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "capella": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "hospici": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "desembre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.76
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/consagrada.json"
+}

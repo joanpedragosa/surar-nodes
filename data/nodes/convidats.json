@@ -1,0 +1,96 @@
+{
+  "concept": "convidats",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "bohuš": 0.25,
+    "emprendre": 0.25,
+    "pares": 0.25,
+    "protagonistes": 0.25
+  },
+  "bayesian_context": {
+    "mana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "comte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "davant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.64
+    },
+    "bohuš": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "sigui": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.88
+    },
+    "tret": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "preso": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.57
+    },
+    "poden": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.42
+    },
+    "fer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.72
+    },
+    "emprendre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "marxa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "pares": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "bridget_jones": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "noces": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "rubi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "darcy": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "protagonistes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "coronacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "carles_x": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/convidats.json"
+}

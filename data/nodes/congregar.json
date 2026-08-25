@@ -1,0 +1,74 @@
+{
+  "concept": "congregar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "public": 0.5,
+    "mestres": 0.5
+  },
+  "bayesian_context": {
+    "public": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "fabrica_fabra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "coats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "mestres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "alumnes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "membres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "sindicats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "ensenyament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "representants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "politics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "davant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "prefectura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "perpinya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "dimecres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/congregar.json"
+}

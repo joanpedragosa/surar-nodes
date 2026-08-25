@@ -1,0 +1,108 @@
+{
+  "concept": "controla",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "meteorologia": 0.25,
+    "mobiliari": 0.25,
+    "completament": 0.25,
+    "ministeri": 0.25
+  },
+  "bayesian_context": {
+    "meteorologia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "municipi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "servei": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    },
+    "tortella": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "SMT": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "mobiliari": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "urba": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "barcelona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.04
+    },
+    "ajuntament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    },
+    "afirma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "rei": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.49
+    },
+    "completament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "pais": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.61
+    },
+    "cinq": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "mars": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "ministeri": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "montoro": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "comptes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "generalitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.47
+    },
+    "setembre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.62
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "passat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/controla.json"
+}

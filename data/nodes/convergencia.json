@@ -1,0 +1,49 @@
+{
+  "concept": "convergencia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "unio": 1.0
+  },
+  "bayesian_context": {
+    "governat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "unio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "partits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "politics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "generaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "disputes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ERC": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "hereus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/convergencia.json"
+}

@@ -1,0 +1,42 @@
+{
+  "concept": "constituira",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "crida": 0.3333,
+    "parlament_europeu": 0.6667
+  },
+  "bayesian_context": {
+    "crida": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "dissabte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "parlament_europeu": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.55
+    },
+    "dema": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "estrasburg": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "juliol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.87
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/constituira.json"
+}

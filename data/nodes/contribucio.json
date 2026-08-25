@@ -1,0 +1,58 @@
+{
+  "concept": "contribucio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "album": 0.5,
+    "conjunta": 0.5
+  },
+  "bayesian_context": {
+    "menyspreava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "album": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "alan_parsons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "waters": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "gilmour": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "conjunta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "dos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "sexes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "desenvolupament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "descendent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/contribucio.json"
+}

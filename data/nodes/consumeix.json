@@ -1,0 +1,91 @@
+{
+  "concept": "consumeix",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "rorqual": 0.3333,
+    "regularitat": 0.3333,
+    "model": 0.3333
+  },
+  "bayesian_context": {
+    "rorqual": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "mes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.73
+    },
+    "krill": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "peixos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "crustacis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "sipies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "petits": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "carn": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "regularitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "uruguai": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "bovina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "ovina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "porcina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "model": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "canvi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.93
+    },
+    "manual": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "litres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "km": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/consumeix.json"
+}

@@ -1,0 +1,53 @@
+{
+  "concept": "conforme",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "practica": 1.0
+  },
+  "bayesian_context": {
+    "suggerit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "recentment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "schubert": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "practica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "contemporania": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "estandard": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "il": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "lustracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "catolica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/conforme.json"
+}

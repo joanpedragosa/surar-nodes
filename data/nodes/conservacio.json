@@ -1,0 +1,112 @@
+{
+  "concept": "conservacio",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "bo": 0.25,
+    "natura": 0.25,
+    "troben": 0.25,
+    "claustre": 0.25
+  },
+  "bayesian_context": {
+    "reintroduida": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "subespecie": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "uapiti": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.65
+    },
+    "regio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.89
+    },
+    "apalatxia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "organitzacions": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "caca": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "bo": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.65
+    },
+    "classifica": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "unio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.37
+    },
+    "internacional": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.87
+    },
+    "natura": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.91
+    },
+    "UICN": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "especie": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.58
+    },
+    "vulnerable": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "troben": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.81
+    },
+    "fossils": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "bon": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "mans": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.72
+    },
+    "passar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.4
+    },
+    "claustre": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.89
+    },
+    "ajuntament": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.56
+    },
+    "palamos": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.9459101490553132
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/conservacio.json"
+}

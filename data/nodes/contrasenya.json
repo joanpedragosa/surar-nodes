@@ -1,0 +1,41 @@
+{
+  "concept": "contrasenya",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "correu": 1.0
+  },
+  "bayesian_context": {
+    "reben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "treballadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "instruccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "obtenir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "correu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "electronic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/contrasenya.json"
+}

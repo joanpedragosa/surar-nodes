@@ -1,0 +1,61 @@
+{
+  "concept": "contemporani",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "rogier": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "rogier": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "der": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "weyden": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "jan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "eyck": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "anomena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "mostra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "punk": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "rastres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "art": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.74
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/contemporani.json"
+}

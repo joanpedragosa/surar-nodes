@@ -1,0 +1,37 @@
+{
+  "concept": "copin",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "holanda": 1.0
+  },
+  "bayesian_context": {
+    "tallar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "angels": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "dessota": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "guardapols": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "holanda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/copin.json"
+}
