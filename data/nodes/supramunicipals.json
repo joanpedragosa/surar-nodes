@@ -1,0 +1,98 @@
+{
+  "concept": "supramunicipals",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "PSC": 0.5,
+    "ERC": 0.5
+  },
+  "bayesian_context": {
+    "demanen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "diputats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.92
+    },
+    "independents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "jxcat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "document": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "intern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "enviat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "revertir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "acords": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "municipals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "PSC": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "partit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "politic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "sera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "pdecat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "soci": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "preferencial": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "hora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "ERC": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/supramunicipals.json"
+}

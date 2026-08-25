@@ -1,0 +1,53 @@
+{
+  "concept": "suburba",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "barcelona": 1.0
+  },
+  "bayesian_context": {
+    "fet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.83
+    },
+    "resso": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "mitjans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "locals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "internacionals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "nombre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "robatoris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/suburba.json"
+}

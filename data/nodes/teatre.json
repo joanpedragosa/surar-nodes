@@ -1,0 +1,924 @@
+{
+  "concept": "teatre",
+  "frequency": 51,
+  "edges": [],
+  "markov_transitions": {
+    "unic": 0.0213,
+    "hugo": 0.0426,
+    "brno": 0.0213,
+    "musical": 0.0426,
+    "opera": 0.0426,
+    "rossini": 0.0213,
+    "excepcional": 0.0213,
+    "singularissims": 0.0213,
+    "tradicio": 0.0213,
+    "exit": 0.0213,
+    "artesania": 0.0213,
+    "jugar": 0.0213,
+    "ciutat": 0.0213,
+    "santa_creu": 0.0426,
+    "liceu": 0.0213,
+    "la_fenice": 0.0213,
+    "rialto": 0.0213,
+    "rainbow": 0.0213,
+    "epidaure": 0.0213,
+    "recomana": 0.0213,
+    "estrenar": 0.1702,
+    "arribar": 0.0213,
+    "intenta": 0.0213,
+    "beaumarchais": 0.0213,
+    "impregnada": 0.0213,
+    "burges": 0.0213,
+    "barcelona": 0.0213,
+    "presentar": 0.0213,
+    "fer": 0.0213,
+    "bolxoi": 0.0213,
+    "possiblement": 0.0213,
+    "assistir": 0.0213,
+    "era": 0.0213,
+    "fou": 0.0213,
+    "compondre": 0.0213,
+    "corso": 0.0213
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0007,
+      "posterior_boost": 1.63
+    },
+    "guardaespatlles": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "voltaven": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "unic": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.88
+    },
+    "vist": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.77
+    },
+    "hugo": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.32
+    },
+    "censura": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.24
+    },
+    "ser": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.17
+    },
+    "interpretada": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "cor_beseda": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "brno": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.72
+    },
+    "orquestra_nacional": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "formaven": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.62
+    },
+    "part": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.03
+    },
+    "jurat": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.28
+    },
+    "premi": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.88
+    },
+    "lletra": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.42
+    },
+    "or": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.68
+    },
+    "poetes": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "novel": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.88
+    },
+    "listes": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "periodistes": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.24
+    },
+    "literaris": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "gent": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.61
+    },
+    "figura": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.63
+    },
+    "important": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.96
+    },
+    "musical": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.26
+    },
+    "periode": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.43
+    },
+    "entreguerres": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "martinů": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.24
+    },
+    "compositor": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.02
+    },
+    "considerar": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.02
+    },
+    "se": {
+      "likelihood": 0.0007,
+      "posterior_boost": 1.9
+    },
+    "celebritat": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "prolific": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "febril": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "accio": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.73
+    },
+    "conquerir": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.28
+    },
+    "mes": {
+      "likelihood": 0.0007,
+      "posterior_boost": 1.62
+    },
+    "opera": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.58
+    },
+    "millor": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.79
+    },
+    "era": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.27
+    },
+    "considerat": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.86
+    },
+    "avancat": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.54
+    },
+    "caracteristiques": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.32
+    },
+    "literaries": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "teatrals": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.62
+    },
+    "rossini": {
+      "likelihood": 0.0046,
+      "posterior_boost": 3.08
+    },
+    "fer": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.24
+    },
+    "primers": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.67
+    },
+    "passos": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.47
+    },
+    "importants": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.81
+    },
+    "petit": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.91
+    },
+    "ambient": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.28
+    },
+    "excepcional": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.72
+    },
+    "escrita": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.14
+    },
+    "partitura": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.21
+    },
+    "jenůfa": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.37
+    },
+    "domini": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.72
+    },
+    "recursos": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.07
+    },
+    "orquestrals": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "coneixement": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.21
+    },
+    "singularissims": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "menotti": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.62
+    },
+    "home": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.75
+    },
+    "instintiu": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "antaviana": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.84
+    },
+    "obra": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.31
+    },
+    "barreja": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.62
+    },
+    "trama": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.92
+    },
+    "llenguatge": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.24
+    },
+    "modern": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.21
+    },
+    "solucions": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.37
+    },
+    "recorden": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.84
+    },
+    "tradicio": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.02
+    },
+    "italiana": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.98
+    },
+    "fet": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.15
+    },
+    "guanyar": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.81
+    },
+    "tancredi": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.42
+    },
+    "exit": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.16
+    },
+    "notable": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.47
+    },
+    "notes": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.54
+    },
+    "pianissimo": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "tenen": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.2
+    },
+    "grans": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.58
+    },
+    "acords": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.12
+    },
+    "establir": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.0
+    },
+    "silenci": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.84
+    },
+    "sala": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.76
+    },
+    "combinava": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "sentit": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.09
+    },
+    "segur": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.54
+    },
+    "artesania": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "do": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "melodia": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.62
+    },
+    "orquestracio": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "convidava": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "concerts": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.84
+    },
+    "jugar": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.47
+    },
+    "estrenar": {
+      "likelihood": 0.0092,
+      "posterior_boost": 3.55
+    },
+    "equivoco": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.42
+    },
+    "stravagante": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.47
+    },
+    "ciutat": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.11
+    },
+    "natal": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.62
+    },
+    "santa_creu": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "barcelona": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.43
+    },
+    "mori": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.72
+    },
+    "merma": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "liceu": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.92
+    },
+    "ernani": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.47
+    },
+    "la_fenice": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.84
+    },
+    "venecia": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.34
+    },
+    "residia": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.84
+    },
+    "interpret": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.84
+    },
+    "auguste": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "von": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.28
+    },
+    "muller": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "weimar": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "joan": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.88
+    },
+    "ribo": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.24
+    },
+    "sandra": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "gomez": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.37
+    },
+    "rialto": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "llancament": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.47
+    },
+    "oficial": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.12
+    },
+    "dark_side": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "of": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.77
+    },
+    "the": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.83
+    },
+    "moon": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.72
+    },
+    "rainbow": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "forma": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.21
+    },
+    "font": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.88
+    },
+    "rambla": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.72
+    },
+    "santa_monica": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "epidaure": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "recomana": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.54
+    },
+    "empar_moliner": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.72
+    },
+    "albert_boadella": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "cel": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.45
+    },
+    "plom": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.47
+    },
+    "presentar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.65
+    },
+    "primera": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.46
+    },
+    "vegada": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.77
+    },
+    "maig": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.66
+    },
+    "cambiale": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "di": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.91
+    },
+    "matrimonio": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "teatro_san": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.84
+    },
+    "moise": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.84
+    },
+    "arribar": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.42
+    },
+    "catalunya": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.25
+    },
+    "gran_teatre": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "intenta": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.32
+    },
+    "contracte": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.24
+    },
+    "jove": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.59
+    },
+    "primavera": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.24
+    },
+    "teatre_reial": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "dramatic": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.47
+    },
+    "estocolm": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.72
+    },
+    "carlo": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.84
+    },
+    "mozart": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.62
+    },
+    "dirigis": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "atencio": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.12
+    },
+    "cap": {
+      "likelihood": 0.0007,
+      "posterior_boost": 1.97
+    },
+    "beaumarchais": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.84
+    },
+    "barbier": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.84
+    },
+    "paisiello": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.42
+    },
+    "impregnada": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.62
+    },
+    "vanessa": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.51
+    },
+    "burges": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.32
+    },
+    "tarda": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.39
+    },
+    "ibsen": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.62
+    },
+    "strindberg": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.62
+    },
+    "la_monyos": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "teatre_circ": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "barcelones": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "primer": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.1
+    },
+    "acte": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.42
+    },
+    "saint": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.21
+    },
+    "saëns": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.28
+    },
+    "theatre": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.92
+    },
+    "du": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.32
+    },
+    "chatelet": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "paris": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.78
+    },
+    "estrena": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.6
+    },
+    "mundial": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.89
+    },
+    "embassy_theatre": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "anglaterra": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.28
+    },
+    "king": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "noia": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.26
+    },
+    "neu": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.77
+    },
+    "moscou": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.62
+    },
+    "bolxoi": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.62
+    },
+    "possiblement": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.62
+    },
+    "macbeth": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.62
+    },
+    "globe_theatre": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "assistir": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.21
+    },
+    "president": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.27
+    },
+    "dama": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.62
+    },
+    "teatre_ford": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.02
+    },
+    "milanes": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "fou": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.69
+    },
+    "contractat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.02
+    },
+    "teatro": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.62
+    },
+    "corso": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.02
+    },
+    "teatre_mahen": {
+      "likelihood": 0.0007,
+      "posterior_boost": 4.32
+    },
+    "compondre": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.83
+    },
+    "obres": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.14
+    },
+    "napols": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.0
+    },
+    "temporada": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.04
+    },
+    "tardor": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.47
+    },
+    "posada": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.47
+    },
+    "escena": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.44
+    },
+    "gazza": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.54
+    },
+    "ladra": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.54
+    },
+    "pesaro": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.84
+    },
+    "inauguracio": {
+      "likelihood": 0.0007,
+      "posterior_boost": 3.54
+    },
+    "nou": {
+      "likelihood": 0.0007,
+      "posterior_boost": 2.18
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.02780277777777777,
+    0.0,
+    3.9512437185814275
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/teatre.json"
+}

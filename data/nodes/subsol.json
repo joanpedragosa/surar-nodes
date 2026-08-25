@@ -1,0 +1,49 @@
+{
+  "concept": "subsol",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "blocs": 1.0
+  },
+  "bayesian_context": {
+    "format": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "blocs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "pedra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "encallava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "tuneladora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "presencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "aigua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "canvis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/subsol.json"
+}

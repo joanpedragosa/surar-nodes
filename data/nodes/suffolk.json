@@ -1,0 +1,57 @@
+{
+  "concept": "suffolk",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "paisatge": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "britten": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "sentis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "forta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "connexio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "paisatge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "mari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "atmosfera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "poble": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "pesquer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/suffolk.json"
+}

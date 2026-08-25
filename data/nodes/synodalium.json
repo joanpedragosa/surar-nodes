@@ -1,0 +1,41 @@
+{
+  "concept": "synodalium",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tarraconensium": 1.0
+  },
+  "bayesian_context": {
+    "publica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "constitucions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "sinodes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "constitutionum": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "tarraconensium": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/synodalium.json"
+}

@@ -1,0 +1,90 @@
+{
+  "concept": "tanquin",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "empresa_metropolitana": 0.5,
+    "col": 0.5
+  },
+  "bayesian_context": {
+    "enviat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "escrit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "empresa_metropolitana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "transports": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "consell_agrari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "municipal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "cristobal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "montoro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "permes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "franca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "col": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "legis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "electorals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "vuit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "tarda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "publicar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "cap": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "sondatge": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tanquin.json"
+}

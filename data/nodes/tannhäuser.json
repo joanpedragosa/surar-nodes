@@ -1,0 +1,38 @@
+{
+  "concept": "tannhäuser",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vida": 0.5,
+    "barcelona": 0.5
+  },
+  "bayesian_context": {
+    "remordiments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.78
+    },
+    "passada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "arribar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tannhäuser.json"
+}

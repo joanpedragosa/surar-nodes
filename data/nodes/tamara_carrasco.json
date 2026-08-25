@@ -1,0 +1,46 @@
+{
+  "concept": "tamara_carrasco",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "benet_salellas": 0.5,
+    "catorze": 0.5
+  },
+  "bayesian_context": {
+    "advocat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "benet_salellas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "temps": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.62
+    },
+    "tancada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "casa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "catorze": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "mesos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tamara_carrasco.json"
+}

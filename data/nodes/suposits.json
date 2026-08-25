@@ -1,0 +1,78 @@
+{
+  "concept": "suposits",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "delegar": 0.5,
+    "segons": 0.5
+  },
+  "bayesian_context": {
+    "article": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    },
+    "reglament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "estableixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "delegar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "vot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "permeten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "baixa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "maternitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "paternitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "hospitalitzacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "malaltia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "greu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "incapacitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "perllongada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/suposits.json"
+}

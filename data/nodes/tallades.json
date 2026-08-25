@@ -1,0 +1,45 @@
+{
+  "concept": "tallades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "civilitzacio": 1.0
+  },
+  "bayesian_context": {
+    "representaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "general": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "escultures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "civilitzacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "egipcia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "divinitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "mitologiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tallades.json"
+}

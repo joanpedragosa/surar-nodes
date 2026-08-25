@@ -1,0 +1,45 @@
+{
+  "concept": "subdominant",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dominant": 1.0
+  },
+  "bayesian_context": {
+    "basada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "harmonia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "musica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "classica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "cadencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "tonica": {
+      "likelihood": 0.0667,
+      "posterior_boost": 6.03
+    },
+    "dominant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/subdominant.json"
+}

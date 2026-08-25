@@ -1,0 +1,62 @@
+{
+  "concept": "tangent",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "punt": 0.5,
+    "dues": 0.5
+  },
+  "bayesian_context": {
+    "circumferencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "punt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "tres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "circumferencies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "resolutoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "solucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "transformada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "recta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "dues": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.57
+    },
+    "donades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "transformades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tangent.json"
+}
