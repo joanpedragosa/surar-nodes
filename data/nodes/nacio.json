@@ -1,0 +1,118 @@
+{
+  "concept": "nacio",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "catalana": 0.5,
+    "sense": 0.5
+  },
+  "bayesian_context": {
+    "proclama": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "arenys": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "munt": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "primer": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    },
+    "municipi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "votat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "lliurement": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "democraticament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "independencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "catalana": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.93
+    },
+    "dir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.92
+    },
+    "eugene": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "bauharnais": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "salvaven": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "ministre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "interior": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.92
+    },
+    "geni": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "titol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "duia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "editorial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "publicar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "els_marges": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "sense": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.0
+    },
+    "poble": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.02
+    },
+    "llengua": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nacio.json"
+}

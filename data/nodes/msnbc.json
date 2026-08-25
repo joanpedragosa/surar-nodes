@@ -1,0 +1,54 @@
+{
+  "concept": "MSNBC",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "the": 0.5,
+    "situar": 0.5
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "llista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "the": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "best_rock": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "bands_ever": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "situar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "pink_floyd": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "vuitena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "posicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/msnbc.json"
+}

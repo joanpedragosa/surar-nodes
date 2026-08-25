@@ -1,0 +1,33 @@
+{
+  "concept": "my_name",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "is_rachel": 1.0
+  },
+  "bayesian_context": {
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "estrenar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "is_rachel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "corrie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/my_name.json"
+}

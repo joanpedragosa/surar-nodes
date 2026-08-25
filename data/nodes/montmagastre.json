@@ -1,0 +1,57 @@
+{
+  "concept": "montmagastre",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "formar": 1.0
+  },
+  "bayesian_context": {
+    "associada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "historia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "baronia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "passa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "formar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "municipi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "anya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "edat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "mitjana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/montmagastre.json"
+}

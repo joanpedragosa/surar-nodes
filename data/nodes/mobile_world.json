@@ -1,0 +1,73 @@
+{
+  "concept": "mobile_world",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "congress": 1.0
+  },
+  "bayesian_context": {
+    "iniciat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "visita": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "institucional": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "congress": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "fotografia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "protocol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "laria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "lligada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "inauguracio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "eludit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "felipe": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "VI": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.23
+    },
+    "pavello": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "catalunya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/mobile_world.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "motllures",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "reforcaven": 1.0
+  },
+  "bayesian_context": {
+    "servien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "vegada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "reforcaven": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "planxes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "ornamentacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/motllures.json"
+}

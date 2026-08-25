@@ -1,0 +1,90 @@
+{
+  "concept": "modernes",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "desdentades": 0.5,
+    "cinturons": 0.5
+  },
+  "bayesian_context": {
+    "aus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "desdentades": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "indica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "grau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "arts": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.95
+    },
+    "marcials": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.12
+    },
+    "cinturons": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "color": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.63
+    },
+    "disposava": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "principis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "decada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "previsions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "documentacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "aplica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "major": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "distincio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "jerarquitzacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "antiguitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/modernes.json"
+}

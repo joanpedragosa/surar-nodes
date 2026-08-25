@@ -1,0 +1,62 @@
+{
+  "concept": "multiplicar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "marcs": 0.5,
+    "arrel": 0.5
+  },
+  "bayesian_context": {
+    "aconsegueix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "marcs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "volta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "elements": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "arquitectonics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "simulats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "botons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "requereix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "metode": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "arrel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "quadrada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/multiplicar.json"
+}

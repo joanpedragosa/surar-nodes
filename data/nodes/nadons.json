@@ -1,0 +1,58 @@
+{
+  "concept": "nadons",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "guiar": 0.5,
+    "higiene": 0.5
+  },
+  "bayesian_context": {
+    "havien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "padrins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "guiar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "los": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "vida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.78
+    },
+    "cristiana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "utilitza": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "talc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "higiene": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/nadons.json"
+}
