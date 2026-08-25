@@ -1,0 +1,35 @@
+{
+  "concept": "castellana",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "funcio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "real_academia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "espanola": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "regular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "llengua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/castellana.json"
+}

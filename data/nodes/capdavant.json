@@ -1,0 +1,91 @@
+{
+  "concept": "capdavant",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "partit": 0.25,
+    "exercit": 0.5,
+    "regidoria": 0.25
+  },
+  "bayesian_context": {
+    "volen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.59
+    },
+    "continuitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "partit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    },
+    "inscrits": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "podem": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.45
+    },
+    "pablo_iglesias": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "irene_montero": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "arriba": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "exercit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "soldats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "anglesos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "malcolm": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "regidoria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "marc_serra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "drets": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    },
+    "ciutadania": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "dimitrij": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "polones": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/capdavant.json"
+}

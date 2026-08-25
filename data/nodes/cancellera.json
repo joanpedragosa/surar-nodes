@@ -1,0 +1,58 @@
+{
+  "concept": "cancellera",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "alemanya": 0.5,
+    "negligents": 0.5
+  },
+  "bayesian_context": {
+    "alemanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "angela_merkel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "serien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "membres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "parlament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.67
+    },
+    "alemany": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "intentaren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "grecia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "negligents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cancellera.json"
+}

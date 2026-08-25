@@ -1,0 +1,69 @@
+{
+  "concept": "capital_mundial",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "disseny": 1.0
+  },
+  "bayesian_context": {
+    "ciutat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "disputa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "valencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "disseny": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "bangalore": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "institucions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "recolzen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "candidatura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "valenciana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "ajuntament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "generalitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.77
+    },
+    "fira_valencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/capital_mundial.json"
+}

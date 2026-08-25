@@ -1,0 +1,66 @@
+{
+  "concept": "cat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "futur": 0.5,
+    "la_plataforma": 0.5
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "garantir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "la_plataforma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "llengua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "campanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "volemvolar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "futur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "catala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "ciutat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "sarda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ONG": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "impulsa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cat.json"
+}

@@ -1,0 +1,41 @@
+{
+  "concept": "causae",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mateu": 1.0
+  },
+  "bayesian_context": {
+    "comenca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "breves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "mateu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "nativitas_christi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "in": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "bethlem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/causae.json"
+}

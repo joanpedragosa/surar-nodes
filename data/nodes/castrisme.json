@@ -1,0 +1,58 @@
+{
+  "concept": "castrisme",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cuba": 0.5,
+    "cinquanta": 0.5
+  },
+  "bayesian_context": {
+    "JMWAVE": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "principal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "CIA": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "lluita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "cuba": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "durat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "etapa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "cinquanta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.56
+    },
+    "anys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/castrisme.json"
+}

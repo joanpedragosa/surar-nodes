@@ -1,0 +1,41 @@
+{
+  "concept": "casp",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "esglesia": 1.0
+  },
+  "bayesian_context": {
+    "estil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.03
+    },
+    "esglesia": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.36
+    },
+    "col": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.12
+    },
+    "legi": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.28
+    },
+    "jesuites": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.85
+    },
+    "carrer": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/casp.json"
+}

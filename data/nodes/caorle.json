@@ -1,0 +1,41 @@
+{
+  "concept": "caorle",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "models": 1.0
+  },
+  "bayesian_context": {
+    "models": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.15
+    },
+    "imiten": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "capitells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "catedral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    },
+    "antics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "corintis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/caorle.json"
+}

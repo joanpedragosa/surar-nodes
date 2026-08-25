@@ -1,0 +1,90 @@
+{
+  "concept": "CAP",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "lluis": 0.5,
+    "capella": 0.5
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "construir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "departament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "salut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.56
+    },
+    "lluis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "saye": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "raval_nord": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "prendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "veins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "treballadors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "capella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "misericordia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "denunciar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "inaccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "administracions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "partits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "politics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cap.json"
+}

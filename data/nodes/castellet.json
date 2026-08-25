@@ -1,0 +1,119 @@
+{
+  "concept": "castellet",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "ocorrer": 0.3333,
+    "sant_andreu": 0.3333,
+    "divendres": 0.3333
+  },
+  "bayesian_context": {
+    "feia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.91
+    },
+    "servei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "manresa": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.75
+    },
+    "sant_vicenc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "ocorrer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "accident": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "carretera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "ramals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "linia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.48
+    },
+    "martorell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "sant_andreu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "barca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "atorgar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "camins": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "ferro": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "nord": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.56
+    },
+    "est": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "espanya": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.59
+    },
+    "concessio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "ferrocarril": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "tornara": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "estar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.76
+    },
+    "funcionament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "tren": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "divendres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/castellet.json"
+}

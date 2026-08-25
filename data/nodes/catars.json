@@ -1,0 +1,70 @@
+{
+  "concept": "catars",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "designar": 0.5,
+    "catalunya": 0.5
+  },
+  "bayesian_context": {
+    "patir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.17
+    },
+    "dura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "persecucio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "feien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "servir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "expressio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "rex_mundi": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "designar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "governador": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "diable": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "cap": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.16
+    },
+    "escapar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "catalunya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/catars.json"
+}

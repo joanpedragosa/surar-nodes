@@ -1,0 +1,37 @@
+{
+  "concept": "cappella",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "giovanni": 1.0
+  },
+  "bayesian_context": {
+    "obres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "giovanni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "puresa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "complexitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cappella.json"
+}

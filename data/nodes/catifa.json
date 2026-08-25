@@ -1,0 +1,66 @@
+{
+  "concept": "catifa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vermella": 0.5,
+    "luxe": 0.5
+  },
+  "bayesian_context": {
+    "celebrar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "maine": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "retorn": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "smith": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "roses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "vermella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "limusina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "podria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "servit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "luxe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "tela": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/catifa.json"
+}

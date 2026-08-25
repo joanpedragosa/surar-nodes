@@ -1,0 +1,74 @@
+{
+  "concept": "carmen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "gomez": 0.5,
+    "bizet": 0.5
+  },
+  "bayesian_context": {
+    "enterrats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "afusellats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "gomez": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "manera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "indigna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "insolit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mezzo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "contralt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "assumeixi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "paper": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.9
+    },
+    "protagonista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "bizet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/carmen.json"
+}
