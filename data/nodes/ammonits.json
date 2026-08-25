@@ -1,0 +1,76 @@
+{
+  "concept": "ammonits",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "enrotllada": 0.25,
+    "conquilla": 0.25,
+    "cretaci": 0.25,
+    "cefalopodes": 0.25
+  },
+  "bayesian_context": {
+    "conquilla": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "presentaven": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "animals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.86
+    },
+    "pertanyents": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "taxon": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "enrotllada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "presenten": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "nautiloideus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "periode": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "desapareixer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "cretaci": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "grup": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.3
+    },
+    "pertanyen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "cefalopodes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ammonits.json"
+}

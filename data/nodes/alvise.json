@@ -1,0 +1,53 @@
+{
+  "concept": "alvise",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "assassinar": 1.0
+  },
+  "bayesian_context": {
+    "demanar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.91
+    },
+    "laura": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.0
+    },
+    "motiu": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "ironia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "cridar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "aviat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "moriria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "maquina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "assassinar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/alvise.json"
+}

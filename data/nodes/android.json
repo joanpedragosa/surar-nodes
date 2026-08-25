@@ -1,0 +1,37 @@
+{
+  "concept": "android",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "privats": 1.0
+  },
+  "bayesian_context": {
+    "facilita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "treballadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "professionals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "dispositius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "privats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/android.json"
+}

@@ -1,0 +1,50 @@
+{
+  "concept": "amenacats",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "UICN": 0.5,
+    "vegades": 0.5
+  },
+  "bayesian_context": {
+    "elabora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "llista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "primats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "UICN": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "vegades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "humans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "mamifers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/amenacats.json"
+}

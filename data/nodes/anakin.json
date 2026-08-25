@@ -1,0 +1,107 @@
+{
+  "concept": "anakin",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "palpatine": 0.25,
+    "darth_vader": 0.25,
+    "the_phantom": 0.5
+  },
+  "bayesian_context": {
+    "desconfia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "palpatine": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.72
+    },
+    "fa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.1
+    },
+    "perdre": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "voluntat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "viure": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    },
+    "conversio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "nom": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.3
+    },
+    "dona": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.3
+    },
+    "darth_vader": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "suposa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "escollit": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "the_phantom": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.78
+    },
+    "menace": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.78
+    },
+    "portar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.07
+    },
+    "equilibri": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "forca": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.07
+    },
+    "portara": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "cami": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.93
+    },
+    "comenca": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "costat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.55
+    },
+    "fosc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/anakin.json"
+}

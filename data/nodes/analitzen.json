@@ -1,0 +1,49 @@
+{
+  "concept": "analitzen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "euroordres": 1.0
+  },
+  "bayesian_context": {
+    "pais": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "euroordres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "extradicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "espanya": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "toni_comin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "lluis_puig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "belgica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/analitzen.json"
+}

@@ -1,0 +1,53 @@
+{
+  "concept": "ampla",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "acceptacio": 1.0
+  },
+  "bayesian_context": {
+    "sala": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.98
+    },
+    "produeix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.12
+    },
+    "escena": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.65
+    },
+    "gaudien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "corrents": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "acceptacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "actualitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "banda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.97
+    },
+    "predomina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ampla.json"
+}

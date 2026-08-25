@@ -1,0 +1,70 @@
+{
+  "concept": "andromaca",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "davant": 0.5,
+    "jurar": 0.5
+  },
+  "bayesian_context": {
+    "actua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "davant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "insults": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ermione": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "perdona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "aparta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "volia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "jurar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "pirro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "astianatte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "salvara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/andromaca.json"
+}

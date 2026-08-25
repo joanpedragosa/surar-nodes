@@ -1,0 +1,45 @@
+{
+  "concept": "antagonista",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "principal": 1.0
+  },
+  "bayesian_context": {
+    "converteix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "mewtwo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "pokemon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "the_first": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "movie": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "principal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.29
+    },
+    "licula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/antagonista.json"
+}

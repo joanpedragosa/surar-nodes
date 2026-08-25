@@ -1,0 +1,62 @@
+{
+  "concept": "andrew_johnson",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vulnerar": 0.5,
+    "governador": 0.5
+  },
+  "bayesian_context": {
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "proces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "destitucio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "vulnerar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "llei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "federal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "governador": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "militar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "tennessee": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/andrew_johnson.json"
+}

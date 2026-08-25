@@ -1,0 +1,84 @@
+{
+  "concept": "aparegut",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "porta": 0.25,
+    "pantalla": 0.25,
+    "muntanya": 0.25,
+    "sant_policarp": 0.25
+  },
+  "bayesian_context": {
+    "diuen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "fer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.72
+    },
+    "sant_policarp": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "esmirna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "porta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "santa_madrona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "pantalla": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "rajoy": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    },
+    "parlava": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "grafic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "muntanya": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "infinitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "representacions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "pictoriques": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "encoratjar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "soldats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aparegut.json"
+}

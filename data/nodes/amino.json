@@ -1,0 +1,58 @@
+{
+  "concept": "amino",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "aminoacid": 0.5,
+    "cicle": 0.5
+  },
+  "bayesian_context": {
+    "retira": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "aminoacid": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "comencar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    },
+    "ruta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "oxidacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "transaminasa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cicle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "injectat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "urea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/amino.json"
+}

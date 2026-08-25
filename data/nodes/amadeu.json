@@ -1,0 +1,49 @@
+{
+  "concept": "amadeu",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "carbo": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "conferencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "cultura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "popular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "sector": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "estrategic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "josep_viana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "carbo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/amadeu.json"
+}

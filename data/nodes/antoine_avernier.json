@@ -1,0 +1,41 @@
+{
+  "concept": "antoine_avernier",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "alexandre_huet": 1.0
+  },
+  "bayesian_context": {
+    "dissenyar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "cadirat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "cor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "catedral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    },
+    "arnould_boulin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "alexandre_huet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/antoine_avernier.json"
+}

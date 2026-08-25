@@ -1,0 +1,70 @@
+{
+  "concept": "apaivagar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "crisi": 0.5,
+    "censors": 0.5
+  },
+  "bayesian_context": {
+    "volien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "aconseguir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "reunio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.99
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "crisi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "social": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "retocs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "estrenar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "roma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "censors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/apaivagar.json"
+}
