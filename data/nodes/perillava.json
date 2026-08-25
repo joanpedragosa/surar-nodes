@@ -1,0 +1,45 @@
+{
+  "concept": "perillava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "martinez": 1.0
+  },
+  "bayesian_context": {
+    "dir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "martinez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "castro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "esmorzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "statu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "quo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/perillava.json"
+}

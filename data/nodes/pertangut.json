@@ -1,0 +1,49 @@
+{
+  "concept": "pertangut",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "adult": 1.0
+  },
+  "bayesian_context": {
+    "suggereix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "nombre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "cries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "niu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "haurien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "adult": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "preservat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pertangut.json"
+}

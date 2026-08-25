@@ -1,0 +1,41 @@
+{
+  "concept": "pere_onofre",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cortes": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "cortes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "liders": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "comunitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "criptojueva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "mallorca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pere_onofre.json"
+}

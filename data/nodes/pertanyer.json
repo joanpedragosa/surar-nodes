@@ -1,0 +1,70 @@
+{
+  "concept": "pertanyer",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "formes": 0.5,
+    "ordre": 0.5
+  },
+  "bayesian_context": {
+    "subespecie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "semblen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "formes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "americanes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "uapitis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "cervus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "canadensis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "passar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "monges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "benedictines": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ordre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "cister": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "partir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pertanyer.json"
+}

@@ -1,0 +1,140 @@
+{
+  "concept": "perfil",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "modernista": 0.25,
+    "dorsey": 0.25,
+    "presenta": 0.25,
+    "coronament": 0.25
+  },
+  "bayesian_context": {
+    "tipus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.33
+    },
+    "obres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.22
+    },
+    "premiar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "concurs": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "anual": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "edificis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "artistics": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "marcat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "modernista": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "missatge": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "mostrava": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "pantalla": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "usuari": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "volia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "veure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "dorsey": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "compte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "intentes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "suspes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "presenta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.75
+    },
+    "marchena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "conservador": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "portar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "coronament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "trobar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.39
+    },
+    "teulada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "edifici": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.79
+    },
+    "vei": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "banda": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.84
+    },
+    "dreta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/perfil.json"
+}

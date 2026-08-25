@@ -1,0 +1,37 @@
+{
+  "concept": "peronella",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "romanica": 1.0
+  },
+  "bayesian_context": {
+    "epoca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "capella": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "dedicada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "santa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "romanica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/peronella.json"
+}

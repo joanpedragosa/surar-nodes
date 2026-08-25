@@ -1,0 +1,47 @@
+{
+  "concept": "physique",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "apareix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "primeres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "referencies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "escrita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "edicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "llibre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "cours": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "elementaire": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/physique.json"
+}

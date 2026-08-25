@@ -1,0 +1,53 @@
+{
+  "concept": "peluda",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "lemur": 1.0
+  },
+  "bayesian_context": {
+    "cua": {
+      "likelihood": 0.0778,
+      "posterior_boost": 4.72
+    },
+    "lemur": {
+      "likelihood": 0.0444,
+      "posterior_boost": 4.75
+    },
+    "anellada": {
+      "likelihood": 0.0444,
+      "posterior_boost": 4.95
+    },
+    "tret": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "caracteristic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "llarga": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "color": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "punta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "negra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/peluda.json"
+}

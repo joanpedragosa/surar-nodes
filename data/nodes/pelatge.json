@@ -1,0 +1,156 @@
+{
+  "concept": "pelatge",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "hivernal": 0.125,
+    "gossos": 0.125,
+    "suau": 0.125,
+    "punxes": 0.125,
+    "pandes": 0.125,
+    "mes": 0.125,
+    "cobreix": 0.125,
+    "tenen": 0.125
+  },
+  "bayesian_context": {
+    "hivernal": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "uapitis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "espes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "poden": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.13
+    },
+    "gossos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "unic": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "suau": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "desenvolupat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "porcs": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "espins": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "protegir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "se": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.66
+    },
+    "predadors": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "punxes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "tenen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.28
+    },
+    "pandes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "vermells": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "cos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.35
+    },
+    "desenvolupen": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "mes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.32
+    },
+    "tardor": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "color": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.33
+    },
+    "cobreix": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "part": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.8
+    },
+    "superior": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.5
+    },
+    "potes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.78
+    },
+    "gris": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "pal": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "lid": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "lleonat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "tipus": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.03
+    },
+    "llops": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "doble": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.89
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.125,
+    0.0,
+    2.1972245773362196
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pelatge.json"
+}

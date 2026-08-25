@@ -1,0 +1,37 @@
+{
+  "concept": "pelviana",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "prosalirus": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "estructura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "prosalirus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "tres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "puntes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pelviana.json"
+}

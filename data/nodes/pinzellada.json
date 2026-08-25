@@ -1,0 +1,45 @@
+{
+  "concept": "pinzellada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "velazquez": 1.0
+  },
+  "bayesian_context": {
+    "podem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.05
+    },
+    "apreciar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "velazquez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "cabells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "infanta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "adorns": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pinzellada.json"
+}

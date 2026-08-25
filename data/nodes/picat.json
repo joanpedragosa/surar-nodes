@@ -1,0 +1,37 @@
+{
+  "concept": "picat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "PP": 1.0
+  },
+  "bayesian_context": {
+    "corrobora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "dimissio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "cifuentes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "caiguda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "PP": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/picat.json"
+}

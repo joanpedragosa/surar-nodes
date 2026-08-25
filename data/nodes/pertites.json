@@ -1,0 +1,41 @@
+{
+  "concept": "pertites",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "feldspat": 1.0
+  },
+  "bayesian_context": {
+    "recomana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "distribuir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "feldspat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "subcomissio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "trobem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "charnockites": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pertites.json"
+}

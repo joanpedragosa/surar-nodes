@@ -1,0 +1,110 @@
+{
+  "concept": "pensen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "europeus": 0.5,
+    "risc": 0.5
+  },
+  "bayesian_context": {
+    "europeus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "UE": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "mediadora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "governs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "catala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "consideren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "magistrats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "sala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "segona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "tribunal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "motius": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "mantenir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "quim_torra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "preso": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "preventiva": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "risc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "reiteracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "delicte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "rebel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "lio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "sedicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pensen.json"
+}

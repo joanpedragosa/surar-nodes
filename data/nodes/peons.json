@@ -1,0 +1,33 @@
+{
+  "concept": "peons",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mil": 1.0
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.23
+    },
+    "mil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "dos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "cents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/peons.json"
+}

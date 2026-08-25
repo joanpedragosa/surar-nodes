@@ -1,0 +1,83 @@
+{
+  "concept": "pinet",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "vista_alegre": 0.3333,
+    "construir": 0.3333,
+    "ser": 0.3333
+  },
+  "bayesian_context": {
+    "camp": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "futbol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "projectar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "reforma": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "joan_roca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "vista_alegre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "estil": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.56
+    },
+    "construir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "casa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.62
+    },
+    "puig": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "racionalisme": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "anys": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.07
+    },
+    "ser": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.68
+    },
+    "arquitecte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "municipal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "olot": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pinet.json"
+}
