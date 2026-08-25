@@ -1,0 +1,100 @@
+{
+  "concept": "horari",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "administratiu": 0.25,
+    "lectiu": 0.25,
+    "habitual": 0.25,
+    "tenen": 0.25
+  },
+  "bayesian_context": {
+    "accentua": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "illes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "canvi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    },
+    "administratiu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "minva": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "hores": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "sol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.43
+    },
+    "poden": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.42
+    },
+    "visitar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "centres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "educatius": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "diputats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.62
+    },
+    "vox": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "lectiu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "habitual": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "botiga": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "vilaweb": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "tenen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.28
+    },
+    "botigues": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "aliprox": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/horari.json"
+}

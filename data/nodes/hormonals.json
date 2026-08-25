@@ -1,0 +1,41 @@
+{
+  "concept": "hormonals",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "desenvolupament": 1.0
+  },
+  "bayesian_context": {
+    "canvis": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.88
+    },
+    "causa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "esterilitzacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "mascles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "femelles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "desenvolupament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hormonals.json"
+}

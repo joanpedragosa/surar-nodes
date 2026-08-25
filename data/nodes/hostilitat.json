@@ -1,0 +1,74 @@
+{
+  "concept": "hostilitat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sassanides": 0.5,
+    "desconcert": 0.5
+  },
+  "bayesian_context": {
+    "mantenien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sassanides": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "imperi_roma": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "enfrontar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "refugiats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "fredor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "desconcert": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "pietat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "rebuig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "col": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "lectiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "poble": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hostilitat.json"
+}

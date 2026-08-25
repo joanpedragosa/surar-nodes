@@ -1,0 +1,86 @@
+{
+  "concept": "hospitalaries",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mobils": 0.5,
+    "causades": 0.5
+  },
+  "bayesian_context": {
+    "atendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "guerres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "segle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.47
+    },
+    "xx": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "metges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "unitats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "mobils": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "hospital": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "habilitara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "front": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "necessitats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "causades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "covid": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "antic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "hospital_la": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "fe": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hospitalaries.json"
+}

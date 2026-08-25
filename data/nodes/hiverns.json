@@ -1,0 +1,66 @@
+{
+  "concept": "hiverns",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "japo": 0.5,
+    "experimentar": 0.5
+  },
+  "bayesian_context": {
+    "seria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "color": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "preferit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ninges": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "nevades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "japo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "blanc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "experimentar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "diverses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "parts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "europa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "tempestuosos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hiverns.json"
+}

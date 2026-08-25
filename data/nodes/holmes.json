@@ -1,0 +1,41 @@
+{
+  "concept": "holmes",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ultim": 1.0
+  },
+  "bayesian_context": {
+    "expressio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "mostra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "ultim": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "moment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "licula": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "perplexitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/holmes.json"
+}

@@ -1,0 +1,86 @@
+{
+  "concept": "hideyoshi",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "assistencia": 0.1667,
+    "corea": 0.1667,
+    "xina": 0.1667,
+    "japo": 0.1667,
+    "ming": 0.1667,
+    "unificar": 0.1667
+  },
+  "bayesian_context": {
+    "demanar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.6
+    },
+    "assistencia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.65
+    },
+    "atacar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    },
+    "dinastia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "ming": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "joseon": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "corea": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "envair": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.65
+    },
+    "volia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.62
+    },
+    "conquerir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.21
+    },
+    "xina": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.85
+    },
+    "romandre": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "japo": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.68
+    },
+    "aconseguir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.35
+    },
+    "unificar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "pais": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.44
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1667,
+    0.0,
+    1.9459101490553132
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hideyoshi.json"
+}

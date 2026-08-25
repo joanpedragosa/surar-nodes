@@ -1,0 +1,37 @@
+{
+  "concept": "hubert",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "lloc": 1.0
+  },
+  "bayesian_context": {
+    "neixer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "lloc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "proper": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "maaseik": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "morir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hubert.json"
+}

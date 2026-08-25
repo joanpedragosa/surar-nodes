@@ -1,0 +1,49 @@
+{
+  "concept": "higini_cierco",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "comandaments": 1.0
+  },
+  "bayesian_context": {
+    "amenacar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "comandaments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "policials": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "espanyols": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "maxims": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "accionistes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "BPA": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ramon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/higini_cierco.json"
+}

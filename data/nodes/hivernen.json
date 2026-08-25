@@ -1,0 +1,37 @@
+{
+  "concept": "hivernen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "generes": 1.0
+  },
+  "bayesian_context": {
+    "generes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "cyclorana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "pternohyla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "periodes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "secs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hivernen.json"
+}

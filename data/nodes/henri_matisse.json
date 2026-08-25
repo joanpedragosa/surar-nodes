@@ -1,0 +1,70 @@
+{
+  "concept": "henri_matisse",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "fauvisme": 0.5,
+    "henri": 0.5
+  },
+  "bayesian_context": {
+    "pintar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.02
+    },
+    "natura": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "morta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "alberginies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "exponent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "fauvisme": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "nom": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.52
+    },
+    "complet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "henri": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "emile": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "benoit": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "matisse": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/henri_matisse.json"
+}

@@ -1,0 +1,66 @@
+{
+  "concept": "henry_chapman",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "emperadors": 0.5,
+    "climent": 0.5
+  },
+  "bayesian_context": {
+    "considerat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "climent": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "parent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "louis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cormenin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "emperadors": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "romans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "regnar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "aproximadament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "catholic_encyclopedia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/henry_chapman.json"
+}

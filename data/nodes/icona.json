@@ -1,0 +1,70 @@
+{
+  "concept": "icona",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "repatriacio": 0.5,
+    "marca": 0.5
+  },
+  "bayesian_context": {
+    "considerat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "caps": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "bronze": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "repatriacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "total": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "continent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "africa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "passar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "aston_martin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "DBS": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "presentar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.74
+    },
+    "marca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/icona.json"
+}

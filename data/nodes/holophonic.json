@@ -1,0 +1,53 @@
+{
+  "concept": "holophonic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "experimental": 1.0
+  },
+  "bayesian_context": {
+    "tecnica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.29
+    },
+    "processament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "audio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "utilitza": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "simular": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "efecte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "tridimensional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "sistema": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "experimental": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/holophonic.json"
+}

@@ -1,0 +1,65 @@
+{
+  "concept": "hostil",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "violenta": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "actitud": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "grup": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.6
+    },
+    "petit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "manifestants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "envers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "policia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "violenta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "poder": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "determinar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "avions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hostil.json"
+}

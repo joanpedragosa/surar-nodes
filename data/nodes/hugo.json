@@ -1,0 +1,54 @@
+{
+  "concept": "hugo",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "censura": 0.5,
+    "avancat": 0.5
+  },
+  "bayesian_context": {
+    "vist": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "teatre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "censura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "considerat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "avancat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "caracteristiques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "literaries": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "teatrals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hugo.json"
+}

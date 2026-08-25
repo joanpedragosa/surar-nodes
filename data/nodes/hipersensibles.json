@@ -1,0 +1,57 @@
+{
+  "concept": "hipersensibles",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "reaccio": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "presentar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "ocasionalment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "administracio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "benzetacil": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "lina": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "pacients": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "reaccio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "lergica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "anafilactica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hipersensibles.json"
+}

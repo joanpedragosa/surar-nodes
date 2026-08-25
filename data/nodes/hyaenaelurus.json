@@ -1,0 +1,53 @@
+{
+  "concept": "hyaenaelurus",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "amphicyon": 1.0
+  },
+  "bayesian_context": {
+    "hauria": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "pogut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "cacar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "cries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "paracerateris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "amphicyon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "depredadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "grans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "dimensions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hyaenaelurus.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "hospitalitzat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "listeriosi": 1.0
+  },
+  "bayesian_context": {
+    "simptomatologia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "presenta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "pacient": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "listeriosi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "lleu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hospitalitzat.json"
+}

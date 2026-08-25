@@ -1,0 +1,53 @@
+{
+  "concept": "hipoteca",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "capitalisme": 1.0
+  },
+  "bayesian_context": {
+    "organitza": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "protesta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "dimarts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "manresa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "plataforma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "afectats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "capitalisme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "PAHC": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "bages": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hipoteca.json"
+}

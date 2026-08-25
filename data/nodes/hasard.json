@@ -1,0 +1,53 @@
+{
+  "concept": "hasard",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "rene": 1.0
+  },
+  "bayesian_context": {
+    "fils": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "par": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "rene": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "chazet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "maurice_ourry": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "basat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "llibret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "giuseppe_maria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "foppa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hasard.json"
+}

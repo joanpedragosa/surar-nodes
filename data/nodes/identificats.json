@@ -1,0 +1,90 @@
+{
+  "concept": "identificats",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cercle": 0.5,
+    "tres": 0.5
+  },
+  "bayesian_context": {
+    "projecte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "senten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "cercle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "podem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.75
+    },
+    "terres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "lleida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "actual": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "podemos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "oficials": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "tres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "homes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "agencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "havien": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "treballat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ells": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/identificats.json"
+}

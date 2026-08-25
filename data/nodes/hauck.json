@@ -1,0 +1,50 @@
+{
+  "concept": "hauck",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sant": 0.5,
+    "lli": 0.5
+  },
+  "bayesian_context": {
+    "hauria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "consagrat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "anaclet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "sant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "pere": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "lli": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/hauck.json"
+}

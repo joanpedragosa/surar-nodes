@@ -1,0 +1,45 @@
+{
+  "concept": "henri_saint",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "georges": 1.0
+  },
+  "bayesian_context": {
+    "inspirar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "llibret": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "novel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "alfred": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "vigny": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "georges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/henri_saint.json"
+}
