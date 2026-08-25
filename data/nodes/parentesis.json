@@ -1,0 +1,45 @@
+{
+  "concept": "parentesis",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "lletres": 1.0
+  },
+  "bayesian_context": {
+    "quantes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.46
+    },
+    "varietats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "presenten": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "paraules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "lletres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "vermelles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/parentesis.json"
+}

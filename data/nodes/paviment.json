@@ -1,0 +1,88 @@
+{
+  "concept": "paviment",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "capella": 0.25,
+    "alabastre": 0.25,
+    "absis": 0.25,
+    "escuts": 0.25
+  },
+  "bayesian_context": {
+    "enterrat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "capella": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "arnau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "sescomes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "material": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "utilitzar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    },
+    "alabastre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "establir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "nou": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.26
+    },
+    "absis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "millorar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "funcionalitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "esglesia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.46
+    },
+    "representacions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "escuts": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "gremis": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "ciutat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.19
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/paviment.json"
+}

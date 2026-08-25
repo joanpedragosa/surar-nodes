@@ -1,0 +1,29 @@
+{
+  "concept": "partit_socialdemocrata",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "finlandia": 1.0
+  },
+  "bayesian_context": {
+    "guanyat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "eleccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.96
+    },
+    "finlandia": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.48
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/partit_socialdemocrata.json"
+}

@@ -1,0 +1,45 @@
+{
+  "concept": "parroquial",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ofici": 1.0
+  },
+  "bayesian_context": {
+    "celebra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "esglesia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "ofici": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "solemne": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "acompanyament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "orquestra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "socis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/parroquial.json"
+}

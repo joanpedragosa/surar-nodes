@@ -1,0 +1,45 @@
+{
+  "concept": "parlament_balear",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "govern": 1.0
+  },
+  "bayesian_context": {
+    "demana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "canviar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "hora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "final": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "octubre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/parlament_balear.json"
+}

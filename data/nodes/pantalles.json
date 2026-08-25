@@ -1,0 +1,62 @@
+{
+  "concept": "pantalles",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "hidrauliques": 0.5,
+    "llumets": 0.5
+  },
+  "bayesian_context": {
+    "actual": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "campanar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "hidrauliques": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "picava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "violins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "los": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "servir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "instrument": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "percussio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "llumets": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pantalles.json"
+}

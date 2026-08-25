@@ -1,0 +1,45 @@
+{
+  "concept": "passions",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "romantiques": 1.0
+  },
+  "bayesian_context": {
+    "arguments": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "dominar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "resta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "segle": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.77
+    },
+    "xix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "grans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "romantiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/passions.json"
+}

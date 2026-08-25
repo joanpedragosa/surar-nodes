@@ -1,0 +1,45 @@
+{
+  "concept": "patologics",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "anormals": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "part": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.69
+    },
+    "processos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "anormals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "estructures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "subnuclears": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/patologics.json"
+}

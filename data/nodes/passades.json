@@ -1,0 +1,109 @@
+{
+  "concept": "passades",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "eleccions": 1.0
+  },
+  "bayesian_context": {
+    "convidar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "recasens": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "manifestacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "partits": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "politics": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "excepte": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "havien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "suport": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.72
+    },
+    "herri_batasuna": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "eleccions": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.79
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "unica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.25
+    },
+    "opcio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "legal": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "previst": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "voti": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "proposta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.87
+    },
+    "resolucio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.19
+    },
+    "elaborat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "jxcat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "ERC": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "CUP": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.93
+    },
+    "espanyoles": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/passades.json"
+}

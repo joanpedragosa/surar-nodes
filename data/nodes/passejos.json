@@ -1,0 +1,82 @@
+{
+  "concept": "passejos",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ronda": 0.5,
+    "maritims": 0.5
+  },
+  "bayesian_context": {
+    "preveia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "pla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "dissenyar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "leon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "jaussely": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "grans": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "infraestructures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "viaries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "ronda": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "diagonals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "maritims": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "parcs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "enllacos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "ferroviaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "arees": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "serveis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/passejos.json"
+}

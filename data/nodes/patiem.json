@@ -1,0 +1,33 @@
+{
+  "concept": "patiem",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "nit": 1.0
+  },
+  "bayesian_context": {
+    "nit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "passada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "vida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "kilian_jornet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/patiem.json"
+}

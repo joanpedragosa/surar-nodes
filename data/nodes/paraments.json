@@ -1,0 +1,66 @@
+{
+  "concept": "paraments",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "funeraris": 0.5,
+    "liturgics": 0.5
+  },
+  "bayesian_context": {
+    "troba": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.82
+    },
+    "funeraris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "diversos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "tipus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.63
+    },
+    "atuells": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "dissenyar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "robert_campin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "encarrec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "felip": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "bo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "conjunt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "liturgics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/paraments.json"
+}

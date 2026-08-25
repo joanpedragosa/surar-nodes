@@ -1,0 +1,50 @@
+{
+  "concept": "passaven",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cursor": 0.5,
+    "hernani": 0.5
+  },
+  "bayesian_context": {
+    "mostrava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "visitant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cursor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "enllacos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "eslogan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "hernani": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "acte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    },
+    "anys": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/passaven.json"
+}

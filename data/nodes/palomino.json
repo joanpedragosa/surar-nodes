@@ -1,0 +1,62 @@
+{
+  "concept": "palomino",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "africa": 0.5,
+    "juan": 0.5
+  },
+  "bayesian_context": {
+    "tornar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "vestit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "prado": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "africa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "obtenir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.12
+    },
+    "juan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "alfaro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "dades": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "vida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.78
+    },
+    "pintor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/palomino.json"
+}

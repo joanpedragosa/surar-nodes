@@ -1,0 +1,49 @@
+{
+  "concept": "paracortex",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ganglis": 1.0
+  },
+  "bayesian_context": {
+    "secreten": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "factors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "estimulacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "lules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "dendritiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "ganglis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "limfatics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/paracortex.json"
+}

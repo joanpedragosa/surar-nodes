@@ -1,0 +1,58 @@
+{
+  "concept": "oxids",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "hidroxids": 0.5,
+    "plutoni": 0.5
+  },
+  "bayesian_context": {
+    "limonites": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "conjunt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "minerals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "ferro": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "principalment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "hidroxids": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "eficients": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "enterobactines": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "solubilitzacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "plutoni": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/oxids.json"
+}

@@ -1,0 +1,33 @@
+{
+  "concept": "pagara",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "google": 1.0
+  },
+  "bayesian_context": {
+    "google": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "franca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.42
+    },
+    "milions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pagara.json"
+}

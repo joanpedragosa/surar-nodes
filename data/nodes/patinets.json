@@ -1,0 +1,62 @@
+{
+  "concept": "patinets",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "electrics": 0.5,
+    "policia_local": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "conductors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "electrics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "multats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "setmana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    },
+    "tres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.4
+    },
+    "cents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "noranta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "dos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "sancionat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "policia_local": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/patinets.json"
+}

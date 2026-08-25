@@ -1,0 +1,82 @@
+{
+  "concept": "patronat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "universitat_catalana": 0.5,
+    "turisme": 0.5
+  },
+  "bayesian_context": {
+    "institut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "entrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "formar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "universitat_catalana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "estiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "estudis_balearics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "hora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.94
+    },
+    "decidir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "turisme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "obrissin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "oficines": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "atencio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "public": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "vuit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.97
+    },
+    "vespre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/patronat.json"
+}
