@@ -1,0 +1,53 @@
+{
+  "concept": "lexic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "catala": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "aconseguir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "tecnica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.29
+    },
+    "informatica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "cartografiar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "catala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "visio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "espacial": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "temporal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lexic.json"
+}

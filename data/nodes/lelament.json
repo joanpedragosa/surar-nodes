@@ -1,0 +1,81 @@
+{
+  "concept": "lelament",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "procedir": 1.0
+  },
+  "bayesian_context": {
+    "metodologia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "seguir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "controlar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "incendi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "deixar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "cremar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "gasos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "escapats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "mantenir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "flames": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "paral": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "procedir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "refrigerar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "conduccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "espuma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "pressio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lelament.json"
+}

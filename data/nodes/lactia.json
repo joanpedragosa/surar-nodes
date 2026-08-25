@@ -1,0 +1,49 @@
+{
+  "concept": "lactia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "hera": 1.0
+  },
+  "bayesian_context": {
+    "historia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "commemora": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "nom": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "via": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "hera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "volia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "alletar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "heracles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lactia.json"
+}

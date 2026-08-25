@@ -1,0 +1,57 @@
+{
+  "concept": "literari",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pertany": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "harold_bloom": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "critic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "genere": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "pertany": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.22
+    },
+    "descendents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "jueus_conversos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mallorca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "assaig": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "historic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/literari.json"
+}

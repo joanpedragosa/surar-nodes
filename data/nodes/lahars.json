@@ -1,0 +1,91 @@
+{
+  "concept": "lahars",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "baixaven": 0.25,
+    "fets": 0.5,
+    "baixant": 0.25
+  },
+  "bayesian_context": {
+    "arrossegaven": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "baixaven": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "vessants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "volca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "roques": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.75
+    },
+    "barrejar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "fets": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "aigua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "gel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "pumicita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "fang": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "era": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.67
+    },
+    "velocitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.95
+    },
+    "mitjana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    },
+    "baixant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "km": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "davallaven": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "flancs": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lahars.json"
+}

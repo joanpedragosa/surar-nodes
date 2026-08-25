@@ -1,0 +1,108 @@
+{
+  "concept": "literatura",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "jueva": 0.25,
+    "ukiyo": 0.25,
+    "longevitat": 0.25,
+    "moderna": 0.25
+  },
+  "bayesian_context": {
+    "escriure": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.37
+    },
+    "jueva": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "grec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "jueus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "parlaven": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "comencar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.42
+    },
+    "ciutadans": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    },
+    "mes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.61
+    },
+    "contacte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "moviments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "artistics": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "gracies": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "ukiyo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "gravats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "simbol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "tortuga": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "longevitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "tranquil": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "litat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "apareixen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "lleons": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "moderna": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/literatura.json"
+}

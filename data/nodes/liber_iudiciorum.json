@@ -1,0 +1,41 @@
+{
+  "concept": "liber_iudiciorum",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "latifundis": 1.0
+  },
+  "bayesian_context": {
+    "propietats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "afecta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "repartiment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "latifundis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "minifundis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/liber_iudiciorum.json"
+}

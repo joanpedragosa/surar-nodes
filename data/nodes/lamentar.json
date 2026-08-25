@@ -1,0 +1,50 @@
+{
+  "concept": "lamentar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "haver": 0.5,
+    "mas": 0.5
+  },
+  "bayesian_context": {
+    "haver": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.68
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "jubilat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "vulgui": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "dialogar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lamentar.json"
+}

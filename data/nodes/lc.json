@@ -1,0 +1,41 @@
+{
+  "concept": "lc",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "davant": 1.0
+  },
+  "bayesian_context": {
+    "segons_mt": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "mc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "davant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "portat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "jesus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "caifas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lc.json"
+}

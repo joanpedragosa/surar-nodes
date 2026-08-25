@@ -1,0 +1,50 @@
+{
+  "concept": "liderara",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "estructura": 0.5,
+    "llista": 0.5
+  },
+  "bayesian_context": {
+    "estructura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "partit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "voldria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "meritxell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "budo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "llista": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "jxcat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/liderara.json"
+}

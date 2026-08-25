@@ -1,0 +1,94 @@
+{
+  "concept": "legislativa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "inspeccio": 0.5,
+    "forcar": 0.5
+  },
+  "bayesian_context": {
+    "implicaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "visites": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "pastorals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "correccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "accio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "inspeccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "seguiment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "amenaca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "volia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "establir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "johnson": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "cas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "perdes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "votacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "retirar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "proposta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "forcar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "noves": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "eleccions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/legislativa.json"
+}

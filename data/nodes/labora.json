@@ -1,0 +1,79 @@
+{
+  "concept": "labora",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "ANC": 0.25,
+    "govern": 0.5,
+    "subirachs": 0.25
+  },
+  "bayesian_context": {
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "ANC": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "organitzacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.01
+    },
+    "manifestacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "omnium_cultural": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "alerta_solidaria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "policia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "manifestacions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "independentistes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "agencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "publicitaria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "subirachs": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "zen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/labora.json"
+}

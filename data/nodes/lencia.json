@@ -1,0 +1,57 @@
+{
+  "concept": "lencia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sant_francesc": 1.0
+  },
+  "bayesian_context": {
+    "sant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "pobre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "excel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "sant_francesc": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "conjunt": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.17
+    },
+    "porta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.83
+    },
+    "lady_sarah": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "arriba": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "darwin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "britanic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lencia.json"
+}

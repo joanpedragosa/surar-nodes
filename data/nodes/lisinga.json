@@ -1,0 +1,41 @@
+{
+  "concept": "lisinga",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "siveno": 1.0
+  },
+  "bayesian_context": {
+    "filla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "polibio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "sent": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "amor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.1
+    },
+    "siveno": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.25
+    },
+    "amant": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lisinga.json"
+}

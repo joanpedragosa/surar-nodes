@@ -1,0 +1,49 @@
+{
+  "concept": "lila_thomas",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "funcionaris": 1.0
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "demanar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "funcionaris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "aconsegueixin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "placa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "illes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "coneixement": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "catala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lila_thomas.json"
+}

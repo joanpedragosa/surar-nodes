@@ -1,0 +1,37 @@
+{
+  "concept": "legio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "honor": 1.0
+  },
+  "bayesian_context": {
+    "promocionar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "ravel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "rang": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "cavaller": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "honor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/legio.json"
+}

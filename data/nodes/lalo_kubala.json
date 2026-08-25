@@ -1,0 +1,62 @@
+{
+  "concept": "lalo_kubala",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cel": 0.5,
+    "ciutat": 0.5
+  },
+  "bayesian_context": {
+    "simulava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "reixa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "posat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "xavi_castillo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "preso": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "arribat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "ciutat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "justicia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "moments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "rus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lalo_kubala.json"
+}

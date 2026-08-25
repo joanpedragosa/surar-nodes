@@ -1,0 +1,43 @@
+{
+  "concept": "listeria",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "especialitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "homar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "endinsava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "terreny": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "recerca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "nou": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.86
+    },
+    "metal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/listeria.json"
+}

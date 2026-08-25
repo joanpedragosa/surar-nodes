@@ -1,0 +1,49 @@
+{
+  "concept": "lion",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estudis": 1.0
+  },
+  "bayesian_context": {
+    "mascota": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "leo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "the": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "estudis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "metro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "goldwyn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "mayer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "MGM": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lion.json"
+}

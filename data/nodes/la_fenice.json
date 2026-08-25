@@ -1,0 +1,61 @@
+{
+  "concept": "la_fenice",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "venecia": 1.0
+  },
+  "bayesian_context": {
+    "estrenar": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.94
+    },
+    "ernani": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "teatre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "venecia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "teatres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "mes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.73
+    },
+    "il": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.76
+    },
+    "lustres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "italia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.9
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/la_fenice.json"
+}

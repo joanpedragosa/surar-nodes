@@ -1,0 +1,45 @@
+{
+  "concept": "lituania",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "imperi_rus": 1.0
+  },
+  "bayesian_context": {
+    "extingit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "completament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "letonia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "annexat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "gran_ducat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "imperi_rus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/lituania.json"
+}
