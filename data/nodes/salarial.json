@@ -1,0 +1,104 @@
+{
+  "concept": "salarial",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "tenen": 0.25,
+    "rebran": 0.25,
+    "mes": 0.25,
+    "carrecs": 0.25
+  },
+  "bayesian_context": {
+    "limitacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "tenen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.28
+    },
+    "actualment": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.76
+    },
+    "carrecs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "publics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "podem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.75
+    },
+    "tres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.1
+    },
+    "salaris_minims": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "interprofessionals": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "import": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "sera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.64
+    },
+    "complement": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "rebran": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "regidors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "euros": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.5
+    },
+    "obrers": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "superaven": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "xifra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "mes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.61
+    },
+    "destres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "imposar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/salarial.json"
+}

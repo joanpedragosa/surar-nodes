@@ -1,0 +1,45 @@
+{
+  "concept": "sallares",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "pere_quart": 1.0
+  },
+  "bayesian_context": {
+    "homenatjara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sabadell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "escriptor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "joan_oliver": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "pseudonim": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "pere_quart": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sallares.json"
+}

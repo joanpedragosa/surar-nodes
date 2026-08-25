@@ -1,0 +1,62 @@
+{
+  "concept": "salmond",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "decisio": 0.5,
+    "incomplit": 0.5
+  },
+  "bayesian_context": {
+    "anunciat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "decisio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "video": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "article": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "convencio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "europea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "drets_humans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "estima": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "incomplit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "espanyol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/salmond.json"
+}

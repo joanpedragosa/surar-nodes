@@ -1,0 +1,37 @@
+{
+  "concept": "rosalia",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pintura": 1.0
+  },
+  "bayesian_context": {
+    "representa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    },
+    "pintura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.12
+    },
+    "fet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.83
+    },
+    "tvboy": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "verge": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/rosalia.json"
+}

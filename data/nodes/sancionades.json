@@ -1,0 +1,45 @@
+{
+  "concept": "sancionades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mes": 1.0
+  },
+  "bayesian_context": {
+    "temps": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.92
+    },
+    "tingut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "habitatges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "buits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "entitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "mes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.21
+    },
+    "anys": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.54
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sancionades.json"
+}

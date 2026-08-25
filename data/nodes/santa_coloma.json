@@ -1,0 +1,66 @@
+{
+  "concept": "santa_coloma",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "badalona": 0.5,
+    "pou": 0.5
+  },
+  "bayesian_context": {
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "denuncies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "DPTOP": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "veins": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "badalona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    },
+    "arribar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "setembre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "tuneladora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "bifuracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "besos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/santa_coloma.json"
+}

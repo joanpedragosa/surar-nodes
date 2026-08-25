@@ -1,0 +1,41 @@
+{
+  "concept": "rue_saint",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "georges": 1.0
+  },
+  "bayesian_context": {
+    "prop": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "georges": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "jardi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "luxemburg": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "passar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "infancia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/rue_saint.json"
+}

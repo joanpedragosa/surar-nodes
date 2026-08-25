@@ -1,0 +1,33 @@
+{
+  "concept": "royal_academy",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "of": 1.0
+  },
+  "bayesian_context": {
+    "consell": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.61
+    },
+    "elegir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "of": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "dramatic_art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/royal_academy.json"
+}

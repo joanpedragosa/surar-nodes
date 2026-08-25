@@ -1,0 +1,115 @@
+{
+  "concept": "sant_antoni",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "pamies": 0.2,
+    "abat": 0.6,
+    "badalona_pompeu": 0.2
+  },
+  "bayesian_context": {
+    "ubicar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "retaule": {
+      "likelihood": 0.0278,
+      "posterior_boost": 3.91
+    },
+    "dedicat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "pamies": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "cel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.66
+    },
+    "santa_isabel": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "representar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.83
+    },
+    "huguet": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.91
+    },
+    "sant": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.36
+    },
+    "bernadi": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "escena": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.35
+    },
+    "abat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "cremar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "setmana_tragica": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "pintar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.72
+    },
+    "peca": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.93
+    },
+    "central": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.41
+    },
+    "lluis_borrassa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "estacions": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.74
+    },
+    "tenen": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.11
+    },
+    "andanes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "centrals": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "badalona_pompeu": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "fabra": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.9459101490553132
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sant_antoni.json"
+}

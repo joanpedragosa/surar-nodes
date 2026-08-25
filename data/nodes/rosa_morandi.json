@@ -1,0 +1,57 @@
+{
+  "concept": "rosa_morandi",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "opera": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "primera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.55
+    },
+    "interpret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cristina": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "quantes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.16
+    },
+    "vegades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "cantar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "opera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.37
+    },
+    "tori": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "diverses": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/rosa_morandi.json"
+}

@@ -1,0 +1,77 @@
+{
+  "concept": "sancha",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "tenien": 1.0
+  },
+  "bayesian_context": {
+    "tenia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.3
+    },
+    "crucifix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "don": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "fernando": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "dona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "tenien": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.8
+    },
+    "epoca": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.67
+    },
+    "imatge": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.85
+    },
+    "crist": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "mostra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "taller": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "monestir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "sant_isidor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "lleo": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sancha.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "sabi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cures": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "titus_taci": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "llegendari": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "rei": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.09
+    },
+    "cures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sabi.json"
+}

@@ -1,0 +1,46 @@
+{
+  "concept": "ruber",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "infeccio": 0.5,
+    "madrid": 0.5
+  },
+  "bayesian_context": {
+    "ingressada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "carmen_calvo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "clinica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "infeccio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "respiratoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "hospitalitzada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "madrid": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ruber.json"
+}

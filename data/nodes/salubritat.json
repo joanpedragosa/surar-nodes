@@ -1,0 +1,45 @@
+{
+  "concept": "salubritat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ciutadania": 1.0
+  },
+  "bayesian_context": {
+    "posava": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "risc": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "augment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "densitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "poblacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ciutat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.79
+    },
+    "ciutadania": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/salubritat.json"
+}
