@@ -1,0 +1,65 @@
+{
+  "concept": "tom_graves",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "what_do": 1.0
+  },
+  "bayesian_context": {
+    "criticar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "actuacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "gilmour": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "unicament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "sonava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "guitarra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "ell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "volia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "what_do": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "you_want": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "from": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tom_graves.json"
+}

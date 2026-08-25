@@ -1,0 +1,77 @@
+{
+  "concept": "tenerife",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "dos": 1.0
+  },
+  "bayesian_context": {
+    "desembarcar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "costa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "actual": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    },
+    "santa_cruz": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "illa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "donara": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "coneixer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "durar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "conquesta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "dos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.07
+    },
+    "drets": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    },
+    "confirmar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "alonso": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "fernandez": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "lugo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tenerife.json"
+}

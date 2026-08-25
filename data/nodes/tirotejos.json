@@ -1,0 +1,66 @@
+{
+  "concept": "tirotejos",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "abusos": 0.5,
+    "tarda": 0.5
+  },
+  "bayesian_context": {
+    "mostren": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "diariament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "faveles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "mitjans": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.18
+    },
+    "comunicacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "violencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "abusos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "volia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "comandant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "brigada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "reprendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "tarda": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tirotejos.json"
+}

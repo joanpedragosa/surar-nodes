@@ -1,0 +1,49 @@
+{
+  "concept": "tennis",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "jocs_olimpics": 1.0
+  },
+  "bayesian_context": {
+    "volien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "construir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "descampat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "sydney_olympic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "park": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "pistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "jocs_olimpics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sydney": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tennis.json"
+}

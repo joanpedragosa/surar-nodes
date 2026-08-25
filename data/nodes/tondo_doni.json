@@ -1,0 +1,53 @@
+{
+  "concept": "tondo_doni",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "figura": 1.0
+  },
+  "bayesian_context": {
+    "figura": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.63
+    },
+    "detecta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "wöllflin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "influencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "mare": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "deu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "miquel_angel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "agenollada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "dreta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tondo_doni.json"
+}

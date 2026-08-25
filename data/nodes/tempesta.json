@@ -1,0 +1,87 @@
+{
+  "concept": "tempesta",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "vaixell": 0.25,
+    "tropical": 0.5,
+    "nou": 0.25
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.15
+    },
+    "provocar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "vaixell": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "naufragi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "provoca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "tropical": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "bermudes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "fortes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "pluges": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "produir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.79
+    },
+    "darrera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "octubre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.59
+    },
+    "quantes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.86
+    },
+    "hores": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.71
+    },
+    "lluitar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "nou": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.26
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tempesta.json"
+}

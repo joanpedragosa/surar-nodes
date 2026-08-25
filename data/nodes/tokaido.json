@@ -1,0 +1,37 @@
+{
+  "concept": "tokaido",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "hiroshige": 1.0
+  },
+  "bayesian_context": {
+    "presenta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "cinquanta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "tres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "estacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.52
+    },
+    "hiroshige": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tokaido.json"
+}

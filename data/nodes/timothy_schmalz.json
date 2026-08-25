@@ -1,0 +1,37 @@
+{
+  "concept": "timothy_schmalz",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "jesus": 1.0
+  },
+  "bayesian_context": {
+    "representa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "jesus_homeless": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "jesus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "natzaret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/timothy_schmalz.json"
+}

@@ -1,0 +1,62 @@
+{
+  "concept": "toponim",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "unicament": 0.5,
+    "palos": 0.5
+  },
+  "bayesian_context": {
+    "ciutat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.48
+    },
+    "volen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "adaptar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "unicament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "valencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "castello": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "plana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "procedeix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "palos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "llati": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "palus": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/toponim.json"
+}

@@ -1,0 +1,45 @@
+{
+  "concept": "the_birthday",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "of": 1.0
+  },
+  "bayesian_context": {
+    "conte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "franz_schreker": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "ballet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "of": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "the": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "infanta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/the_birthday.json"
+}

@@ -1,0 +1,45 @@
+{
+  "concept": "toros",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "fabregas": 1.0
+  },
+  "bayesian_context": {
+    "realitzar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.06
+    },
+    "germa_rodriguez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "arias": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "projecte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "placa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.24
+    },
+    "fabregas": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "churruca": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/toros.json"
+}

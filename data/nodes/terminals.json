@@ -1,0 +1,41 @@
+{
+  "concept": "terminals",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ferroviaries": 1.0
+  },
+  "bayesian_context": {
+    "unia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "linia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "ferroviaries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "havien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "sorgit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/terminals.json"
+}

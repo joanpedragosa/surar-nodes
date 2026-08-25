@@ -1,0 +1,58 @@
+{
+  "concept": "temia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "frida": 0.5,
+    "haver": 0.5
+  },
+  "bayesian_context": {
+    "frida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "haver": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.98
+    },
+    "perdut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "amor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "gomez": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "arias": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "volia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.8
+    },
+    "mantenir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "recuperar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "autoretrat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/temia.json"
+}

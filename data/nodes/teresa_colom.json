@@ -1,0 +1,38 @@
+{
+  "concept": "teresa_colom",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tard": 0.5,
+    "consciencia": 0.5
+  },
+  "bayesian_context": {
+    "arribat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "tard": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "darrer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "llibre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "consciencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/teresa_colom.json"
+}

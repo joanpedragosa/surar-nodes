@@ -1,0 +1,41 @@
+{
+  "concept": "teulades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "finques": 1.0
+  },
+  "bayesian_context": {
+    "somni": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "compromis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.38
+    },
+    "hagi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "panells": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "solars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "finques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/teulades.json"
+}

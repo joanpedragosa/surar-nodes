@@ -1,0 +1,49 @@
+{
+  "concept": "tombem",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "regim": 1.0
+  },
+  "bayesian_context": {
+    "etiquetes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "fan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "servir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "CDR": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "twitter": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "regim": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "desbordem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "los": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tombem.json"
+}
