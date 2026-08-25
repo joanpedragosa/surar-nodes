@@ -1,0 +1,98 @@
+{
+  "concept": "soc",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "dona": 0.75,
+    "esclava": 0.25
+  },
+  "bayesian_context": {
+    "titulava": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "primera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.25
+    },
+    "novel": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "rodoreda": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "publicar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.63
+    },
+    "dona": {
+      "likelihood": 0.025,
+      "posterior_boost": 3.88
+    },
+    "honrada": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.42
+    },
+    "respon": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "verge_maria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "retira": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "ECCE": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "ANCILLA": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "DÑI": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "esclava": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "senyor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "premi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "optar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "premi_crexells": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "opta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/soc.json"
+}

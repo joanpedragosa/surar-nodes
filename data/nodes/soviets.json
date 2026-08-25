@@ -1,0 +1,41 @@
+{
+  "concept": "soviets",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "gener": 1.0
+  },
+  "bayesian_context": {
+    "apareixer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.59
+    },
+    "primer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.78
+    },
+    "lliurament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "tintin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "pais": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "gener": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.36
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/soviets.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "skammen",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "passio": 1.0
+  },
+  "bayesian_context": {
+    "dues": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.87
+    },
+    "licules": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "posteriors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "vargtimmenn": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "passio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/skammen.json"
+}

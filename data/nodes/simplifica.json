@@ -1,0 +1,37 @@
+{
+  "concept": "simplifica",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "jöns": 1.0
+  },
+  "bayesian_context": {
+    "jöns": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "jacob_berzelius": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "simbologia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "methode": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "dalton": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/simplifica.json"
+}

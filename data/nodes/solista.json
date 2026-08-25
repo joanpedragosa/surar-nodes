@@ -1,0 +1,57 @@
+{
+  "concept": "solista",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "trompa": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "pare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "trompa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "tocar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "estrena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.0
+    },
+    "tristany": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "richard_strauss": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "suite": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "orquestra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "tenor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/solista.json"
+}

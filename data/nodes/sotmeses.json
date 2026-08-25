@@ -1,0 +1,57 @@
+{
+  "concept": "sotmeses",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "pressio": 1.0
+  },
+  "bayesian_context": {
+    "cries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "millor": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "capacitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "supervivencia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "pressio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.65
+    },
+    "depredadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "femelles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.45
+    },
+    "llibertat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "aparellar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sotmeses.json"
+}

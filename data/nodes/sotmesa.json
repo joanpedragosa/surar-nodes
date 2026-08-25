@@ -1,0 +1,62 @@
+{
+  "concept": "sotmesa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dolores_salas": 0.5,
+    "jardineria": 0.5
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "dolores_salas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "pressio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "cobreix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "escorca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "lluna": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    },
+    "superficie": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "ben": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.33
+    },
+    "esmicolada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "jardineria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "impactes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sotmesa.json"
+}

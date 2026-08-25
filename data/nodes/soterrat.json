@@ -1,0 +1,49 @@
+{
+  "concept": "soterrat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "barcelona": 1.0
+  },
+  "bayesian_context": {
+    "obrir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "tram": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "barcelona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.34
+    },
+    "pl": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "muntaner": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "inaugurar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/soterrat.json"
+}

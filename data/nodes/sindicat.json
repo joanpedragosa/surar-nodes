@@ -1,0 +1,202 @@
+{
+  "concept": "sindicat",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "policiac": 0.25,
+    "treballadores": 0.125,
+    "drets": 0.125,
+    "estudiants": 0.25,
+    "mes": 0.125,
+    "arquitectes": 0.125
+  },
+  "bayesian_context": {
+    "encarar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "membres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.68
+    },
+    "policiac": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "jusapol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "vigilants": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "seguretat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.8
+    },
+    "diu": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.79
+    },
+    "treballadores": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "sexuals": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "otras": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "defensa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.52
+    },
+    "drets": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.5
+    },
+    "laborals": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "prostitutes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "organitzat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "vaga": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.44
+    },
+    "estudiants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "paisos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.82
+    },
+    "catalans": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.91
+    },
+    "exigir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "rebaixa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "taxes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "universitaries": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "concentrat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "grup": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.0
+    },
+    "publica": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.53
+    },
+    "judici": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.53
+    },
+    "portes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.69
+    },
+    "audiencia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.78
+    },
+    "barcelona": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.74
+    },
+    "provar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "entrar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.59
+    },
+    "casa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.2
+    },
+    "republica": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.59
+    },
+    "passat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.47
+    },
+    "novembre": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.49
+    },
+    "mes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.32
+    },
+    "fort": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.89
+    },
+    "ensenyament": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "USTEC": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "carrec": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.47
+    },
+    "joan_roca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "arquitectes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.98
+    },
+    "delegat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "girona": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.16666666666666666,
+    0.0,
+    2.1972245773362196
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sindicat.json"
+}

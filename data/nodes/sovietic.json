@@ -1,0 +1,58 @@
+{
+  "concept": "sovietic",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "estranger": 0.5,
+    "visitat": 0.5
+  },
+  "bayesian_context": {
+    "exportava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "gra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "estranger": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "servir": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.86
+    },
+    "proposits": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "propagandistics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "politic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.89
+    },
+    "visitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "pequin": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "gorbatxov": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/sovietic.json"
+}

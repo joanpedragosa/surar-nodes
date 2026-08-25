@@ -1,0 +1,153 @@
+{
+  "concept": "slesvig",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "holstein": 1.0
+  },
+  "bayesian_context": {
+    "presentar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.27
+    },
+    "recurs": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.66
+    },
+    "decisio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.82
+    },
+    "tribunal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "holstein": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "ministeri": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.04
+    },
+    "public": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.39
+    },
+    "espanyol": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    },
+    "denegar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "lliurament": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.25
+    },
+    "president": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.66
+    },
+    "generalitat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.29
+    },
+    "diu": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.91
+    },
+    "zaragoza": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "interferir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.77
+    },
+    "jurisdiccio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "espanyola": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.4
+    },
+    "resoldre": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "sentencia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.77
+    },
+    "puigdemont": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.87
+    },
+    "podia": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.77
+    },
+    "ser": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.38
+    },
+    "jutjat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.79
+    },
+    "espanya": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.42
+    },
+    "rebel": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.13
+    },
+    "lio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "sedicio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.17
+    },
+    "refusat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.29
+    },
+    "alemany": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.07
+    },
+    "extradir": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.95
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.69
+    },
+    "descartar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "extradicio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "tribunal_superior": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.97
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.9459101490553132
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/slesvig.json"
+}
