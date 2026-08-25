@@ -1,0 +1,37 @@
+{
+  "concept": "precursor",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tipus": 1.0
+  },
+  "bayesian_context": {
+    "tipus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.93
+    },
+    "ordinadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "eee": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "PC": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "asus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/precursor.json"
+}

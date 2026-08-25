@@ -1,0 +1,100 @@
+{
+  "concept": "plantejar",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "etiquetes": 0.25,
+    "inconstitucionalitat": 0.25,
+    "federacio": 0.25,
+    "descobriment": 0.25
+  },
+  "bayesian_context": {
+    "etiquetes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "unificar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "converses": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "tema": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.83
+    },
+    "usuari": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "inconstitucionalitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "llei": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.38
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.74
+    },
+    "resulta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "positiu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "ferri": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "federacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "interrogant": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "descobriment": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "sedna": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "objectes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.76
+    },
+    "astronomics": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "considerar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "se": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.95
+    },
+    "planetes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/plantejar.json"
+}

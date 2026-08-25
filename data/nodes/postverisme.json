@@ -1,0 +1,65 @@
+{
+  "concept": "postverisme",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "verisme": 1.0
+  },
+  "bayesian_context": {
+    "troba": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.65
+    },
+    "diferencia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "verisme": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "tema": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "ideologia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "periode": {
+      "likelihood": 0.0222,
+      "posterior_boost": 3.95
+    },
+    "segueix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.51
+    },
+    "classifica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "amore": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "dei": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "tre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "re": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/postverisme.json"
+}

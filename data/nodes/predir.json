@@ -1,0 +1,45 @@
+{
+  "concept": "predir",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mitjancant": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "mesurar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "se": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.55
+    },
+    "comprendre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "mitjancant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "lleis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "realitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/predir.json"
+}

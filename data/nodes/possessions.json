@@ -1,0 +1,78 @@
+{
+  "concept": "possessions",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "butlla": 0.5,
+    "repartir": 0.5
+  },
+  "bayesian_context": {
+    "reflecteix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "confirmacio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "butlla": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "papa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "urba": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "II": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "veure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.75
+    },
+    "obligat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "subhastar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "rembrandt": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.34
+    },
+    "obliga": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "creixement": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "repartir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "quatre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.49
+    },
+    "divisions": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/possessions.json"
+}

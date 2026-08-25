@@ -1,0 +1,41 @@
+{
+  "concept": "planificava",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "idea": 1.0
+  },
+  "bayesian_context": {
+    "idea": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "general": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "espais": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "interiors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "arquitectes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/planificava.json"
+}

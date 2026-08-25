@@ -1,0 +1,51 @@
+{
+  "concept": "polemiques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "evitar": {
+      "likelihood": 0.0667,
+      "posterior_boost": 4.82
+    },
+    "fira": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "arco": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "retirada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "obra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.52
+    },
+    "artista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.68
+    },
+    "santiago_sierra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/polemiques.json"
+}

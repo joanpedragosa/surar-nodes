@@ -1,0 +1,37 @@
+{
+  "concept": "platypus",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "i_hate": 1.0
+  },
+  "bayesian_context": {
+    "canco": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "green_day": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "apareix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "i_hate": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "you": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/platypus.json"
+}

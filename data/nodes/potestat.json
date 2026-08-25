@@ -1,0 +1,70 @@
+{
+  "concept": "potestat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "desnonar": 0.5,
+    "vulnerar": 0.5
+  },
+  "bayesian_context": {
+    "desnonar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "ningu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "miquel_buch": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "policia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "empara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "inviolabilitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "parlamentaria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "maria_eugenia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "alegret": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "vulnerar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "ordre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "constitucional": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/potestat.json"
+}

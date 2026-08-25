@@ -1,0 +1,90 @@
+{
+  "concept": "plasma",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "estil": 0.5,
+    "inactivat": 0.5
+  },
+  "bayesian_context": {
+    "estil": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.56
+    },
+    "imatges": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.06
+    },
+    "estats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.09
+    },
+    "anim": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "treballa": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "grifols": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "assaig": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "clinic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "du": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    },
+    "terme": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.74
+    },
+    "espanya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.72
+    },
+    "inactivat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "blau": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.37
+    },
+    "metile": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "pacients": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "curats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "coronavirus": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "materia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/plasma.json"
+}

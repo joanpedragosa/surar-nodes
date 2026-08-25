@@ -1,0 +1,49 @@
+{
+  "concept": "predeterminat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "cicles": 1.0
+  },
+  "bayesian_context": {
+    "mesura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "PCR": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "convencional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "acumulacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "ADN": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "final": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "nombre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "cicles": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/predeterminat.json"
+}

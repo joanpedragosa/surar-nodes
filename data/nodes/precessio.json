@@ -1,0 +1,41 @@
+{
+  "concept": "precessio",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "observada": 1.0
+  },
+  "bayesian_context": {
+    "explicacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "donar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.15
+    },
+    "estudis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "matematic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "paul_gerber": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "observada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/precessio.json"
+}

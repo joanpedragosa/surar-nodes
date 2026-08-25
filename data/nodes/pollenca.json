@@ -1,0 +1,57 @@
+{
+  "concept": "pollenca",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "BBVA": 1.0
+  },
+  "bayesian_context": {
+    "entitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "financeres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "acordat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "credits": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "illes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.75
+    },
+    "caixabank": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "banca_march": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "colonya_caixa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "estalvis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "BBVA": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pollenca.json"
+}

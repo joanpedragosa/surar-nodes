@@ -1,0 +1,78 @@
+{
+  "concept": "poetes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "novel": 0.5,
+    "muntanya": 0.5
+  },
+  "bayesian_context": {
+    "formaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "part": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.39
+    },
+    "jurat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "premi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "lletra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "or": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "novel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "listes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "periodistes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "literaris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "gent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "teatre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.02
+    },
+    "servit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "inspiracio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "muntanya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/poetes.json"
+}

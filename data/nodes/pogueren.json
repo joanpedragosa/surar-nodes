@@ -1,0 +1,45 @@
+{
+  "concept": "pogueren",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "saltar": 1.0
+  },
+  "bayesian_context": {
+    "peresosos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "gegants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "saltar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "cap": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.63
+    },
+    "nord": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.16
+    },
+    "america": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "thinobadistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pogueren.json"
+}

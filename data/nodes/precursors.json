@@ -1,0 +1,62 @@
+{
+  "concept": "precursors",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dorudon": 0.5,
+    "necessiten": 0.5
+  },
+  "bayesian_context": {
+    "dorudon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "protocetids": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "aconsegueixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "cel": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "lules": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "cop": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "travessada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "barrera": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "necessiten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "fabricacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "llet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/precursors.json"
+}

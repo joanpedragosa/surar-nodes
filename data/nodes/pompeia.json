@@ -1,0 +1,74 @@
+{
+  "concept": "pompeia",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "mar": 0.5,
+    "ciutats": 0.5
+  },
+  "bayesian_context": {
+    "considerada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.29
+    },
+    "akrotiri": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "mar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "egea": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "via": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "sepulcres": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "necropolis": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "lliga": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "formava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "part": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "ciutats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.21
+    },
+    "campania": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "pertanyents": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "nuceria": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pompeia.json"
+}

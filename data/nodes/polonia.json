@@ -1,0 +1,57 @@
+{
+  "concept": "polonia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "comissio": 1.0
+  },
+  "bayesian_context": {
+    "viatjar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "music": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    },
+    "russia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "tribunal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "envia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "comissio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.93
+    },
+    "europea": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "justicia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "unio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/polonia.json"
+}

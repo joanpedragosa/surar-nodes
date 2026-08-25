@@ -1,0 +1,65 @@
+{
+  "concept": "predisposat",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "dialogar": 1.0
+  },
+  "bayesian_context": {
+    "mostra": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "govern": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.66
+    },
+    "kurdistan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "dialogar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "representants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "iraquians": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "estatus": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "aeroports": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "kurds": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "controls": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "fronterers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "bancs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/predisposat.json"
+}
