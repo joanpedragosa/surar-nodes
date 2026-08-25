@@ -1,0 +1,58 @@
+{
+  "concept": "eutanasia",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "suicidi": 0.5,
+    "any": 0.5
+  },
+  "bayesian_context": {
+    "vol": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "intentar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "despenalitzar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "govern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.36
+    },
+    "suicidi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "assistit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "fet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.53
+    },
+    "propostes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "regular": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "any": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.15
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eutanasia.json"
+}

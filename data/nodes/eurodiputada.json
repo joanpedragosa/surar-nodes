@@ -1,0 +1,82 @@
+{
+  "concept": "eurodiputada",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "clara_ponsati": 0.6667,
+    "estrasburg": 0.3333
+  },
+  "bayesian_context": {
+    "immunitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "ponsati": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "enviat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.12
+    },
+    "carlos_lesmes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "david_sassoli": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "sol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.43
+    },
+    "licitud": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "suplicatori": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "suspengui": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "clara_ponsati": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "assistit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "ple": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "estrasburg": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "partit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    },
+    "politic": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.59
+    },
+    "jxcat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eurodiputada.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "estratovolca",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "teide": 1.0
+  },
+  "bayesian_context": {
+    "forma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.89
+    },
+    "parcialment": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "circ": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "teide": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "pico_viejo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estratovolca.json"
+}

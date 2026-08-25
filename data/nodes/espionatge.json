@@ -1,0 +1,98 @@
+{
+  "concept": "espionatge",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "politic": 0.5,
+    "delegats": 0.5
+  },
+  "bayesian_context": {
+    "acusar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.65
+    },
+    "mossos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.0
+    },
+    "incident": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "politic": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.71
+    },
+    "corrobora": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "informe": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.99
+    },
+    "advocacia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "presentat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.72
+    },
+    "tribunal_superior": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "justicia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "catalunya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.15
+    },
+    "versava": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "peticio": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.32
+    },
+    "conjunta": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "presentar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.57
+    },
+    "ERC": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.7
+    },
+    "jxcat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.86
+    },
+    "delegats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "generalitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.59
+    },
+    "exterior": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/espionatge.json"
+}

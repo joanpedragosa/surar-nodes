@@ -1,0 +1,95 @@
+{
+  "concept": "esquerra_republicana",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "CUP": 0.3333,
+    "palma": 0.3333,
+    "negociacions": 0.3333
+  },
+  "bayesian_context": {
+    "sol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.43
+    },
+    "licita": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "discrecio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "junts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.23
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "reunit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "representants": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "jxcat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    },
+    "CUP": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.8
+    },
+    "parlament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.37
+    },
+    "ciutat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.19
+    },
+    "pactat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "mes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.61
+    },
+    "mallorca": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.04
+    },
+    "palma": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "demana": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.72
+    },
+    "negociacions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "investidura": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.76
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/esquerra_republicana.json"
+}

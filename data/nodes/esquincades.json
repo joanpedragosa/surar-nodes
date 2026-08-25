@@ -1,0 +1,37 @@
+{
+  "concept": "esquincades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "metafores": 1.0
+  },
+  "bayesian_context": {
+    "perceben": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "obres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "etiquetes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "metafores": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "vida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/esquincades.json"
+}

@@ -1,0 +1,66 @@
+{
+  "concept": "etrusc",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "desxifrat": 0.5,
+    "claudi": 0.5
+  },
+  "bayesian_context": {
+    "fet": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.35
+    },
+    "llenguatge": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.47
+    },
+    "desxifrat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "parcialment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "escriure": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.5
+    },
+    "claudi": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "diversos": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.91
+    },
+    "volums": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "historia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "poble": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.02
+    },
+    "emperador": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.27
+    },
+    "coneixia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/etrusc.json"
+}

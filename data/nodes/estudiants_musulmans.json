@@ -1,0 +1,53 @@
+{
+  "concept": "estudiants_musulmans",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "seguidors": 1.0
+  },
+  "bayesian_context": {
+    "deia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "grup": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.9
+    },
+    "joves": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.58
+    },
+    "islamistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "ocupar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "ambaixada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "seguidors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "linia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.08
+    },
+    "imam": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estudiants_musulmans.json"
+}

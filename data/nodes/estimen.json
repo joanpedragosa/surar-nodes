@@ -1,0 +1,70 @@
+{
+  "concept": "estimen",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "ministeri": 0.5,
+    "empresaris": 0.5
+  },
+  "bayesian_context": {
+    "ministeri": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "fiscal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "advocacia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "actuar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "policia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "catalana": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "passivitat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "empresaris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "recuperara": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mercat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "exterior": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.21
+    },
+    "segon": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.95
+    },
+    "semestre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estimen.json"
+}

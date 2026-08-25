@@ -1,0 +1,53 @@
+{
+  "concept": "eucariotes",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "unicel": 1.0
+  },
+  "bayesian_context": {
+    "unicel": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "lulars": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "tenen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.58
+    },
+    "mitocondris": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "microsporidis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "metamonads": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "arcamebes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "organismes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "poden": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/eucariotes.json"
+}

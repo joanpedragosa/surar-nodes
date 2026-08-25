@@ -1,0 +1,37 @@
+{
+  "concept": "estandarditzar",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "art": 1.0
+  },
+  "bayesian_context": {
+    "definir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "parametres": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    },
+    "maksim_gorki": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "andrei_jdanov": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estandarditzar.json"
+}

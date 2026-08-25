@@ -1,0 +1,49 @@
+{
+  "concept": "etics",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "consciencia": 1.0
+  },
+  "bayesian_context": {
+    "fonamenta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "postura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "reguant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "plantejaments": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "consciencia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "ensenya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "karatedo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "principis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/etics.json"
+}

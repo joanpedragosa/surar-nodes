@@ -1,0 +1,78 @@
+{
+  "concept": "estrictament",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "parlant": 0.5,
+    "necessaris": 0.5
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "aplicar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "definicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "basant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "triangle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "rectangle": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "parlant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "angles": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    },
+    "aguts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sirenis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "cacaven": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "miskitos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "animals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.16
+    },
+    "necessaris": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estrictament.json"
+}

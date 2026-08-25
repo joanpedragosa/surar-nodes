@@ -1,0 +1,153 @@
+{
+  "concept": "estatut",
+  "frequency": 6,
+  "edges": [],
+  "markov_transitions": {
+    "diputats": 0.2,
+    "febrer": 0.2,
+    "gaudeix": 0.2,
+    "donava": 0.2,
+    "establiment": 0.2
+  },
+  "bayesian_context": {
+    "realitzar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.29
+    },
+    "informe": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.69
+    },
+    "motivat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.65
+    },
+    "ple": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.55
+    },
+    "decideixi": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "acatar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.65
+    },
+    "suspensio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.97
+    },
+    "drets": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.62
+    },
+    "deures": {
+      "likelihood": 0.0056,
+      "posterior_boost": 5.25
+    },
+    "diputats": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.74
+    },
+    "comissio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.45
+    },
+    "recull": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.21
+    },
+    "principi": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.8
+    },
+    "inviolabilitat": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "parlamentaria": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.29
+    },
+    "reglament": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.1
+    },
+    "parlament": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.19
+    },
+    "aprovara": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.47
+    },
+    "projecte": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.43
+    },
+    "febrer": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.7
+    },
+    "gaudeix": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "grand_palais": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "establiment": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "public": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "industrial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.43
+    },
+    "comercial": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "donava": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.4
+    },
+    "proposicio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.55
+    },
+    "llei": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.21
+    },
+    "parelles": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "fet": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.05
+    },
+    "legal": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.17
+    },
+    "gener": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.59
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.2,
+    0.0,
+    1.9459101490553132
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/estatut.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "etic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "CUP": 1.0
+  },
+  "bayesian_context": {
+    "permet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.63
+    },
+    "codi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "CUP": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "acumulacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "carrecs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/etic.json"
+}
