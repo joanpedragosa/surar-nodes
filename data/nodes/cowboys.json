@@ -1,0 +1,29 @@
+{
+  "concept": "cowboys",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ridley_scott": 1.0
+  },
+  "bayesian_context": {
+    "substituit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "ridley_scott": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "automobils": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cowboys.json"
+}

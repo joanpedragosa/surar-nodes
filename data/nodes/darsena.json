@@ -1,0 +1,41 @@
+{
+  "concept": "darsena",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "interior": 1.0
+  },
+  "bayesian_context": {
+    "construir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "moll": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "sud": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.28
+    },
+    "interior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "port": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "barcelona": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.64
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/darsena.json"
+}

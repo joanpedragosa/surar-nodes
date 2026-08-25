@@ -1,0 +1,43 @@
+{
+  "concept": "darmstadt",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {},
+  "bayesian_context": {
+    "custodiat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "esquelet": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "adult": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "leccions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "museu_estatal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "hessen": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/darmstadt.json"
+}

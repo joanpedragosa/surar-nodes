@@ -1,0 +1,66 @@
+{
+  "concept": "cuidar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "persones": 0.5,
+    "dieta": 0.5
+  },
+  "bayesian_context": {
+    "diu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.38
+    },
+    "diaz_ayuso": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "persones": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.64
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "vulnerables": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "reineta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "gegant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "facil": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "dieta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "variada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "resistent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "malalties": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cuidar.json"
+}

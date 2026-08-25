@@ -1,0 +1,61 @@
+{
+  "concept": "correllengua",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "quasi": 1.0
+  },
+  "bayesian_context": {
+    "recorrera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "quasi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "indrets": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "pais": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "promoure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "llengua": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "cultura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "catalana": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    },
+    "recordar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "figura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "montserrat_roig": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/correllengua.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "cor_beseda",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "brno": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.15
+    },
+    "interpretada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "brno": {
+      "likelihood": 0.0667,
+      "posterior_boost": 5.42
+    },
+    "orquestra_nacional": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "teatre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cor_beseda.json"
+}

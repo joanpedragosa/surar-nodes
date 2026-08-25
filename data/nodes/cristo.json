@@ -1,0 +1,53 @@
+{
+  "concept": "cristo",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "morto": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "compianto": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "sul": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "morto": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "guido_mazzoni": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "el_compianto": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "niccolo": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "dell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "arca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cristo.json"
+}

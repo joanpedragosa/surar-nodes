@@ -1,0 +1,46 @@
+{
+  "concept": "cridava",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "arrimadas": 0.5,
+    "public": 0.5
+  },
+  "bayesian_context": {
+    "arrimadas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "carrers": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "canet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "llibertat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "public": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    },
+    "musica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.91
+    },
+    "bonica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cridava.json"
+}

@@ -1,0 +1,61 @@
+{
+  "concept": "curar",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "tuberculosi": 1.0
+  },
+  "bayesian_context": {
+    "tecnica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.82
+    },
+    "quirurgica": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    },
+    "feia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.03
+    },
+    "servir": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.69
+    },
+    "tuberculosi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "pneumotorax": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "desenvolupar": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.39
+    },
+    "nou": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.38
+    },
+    "antibiotic": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.55
+    },
+    "era": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.79
+    },
+    "estreptomicina": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/curar.json"
+}

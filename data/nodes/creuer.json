@@ -1,0 +1,78 @@
+{
+  "concept": "creuer",
+  "frequency": 3,
+  "edges": [],
+  "markov_transitions": {
+    "catedral": 0.6667,
+    "universitari": 0.3333
+  },
+  "bayesian_context": {
+    "lligada": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "corda": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.95
+    },
+    "soste": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.59
+    },
+    "botafumeiro": {
+      "likelihood": 0.0222,
+      "posterior_boost": 5.25
+    },
+    "catedral": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.09
+    },
+    "velocitat": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.07
+    },
+    "pot": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.27
+    },
+    "arribar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.63
+    },
+    "desplacament": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "km": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.15
+    },
+    "any": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.98
+    },
+    "formar": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.92
+    },
+    "part": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.22
+    },
+    "universitari": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.25
+    },
+    "mediterrani": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.4
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.3862943611198906
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/creuer.json"
+}

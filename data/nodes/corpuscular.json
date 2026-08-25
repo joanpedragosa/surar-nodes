@@ -1,0 +1,37 @@
+{
+  "concept": "corpuscular",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "electrons": 1.0
+  },
+  "bayesian_context": {
+    "volia": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    },
+    "demostrar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "nova_york": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "naturalesa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "electrons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/corpuscular.json"
+}

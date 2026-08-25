@@ -1,0 +1,37 @@
+{
+  "concept": "curiosa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "combinacio": 1.0
+  },
+  "bayesian_context": {
+    "observa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.95
+    },
+    "combinacio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "panell": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "interior": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.39
+    },
+    "esquerre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/curiosa.json"
+}
