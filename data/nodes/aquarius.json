@@ -1,0 +1,50 @@
+{
+  "concept": "aquarius",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "setanta": 0.5,
+    "SOS": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.93
+    },
+    "metres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    },
+    "eslora": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "setanta": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "set": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "ONG": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "SOS": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "mediterranee": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aquarius.json"
+}

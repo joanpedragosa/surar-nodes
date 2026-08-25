@@ -1,0 +1,61 @@
+{
+  "concept": "apoderats",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "organitzacions": 1.0
+  },
+  "bayesian_context": {
+    "reunit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.79
+    },
+    "mireia_molla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "organitzacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "agraries": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "treballar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "estrategies": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "conjuntes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "adrecades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "resoldre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "problemes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "sector": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/apoderats.json"
+}

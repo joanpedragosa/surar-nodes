@@ -1,0 +1,57 @@
+{
+  "concept": "arquebisbat",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tarragona": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.96
+    },
+    "intencio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "tarragona": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "celebrar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "festa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "exclusivament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "religiosa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "secretari": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "antonio_corbi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arquebisbat.json"
+}

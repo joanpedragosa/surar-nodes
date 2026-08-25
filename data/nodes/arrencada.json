@@ -1,0 +1,45 @@
+{
+  "concept": "arrencada",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "segon": 1.0
+  },
+  "bayesian_context": {
+    "planteja": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "verdi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "musica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "caracter": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "cambristic": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "segon": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.25
+    },
+    "acte": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.11
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arrencada.json"
+}

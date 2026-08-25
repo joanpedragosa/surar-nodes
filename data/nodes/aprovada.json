@@ -1,0 +1,136 @@
+{
+  "concept": "aprovada",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "mocio": 0.4,
+    "parlament": 0.2,
+    "legislacio": 0.2,
+    "estaca": 0.2
+  },
+  "bayesian_context": {
+    "mocio": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.37
+    },
+    "legislatiu": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "municipal": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "lisboa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "tancat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "sala": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.76
+    },
+    "vegada": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.77
+    },
+    "aplaudiment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "regidor": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "suspes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "TC": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "declaracio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.95
+    },
+    "independentista": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "parlament": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.27
+    },
+    "catalunya": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.93
+    },
+    "volia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "accelerar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "tramits": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "parlamentaris": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "govern": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.97
+    },
+    "conservador": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "deixar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.81
+    },
+    "legislacio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "brexit": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "dijous": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "nom": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.3
+    },
+    "ser": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.46
+    },
+    "estaca": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "ahir": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aprovada.json"
+}

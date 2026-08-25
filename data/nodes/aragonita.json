@@ -1,0 +1,29 @@
+{
+  "concept": "aragonita",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "calcita": 1.0
+  },
+  "bayesian_context": {
+    "temperatura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.56
+    },
+    "transforma": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "calcita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aragonita.json"
+}

@@ -1,0 +1,37 @@
+{
+  "concept": "arnulf",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "monjos": 1.0
+  },
+  "bayesian_context": {
+    "precedeix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "solemne": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "comitiva": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "abat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "monjos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arnulf.json"
+}

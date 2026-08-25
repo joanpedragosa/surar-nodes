@@ -1,0 +1,57 @@
+{
+  "concept": "aportacions",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "sis": 1.0
+  },
+  "bayesian_context": {
+    "import": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.66
+    },
+    "comercialitat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "vidacaixa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "primes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "sis": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.19
+    },
+    "primers": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.37
+    },
+    "mesos": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.32
+    },
+    "any": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.45
+    },
+    "milions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "euros": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.1
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/aportacions.json"
+}

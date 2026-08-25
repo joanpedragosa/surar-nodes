@@ -1,0 +1,37 @@
+{
+  "concept": "apuleu",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "mare": 1.0
+  },
+  "bayesian_context": {
+    "aprendre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "punic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "mare": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.76
+    },
+    "escriure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.67
+    },
+    "les_metamorfosis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/apuleu.json"
+}

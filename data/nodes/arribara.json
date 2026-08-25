@@ -1,0 +1,50 @@
+{
+  "concept": "arribara",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "emmanuel_macron": 0.5,
+    "ratpenat": 0.5
+  },
+  "bayesian_context": {
+    "emmanuel_macron": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "andorra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "dijous": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "nit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "ratpenat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "racey": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "madagascar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "asia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arribara.json"
+}

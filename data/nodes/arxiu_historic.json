@@ -1,0 +1,61 @@
+{
+  "concept": "arxiu_historic",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "condicions": 1.0
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "vaga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "indefinida": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "macba": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "condicions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.72
+    },
+    "laborals": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    },
+    "treballadors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "subcontractats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "empresa": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.53
+    },
+    "ciut": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "art": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.04
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/arxiu_historic.json"
+}

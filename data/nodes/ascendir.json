@@ -1,0 +1,58 @@
+{
+  "concept": "ascendir",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "aigua": 0.5,
+    "finalment": 0.5
+  },
+  "bayesian_context": {
+    "utilitzen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "vegetals": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "pressio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "osmotica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "aigua": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "finalment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "pressupost": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "set": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "milions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ascendir.json"
+}
