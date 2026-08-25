@@ -1,0 +1,78 @@
+{
+  "concept": "defensant",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "refugiats": 0.5,
+    "presos": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "intervencio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "monica": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "oltra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "refugiats": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.31
+    },
+    "contundent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "comportar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "pique": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "declaracions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "presos": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.04
+    },
+    "politics": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "atacs": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "premsa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "madrid": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.09
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/defensant.json"
+}

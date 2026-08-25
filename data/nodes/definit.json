@@ -1,0 +1,132 @@
+{
+  "concept": "definit",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "mas": 0.25,
+    "jurat": 0.25,
+    "espai": 0.25,
+    "personatge": 0.25
+  },
+  "bayesian_context": {
+    "mas": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    },
+    "posicio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.86
+    },
+    "sanchez": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.42
+    },
+    "enrocada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "jurat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "obra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.92
+    },
+    "blaus": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "poesia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "descriptiva": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "estalvi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "mitjans": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.88
+    },
+    "situacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.87
+    },
+    "descriu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "enfocament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "lagrange": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "troba": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "mes": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.61
+    },
+    "frequencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "producte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "escalar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "espai": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.81
+    },
+    "vectorial": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "queda": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "personatge": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.99
+    },
+    "motiu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "musical": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "identifica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "escena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/definit.json"
+}

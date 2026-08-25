@@ -1,0 +1,49 @@
+{
+  "concept": "demolicio",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "fortalesa": 1.0
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "carrec": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.07
+    },
+    "cost": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "fortalesa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "ajuntament": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "implicava": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "marca": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.55
+    },
+    "vermella": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/demolicio.json"
+}

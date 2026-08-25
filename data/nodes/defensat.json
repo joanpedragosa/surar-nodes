@@ -1,0 +1,88 @@
+{
+  "concept": "defensat",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "historiadors": 0.25,
+    "sebria": 0.25,
+    "pere_aragones": 0.25,
+    "espot": 0.25
+  },
+  "bayesian_context": {
+    "historiadors": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "intervencio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "huguet": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "taules": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    },
+    "sebria": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "posicio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.86
+    },
+    "ERC": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.58
+    },
+    "pere_aragones": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "conve": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "fer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.72
+    },
+    "pressupost": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.74
+    },
+    "aprovar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "lo": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.96
+    },
+    "via": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "espot": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "multilateralisme": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "transversalitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/defensat.json"
+}

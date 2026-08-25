@@ -1,0 +1,45 @@
+{
+  "concept": "decidim",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "CUP": 1.0
+  },
+  "bayesian_context": {
+    "llista": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.33
+    },
+    "incorporar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "persones": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.94
+    },
+    "havien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "vinculades": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "altraveu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "CUP": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.4
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/decidim.json"
+}

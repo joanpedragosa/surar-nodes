@@ -1,0 +1,58 @@
+{
+  "concept": "desenllac",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tragedia": 0.5,
+    "obra": 0.5
+  },
+  "bayesian_context": {
+    "emfatitza": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "instrumentacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "diferents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    },
+    "atmosferes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "se": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.25
+    },
+    "succeeixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "tragedia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "arriba": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "obra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.22
+    },
+    "acte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desenllac.json"
+}

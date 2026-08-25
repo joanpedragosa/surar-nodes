@@ -1,0 +1,125 @@
+{
+  "concept": "decideix",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "fara": 0.2,
+    "sagristana": 0.2,
+    "endur": 0.2,
+    "jaufre": 0.2,
+    "sigismondo": 0.2
+  },
+  "bayesian_context": {
+    "fara": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.71
+    },
+    "publica": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.74
+    },
+    "sentencia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.85
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.65
+    },
+    "sagristana": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "matar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "fill": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.68
+    },
+    "jenůfa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "fa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.1
+    },
+    "guardabosc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "guineu": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "atrapa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "endur": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "se": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.86
+    },
+    "casa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.4
+    },
+    "jaufre": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "rudel": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "aconseguir": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.42
+    },
+    "somni": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "creuar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "mar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.62
+    },
+    "sigismondo": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "enfuria": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "convencer": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "ell": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "noia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.2,
+    0.0,
+    1.791759469228055
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/decideix.json"
+}

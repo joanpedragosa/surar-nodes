@@ -1,0 +1,41 @@
+{
+  "concept": "defineixi",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "conceptes": 1.0
+  },
+  "bayesian_context": {
+    "requereix": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "conceptes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "ara": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.48
+    },
+    "sacre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "definicions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "anteriors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/defineixi.json"
+}

@@ -1,0 +1,87 @@
+{
+  "concept": "denominacio",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "municipi": 0.5,
+    "art": 0.25,
+    "actual": 0.25
+  },
+  "bayesian_context": {
+    "aprovat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "canvi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "municipi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "el_consell": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "establir": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.1
+    },
+    "art": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.44
+    },
+    "asturia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "jovellanos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "sol": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.43
+    },
+    "licitar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "actual": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.92
+    },
+    "forma": {
+      "likelihood": 0.025,
+      "posterior_boost": 3.76
+    },
+    "exclusiva": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.0
+    },
+    "catala": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.85
+    },
+    "ajuntament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    },
+    "localitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "canviat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/denominacio.json"
+}

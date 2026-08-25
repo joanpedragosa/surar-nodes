@@ -1,0 +1,91 @@
+{
+  "concept": "descobertes",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "delos": 0.25,
+    "primeres": 0.5,
+    "propietats": 0.25
+  },
+  "bayesian_context": {
+    "estan": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.22
+    },
+    "vinculades": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "imatges": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.93
+    },
+    "bous": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "delos": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "sacrifici": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "religios": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "cultura": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "minoica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "ser": {
+      "likelihood": 0.025,
+      "posterior_boost": 3.02
+    },
+    "primeres": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.25
+    },
+    "restes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "mamut": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "sud": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.16
+    },
+    "africa": {
+      "likelihood": 0.025,
+      "posterior_boost": 4.52
+    },
+    "any": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.85
+    },
+    "propietats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "radioactives": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/descobertes.json"
+}

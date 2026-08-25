@@ -1,0 +1,74 @@
+{
+  "concept": "dependencia",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "exportacions": 0.5,
+    "capbrevacio": 0.5
+  },
+  "bayesian_context": {
+    "exportacions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "petroli": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "economia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "forta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.34
+    },
+    "era": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.67
+    },
+    "antigament": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "capbrevacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "menjador": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "pobres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "ronquen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "gats": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "expressar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "trasllada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "escena": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.53
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dependencia.json"
+}

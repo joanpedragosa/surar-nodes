@@ -1,0 +1,82 @@
+{
+  "concept": "desastre",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "militar": 0.5,
+    "demografic": 0.5
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.02
+    },
+    "perdre": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "russia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "paper": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.9
+    },
+    "gendarme": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "europa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "militar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.28
+    },
+    "crimea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "considerat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.26
+    },
+    "major": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "demografic": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "historia_universal": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "col": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.52
+    },
+    "lapse": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "civilitzacions": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "precolombines": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/desastre.json"
+}

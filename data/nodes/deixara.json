@@ -1,0 +1,84 @@
+{
+  "concept": "deixara",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "esco": 0.25,
+    "aplicar": 0.25,
+    "operar": 0.25,
+    "carrec": 0.25
+  },
+  "bayesian_context": {
+    "esco": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.47
+    },
+    "elisenda_alamany": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "aplicar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "catalunya": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.03
+    },
+    "hagi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.56
+    },
+    "president": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.36
+    },
+    "govern": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.07
+    },
+    "operar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "whatsapp": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "mobils": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "desembre": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.76
+    },
+    "carrec": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.77
+    },
+    "primera": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.25
+    },
+    "ministra": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "juny": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/deixara.json"
+}

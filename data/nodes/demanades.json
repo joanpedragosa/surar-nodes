@@ -1,0 +1,53 @@
+{
+  "concept": "demanades",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "carles_puigdemont": 1.0
+  },
+  "bayesian_context": {
+    "denegat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "sala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "tercera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.34
+    },
+    "espanyol": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "mesures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.55
+    },
+    "cautelarissimes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "carles_puigdemont": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.47
+    },
+    "toni_comin": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/demanades.json"
+}

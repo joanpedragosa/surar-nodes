@@ -1,0 +1,78 @@
+{
+  "concept": "decidira",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "cas": 0.5,
+    "proces": 0.5
+  },
+  "bayesian_context": {
+    "cas": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "futur": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.52
+    },
+    "crida": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "socis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.88
+    },
+    "proces": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "constituent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "uneix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "catalunya_si": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "pot": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.45
+    },
+    "coalicio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.49
+    },
+    "electoral": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "ICV": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "euia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "podem": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.75
+    },
+    "dissabte": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.4
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/decidira.json"
+}

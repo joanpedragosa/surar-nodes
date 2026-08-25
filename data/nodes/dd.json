@@ -1,0 +1,37 @@
+{
+  "concept": "DD",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "dia_d": 1.0
+  },
+  "bayesian_context": {
+    "denominar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "sherman": {
+      "likelihood": 0.05,
+      "posterior_boost": 5.3
+    },
+    "amfibi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "utilitzar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.1
+    },
+    "dia_d": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/dd.json"
+}

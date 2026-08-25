@@ -1,0 +1,50 @@
+{
+  "concept": "decapitar",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "sant": 0.5,
+    "figura": 0.5
+  },
+  "bayesian_context": {
+    "sant": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.84
+    },
+    "cugat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "castrum_octavianum": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "figura": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.03
+    },
+    "reclinada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "museu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.01
+    },
+    "art_modern": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "nova_york": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/decapitar.json"
+}
