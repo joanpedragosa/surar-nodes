@@ -1,0 +1,49 @@
+{
+  "concept": "habil",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "ironica": 1.0
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.26
+    },
+    "carta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.27
+    },
+    "voltaire": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "contesta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "jean": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.91
+    },
+    "jacques_rousseau": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "discurs": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.77
+    },
+    "ironica": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/habil.json"
+}

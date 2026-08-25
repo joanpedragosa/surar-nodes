@@ -1,0 +1,70 @@
+{
+  "concept": "gudiol",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "ainaud": 0.75,
+    "cunill": 0.25
+  },
+  "bayesian_context": {
+    "dona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.4
+    },
+    "suport": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.59
+    },
+    "tesi": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "obra": {
+      "likelihood": 0.025,
+      "posterior_boost": 3.4
+    },
+    "jaume_huguet": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "ainaud": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.3
+    },
+    "lasarte": {
+      "likelihood": 0.025,
+      "posterior_boost": 5.3
+    },
+    "defensa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.82
+    },
+    "anys": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.95
+    },
+    "situen": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "procedia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "cunill": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "florencia": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.19
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gudiol.json"
+}

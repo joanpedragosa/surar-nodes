@@ -1,0 +1,65 @@
+{
+  "concept": "guerres_mediques",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "defenses": 1.0
+  },
+  "bayesian_context": {
+    "construir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "antics": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "habitants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "atenes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "refugiar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "acropoli": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "defenses": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "fusta": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.51
+    },
+    "parts": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.49
+    },
+    "fetes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    },
+    "malbe": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "muralla": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/guerres_mediques.json"
+}

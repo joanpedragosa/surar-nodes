@@ -1,0 +1,70 @@
+{
+  "concept": "guilleries",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "incognit": 0.5,
+    "nou": 0.5
+  },
+  "bayesian_context": {
+    "participar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    },
+    "agents": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.36
+    },
+    "policia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "espanyola": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.88
+    },
+    "operatiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "dimarts": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "segons": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.21
+    },
+    "col": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.82
+    },
+    "lectiu": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.07
+    },
+    "incognit": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "emes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "nou": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.56
+    },
+    "comunicat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.34
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/guilleries.json"
+}

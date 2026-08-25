@@ -1,0 +1,29 @@
+{
+  "concept": "google_now",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "assistent": 1.0
+  },
+  "bayesian_context": {
+    "utilitza": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.11
+    },
+    "jelly_bean": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "assistent": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/google_now.json"
+}

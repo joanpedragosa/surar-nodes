@@ -1,0 +1,53 @@
+{
+  "concept": "gratuites",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "estudiants": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "fer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.32
+    },
+    "visites": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "estudiants": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "especialistes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "entitats": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.82
+    },
+    "sense": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.17
+    },
+    "anim": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "lucre": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gratuites.json"
+}

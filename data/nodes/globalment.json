@@ -1,0 +1,66 @@
+{
+  "concept": "globalment",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "vulnerable": 0.5,
+    "lluita": 0.5
+  },
+  "bayesian_context": {
+    "classificada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "actualment": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.06
+    },
+    "aurea": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "vulnerable": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "objectiu": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.14
+    },
+    "persegueix": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "freedom_hong": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "kong": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "promoure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.82
+    },
+    "lluita": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "hong_kong": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "llibertat": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.05
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/globalment.json"
+}

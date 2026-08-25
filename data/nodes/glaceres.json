@@ -1,0 +1,37 @@
+{
+  "concept": "glaceres",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "antartiques": 1.0
+  },
+  "bayesian_context": {
+    "causant": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "reculada": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "antartiques": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "escalfament": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "global": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/glaceres.json"
+}

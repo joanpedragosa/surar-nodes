@@ -1,0 +1,73 @@
+{
+  "concept": "gossett",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "opera": 1.0
+  },
+  "bayesian_context": {
+    "assenyala": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "opera": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.67
+    },
+    "establir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.7
+    },
+    "nova": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.09
+    },
+    "sintesi": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.33
+    },
+    "formal": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.18
+    },
+    "nous": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "models": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.85
+    },
+    "composicio": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.46
+    },
+    "diferents": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.26
+    },
+    "compositors": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.25
+    },
+    "italians": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    },
+    "havien": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.14
+    },
+    "utilitzat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.98
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gossett.json"
+}

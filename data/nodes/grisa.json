@@ -1,0 +1,58 @@
+{
+  "concept": "grisa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "alliberada": 0.5,
+    "arribar": 0.5
+  },
+  "bayesian_context": {
+    "tornar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.13
+    },
+    "baldriga": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "alliberada": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "boston": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "colonia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "skomer": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "temps": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.62
+    },
+    "trigar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.95
+    },
+    "arribar": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.81
+    },
+    "dies": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.87
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/grisa.json"
+}

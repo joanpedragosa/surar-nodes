@@ -1,0 +1,50 @@
+{
+  "concept": "governa",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "tailandia": 0.5,
+    "recep_tayyip": 0.5
+  },
+  "bayesian_context": {
+    "tailandia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "general": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.98
+    },
+    "prayut_chan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "cha": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "recep_tayyip": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "erdoğan": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "turquia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.42
+    },
+    "abril": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.96
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/governa.json"
+}

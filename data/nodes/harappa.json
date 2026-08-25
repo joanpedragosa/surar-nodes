@@ -1,0 +1,57 @@
+{
+  "concept": "harappa",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "mohenjo": 1.0
+  },
+  "bayesian_context": {
+    "trobat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.43
+    },
+    "excavacions": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "mohenjo": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "daro": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "gran": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.7
+    },
+    "varietat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.88
+    },
+    "escultures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.61
+    },
+    "terracota": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "figures": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.41
+    },
+    "humanes": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/harappa.json"
+}

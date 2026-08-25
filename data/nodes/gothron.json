@@ -1,0 +1,54 @@
+{
+  "concept": "gothron",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "somnis": 0.5,
+    "exercit": 0.5
+  },
+  "bayesian_context": {
+    "apareixer": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.29
+    },
+    "somnis": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "rei": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.79
+    },
+    "angles_alfred": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "exercit": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.35
+    },
+    "dirigeixen": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.12
+    },
+    "princep": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.12
+    },
+    "harald": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "danes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gothron.json"
+}

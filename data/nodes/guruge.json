@@ -1,0 +1,33 @@
+{
+  "concept": "guruge",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "tonsura": 1.0
+  },
+  "bayesian_context": {
+    "veure": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "nom": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.0
+    },
+    "segons": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.51
+    },
+    "tonsura": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/guruge.json"
+}

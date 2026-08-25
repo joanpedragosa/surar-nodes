@@ -1,0 +1,53 @@
+{
+  "concept": "gloriana_suite",
+  "frequency": 2,
+  "edges": [],
+  "markov_transitions": {
+    "op": 1.0
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.85
+    },
+    "tenor": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    },
+    "estrena": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.0
+    },
+    "op": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.55
+    },
+    "peter_pears": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.72
+    },
+    "titula": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.72
+    },
+    "suite": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.03
+    },
+    "extreure": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.25
+    },
+    "britten": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    1.0986122886681098
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gloriana_suite.json"
+}

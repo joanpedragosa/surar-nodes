@@ -1,0 +1,49 @@
+{
+  "concept": "granits",
+  "frequency": 1,
+  "edges": [],
+  "markov_transitions": {
+    "feldespat": 1.0
+  },
+  "bayesian_context": {
+    "pot": {
+      "likelihood": 0.0333,
+      "posterior_boost": 3.75
+    },
+    "referir": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.72
+    },
+    "terme": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.21
+    },
+    "alaskita": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "feldespat": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "alcali": {
+      "likelihood": 0.0333,
+      "posterior_boost": 6.03
+    },
+    "color": {
+      "likelihood": 0.0333,
+      "posterior_boost": 4.23
+    },
+    "clar": {
+      "likelihood": 0.0333,
+      "posterior_boost": 5.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    1.0,
+    0.0,
+    0.6931471805599453
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/granits.json"
+}
