@@ -1,0 +1,233 @@
+{
+  "concept": "espiritual",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "protagonista": 0.3333,
+    "quadres": 0.3333,
+    "esquinca": 0.3333
+  },
+  "bayesian_context": {
+    "lluita": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.28
+    },
+    "amor": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "carnal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "protagonista": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.14
+    },
+    "combina": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "rembrandt": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.22
+    },
+    "recerca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.87
+    },
+    "perfeccio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.82
+    },
+    "terrenal": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "quadres": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "cap": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.74
+    },
+    "pintor": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.6
+    },
+    "art": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.14
+    },
+    "occidental": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "podia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.65
+    },
+    "restaurar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "salut": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.84
+    },
+    "segons": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.62
+    },
+    "pensament": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "epoca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.25
+    },
+    "gracia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.84
+    },
+    "experimentara": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "sarah": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "australia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.89
+    },
+    "nou": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.96
+    },
+    "renaixement": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "sobrecarregava": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "obres": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.92
+    },
+    "contingut": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "kitsune": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "tipus": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.03
+    },
+    "yōkai": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "entitat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "essencia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "trama": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.72
+    },
+    "esquinca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "recerques": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333,
+    0.0,
+    2.1972245773362196
+  ],
+  "embedding_vector": [
+    2.204693165392056,
+    0.3426708132564186,
+    5.127383890804278,
+    0.500617113831112,
+    2.191879143895765,
+    0.32352797608554856,
+    5.11860937636585,
+    0.4980470272007473,
+    2.197678070763271,
+    0.332867835916048,
+    5.121107129476447,
+    0.5008677203508508,
+    2.2024424888482783,
+    0.3375474914816418,
+    5.122393641922069,
+    0.49852183540952383,
+    2.193006077896581,
+    0.3427771048240089,
+    5.116675480910214,
+    0.49437602121639657,
+    2.188540745091964,
+    0.3429574109310687,
+    5.112557114258501,
+    0.4964426158640836,
+    2.1886434342312233,
+    0.32779539877936087,
+    5.117872698298872,
+    0.5079229000976127,
+    2.194133809576177,
+    0.3429949887457054,
+    5.110574640979266,
+    0.4970336947254024,
+    2.1948437551202966,
+    0.33858320262731917,
+    5.128776078266216,
+    0.4963937959293406,
+    2.195874095992028,
+    0.3287029148318293,
+    5.126021117726528,
+    0.5027647761224624,
+    2.1885983800053825,
+    0.3353728895273822,
+    5.12591149116858,
+    0.49064016312851594,
+    2.196333533778338,
+    0.3391034508267657,
+    5.129771930362275,
+    0.5016792908700194,
+    2.188002823289066,
+    0.33222845815035806,
+    5.113763450305866,
+    0.502541112937105,
+    2.1915309333256743,
+    0.3263194021531499,
+    5.120722886133591,
+    0.492007735884491,
+    2.201847745975833,
+    0.3420930207888235,
+    5.128866363689264,
+    0.49749477010035553,
+    2.1991395822537,
+    0.3365396542454893,
+    5.120211609105065,
+    0.499417851632877
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/espiritual.json"
+}

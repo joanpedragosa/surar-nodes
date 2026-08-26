@@ -1,0 +1,237 @@
+{
+  "concept": "establert",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "exercit": 0.1429,
+    "mort": 0.1429,
+    "joan": 0.1429,
+    "felice_romani": 0.1429,
+    "comarques": 0.1429,
+    "aigualir": 0.1429,
+    "podem": 0.1429
+  },
+  "bayesian_context": {
+    "exercit": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.51
+    },
+    "danes": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "batalla": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.6
+    },
+    "campament": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "condemnava": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "llei": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.44
+    },
+    "regulava": {
+      "likelihood": 0.0095,
+      "posterior_boost": 5.18
+    },
+    "produccio": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.91
+    },
+    "venda": {
+      "likelihood": 0.0143,
+      "posterior_boost": 4.54
+    },
+    "cervesa": {
+      "likelihood": 0.0143,
+      "posterior_boost": 4.58
+    },
+    "respectes": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.88
+    },
+    "criteri": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.88
+    },
+    "fabricacio": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.64
+    },
+    "mort": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.31
+    },
+    "joan": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.73
+    },
+    "genova": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.28
+    },
+    "perpinya": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.23
+    },
+    "felice_romani": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "mila": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.78
+    },
+    "avis": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.48
+    },
+    "comarques": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "centrals": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "pais_valencia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.77
+    },
+    "vermell": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.72
+    },
+    "pluja": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "intensa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "fets": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.82
+    },
+    "sancionava": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "aigualir": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "obrir": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.7
+    },
+    "local": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.03
+    },
+    "sense": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.33
+    },
+    "autoritzacio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "formacions": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.28
+    },
+    "politiques": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "podem": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.21
+    },
+    "esquerra_unida": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.1
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1429,
+    0.0,
+    2.0794415416798357
+  ],
+  "embedding_vector": [
+    2.070967707467315,
+    0.1484983758448023,
+    5.178768184628818,
+    0.5044693035566188,
+    2.089001331919768,
+    0.14366991740820867,
+    5.180022409273199,
+    0.49144102266719525,
+    2.0748103212818734,
+    0.1428976500165112,
+    5.183584599922418,
+    0.5060747807220876,
+    2.0770603643428065,
+    0.1342187269381181,
+    5.175762911986159,
+    0.5081918705543923,
+    2.073709248751434,
+    0.14194247923635367,
+    5.18862412039378,
+    0.49049798455100696,
+    2.081452520029118,
+    0.15190259000827291,
+    5.174606057580419,
+    0.5009697983847206,
+    2.0876241091775705,
+    0.135563388915185,
+    5.180468251613475,
+    0.5050081971820407,
+    2.082821806497514,
+    0.14225505719489961,
+    5.174096981805955,
+    0.4998153177818214,
+    2.076889235467537,
+    0.14244802309703178,
+    5.177317807715611,
+    0.5067583598861852,
+    2.084814491810226,
+    0.13917989354425325,
+    5.181452506652879,
+    0.4955209809666139,
+    2.078498400330764,
+    0.1399595673188879,
+    5.183147989255595,
+    0.4974070216597607,
+    2.0786234012376643,
+    0.14728648245018083,
+    5.178259836582276,
+    0.5081284653832868,
+    2.0730505740638896,
+    0.14772237745826527,
+    5.178447480872863,
+    0.49852907145369885,
+    2.0821291390525127,
+    0.1433581240205669,
+    5.178297719568788,
+    0.49002853761125514,
+    2.0712867885967707,
+    0.14708788787450425,
+    5.180486911935303,
+    0.5039232092703394,
+    2.088550908139894,
+    0.14655827708750835,
+    5.171062573813459,
+    0.49617705369727594
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/establert.json"
+}
