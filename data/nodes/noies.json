@@ -1,0 +1,281 @@
+{
+  "concept": "noies",
+  "frequency": 9,
+  "edges": [],
+  "markov_transitions": {
+    "mala": 0.1429,
+    "majoria": 0.1429,
+    "distintiu": 0.1429,
+    "pujar": 0.1429,
+    "diners": 0.1429,
+    "catalanes": 0.1429,
+    "compartir": 0.1429
+  },
+  "bayesian_context": {
+    "servir": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.21
+    },
+    "finalment": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.9
+    },
+    "mala": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "gana": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "col": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.87
+    },
+    "loquen": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "llibres": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.01
+    },
+    "revistes": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.77
+    },
+    "venen": {
+      "likelihood": 0.0074,
+      "posterior_boost": 5.07
+    },
+    "nois": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.59
+    },
+    "majoria": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.32
+    },
+    "llibreries": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "diferents": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.31
+    },
+    "plataformes": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "organitzar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.87
+    },
+    "club": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.03
+    },
+    "porten": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "distintiu": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "art": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.09
+    },
+    "duia": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "penjat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "coll": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.03
+    },
+    "pujar": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.67
+    },
+    "escenari": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.29
+    },
+    "estelada": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "ser": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.22
+    },
+    "argument": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "donar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.2
+    },
+    "direccio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.53
+    },
+    "escola_coral": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.89
+    },
+    "orfeo": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.47
+    },
+    "catala": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.5
+    },
+    "justificar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "tancament": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "cors": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.77
+    },
+    "infantils": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.89
+    },
+    "diners": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.82
+    },
+    "havien": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.19
+    },
+    "tancar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.69
+    },
+    "cor": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.46
+    },
+    "dues": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.92
+    },
+    "catalanes": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "ballar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "quantes": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.52
+    },
+    "compartir": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "dormitori": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "smith": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.75
+    },
+    "nou": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.91
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1429,
+    0.0,
+    2.302585092994046
+  ],
+  "embedding_vector": [
+    2.29279257607176,
+    0.14293749184297477,
+    5.0699154658626835,
+    0.49267659057918556,
+    2.2954273147031365,
+    0.13727117351252158,
+    5.06837016361021,
+    0.49496202336827116,
+    2.294266286017353,
+    0.13980997280100801,
+    5.063335526930647,
+    0.5075711817106532,
+    2.3116043736265803,
+    0.1336749675166464,
+    5.073982147827976,
+    0.5014551963113882,
+    2.310545235358549,
+    0.14623797945839273,
+    5.07095675566093,
+    0.5040485484813612,
+    2.3003146363863394,
+    0.14678877355528916,
+    5.0764974092900115,
+    0.49931336950734534,
+    2.311395581184579,
+    0.14897479540024636,
+    5.079667184964487,
+    0.4933927251516753,
+    2.303006787223242,
+    0.1518103483395248,
+    5.07299080926321,
+    0.5072166384645139,
+    2.3120020132358503,
+    0.1366108337386892,
+    5.064862313506269,
+    0.5074680168620225,
+    2.310710638532516,
+    0.14806555973593297,
+    5.06693803907551,
+    0.4992706942796811,
+    2.3047958478110084,
+    0.14282563435342374,
+    5.069559480270767,
+    0.4987111092953269,
+    2.3099932589225767,
+    0.13664717294122844,
+    5.073753481863854,
+    0.5040705834760277,
+    2.311089094539468,
+    0.13368909635348533,
+    5.072942334270903,
+    0.5027610796943477,
+    2.30181904624346,
+    0.13396118848970787,
+    5.060771418463247,
+    0.49339062828415753,
+    2.3084760507336166,
+    0.1361521209312016,
+    5.062774773995591,
+    0.49705833906465363,
+    2.302275062097102,
+    0.14685472770247554,
+    5.076023128633914,
+    0.4953354875414388
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/noies.json"
+}
