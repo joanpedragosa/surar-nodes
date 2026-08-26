@@ -1,0 +1,386 @@
+{
+  "concept": "convocat",
+  "frequency": 20,
+  "edges": [],
+  "markov_transitions": {
+    "vaga": 0.2,
+    "consulta": 0.05,
+    "ANC": 0.05,
+    "concentracio": 0.05,
+    "generalitat_valenciana": 0.05,
+    "CCOO": 0.05,
+    "sanchez": 0.1,
+    "roda": 0.05,
+    "concentracions": 0.05,
+    "albert_rivera": 0.05,
+    "sindicats": 0.05,
+    "pedro": 0.05,
+    "cridem": 0.05,
+    "govern": 0.05,
+    "francisco": 0.05,
+    "marxes": 0.05
+  },
+  "bayesian_context": {
+    "vaga": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.65
+    },
+    "renfe": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "comissions_obreres": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "consulta": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.36
+    },
+    "afiliats": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "simpatitzants": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "feminista": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "diversos": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.08
+    },
+    "sindicats": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "concentracio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.59
+    },
+    "ANC": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.36
+    },
+    "urgencia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "volien": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.17
+    },
+    "rebentar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "mobilitzacio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "extrema": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.68
+    },
+    "dreta": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.14
+    },
+    "generalitat_valenciana": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "oferta": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.61
+    },
+    "publica": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.14
+    },
+    "ocupacio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "motiu": {
+      "likelihood": 0.005,
+      "posterior_boost": 3.84
+    },
+    "dia_internacional": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "dona": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.71
+    },
+    "CCOO": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.18
+    },
+    "UGT": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "aturades": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.95
+    },
+    "dues": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.58
+    },
+    "hores": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.01
+    },
+    "dema": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.65
+    },
+    "protesta": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.55
+    },
+    "atacs": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "policia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.14
+    },
+    "espanyola": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.88
+    },
+    "referendum": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.88
+    },
+    "sanchez": {
+      "likelihood": 0.005,
+      "posterior_boost": 3.2
+    },
+    "pablo_casado": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "moncloa": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.72
+    },
+    "roda": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.65
+    },
+    "premsa": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.36
+    },
+    "iglesias": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.65
+    },
+    "estrasburg": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "concentracions": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "rebuig": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "judici": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.14
+    },
+    "capitals": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.95
+    },
+    "comarca": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "albert_rivera": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.68
+    },
+    "executiva": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.72
+    },
+    "ciutadans": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.83
+    },
+    "mati": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.42
+    },
+    "iniciar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.17
+    },
+    "negociacions": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.58
+    },
+    "dia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.08
+    },
+    "pedro": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.96
+    },
+    "conferencia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.4
+    },
+    "presidents": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "coronavirus": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.38
+    },
+    "nom": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.7
+    },
+    "acte": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.81
+    },
+    "cridem": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "octubre": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.89
+    },
+    "govern": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.38
+    },
+    "gener": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.07
+    },
+    "francisco": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "perez": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.42
+    },
+    "los": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.26
+    },
+    "cobos": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "ple": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.03
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.38
+    },
+    "dilluns": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.4
+    },
+    "marxes": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.06250000000000001,
+    0.0,
+    3.044522437723423
+  ],
+  "embedding_vector": [
+    3.0462850537449686,
+    0.07045427455818835,
+    4.727830614589494,
+    0.5063167495461537,
+    3.03524022943576,
+    0.06633515163517768,
+    4.717573618840108,
+    0.5003702189089616,
+    3.0476814670345993,
+    0.056377004357658966,
+    4.715446328041331,
+    0.5043721186720234,
+    3.050182509912603,
+    0.0695065527954999,
+    4.725504897879887,
+    0.4907332861284217,
+    3.036856312426081,
+    0.06752561398975401,
+    4.714784364323992,
+    0.4950961202788429,
+    3.051674948346818,
+    0.07149558052228605,
+    4.721233737160223,
+    0.49357561039699954,
+    3.049927476386191,
+    0.06234762079229099,
+    4.722625061311271,
+    0.5067899584582741,
+    3.043743225649272,
+    0.0624588014661461,
+    4.723588222351065,
+    0.5030157182824666,
+    3.03989834249831,
+    0.05384649333878035,
+    4.725428902767171,
+    0.49961968264599294,
+    3.041106565878096,
+    0.06271282112350304,
+    4.715272576573201,
+    0.4962102310009259,
+    3.04705950647775,
+    0.06364899621144565,
+    4.716371591191596,
+    0.49789686441716857,
+    3.039681929440727,
+    0.06414482246570431,
+    4.713232574208876,
+    0.5019626763953003,
+    3.0510389092685433,
+    0.05562783437021895,
+    4.724686010386341,
+    0.49817286864157645,
+    3.05009619581069,
+    0.06857941135222018,
+    4.7257214288705365,
+    0.5018457403731162,
+    3.0478122217799353,
+    0.06543134573551218,
+    4.718512729579281,
+    0.5002713666751548,
+    3.044547594597745,
+    0.053241676218375986,
+    4.72416232190363,
+    0.5024086120043402
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/convocat.json"
+}
