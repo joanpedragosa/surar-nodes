@@ -1,0 +1,330 @@
+{
+  "concept": "quadres",
+  "frequency": 12,
+  "edges": [],
+  "markov_transitions": {
+    "pintor": 0.0909,
+    "cap": 0.0909,
+    "lorrain": 0.3636,
+    "velazquez": 0.0909,
+    "artista": 0.0909,
+    "pintaven": 0.0909,
+    "escuts": 0.0909,
+    "acostumava": 0.0909
+  },
+  "bayesian_context": {
+    "taxar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "pintor": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.73
+    },
+    "francisco": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.99
+    },
+    "rioja": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "combina": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "rembrandt": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.74
+    },
+    "recerca": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.69
+    },
+    "perfeccio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "terrenal": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "espiritual": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.04
+    },
+    "cap": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.57
+    },
+    "art": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.97
+    },
+    "occidental": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.99
+    },
+    "crea": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.95
+    },
+    "llum": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.96
+    },
+    "expandir": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "se": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.48
+    },
+    "lorrain": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.7
+    },
+    "sensacio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "profunditat": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.87
+    },
+    "condiciona": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "composicio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.38
+    },
+    "obra": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.45
+    },
+    "permet": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.55
+    },
+    "veure": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.15
+    },
+    "lleugeresa": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "pinzellades": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "velazquez": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.83
+    },
+    "correccions": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "realitzar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.99
+    },
+    "artista": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.91
+    },
+    "moment": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.31
+    },
+    "santiago_sierra": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "breu": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "explica": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.04
+    },
+    "cas": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.23
+    },
+    "representar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.53
+    },
+    "figures": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.34
+    },
+    "retratades": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "aire": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.83
+    },
+    "lliure": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.62
+    },
+    "nou": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.78
+    },
+    "estudi": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.38
+    },
+    "fons": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.55
+    },
+    "tematica": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.29
+    },
+    "pintaven": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "escola": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.72
+    },
+    "primitius_flamencs": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "religiosa": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.13
+    },
+    "principal": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.22
+    },
+    "protagonista": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.67
+    },
+    "adorns": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "mes": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.16
+    },
+    "podem": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.98
+    },
+    "trobar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.91
+    },
+    "escuts": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "acostumava": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "pintar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.42
+    },
+    "difon": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "quadre": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.35
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.12498749999999999,
+    0.0,
+    2.5649493574615367
+  ],
+  "embedding_vector": [
+    2.55803261430913,
+    0.12978849393030809,
+    4.945266300303703,
+    0.500674787867606,
+    2.555240856711245,
+    0.1333624401619977,
+    4.95801429708234,
+    0.4906684285525269,
+    2.574088344187039,
+    0.11773168642712153,
+    4.945676567059159,
+    0.5021216636871766,
+    2.5738338601825976,
+    0.1320422108221857,
+    4.94004518467037,
+    0.5004245205444059,
+    2.565990110126828,
+    0.1246950482732542,
+    4.9553626830812885,
+    0.4932143350625114,
+    2.570240566468314,
+    0.11540369595904132,
+    4.9427042035673825,
+    0.4923254603480338,
+    2.5611473091513375,
+    0.12841655290424006,
+    4.9494245955650005,
+    0.5063233659609205,
+    2.560741093132148,
+    0.12965001955225341,
+    4.954052447105105,
+    0.49655138952526845,
+    2.5616423080436577,
+    0.13454866158033038,
+    4.952491642234707,
+    0.5090062704939905,
+    2.5702988704739465,
+    0.13148768506429548,
+    4.948132806036133,
+    0.49902616822842627,
+    2.56296199000877,
+    0.13489026320677117,
+    4.943551283518758,
+    0.509251938060557,
+    2.5633343628667187,
+    0.12346854893101998,
+    4.949262977394547,
+    0.4974744629764783,
+    2.564259519464987,
+    0.1156908652294161,
+    4.941685453394637,
+    0.504650413962839,
+    2.5676733573381942,
+    0.11554565577723065,
+    4.94600340119648,
+    0.4944170504165777,
+    2.5560497573283407,
+    0.12545242141556584,
+    4.948327393145893,
+    0.4909643749965114,
+    2.566397447772129,
+    0.13105783301354754,
+    4.942272034390797,
+    0.4955423442885039
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/quadres.json"
+}

@@ -1,0 +1,363 @@
+{
+  "concept": "PSPV",
+  "frequency": 15,
+  "edges": [],
+  "markov_transitions": {
+    "ciutadans": 0.0769,
+    "compromis": 0.6923,
+    "parada": 0.0769,
+    "sessio": 0.0769,
+    "sis": 0.0769
+  },
+  "bayesian_context": {
+    "format": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.4
+    },
+    "part": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.53
+    },
+    "col": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.65
+    },
+    "loqui": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "avui": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.92
+    },
+    "SER": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "candidats": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "PP": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.95
+    },
+    "ciutadans": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.96
+    },
+    "compromis": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.21
+    },
+    "unides_podem": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.37
+    },
+    "forma": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.72
+    },
+    "consell": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.14
+    },
+    "donaran": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "diners": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.59
+    },
+    "parlamentaries": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "parada": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "dones_progresistes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "presentar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.87
+    },
+    "mocio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.59
+    },
+    "diu": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.52
+    },
+    "CIS": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "guanyara": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "eleccions": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.79
+    },
+    "valencianes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "solucio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.65
+    },
+    "arribat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.55
+    },
+    "salomonica": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "agradaria": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "francesc_romeu": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "votes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "sessio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.7
+    },
+    "investidura": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.19
+    },
+    "abstencio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "faltat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "ple": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.15
+    },
+    "les_corts": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "diputades": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "podem": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.18
+    },
+    "secunden": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "vaga": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.17
+    },
+    "feminista": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "temps": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.05
+    },
+    "tenen": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.71
+    },
+    "tancar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.95
+    },
+    "pacte": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.62
+    },
+    "govern": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.8
+    },
+    "dues": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.7
+    },
+    "setmanes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.53
+    },
+    "durat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "reunio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.12
+    },
+    "esquerra_unida": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.07
+    },
+    "quatre": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.8
+    },
+    "hores": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.14
+    },
+    "nou": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.69
+    },
+    "botanic": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.18
+    },
+    "partits": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.14
+    },
+    "reunit": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.62
+    },
+    "fer": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.17
+    },
+    "avancar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.81
+    },
+    "negociacions": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.7
+    },
+    "forces": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.57
+    },
+    "politiques": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.51
+    },
+    "signar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.47
+    },
+    "quantes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.3
+    },
+    "conselleries": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "queden": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "reservades": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "sis": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.01
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.19998,
+    0.0,
+    2.772588722239781
+  ],
+  "embedding_vector": [
+    2.7795650761851527,
+    0.19355791849841997,
+    4.841087264286128,
+    0.49723076892176443,
+    2.7680967408119095,
+    0.2005800044979085,
+    4.846118378314718,
+    0.4960894871830829,
+    2.764823547763293,
+    0.19497798027760227,
+    4.858352597956731,
+    0.4952829370650675,
+    2.7769441959892522,
+    0.20729430068380308,
+    4.856141589644907,
+    0.49421101165317655,
+    2.76593358286891,
+    0.19091412783364142,
+    4.84078844623515,
+    0.49400461619550945,
+    2.7825595902943245,
+    0.19743573956655774,
+    4.855210205478579,
+    0.4994694888536632,
+    2.7727830283561343,
+    0.20888076834380884,
+    4.842188932966836,
+    0.49930186321529674,
+    2.765419827437797,
+    0.2007469752431385,
+    4.845979973130005,
+    0.5007549043883768,
+    2.775901272996278,
+    0.1972665760113629,
+    4.852460372386691,
+    0.5028544977049042,
+    2.7709883586417288,
+    0.19804484868020322,
+    4.8478084065219305,
+    0.4981237904494498,
+    2.7641820443475793,
+    0.19111662402824167,
+    4.841566618172662,
+    0.5039135562127826,
+    2.763171901457884,
+    0.19996984839458168,
+    4.842652686354889,
+    0.4906151126709157,
+    2.7753785108060587,
+    0.19889996295039225,
+    4.859492132714391,
+    0.49659531864743184,
+    2.766497218704045,
+    0.2036609242462682,
+    4.847021977145343,
+    0.5054207222667854,
+    2.778424712267171,
+    0.19885749178250858,
+    4.845376566025164,
+    0.4904780884410903,
+    2.770015373555138,
+    0.19193461759311725,
+    4.854550450971558,
+    0.49918888850671433
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/PSPV.json"
+}
