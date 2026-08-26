@@ -1,0 +1,313 @@
+{
+  "concept": "acusen",
+  "frequency": 15,
+  "edges": [],
+  "markov_transitions": {
+    "voler": 0.0667,
+    "actitud": 0.0667,
+    "mort": 0.0667,
+    "trenta": 0.0667,
+    "injustament": 0.0667,
+    "desobediencia": 0.0667,
+    "president_quim": 0.0667,
+    "evo_morales": 0.0667,
+    "lluis_puig": 0.0667,
+    "independentisme": 0.0667,
+    "president": 0.0667,
+    "buch": 0.0667,
+    "espanol": 0.0667,
+    "periodistes": 0.0667,
+    "roger_torrent": 0.0667
+  },
+  "bayesian_context": {
+    "voler": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.62
+    },
+    "suprimir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "grup": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.73
+    },
+    "josep_borrell": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.7
+    },
+    "actitud": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.67
+    },
+    "autoritaria": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "pablo_iglesias": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.45
+    },
+    "pablo_echenique": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "mort": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.98
+    },
+    "polidor": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "azor": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "zelmira": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "trenta": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.17
+    },
+    "dues": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.7
+    },
+    "persones": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.77
+    },
+    "desviament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "fons": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.15
+    },
+    "publics": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.51
+    },
+    "injustament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "esposa": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.45
+    },
+    "fidel": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "opera": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.51
+    },
+    "infidelitat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "desobediencia": {
+      "likelihood": 0.0089,
+      "posterior_boost": 4.28
+    },
+    "casals": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "haver": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.81
+    },
+    "cedit": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "locals": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "president_quim": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "torra": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.61
+    },
+    "evo_morales": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "sedicio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "terrorisme": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "lluis_puig": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "diu": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.52
+    },
+    "el_homrani": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "independentisme": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.57
+    },
+    "PP": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.95
+    },
+    "cs": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "ser": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.01
+    },
+    "identitari": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "president": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.79
+    },
+    "generalitat_quim": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "buch": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "prevaricacio": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.9
+    },
+    "malversacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.74
+    },
+    "delicte": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.82
+    },
+    "espanol": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "atemptat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.49
+    },
+    "autoritat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "periodistes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "revelacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "secrets": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "roger_torrent": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0667,
+    0.0,
+    2.772588722239781
+  ],
+  "embedding_vector": [
+    2.7795650761851527,
+    0.060277918498419965,
+    4.841087264286128,
+    0.49723076892176443,
+    2.7680967408119095,
+    0.0673000044979085,
+    4.846118378314718,
+    0.4960894871830829,
+    2.764823547763293,
+    0.06169798027760229,
+    4.858352597956731,
+    0.4952829370650675,
+    2.7769441959892522,
+    0.07401430068380307,
+    4.856141589644907,
+    0.49421101165317655,
+    2.76593358286891,
+    0.05763412783364143,
+    4.84078844623515,
+    0.49400461619550945,
+    2.7825595902943245,
+    0.06415573956655776,
+    4.855210205478579,
+    0.4994694888536632,
+    2.7727830283561343,
+    0.07560076834380886,
+    4.842188932966836,
+    0.49930186321529674,
+    2.765419827437797,
+    0.06746697524313851,
+    4.845979973130005,
+    0.5007549043883768,
+    2.775901272996278,
+    0.06398657601136291,
+    4.852460372386691,
+    0.5028544977049042,
+    2.7709883586417288,
+    0.06476484868020324,
+    4.8478084065219305,
+    0.4981237904494498,
+    2.7641820443475793,
+    0.05783662402824167,
+    4.841566618172662,
+    0.5039135562127826,
+    2.763171901457884,
+    0.06668984839458167,
+    4.842652686354889,
+    0.4906151126709157,
+    2.7753785108060587,
+    0.06561996295039224,
+    4.859492132714391,
+    0.49659531864743184,
+    2.766497218704045,
+    0.07038092424626818,
+    4.847021977145343,
+    0.5054207222667854,
+    2.778424712267171,
+    0.06557749178250857,
+    4.845376566025164,
+    0.4904780884410903,
+    2.770015373555138,
+    0.058654617593117256,
+    4.854550450971558,
+    0.49918888850671433
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/acusen.json"
+}
