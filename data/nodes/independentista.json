@@ -1,0 +1,428 @@
+{
+  "concept": "independentista",
+  "frequency": 16,
+  "edges": [],
+  "markov_transitions": {
+    "parlament": 0.1667,
+    "aprovada": 0.1667,
+    "presumpcio": 0.1667,
+    "restitucio": 0.1667,
+    "tribunal_suprem": 0.1667,
+    "mes": 0.1667
+  },
+  "bayesian_context": {
+    "aprovar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.46
+    },
+    "declaracio": {
+      "likelihood": 0.0063,
+      "posterior_boost": 3.92
+    },
+    "parlament": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.07
+    },
+    "catalunya": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.73
+    },
+    "superaria": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "vots": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.28
+    },
+    "ara": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.28
+    },
+    "hagues": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.82
+    },
+    "eleccions": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.06
+    },
+    "bloc": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.59
+    },
+    "considera": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.12
+    },
+    "PDC": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "refundacio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "majoria": {
+      "likelihood": 0.0063,
+      "posterior_boost": 3.54
+    },
+    "sorgir": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.82
+    },
+    "desembre": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.16
+    },
+    "suspes": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "TC": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.78
+    },
+    "aprovada": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "constancia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "interior": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.19
+    },
+    "fer": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.43
+    },
+    "ajornes": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "concentracio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.39
+    },
+    "falangista": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "contramanifestacio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "abandonat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    },
+    "forn": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.74
+    },
+    "segons": {
+      "likelihood": 0.0063,
+      "posterior_boost": 2.79
+    },
+    "llarena": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.74
+    },
+    "ideologia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "degut": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "canvi": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.2
+    },
+    "tendencia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    },
+    "relacio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.05
+    },
+    "independentisme": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.54
+    },
+    "escocia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.74
+    },
+    "yougov": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "fet": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.64
+    },
+    "gent": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.11
+    },
+    "votar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.39
+    },
+    "brexit": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.68
+    },
+    "vegada": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.27
+    },
+    "mes": {
+      "likelihood": 0.0063,
+      "posterior_boost": 2.49
+    },
+    "vol": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.56
+    },
+    "engegar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "ofensiva": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "govern": {
+      "likelihood": 0.0063,
+      "posterior_boost": 2.94
+    },
+    "espanyol": {
+      "likelihood": 0.0063,
+      "posterior_boost": 3.03
+    },
+    "vulnera": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "informe": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.27
+    },
+    "proces": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.21
+    },
+    "presumpcio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "innocencia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    },
+    "presos": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.14
+    },
+    "politics": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.95
+    },
+    "era": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.09
+    },
+    "important": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.16
+    },
+    "valls": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.65
+    },
+    "evitar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.32
+    },
+    "barcelona": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.45
+    },
+    "tingues": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "alcalde": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.71
+    },
+    "encarregar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.18
+    },
+    "restitucio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "legitim": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "transformant": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "tardor": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    },
+    "espai": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.21
+    },
+    "politic": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.99
+    },
+    "se": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.36
+    },
+    "celebra": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.52
+    },
+    "judici": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.23
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.14
+    },
+    "sera": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.04
+    },
+    "forca": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.27
+    },
+    "votada": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "recull": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.78
+    },
+    "centre": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.96
+    },
+    "estudis": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.38
+    },
+    "opinio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "ERC": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.98
+    },
+    "podra": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.68
+    },
+    "cami": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.42
+    },
+    "DUI": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1667,
+    0.0,
+    2.833213344056216
+  ],
+  "embedding_vector": [
+    2.827679165639287,
+    0.16716326682801352,
+    4.821014029131624,
+    0.4909120390026561,
+    2.8304279207631717,
+    0.16116161883382576,
+    4.823774523236428,
+    0.49327462850001796,
+    2.8246198413923262,
+    0.1755202172049167,
+    4.821273627604697,
+    0.49155984678779974,
+    2.837666154278713,
+    0.15986904347046332,
+    4.815005626134881,
+    0.49586974512204396,
+    2.837145558340388,
+    0.16598528176080302,
+    4.814301242874287,
+    0.49893652524159315,
+    2.8256309190869953,
+    0.1750537401548945,
+    4.821328926574385,
+    0.49944038631483856,
+    2.8295046725491604,
+    0.15756431459473252,
+    4.8250488983392,
+    0.5008653808774264,
+    2.8385571525705102,
+    0.17250897532431572,
+    4.811444427587493,
+    0.503194316688157,
+    2.824279330823101,
+    0.170400489054454,
+    4.818867019240265,
+    0.49935992294759923,
+    2.8364345307515153,
+    0.17049933263853223,
+    4.815266589688911,
+    0.4902295786752035,
+    2.8386392329887116,
+    0.17302284652577699,
+    4.812792832074966,
+    0.5015601349114969,
+    2.8300268294971,
+    0.16134430974938133,
+    4.813972875071703,
+    0.49542981546577364,
+    2.84275039933643,
+    0.16100857956562722,
+    4.817128148341242,
+    0.49036799893261235,
+    2.8355491494481164,
+    0.16130810775562168,
+    4.8248470347213175,
+    0.5016850041678977,
+    2.8316154151480113,
+    0.17088505664389722,
+    4.829440910518068,
+    0.5062007823531456,
+    2.83182644764945,
+    0.175854571996229,
+    4.810955162022098,
+    0.5046556360178338
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/independentista.json"
+}
