@@ -1,0 +1,452 @@
+{
+  "concept": "fent",
+  "frequency": 15,
+  "edges": [],
+  "markov_transitions": {
+    "vaga": 0.2143,
+    "servir": 0.2143,
+    "juanma_moreno": 0.0714,
+    "paris": 0.0714,
+    "escoles": 0.0714,
+    "jesus": 0.0714,
+    "proves": 0.0714,
+    "pronunciament": 0.0714,
+    "institut_pere": 0.0714,
+    "persones": 0.0714
+  },
+  "bayesian_context": {
+    "vaga": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.65
+    },
+    "fam": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.11
+    },
+    "indefinida": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "jordi_sanchez": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.51
+    },
+    "jordi_turull": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "fabricats": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "objectes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.19
+    },
+    "indigenes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "costa_rica": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "servir": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.46
+    },
+    "tecniques": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.57
+    },
+    "motius": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.51
+    },
+    "autoctons": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "comparar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "especies": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.17
+    },
+    "conegudes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "dues": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.7
+    },
+    "parts": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.32
+    },
+    "adnmt": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "considera": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.14
+    },
+    "el_homrani": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "politiques": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.51
+    },
+    "juanma_moreno": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "etnicistes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "defineix": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "valor": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.53
+    },
+    "decalatge": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "paraula": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.62
+    },
+    "clau": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.7
+    },
+    "repeteix": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "titulava": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "article": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.09
+    },
+    "damia_pons": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "vint": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.21
+    },
+    "anys": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.39
+    },
+    "mes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.07
+    },
+    "paris": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.31
+    },
+    "preparant": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "exposicio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.21
+    },
+    "volen": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.02
+    },
+    "acabar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.23
+    },
+    "estan": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.35
+    },
+    "aillament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "öcalan": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "escoles": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "institucions": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "reinventant": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "se": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.39
+    },
+    "aconsegueix": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.81
+    },
+    "pintor": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.33
+    },
+    "jesus": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.23
+    },
+    "vesteixi": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "escena": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.96
+    },
+    "anterior": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.67
+    },
+    "donar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.98
+    },
+    "continuitat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "vol": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.59
+    },
+    "garantir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "proves": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.59
+    },
+    "necessaries": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "correcte": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "funcionament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "fiabilitat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "sistema": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.94
+    },
+    "sembla": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.25
+    },
+    "volia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.93
+    },
+    "aconseguir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.95
+    },
+    "pilat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "pronunciament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "sentencia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.37
+    },
+    "calmar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "poble": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.32
+    },
+    "obra": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.36
+    },
+    "utilitzar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.23
+    },
+    "domenech": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.65
+    },
+    "coneixement": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.74
+    },
+    "adquirir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.65
+    },
+    "institut_pere": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "mata": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "hospital": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.33
+    },
+    "sant_pau": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "tipus": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.76
+    },
+    "treball": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.18
+    },
+    "persones": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.77
+    },
+    "representades": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "fisic": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "treballadors": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.62
+    },
+    "serveis_educatius": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "ciut": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "art": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.87
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.09998000000000001,
+    0.0,
+    2.772588722239781
+  ],
+  "embedding_vector": [
+    2.7795650761851527,
+    0.09355791849841996,
+    4.841087264286128,
+    0.49723076892176443,
+    2.7680967408119095,
+    0.1005800044979085,
+    4.846118378314718,
+    0.4960894871830829,
+    2.764823547763293,
+    0.09497798027760229,
+    4.858352597956731,
+    0.4952829370650675,
+    2.7769441959892522,
+    0.10729430068380308,
+    4.856141589644907,
+    0.49421101165317655,
+    2.76593358286891,
+    0.09091412783364143,
+    4.84078844623515,
+    0.49400461619550945,
+    2.7825595902943245,
+    0.09743573956655777,
+    4.855210205478579,
+    0.4994694888536632,
+    2.7727830283561343,
+    0.10888076834380886,
+    4.842188932966836,
+    0.49930186321529674,
+    2.765419827437797,
+    0.10074697524313851,
+    4.845979973130005,
+    0.5007549043883768,
+    2.775901272996278,
+    0.09726657601136292,
+    4.852460372386691,
+    0.5028544977049042,
+    2.7709883586417288,
+    0.09804484868020324,
+    4.8478084065219305,
+    0.4981237904494498,
+    2.7641820443475793,
+    0.09111662402824168,
+    4.841566618172662,
+    0.5039135562127826,
+    2.763171901457884,
+    0.09996984839458167,
+    4.842652686354889,
+    0.4906151126709157,
+    2.7753785108060587,
+    0.09889996295039225,
+    4.859492132714391,
+    0.49659531864743184,
+    2.766497218704045,
+    0.10366092424626819,
+    4.847021977145343,
+    0.5054207222667854,
+    2.778424712267171,
+    0.09885749178250858,
+    4.845376566025164,
+    0.4904780884410903,
+    2.770015373555138,
+    0.09193461759311726,
+    4.854550450971558,
+    0.49918888850671433
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/fent.json"
+}

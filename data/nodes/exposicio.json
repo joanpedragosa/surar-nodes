@@ -1,0 +1,882 @@
+{
+  "concept": "exposicio",
+  "frequency": 44,
+  "edges": [],
+  "markov_transitions": {
+    "agrupacio": 0.0238,
+    "mela_muter": 0.0238,
+    "museu": 0.0238,
+    "barcelona": 0.119,
+    "rossini": 0.0238,
+    "urnes": 0.0238,
+    "freedom_hong": 0.0238,
+    "de_paris": 0.0238,
+    "obert": 0.0238,
+    "qualitat": 0.0238,
+    "art": 0.0238,
+    "anomenada": 0.0238,
+    "industries": 0.0238,
+    "circulacio": 0.0238,
+    "tres": 0.0238,
+    "verdaguer": 0.0238,
+    "universal": 0.0714,
+    "trio": 0.0238,
+    "col": 0.0238,
+    "arxiu_fotografic": 0.0238,
+    "inaugura": 0.0238,
+    "ninot": 0.0238,
+    "democracy_under": 0.0238,
+    "the_vehicle": 0.0238,
+    "acull": 0.0238,
+    "logicofobista": 0.0238,
+    "escultures": 0.0238,
+    "setembre": 0.0238,
+    "anys": 0.0238,
+    "glasgow": 0.0238,
+    "universal_missionera": 0.0238,
+    "cuina": 0.0238,
+    "reunia": 0.0238,
+    "publica": 0.0238,
+    "dedicada": 0.0238,
+    "mes": 0.0238
+  },
+  "bayesian_context": {
+    "presentar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.71
+    },
+    "primera": {
+      "likelihood": 0.0023,
+      "posterior_boost": 2.69
+    },
+    "agrupacio": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.54
+    },
+    "fotografica": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.54
+    },
+    "catalunya": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.6
+    },
+    "ricard": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "terre": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.38
+    },
+    "ramon_masats": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "dedica": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.43
+    },
+    "mela_muter": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "el_museu": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "art": {
+      "likelihood": 0.0023,
+      "posterior_boost": 2.88
+    },
+    "girona": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.54
+    },
+    "organitzar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.48
+    },
+    "museu": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.15
+    },
+    "col": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.49
+    },
+    "laboracio": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.18
+    },
+    "MNAC": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.38
+    },
+    "promoure": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.48
+    },
+    "nova": {
+      "likelihood": 0.0023,
+      "posterior_boost": 2.93
+    },
+    "barcelona": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.04
+    },
+    "josep_puig": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.78
+    },
+    "cadafalch": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.78
+    },
+    "comissariada": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "rossini": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.31
+    },
+    "titula": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.68
+    },
+    "urnes": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.48
+    },
+    "llibertat": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.72
+    },
+    "diu": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.36
+    },
+    "grup": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.28
+    },
+    "activistes": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.48
+    },
+    "organitza": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.24
+    },
+    "freedom_hong": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.08
+    },
+    "kong": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.08
+    },
+    "de_paris": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "artistes": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.99
+    },
+    "polonesos": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.78
+    },
+    "obert": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.34
+    },
+    "macba": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.91
+    },
+    "gelatina": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "dura": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.99
+    },
+    "histories": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.54
+    },
+    "escamotejades": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "fou": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.76
+    },
+    "qualitat": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.11
+    },
+    "artistica": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.54
+    },
+    "fracas": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.78
+    },
+    "economic": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.13
+    },
+    "deia": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.65
+    },
+    "multimedia": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.68
+    },
+    "warhol": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.99
+    },
+    "exploding_plastic": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "inevitable": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "destaca": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.06
+    },
+    "anomenada": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.27
+    },
+    "font": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.94
+    },
+    "magica": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.91
+    },
+    "fent": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.21
+    },
+    "paris": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.84
+    },
+    "preparant": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.08
+    },
+    "impulsar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.64
+    },
+    "pich": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "pon": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "industries": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "electriques": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "obliga": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.91
+    },
+    "estigues": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "ubicat": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.78
+    },
+    "antics": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.21
+    },
+    "palaus": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.91
+    },
+    "medievals": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.54
+    },
+    "replantejar": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.91
+    },
+    "se": {
+      "likelihood": 0.0008,
+      "posterior_boost": 1.96
+    },
+    "sistemes": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.34
+    },
+    "circulacio": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.91
+    },
+    "persones": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.32
+    },
+    "lloc": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.5
+    },
+    "tres": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.09
+    },
+    "espais": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.27
+    },
+    "pot": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.14
+    },
+    "visitar": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.38
+    },
+    "verdaguer": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.91
+    },
+    "historia": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.54
+    },
+    "havien": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.51
+    },
+    "instal": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.8
+    },
+    "lat": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.54
+    },
+    "dos": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.07
+    },
+    "orgues": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "electrics": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.68
+    },
+    "universal": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.82
+    },
+    "salo": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.3
+    },
+    "reina_regent": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "palau": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.65
+    },
+    "belles_arts": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.43
+    },
+    "segona": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.63
+    },
+    "trio": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.08
+    },
+    "miserachs": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.78
+    },
+    "masats": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "sala_aixela": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.08
+    },
+    "aconseguir": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.49
+    },
+    "gran": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.09
+    },
+    "exit": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.92
+    },
+    "carnaval": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.91
+    },
+    "arlequi": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.08
+    },
+    "lectiva": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.91
+    },
+    "peinture": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "surrealiste": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "volia": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.47
+    },
+    "principi": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.94
+    },
+    "recinte": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.6
+    },
+    "zona": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.94
+    },
+    "besos": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.68
+    },
+    "conserva": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.15
+    },
+    "fons": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.69
+    },
+    "grafic": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.78
+    },
+    "arxiu_fotografic": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "inaugura": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "setmana": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.01
+    },
+    "valencia": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.94
+    },
+    "ninot": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "data": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.82
+    },
+    "obre": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.38
+    },
+    "galleri_duerr": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "democracy_under": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "siege": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "setembre": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.89
+    },
+    "serie": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.82
+    },
+    "instantanies": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "comenca": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.02
+    },
+    "the_vehicle": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "acull": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.91
+    },
+    "centre_civic": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "pati_llimona": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "waiting": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "for": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.34
+    },
+    "daybreak": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "hong_kong": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.6
+    },
+    "protest": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "ciutat": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.17
+    },
+    "celebrar": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.91
+    },
+    "logicofobista": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "fer": {
+      "likelihood": 0.0023,
+      "posterior_boost": 2.18
+    },
+    "escultures": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.97
+    },
+    "podra": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.24
+    },
+    "veure": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.59
+    },
+    "any": {
+      "likelihood": 0.0045,
+      "posterior_boost": 2.59
+    },
+    "realitzar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.73
+    },
+    "comencar": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.4
+    },
+    "gestar": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "idea": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.24
+    },
+    "titol": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.13
+    },
+    "anys": {
+      "likelihood": 0.0008,
+      "posterior_boost": 1.95
+    },
+    "evolucio": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.21
+    },
+    "alimentacio": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.6
+    },
+    "glasgow": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "sant": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.51
+    },
+    "universal_missionera": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "cuina": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.6
+    },
+    "picasso": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.34
+    },
+    "reunia": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.08
+    },
+    "fotografies": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.43
+    },
+    "xavier_miserachs": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.91
+    },
+    "esdeveniment": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.3
+    },
+    "celebra": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.08
+    },
+    "finals": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.99
+    },
+    "segle": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.16
+    },
+    "prevista": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.6
+    },
+    "pintar": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.86
+    },
+    "murillo": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.24
+    },
+    "primeres": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.91
+    },
+    "obres": {
+      "likelihood": 0.0023,
+      "posterior_boost": 2.66
+    },
+    "publica": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.8
+    },
+    "convent": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.18
+    },
+    "franciscans": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.08
+    },
+    "ser": {
+      "likelihood": 0.0008,
+      "posterior_boost": 1.62
+    },
+    "enviat": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.08
+    },
+    "canberra": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.08
+    },
+    "volum": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.3
+    },
+    "conte": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.94
+    },
+    "evangeli": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.34
+    },
+    "segons": {
+      "likelihood": 0.0008,
+      "posterior_boost": 1.92
+    },
+    "marc": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.73
+    },
+    "dedicada": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.43
+    },
+    "manuscrits": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.78
+    },
+    "il": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.6
+    },
+    "luminats": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.08
+    },
+    "quantes": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.15
+    },
+    "mostren": {
+      "likelihood": 0.0008,
+      "posterior_boost": 3.21
+    },
+    "podrem": {
+      "likelihood": 0.0008,
+      "posterior_boost": 4.38
+    },
+    "trobar": {
+      "likelihood": 0.0008,
+      "posterior_boost": 2.36
+    },
+    "mes": {
+      "likelihood": 0.0008,
+      "posterior_boost": 1.67
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.027766666666666686,
+    0.0,
+    3.8066624897703196
+  ],
+  "embedding_vector": [
+    3.813359332743633,
+    0.01986258875406407,
+    4.68489280963359,
+    0.4972100167251257,
+    3.803848706526481,
+    0.029951434279029708,
+    4.677875591021765,
+    0.498181452197218,
+    3.8068605379621117,
+    0.031969626533208145,
+    4.689210524504113,
+    0.49913242217877873,
+    3.8052155201915516,
+    0.02003594068906608,
+    4.67435797738693,
+    0.5091494413813583,
+    3.8155295041784076,
+    0.035403152289796624,
+    4.6829282112480675,
+    0.49427649624261216,
+    3.8093991300464562,
+    0.020549591706364743,
+    4.679174081406107,
+    0.5074772637031264,
+    3.801831495887661,
+    0.031063688621917305,
+    4.6872534867207385,
+    0.49297696126088436,
+    3.807921488933499,
+    0.020949771942929626,
+    4.6734578985316455,
+    0.49208045921980464,
+    3.800721241630323,
+    0.02687045260112443,
+    4.685891498324564,
+    0.5098164536196156,
+    3.8127628337819286,
+    0.02531497478099512,
+    4.680314748512436,
+    0.49117797842744154,
+    3.8108844034943803,
+    0.019216822934619394,
+    4.687652231638597,
+    0.5045211563713312,
+    3.8133298140191547,
+    0.03197128034325902,
+    4.683948598364084,
+    0.5086020560681634,
+    3.814295944747465,
+    0.019666106332595835,
+    4.679129928344747,
+    0.4998544698371329,
+    3.798841959849036,
+    0.020841355883901666,
+    4.68968568066613,
+    0.495431203074239,
+    3.814605527502807,
+    0.021051359577148366,
+    4.67264716589477,
+    0.4963470680533864,
+    3.802810940946832,
+    0.026207770401754683,
+    4.676619927816015,
+    0.5013615074584249
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/exposicio.json"
+}

@@ -1,0 +1,289 @@
+{
+  "concept": "federal",
+  "frequency": 9,
+  "edges": [],
+  "markov_transitions": {
+    "PSOE": 0.3333,
+    "saxonia": 0.1667,
+    "alemanya": 0.5
+  },
+  "bayesian_context": {
+    "seria": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.58
+    },
+    "candidat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.9
+    },
+    "alternatiu": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "mocio": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.12
+    },
+    "censura": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.29
+    },
+    "volen": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.54
+    },
+    "presentar": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.39
+    },
+    "major": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.67
+    },
+    "part": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.04
+    },
+    "integrants": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.53
+    },
+    "executiva": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.37
+    },
+    "PSOE": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.76
+    },
+    "pedro": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.3
+    },
+    "sanchez": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.07
+    },
+    "impulsar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.03
+    },
+    "campanya": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.33
+    },
+    "excavacio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "lloc": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.18
+    },
+    "oficina": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "saxonia": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "anhalt": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "acusar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "justicia": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.78
+    },
+    "alemanya": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.94
+    },
+    "tactiques": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "dilatories": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "tribunal": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.38
+    },
+    "internacional": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.69
+    },
+    "mariano_rajoy": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.67
+    },
+    "se": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.61
+    },
+    "fer": {
+      "likelihood": 0.0074,
+      "posterior_boost": 2.67
+    },
+    "proces": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.16
+    },
+    "destitucio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "andrew_johnson": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "vulnerar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.23
+    },
+    "llei": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.03
+    },
+    "regula": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "procediment": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.23
+    },
+    "diversos": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.43
+    },
+    "processos": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.96
+    },
+    "electorals": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.84
+    },
+    "dret": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.23
+    },
+    "ser": {
+      "likelihood": 0.0074,
+      "posterior_boost": 2.5
+    },
+    "acusada": {
+      "likelihood": 0.0074,
+      "posterior_boost": 5.07
+    },
+    "financament": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.77
+    },
+    "reben": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "estats": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.61
+    },
+    "mes": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.27
+    },
+    "facil": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "registre": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "votants": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    2.302585092994046
+  ],
+  "embedding_vector": [
+    2.29279257607176,
+    0.3333708251763081,
+    5.0699154658626835,
+    0.49267659057918556,
+    2.2954273147031365,
+    0.3277045068458549,
+    5.06837016361021,
+    0.49496202336827116,
+    2.294266286017353,
+    0.33024330613434133,
+    5.063335526930647,
+    0.5075711817106532,
+    2.3116043736265803,
+    0.3241083008499797,
+    5.073982147827976,
+    0.5014551963113882,
+    2.310545235358549,
+    0.3366713127917261,
+    5.07095675566093,
+    0.5040485484813612,
+    2.3003146363863394,
+    0.3372221068886225,
+    5.0764974092900115,
+    0.49931336950734534,
+    2.311395581184579,
+    0.3394081287335797,
+    5.079667184964487,
+    0.4933927251516753,
+    2.303006787223242,
+    0.3422436816728581,
+    5.07299080926321,
+    0.5072166384645139,
+    2.3120020132358503,
+    0.32704416707202255,
+    5.064862313506269,
+    0.5074680168620225,
+    2.310710638532516,
+    0.3384988930692663,
+    5.06693803907551,
+    0.4992706942796811,
+    2.3047958478110084,
+    0.33325896768675706,
+    5.069559480270767,
+    0.4987111092953269,
+    2.3099932589225767,
+    0.32708050627456176,
+    5.073753481863854,
+    0.5040705834760277,
+    2.311089094539468,
+    0.32412242968681865,
+    5.072942334270903,
+    0.5027610796943477,
+    2.30181904624346,
+    0.3243945218230412,
+    5.060771418463247,
+    0.49339062828415753,
+    2.3084760507336166,
+    0.32658545426453495,
+    5.062774773995591,
+    0.49705833906465363,
+    2.302275062097102,
+    0.3372880610358089,
+    5.076023128633914,
+    0.4953354875414388
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/federal.json"
+}
