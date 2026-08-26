@@ -1,0 +1,216 @@
+{
+  "concept": "magnetic",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "gauss": 0.1667,
+    "superficie": 0.1667,
+    "nebulosa": 0.1667,
+    "intrinsec": 0.1667,
+    "gener": 0.1667,
+    "cap": 0.1667
+  },
+  "bayesian_context": {
+    "converteix": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.14
+    },
+    "camp": {
+      "likelihood": 0.0286,
+      "posterior_boost": 4.7
+    },
+    "gauss": {
+      "likelihood": 0.0095,
+      "posterior_boost": 5.0
+    },
+    "superficie": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.99
+    },
+    "estrella": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.18
+    },
+    "progenitora": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "milio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.23
+    },
+    "fer": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.49
+    },
+    "flux": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "conservar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "se": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.71
+    },
+    "evolucio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.0
+    },
+    "degenerativa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "nana": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.1
+    },
+    "blanca": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.8
+    },
+    "alimentaria": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "nebulosa": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.23
+    },
+    "energia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.77
+    },
+    "pulsar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "forma": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.35
+    },
+    "intrinsec": {
+      "likelihood": 0.0095,
+      "posterior_boost": 5.48
+    },
+    "dipol": {
+      "likelihood": 0.0095,
+      "posterior_boost": 5.48
+    },
+    "aconseguir": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.28
+    },
+    "arribar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.26
+    },
+    "localitzacio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "aproximada": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "pol_sud": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "gener": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.52
+    },
+    "cap": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.09
+    },
+    "empeny": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "filaments": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "exterior": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.66
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1667,
+    0.0,
+    2.0794415416798357
+  ],
+  "embedding_vector": [
+    2.070967707467315,
+    0.1722983758448023,
+    5.4787681846288185,
+    0.5044693035566188,
+    2.089001331919768,
+    0.16746991740820866,
+    5.480022409273199,
+    0.49144102266719525,
+    2.0748103212818734,
+    0.16669765001651118,
+    5.483584599922419,
+    0.5060747807220876,
+    2.0770603643428065,
+    0.15801872693811808,
+    5.47576291198616,
+    0.5081918705543923,
+    2.073709248751434,
+    0.16574247923635366,
+    5.488624120393781,
+    0.49049798455100696,
+    2.081452520029118,
+    0.1757025900082729,
+    5.47460605758042,
+    0.5009697983847206,
+    2.0876241091775705,
+    0.15936338891518498,
+    5.480468251613476,
+    0.5050081971820407,
+    2.082821806497514,
+    0.1660550571948996,
+    5.474096981805956,
+    0.4998153177818214,
+    2.076889235467537,
+    0.16624802309703177,
+    5.477317807715612,
+    0.5067583598861852,
+    2.084814491810226,
+    0.16297989354425324,
+    5.48145250665288,
+    0.4955209809666139,
+    2.078498400330764,
+    0.16375956731888788,
+    5.483147989255595,
+    0.4974070216597607,
+    2.0786234012376643,
+    0.17108648245018082,
+    5.478259836582277,
+    0.5081284653832868,
+    2.0730505740638896,
+    0.17152237745826526,
+    5.478447480872863,
+    0.49852907145369885,
+    2.0821291390525127,
+    0.1671581240205669,
+    5.478297719568789,
+    0.49002853761125514,
+    2.0712867885967707,
+    0.17088788787450424,
+    5.480486911935304,
+    0.5039232092703394,
+    2.088550908139894,
+    0.17035827708750834,
+    5.47106257381346,
+    0.49617705369727594
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/magnetic.json"
+}
