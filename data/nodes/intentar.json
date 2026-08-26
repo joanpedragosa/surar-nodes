@@ -1,0 +1,441 @@
+{
+  "concept": "intentar",
+  "frequency": 15,
+  "edges": [],
+  "markov_transitions": {
+    "document": 0.0667,
+    "recuperar": 0.0667,
+    "determinar": 0.0667,
+    "donar": 0.0667,
+    "impedir": 0.0667,
+    "convencer": 0.0667,
+    "EMI": 0.0667,
+    "abandonar": 0.0667,
+    "despenalitzar": 0.0667,
+    "succionar": 0.0667,
+    "explicar": 0.0667,
+    "unitat": 0.0667,
+    "felip_v": 0.0667,
+    "infiltrar": 0.0667,
+    "prendre": 0.0667
+  },
+  "bayesian_context": {
+    "document": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.33
+    },
+    "hagues": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "paraula": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.62
+    },
+    "unilateral": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "col": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.65
+    },
+    "lectiu": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.9
+    },
+    "primer": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.61
+    },
+    "octubre": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.01
+    },
+    "recuperar": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.04
+    },
+    "capital": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.65
+    },
+    "catalana": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.53
+    },
+    "felip_v": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.37
+    },
+    "ser": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.01
+    },
+    "pioners": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "determinar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.4
+    },
+    "densitat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "terrestre": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "pierre_bouguer": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "donar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.98
+    },
+    "cop": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.27
+    },
+    "clan": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.74
+    },
+    "fujiwara": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "emperador": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.57
+    },
+    "junnin": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "impedir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "referendum": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.0
+    },
+    "mitjancant": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.37
+    },
+    "gran": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.83
+    },
+    "desplegament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "policial": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "convencer": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "adolphe_godin": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "lesseps": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "construir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.0
+    },
+    "canal": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "panama": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "EMI": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "distanciar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "se": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.68
+    },
+    "ells": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.9
+    },
+    "escena": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.96
+    },
+    "underground": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "portava": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "unitat": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.04
+    },
+    "alemanya": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.54
+    },
+    "abandonar": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.15
+    },
+    "trinxera": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.67
+    },
+    "bandera": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.37
+    },
+    "blanca": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.77
+    },
+    "vol": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.59
+    },
+    "despenalitzar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "govern": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.5
+    },
+    "eutanasia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "suicidi": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "assistit": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "succionar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "bombers": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.11
+    },
+    "tarragona": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.57
+    },
+    "privats": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "enpetrol": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "flux": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "productes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "vessats": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "traves": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.39
+    },
+    "tubs": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "danyats": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "creen": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "personatges": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.09
+    },
+    "explicar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "situacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.29
+    },
+    "caos": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "mes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.07
+    },
+    "diumenge": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.74
+    },
+    "pasqua": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "nom": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.83
+    },
+    "responia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "policia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.26
+    },
+    "infiltrar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "jordi": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.81
+    },
+    "preparen": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "germans": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "prendre": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.45
+    },
+    "half": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "tooth": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "posicio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.28
+    },
+    "dominancia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0667,
+    0.0,
+    2.772588722239781
+  ],
+  "embedding_vector": [
+    2.7795650761851527,
+    0.060277918498419965,
+    4.841087264286128,
+    0.49723076892176443,
+    2.7680967408119095,
+    0.0673000044979085,
+    4.846118378314718,
+    0.4960894871830829,
+    2.764823547763293,
+    0.06169798027760229,
+    4.858352597956731,
+    0.4952829370650675,
+    2.7769441959892522,
+    0.07401430068380307,
+    4.856141589644907,
+    0.49421101165317655,
+    2.76593358286891,
+    0.05763412783364143,
+    4.84078844623515,
+    0.49400461619550945,
+    2.7825595902943245,
+    0.06415573956655776,
+    4.855210205478579,
+    0.4994694888536632,
+    2.7727830283561343,
+    0.07560076834380886,
+    4.842188932966836,
+    0.49930186321529674,
+    2.765419827437797,
+    0.06746697524313851,
+    4.845979973130005,
+    0.5007549043883768,
+    2.775901272996278,
+    0.06398657601136291,
+    4.852460372386691,
+    0.5028544977049042,
+    2.7709883586417288,
+    0.06476484868020324,
+    4.8478084065219305,
+    0.4981237904494498,
+    2.7641820443475793,
+    0.05783662402824167,
+    4.841566618172662,
+    0.5039135562127826,
+    2.763171901457884,
+    0.06668984839458167,
+    4.842652686354889,
+    0.4906151126709157,
+    2.7753785108060587,
+    0.06561996295039224,
+    4.859492132714391,
+    0.49659531864743184,
+    2.766497218704045,
+    0.07038092424626818,
+    4.847021977145343,
+    0.5054207222667854,
+    2.778424712267171,
+    0.06557749178250857,
+    4.845376566025164,
+    0.4904780884410903,
+    2.770015373555138,
+    0.058654617593117256,
+    4.854550450971558,
+    0.49918888850671433
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/intentar.json"
+}

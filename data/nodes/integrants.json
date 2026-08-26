@@ -1,0 +1,283 @@
+{
+  "concept": "integrants",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "mesa": 0.1429,
+    "executiva": 0.2857,
+    "crida": 0.2857,
+    "grup": 0.1429,
+    "esquerra_independentista": 0.1429
+  },
+  "bayesian_context": {
+    "remetran": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "informes": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.18
+    },
+    "juridics": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "personals": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "tres": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.86
+    },
+    "mesa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "espanyol": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.91
+    },
+    "seria": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.69
+    },
+    "candidat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.0
+    },
+    "alternatiu": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "mocio": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.23
+    },
+    "censura": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.4
+    },
+    "volen": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.65
+    },
+    "presentar": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.5
+    },
+    "major": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.78
+    },
+    "part": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.15
+    },
+    "executiva": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.48
+    },
+    "federal": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.53
+    },
+    "PSOE": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.87
+    },
+    "pedro": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.41
+    },
+    "sanchez": {
+      "likelihood": 0.0143,
+      "posterior_boost": 3.65
+    },
+    "mariano_rajoy": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.78
+    },
+    "fet": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.99
+    },
+    "arribar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.26
+    },
+    "missatge": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.34
+    },
+    "enviat": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.18
+    },
+    "crida": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.14
+    },
+    "traves": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.72
+    },
+    "correu": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.14
+    },
+    "electronic": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.23
+    },
+    "estructura": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.61
+    },
+    "presenta": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.51
+    },
+    "calcita": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.44
+    },
+    "similar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.23
+    },
+    "grup": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.06
+    },
+    "minerals": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.18
+    },
+    "finalitat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.14
+    },
+    "crear": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.31
+    },
+    "inicialment": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.98
+    },
+    "alerta_solidaria": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "donar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.31
+    },
+    "formacio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.53
+    },
+    "assessorament": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "juridic": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "militancia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "esquerra_independentista": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "avui": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.25
+    },
+    "vespre": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.20002,
+    0.0,
+    2.0794415416798357
+  ],
+  "embedding_vector": [
+    2.070967707467315,
+    0.2056183758448023,
+    5.178768184628818,
+    0.5044693035566188,
+    2.089001331919768,
+    0.20078991740820867,
+    5.180022409273199,
+    0.49144102266719525,
+    2.0748103212818734,
+    0.2000176500165112,
+    5.183584599922418,
+    0.5060747807220876,
+    2.0770603643428065,
+    0.1913387269381181,
+    5.175762911986159,
+    0.5081918705543923,
+    2.073709248751434,
+    0.19906247923635367,
+    5.18862412039378,
+    0.49049798455100696,
+    2.081452520029118,
+    0.20902259000827292,
+    5.174606057580419,
+    0.5009697983847206,
+    2.0876241091775705,
+    0.192683388915185,
+    5.180468251613475,
+    0.5050081971820407,
+    2.082821806497514,
+    0.19937505719489962,
+    5.174096981805955,
+    0.4998153177818214,
+    2.076889235467537,
+    0.19956802309703178,
+    5.177317807715611,
+    0.5067583598861852,
+    2.084814491810226,
+    0.19629989354425326,
+    5.181452506652879,
+    0.4955209809666139,
+    2.078498400330764,
+    0.1970795673188879,
+    5.183147989255595,
+    0.4974070216597607,
+    2.0786234012376643,
+    0.20440648245018084,
+    5.178259836582276,
+    0.5081284653832868,
+    2.0730505740638896,
+    0.20484237745826528,
+    5.178447480872863,
+    0.49852907145369885,
+    2.0821291390525127,
+    0.20047812402056692,
+    5.178297719568788,
+    0.49002853761125514,
+    2.0712867885967707,
+    0.20420788787450425,
+    5.180486911935303,
+    0.5039232092703394,
+    2.088550908139894,
+    0.20367827708750835,
+    5.171062573813459,
+    0.49617705369727594
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/integrants.json"
+}
