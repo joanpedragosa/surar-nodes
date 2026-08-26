@@ -1,0 +1,201 @@
+{
+  "concept": "ofensiva",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "militar": 0.2,
+    "govern": 0.6,
+    "regio": 0.2
+  },
+  "bayesian_context": {
+    "portant": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "militar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.88
+    },
+    "kurdistan": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "turquia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    },
+    "govern": {
+      "likelihood": 0.02,
+      "posterior_boost": 3.44
+    },
+    "espanyol": {
+      "likelihood": 0.02,
+      "posterior_boost": 3.53
+    },
+    "independentisme": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "forca": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.77
+    },
+    "desesperada": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "vol": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.06
+    },
+    "engegar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "declaracio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.95
+    },
+    "independentista": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.12
+    },
+    "bloc": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.1
+    },
+    "inculpar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "kurds": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "dimecres": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.28
+    },
+    "forces": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "milicians": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "iraquians": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "estar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.66
+    },
+    "preparant": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "important": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.66
+    },
+    "regio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.96
+    },
+    "kirkuk": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "prop": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.69
+    },
+    "mossul": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "nord": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.46
+    },
+    "irac": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    1.791759469228055
+  ],
+  "embedding_vector": [
+    1.7861993326498498,
+    0.34074797945688085,
+    5.324134383106789,
+    0.5083722181587584,
+    1.7915276930039516,
+    0.33556821059138625,
+    5.335318157129606,
+    0.5003683597574589,
+    1.7876954792595794,
+    0.32708775790655836,
+    5.321614825375297,
+    0.5047688059239794,
+    1.790585653685974,
+    0.32649953068758636,
+    5.337598740624026,
+    0.4954817292398445,
+    1.790044169609676,
+    0.32925493198800626,
+    5.332575758177589,
+    0.5015967562037909,
+    1.7937580531605548,
+    0.32864971568404344,
+    5.325693717612827,
+    0.49507176411547577,
+    1.7883107481818297,
+    0.3262166193464017,
+    5.323312257224026,
+    0.5092786105813588,
+    1.8009640035337688,
+    0.32710162644525204,
+    5.32048613123259,
+    0.494091110927599,
+    1.7957563415105862,
+    0.3389236250444439,
+    5.3204586618487815,
+    0.5015532571625951,
+    1.7817923126823758,
+    0.33364278557144117,
+    5.332795903522618,
+    0.5097124880560838,
+    1.786941421156277,
+    0.33938327103859073,
+    5.33740966174003,
+    0.5084549922789134,
+    1.781803753478704,
+    0.3327231007684849,
+    5.33962937475212,
+    0.497978896078057,
+    1.7980341187797932,
+    0.33426246329278286,
+    5.335417081742804,
+    0.4996986214997692,
+    1.7823417005015094,
+    0.3250638471013774,
+    5.32222907624756,
+    0.49502490223381096,
+    1.8010577750785823,
+    0.3359686543880882,
+    5.336333204052307,
+    0.5013216399218551,
+    1.7944665933396928,
+    0.3395713811569415,
+    5.338533652304878,
+    0.5082525352740757
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ofensiva.json"
+}
