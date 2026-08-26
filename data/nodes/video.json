@@ -1,0 +1,408 @@
+{
+  "concept": "video",
+  "frequency": 16,
+  "edges": [],
+  "markov_transitions": {
+    "voz": 0.1,
+    "acte": 0.1,
+    "promocional": 0.1,
+    "serra": 0.1,
+    "mapping": 0.1,
+    "ercros": 0.1,
+    "menys": 0.1,
+    "revisara": 0.1,
+    "programa": 0.1,
+    "omnium": 0.1
+  },
+  "bayesian_context": {
+    "publicar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.03
+    },
+    "voz": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "populi": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "acte": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.21
+    },
+    "integre": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "titular": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "promocional": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "reportatge": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "comic": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "beneath": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "the": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.33
+    },
+    "dome": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "podran": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.71
+    },
+    "accedir": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.74
+    },
+    "subscriptors": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    },
+    "estiguin": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "centre": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.96
+    },
+    "cultura_contemporania": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "barcelona": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.45
+    },
+    "directe": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.78
+    },
+    "pot": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.85
+    },
+    "definir": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.82
+    },
+    "segons": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.33
+    },
+    "alcazar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "quadre": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.22
+    },
+    "viu": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.5
+    },
+    "alta": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.24
+    },
+    "definicio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.71
+    },
+    "anunciat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.65
+    },
+    "salmond": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "decisio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.39
+    },
+    "confirmat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "minyons": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "terrassa": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "havien": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.94
+    },
+    "descarregat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "castell": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.28
+    },
+    "difonent": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "sentir": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "serra": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "radial": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "fer": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.43
+    },
+    "agents": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.46
+    },
+    "espanyols": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.48
+    },
+    "identificar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "mossos": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.28
+    },
+    "enregistrar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "exhibit": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "omnium": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "mapping": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "empresa": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.33
+    },
+    "quimica": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "anomena": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.13
+    },
+    "ercros": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "dura": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.42
+    },
+    "menys": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.35
+    },
+    "dos": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.48
+    },
+    "minuts": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.5
+    },
+    "mig": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.32
+    },
+    "revisara": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "consell_audiovisual": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "catalunya": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.73
+    },
+    "programa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.6
+    },
+    "matins": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "mitja": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.08
+    },
+    "gravar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.78
+    },
+    "violacio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "quatre": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.77
+    },
+    "joves": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.38
+    },
+    "missatge": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.68
+    },
+    "projectat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "mesos": {
+      "likelihood": 0.0063,
+      "posterior_boost": 3.59
+    },
+    "preso": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.97
+    },
+    "injusticia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "dignitat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "llibertat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.15
+    },
+    "presos": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.14
+    },
+    "politics": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.95
+    },
+    "tornarem": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.09999999999999999,
+    0.0,
+    2.833213344056216
+  ],
+  "embedding_vector": [
+    2.827679165639287,
+    0.10046326682801353,
+    5.121014029131624,
+    0.4909120390026561,
+    2.8304279207631717,
+    0.09446161883382578,
+    5.123774523236428,
+    0.49327462850001796,
+    2.8246198413923262,
+    0.10882021720491672,
+    5.121273627604697,
+    0.49155984678779974,
+    2.837666154278713,
+    0.09316904347046333,
+    5.115005626134881,
+    0.49586974512204396,
+    2.837145558340388,
+    0.09928528176080303,
+    5.114301242874287,
+    0.49893652524159315,
+    2.8256309190869953,
+    0.1083537401548945,
+    5.121328926574384,
+    0.49944038631483856,
+    2.8295046725491604,
+    0.09086431459473253,
+    5.1250488983392,
+    0.5008653808774264,
+    2.8385571525705102,
+    0.10580897532431574,
+    5.111444427587493,
+    0.503194316688157,
+    2.824279330823101,
+    0.10370048905445402,
+    5.118867019240265,
+    0.49935992294759923,
+    2.8364345307515153,
+    0.10379933263853225,
+    5.115266589688911,
+    0.4902295786752035,
+    2.8386392329887116,
+    0.10632284652577699,
+    5.112792832074966,
+    0.5015601349114969,
+    2.8300268294971,
+    0.09464430974938133,
+    5.113972875071703,
+    0.49542981546577364,
+    2.84275039933643,
+    0.09430857956562724,
+    5.117128148341242,
+    0.49036799893261235,
+    2.8355491494481164,
+    0.0946081077556217,
+    5.124847034721317,
+    0.5016850041678977,
+    2.8316154151480113,
+    0.10418505664389725,
+    5.129440910518068,
+    0.5062007823531456,
+    2.83182644764945,
+    0.10915457199622902,
+    5.110955162022098,
+    0.5046556360178338
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/video.json"
+}
