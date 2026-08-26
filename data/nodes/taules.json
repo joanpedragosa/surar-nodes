@@ -1,0 +1,640 @@
+{
+  "concept": "taules",
+  "frequency": 32,
+  "edges": [],
+  "markov_transitions": {
+    "nativitat": 0.0333,
+    "pintades": 0.0333,
+    "municipi": 0.0333,
+    "ermita": 0.0333,
+    "llei": 0.0667,
+    "joan_baptista": 0.0333,
+    "estan": 0.0333,
+    "hemicicle": 0.0333,
+    "taulons": 0.0333,
+    "alta": 0.0333,
+    "extrems": 0.0333,
+    "havien": 0.0333,
+    "predel": 0.0667,
+    "numeros": 0.0333,
+    "escenes": 0.0333,
+    "MNAC": 0.0667,
+    "catedral": 0.0333,
+    "falten": 0.0333,
+    "representaven": 0.0333,
+    "posicio": 0.0333,
+    "fusta": 0.0333,
+    "superiors": 0.0333,
+    "tenia": 0.0667,
+    "retaule": 0.0333,
+    "conserven": 0.0333,
+    "carrers": 0.0333
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0021,
+      "posterior_boost": 1.99
+    },
+    "propietari": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.62
+    },
+    "nativitat": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.92
+    },
+    "sant_joan": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.32
+    },
+    "evangelista": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "jose": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.97
+    },
+    "dominguez": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.52
+    },
+    "obra": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.05
+    },
+    "pintades": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.92
+    },
+    "tremp": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.52
+    },
+    "retaule": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.09
+    },
+    "jaume_huguet": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.27
+    },
+    "propietat": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.52
+    },
+    "tretze": {
+      "likelihood": 0.0031,
+      "posterior_boost": 3.88
+    },
+    "municipi": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.32
+    },
+    "granollers": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "comprar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.71
+    },
+    "ermita": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.82
+    },
+    "antiquari": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "porta": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.64
+    },
+    "llei": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.79
+    },
+    "moises": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.74
+    },
+    "dues": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.97
+    },
+    "joan_baptista": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.74
+    },
+    "maria_magdalena": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.74
+    },
+    "oferir": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.74
+    },
+    "regal": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.92
+    },
+    "estan": {
+      "likelihood": 0.0031,
+      "posterior_boost": 2.8
+    },
+    "representats": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.57
+    },
+    "quatre": {
+      "likelihood": 0.0031,
+      "posterior_boost": 2.94
+    },
+    "apostols": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.71
+    },
+    "ciutat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.59
+    },
+    "nuremberg": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "sistema": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.61
+    },
+    "vot": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.18
+    },
+    "hemicicle": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.68
+    },
+    "parlament": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.48
+    },
+    "electronic": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.57
+    },
+    "fetes": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.52
+    },
+    "taulons": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "verticals": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "encolats": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.52
+    },
+    "muntats": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.52
+    },
+    "graella": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "travessers": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "reforc": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.04
+    },
+    "presenten": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.27
+    },
+    "alta": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.95
+    },
+    "concentracio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.09
+    },
+    "personatges": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.76
+    },
+    "objectes": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.86
+    },
+    "defensat": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.92
+    },
+    "historiadors": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.52
+    },
+    "intervencio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.38
+    },
+    "huguet": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.18
+    },
+    "recuperar": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.41
+    },
+    "restauracio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.62
+    },
+    "extrems": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.92
+    },
+    "predel": {
+      "likelihood": 0.0031,
+      "posterior_boost": 4.0
+    },
+    "original": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.97
+    },
+    "eliminar": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.52
+    },
+    "havien": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.64
+    },
+    "afegit": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.68
+    },
+    "segle": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.58
+    },
+    "xix": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.09
+    },
+    "MNAC": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "veiem": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.82
+    },
+    "primera": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.36
+    },
+    "escena": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.63
+    },
+    "lliurament": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.52
+    },
+    "dedicada": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.57
+    },
+    "iconografia": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "cicle": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.27
+    },
+    "passio": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.44
+    },
+    "jesus": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.9
+    },
+    "impossible": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.74
+    },
+    "trobar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.79
+    },
+    "seccions": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.92
+    },
+    "refereixen": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "numeros": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.29
+    },
+    "capitols": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.92
+    },
+    "mai": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.27
+    },
+    "consignar": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.52
+    },
+    "marges": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.52
+    },
+    "representen": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.22
+    },
+    "escenes": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.89
+    },
+    "vida": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.88
+    },
+    "crist": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.84
+    },
+    "conserven": {
+      "likelihood": 0.0031,
+      "posterior_boost": 3.85
+    },
+    "tres": {
+      "likelihood": 0.0031,
+      "posterior_boost": 2.68
+    },
+    "podem": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.56
+    },
+    "catedral": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.76
+    },
+    "tarragona": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.24
+    },
+    "falten": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.92
+    },
+    "avui": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.6
+    },
+    "dia": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.3
+    },
+    "desaparegudes": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.52
+    },
+    "col": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.63
+    },
+    "leccio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.5
+    },
+    "representaven": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.68
+    },
+    "foren": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.52
+    },
+    "regalades": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.52
+    },
+    "durer": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.44
+    },
+    "maximilia": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "baviera": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.57
+    },
+    "era": {
+      "likelihood": 0.001,
+      "posterior_boost": 1.82
+    },
+    "finalitat": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.48
+    },
+    "venda": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.41
+    },
+    "obtenir": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.92
+    },
+    "fons": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.83
+    },
+    "construir": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.68
+    },
+    "hospital": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.01
+    },
+    "posicio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.26
+    },
+    "mimetica": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.52
+    },
+    "reis": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.41
+    },
+    "melcior": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "gaspar": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "material": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.82
+    },
+    "fusta": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.01
+    },
+    "alber": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.22
+    },
+    "episodis": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "trobem": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.72
+    },
+    "superiors": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.52
+    },
+    "carrer": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.9
+    },
+    "esquerre": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.41
+    },
+    "teofanics": {
+      "likelihood": 0.001,
+      "posterior_boost": 4.52
+    },
+    "quantes": {
+      "likelihood": 0.0063,
+      "posterior_boost": 2.74
+    },
+    "tenia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.58
+    },
+    "revenedors": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.92
+    },
+    "sis": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.29
+    },
+    "set": {
+      "likelihood": 0.001,
+      "posterior_boost": 2.81
+    },
+    "carrers": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.18
+    },
+    "laterals": {
+      "likelihood": 0.001,
+      "posterior_boost": 3.35
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.03843846153846154,
+    0.0,
+    3.4965075614664802
+  ],
+  "embedding_vector": [
+    3.503685346812341,
+    0.03589268463796714,
+    4.521102575559971,
+    0.5091131309798353,
+    3.501240953426705,
+    0.04476256432071116,
+    4.512021731206172,
+    0.5085697614081588,
+    3.4986897448463066,
+    0.04036953026092704,
+    4.511835682695923,
+    0.4969037248661072,
+    3.499762611930192,
+    0.037272731307686255,
+    4.521029755727879,
+    0.5040742498285417,
+    3.4982955860925107,
+    0.02943711672677247,
+    4.521235836798695,
+    0.5053271694474842,
+    3.5047257280598356,
+    0.03029666047522131,
+    4.528050427802244,
+    0.49921920811764825,
+    3.495547930858115,
+    0.04842697128006864,
+    4.513248474871054,
+    0.5041874116839831,
+    3.489720043010435,
+    0.044653996900253484,
+    4.510702943492516,
+    0.5006977345749054,
+    3.4898375639270007,
+    0.03460666913781624,
+    4.510901248257828,
+    0.4947715225264782,
+    3.5000042520610886,
+    0.04408611652881426,
+    4.523904032690888,
+    0.496579088988083,
+    3.4963881987925185,
+    0.03892088879289019,
+    4.515970824905738,
+    0.49926216280334884,
+    3.5062032473189597,
+    0.03846115995908919,
+    4.51796144893754,
+    0.5045581063374479,
+    3.503774180873944,
+    0.028961852283080812,
+    4.515800343621509,
+    0.505781383882825,
+    3.4956499548560838,
+    0.028577031147358885,
+    4.518386709135467,
+    0.49661349527648596,
+    3.498590604020333,
+    0.03493087827145744,
+    4.529625021612416,
+    0.5017646390179348,
+    3.4891294004327347,
+    0.038858015611208635,
+    4.5171595680056855,
+    0.49029999954827447
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/taules.json"
+}

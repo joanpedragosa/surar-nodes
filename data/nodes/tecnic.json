@@ -1,0 +1,463 @@
+{
+  "concept": "tecnic",
+  "frequency": 15,
+  "edges": [],
+  "markov_transitions": {
+    "equip": 0.0769,
+    "candidatura": 0.0769,
+    "guitarra": 0.0769,
+    "metro": 0.0769,
+    "embargament": 0.0769,
+    "avaluat": 0.0769,
+    "preocupat": 0.0769,
+    "potencial": 0.0769,
+    "expansio": 0.0769,
+    "avaluar": 0.0769,
+    "pla": 0.0769,
+    "talla": 0.0769,
+    "normes": 0.0769
+  },
+  "bayesian_context": {
+    "presentat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.02
+    },
+    "nou": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.69
+    },
+    "equip": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.66
+    },
+    "pep_guardiola": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "constituit": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "candidatura": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.55
+    },
+    "acollir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.81
+    },
+    "agencia_europea": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "medicaments": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "representants": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.7
+    },
+    "ajuntament": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.64
+    },
+    "barcelona": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.48
+    },
+    "generalitat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.9
+    },
+    "govern": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.5
+    },
+    "espanyol": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.88
+    },
+    "era": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.12
+    },
+    "guitarra": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "gilmour": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.74
+    },
+    "phil_taylor": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "intentant": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "solucionar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "incidencia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "servei": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.35
+    },
+    "metro": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.66
+    },
+    "personal": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.27
+    },
+    "voler": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.62
+    },
+    "complementar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "decisio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.42
+    },
+    "marmessors": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "dictamen": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "medic": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "assegurar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.81
+    },
+    "plantin": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "negoci": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "confiscacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "mitjancant": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.37
+    },
+    "recurs": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.26
+    },
+    "embargament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "previ": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "plataforma": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.49
+    },
+    "final": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.04
+    },
+    "segons": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.36
+    },
+    "informe": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.77
+    },
+    "avaluat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "desperfectes": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.45
+    },
+    "pont": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.15
+    },
+    "petroli": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.07
+    },
+    "completament": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "devastada": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "bergman": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "moment": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.22
+    },
+    "relacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.08
+    },
+    "aspecte": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.67
+    },
+    "preocupat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "insegur": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "brut": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "considera": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.14
+    },
+    "sete": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "criteri": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "dossier": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.55
+    },
+    "potencial": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "innovacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "recerca": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.59
+    },
+    "acompanyat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "progres": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "expansio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.9
+    },
+    "agraria": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "sol": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.16
+    },
+    "licitat": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.9
+    },
+    "badalona": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.11
+    },
+    "avaluar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "causats": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "temporal": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "gloria": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "incorpora": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "pla": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.11
+    },
+    "continuitat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "adquirir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.65
+    },
+    "domini": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "talla": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "policromia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "malaga": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "concepte": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.55
+    },
+    "engloba": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "coneixement": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.74
+    },
+    "normes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "etiques": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "morals": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "arts": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.9
+    },
+    "marcials": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "japoneses": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "budō": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.07689999999999998,
+    0.0,
+    2.772588722239781
+  ],
+  "embedding_vector": [
+    2.7795650761851527,
+    0.07047791849841994,
+    4.841087264286128,
+    0.49723076892176443,
+    2.7680967408119095,
+    0.07750000449790849,
+    4.846118378314718,
+    0.4960894871830829,
+    2.764823547763293,
+    0.07189798027760227,
+    4.858352597956731,
+    0.4952829370650675,
+    2.7769441959892522,
+    0.08421430068380306,
+    4.856141589644907,
+    0.49421101165317655,
+    2.76593358286891,
+    0.06783412783364141,
+    4.84078844623515,
+    0.49400461619550945,
+    2.7825595902943245,
+    0.07435573956655775,
+    4.855210205478579,
+    0.4994694888536632,
+    2.7727830283561343,
+    0.08580076834380884,
+    4.842188932966836,
+    0.49930186321529674,
+    2.765419827437797,
+    0.0776669752431385,
+    4.845979973130005,
+    0.5007549043883768,
+    2.775901272996278,
+    0.0741865760113629,
+    4.852460372386691,
+    0.5028544977049042,
+    2.7709883586417288,
+    0.07496484868020323,
+    4.8478084065219305,
+    0.4981237904494498,
+    2.7641820443475793,
+    0.06803662402824166,
+    4.841566618172662,
+    0.5039135562127826,
+    2.763171901457884,
+    0.07688984839458166,
+    4.842652686354889,
+    0.4906151126709157,
+    2.7753785108060587,
+    0.07581996295039223,
+    4.859492132714391,
+    0.49659531864743184,
+    2.766497218704045,
+    0.08058092424626817,
+    4.847021977145343,
+    0.5054207222667854,
+    2.778424712267171,
+    0.07577749178250856,
+    4.845376566025164,
+    0.4904780884410903,
+    2.770015373555138,
+    0.06885461759311724,
+    4.854550450971558,
+    0.49918888850671433
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tecnic.json"
+}

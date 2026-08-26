@@ -1,0 +1,280 @@
+{
+  "concept": "teatres",
+  "frequency": 9,
+  "edges": [],
+  "markov_transitions": {
+    "locals": 0.125,
+    "mes": 0.25,
+    "opera": 0.25,
+    "sobreviscut": 0.125,
+    "assumir": 0.125,
+    "italia": 0.125
+  },
+  "bayesian_context": {
+    "lluitava": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "exclusiva": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "estrena": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.35
+    },
+    "nova": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.14
+    },
+    "obra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.05
+    },
+    "mestre": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.52
+    },
+    "grans": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.32
+    },
+    "ple": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.37
+    },
+    "barri": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.75
+    },
+    "cafes": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "tavernes": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "locals": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "dedicats": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "prostitucio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "recuperar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.96
+    },
+    "mes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.73
+    },
+    "petits": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.58
+    },
+    "troba": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.17
+    },
+    "repertori": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "opera": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.02
+    },
+    "importants": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.55
+    },
+    "versio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.46
+    },
+    "utilitzada": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "actualment": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.41
+    },
+    "edicio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.71
+    },
+    "critica": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.71
+    },
+    "era": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.33
+    },
+    "il": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.28
+    },
+    "lustres": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "italia": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.72
+    },
+    "la_fenice": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "venecia": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.79
+    },
+    "sobreviscut": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "amico": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "fritz": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "iris": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "italians": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.03
+    },
+    "assumir": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "direccio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.53
+    },
+    "musical": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.71
+    },
+    "san_carlo": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "fondo": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "fer": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.38
+    },
+    "ronda": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "anys": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.6
+    },
+    "millors": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.84
+    },
+    "alemanya": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.46
+    },
+    "austria": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.16666666666666666,
+    0.0,
+    2.302585092994046
+  ],
+  "embedding_vector": [
+    2.29279257607176,
+    0.16670415850964143,
+    5.0699154658626835,
+    0.49267659057918556,
+    2.2954273147031365,
+    0.16103784017918824,
+    5.06837016361021,
+    0.49496202336827116,
+    2.294266286017353,
+    0.16357663946767467,
+    5.063335526930647,
+    0.5075711817106532,
+    2.3116043736265803,
+    0.15744163418331306,
+    5.073982147827976,
+    0.5014551963113882,
+    2.310545235358549,
+    0.1700046461250594,
+    5.07095675566093,
+    0.5040485484813612,
+    2.3003146363863394,
+    0.17055544022195582,
+    5.0764974092900115,
+    0.49931336950734534,
+    2.311395581184579,
+    0.17274146206691302,
+    5.079667184964487,
+    0.4933927251516753,
+    2.303006787223242,
+    0.17557701500619147,
+    5.07299080926321,
+    0.5072166384645139,
+    2.3120020132358503,
+    0.16037750040535587,
+    5.064862313506269,
+    0.5074680168620225,
+    2.310710638532516,
+    0.17183222640259962,
+    5.06693803907551,
+    0.4992706942796811,
+    2.3047958478110084,
+    0.1665923010200904,
+    5.069559480270767,
+    0.4987111092953269,
+    2.3099932589225767,
+    0.1604138396078951,
+    5.073753481863854,
+    0.5040705834760277,
+    2.311089094539468,
+    0.157455763020152,
+    5.072942334270903,
+    0.5027610796943477,
+    2.30181904624346,
+    0.15772785515637452,
+    5.060771418463247,
+    0.49339062828415753,
+    2.3084760507336166,
+    0.15991878759786826,
+    5.062774773995591,
+    0.49705833906465363,
+    2.302275062097102,
+    0.1706213943691422,
+    5.076023128633914,
+    0.4953354875414388
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/teatres.json"
+}

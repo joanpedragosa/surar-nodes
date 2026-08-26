@@ -1,0 +1,338 @@
+{
+  "concept": "tapies",
+  "frequency": 13,
+  "edges": [],
+  "markov_transitions": {
+    "joan_carles": 0.0833,
+    "familia": 0.0833,
+    "universitat_pompeu": 0.0833,
+    "espai": 0.0833,
+    "sala_tarradellas": 0.0833,
+    "estructura": 0.0833,
+    "sala_oval": 0.0833,
+    "escola_pia": 0.0833,
+    "caixa": 0.0833,
+    "decorar": 0.0833,
+    "complementar": 0.0833,
+    "obra": 0.0833
+  },
+  "bayesian_context": {
+    "nomenar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.13
+    },
+    "marques": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.13
+    },
+    "joan_carles": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.31
+    },
+    "era": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.18
+    },
+    "filla": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.63
+    },
+    "mare": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.95
+    },
+    "familia": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.04
+    },
+    "politics": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.03
+    },
+    "catalanistes": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "fer": {
+      "likelihood": 0.0051,
+      "posterior_boost": 2.52
+    },
+    "encarrec": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.77
+    },
+    "universitat_pompeu": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "fabra": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.13
+    },
+    "concebre": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "espai": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.3
+    },
+    "capella": {
+      "likelihood": 0.0051,
+      "posterior_boost": 3.29
+    },
+    "refugi": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "exterior": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.39
+    },
+    "realitza": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.74
+    },
+    "sala_tarradellas": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "quatre": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.86
+    },
+    "croniques": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "deixar": {
+      "likelihood": 0.0051,
+      "posterior_boost": 3.69
+    },
+    "estructura": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.34
+    },
+    "arquitectonica": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.31
+    },
+    "passar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.06
+    },
+    "finalment": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.74
+    },
+    "projecte": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.1
+    },
+    "mitjo": {
+      "likelihood": 0.0051,
+      "posterior_boost": 4.91
+    },
+    "sala_oval": {
+      "likelihood": 0.0051,
+      "posterior_boost": 4.91
+    },
+    "MNAC": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.91
+    },
+    "dugue": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "terme": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.1
+    },
+    "acabar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.29
+    },
+    "batxillerat": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "escola_pia": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "balmes": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "missatge": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.77
+    },
+    "caixa": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.83
+    },
+    "lletres": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.91
+    },
+    "institut_cervantes": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "forma": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.78
+    },
+    "tenia": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.67
+    },
+    "escultura": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.24
+    },
+    "decorar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.13
+    },
+    "palau_nacional": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "montjuic": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.8
+    },
+    "reobrir": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "fundacio": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.59
+    },
+    "tipus": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.82
+    },
+    "intervencions": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.31
+    },
+    "complementar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "aire": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.8
+    },
+    "recolliment": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "artistiques": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.31
+    },
+    "dia": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.67
+    },
+    "donar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.04
+    },
+    "obra": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.42
+    },
+    "parlament": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.86
+    },
+    "catalunya": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.53
+    },
+    "novembre": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.28
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.08330000000000001,
+    0.0,
+    2.6390573296152584
+  ],
+  "embedding_vector": [
+    2.6446113778267346,
+    0.07805082440069826,
+    4.9164855706532276,
+    0.50931498396086,
+    2.6485093518933565,
+    0.08236898494834625,
+    4.9121808492552255,
+    0.5055105302920969,
+    2.6418895965104396,
+    0.08774036459033896,
+    4.900700730482029,
+    0.4959689894177836,
+    2.6302275794529,
+    0.09044121885174398,
+    4.907457080557497,
+    0.503596959031562,
+    2.634182928601791,
+    0.08025162430304986,
+    4.90018825540162,
+    0.4971666756540994,
+    2.6480392132488224,
+    0.07765798018263378,
+    4.906387827327608,
+    0.5083554477200117,
+    2.6296954029440562,
+    0.0746016907408503,
+    4.912596579982156,
+    0.5074762688655908,
+    2.629231644261334,
+    0.08823154473987876,
+    4.916256823420053,
+    0.4915143489234453,
+    2.6421864363071976,
+    0.08348524400167037,
+    4.909597667829928,
+    0.5091114828986213,
+    2.629057570286648,
+    0.07823957401983835,
+    4.914244653558232,
+    0.4964916409957343,
+    2.6345972567429348,
+    0.08720890905106951,
+    4.918371034962919,
+    0.4948895140439598,
+    2.6382190459607937,
+    0.07835985365643014,
+    4.907586665829662,
+    0.5020907765726342,
+    2.6445049048088696,
+    0.0746583499358883,
+    4.913721701583746,
+    0.5009652019479165,
+    2.6318170506704237,
+    0.07527506438409838,
+    4.904911182106494,
+    0.4930357332516895,
+    2.6475772192050626,
+    0.08690210031209286,
+    4.904753178437594,
+    0.5013777050511312,
+    2.6401899706439464,
+    0.07475474421768696,
+    4.9167941702083215,
+    0.4981063898539626
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tapies.json"
+}
