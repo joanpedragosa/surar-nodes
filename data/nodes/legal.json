@@ -1,0 +1,353 @@
+{
+  "concept": "legal",
+  "frequency": 12,
+  "edges": [],
+  "markov_transitions": {
+    "consorci": 0.1429,
+    "drets": 0.1429,
+    "tribunal_constitucional": 0.1429,
+    "adopcio": 0.1429,
+    "passades": 0.1429,
+    "matrimonis": 0.1429,
+    "nom": 0.1429
+  },
+  "bayesian_context": {
+    "presta": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "suport": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.12
+    },
+    "consorci": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.99
+    },
+    "diputacio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.72
+    },
+    "lleida": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.65
+    },
+    "representant": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.91
+    },
+    "drets": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.32
+    },
+    "propietat": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.95
+    },
+    "obres": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.75
+    },
+    "fundacio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.62
+    },
+    "artists_rights": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "society": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "considerava": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.74
+    },
+    "referendum": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.1
+    },
+    "era": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.67
+    },
+    "il": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.63
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.6
+    },
+    "creu": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.26
+    },
+    "junqueras": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.62
+    },
+    "situacio": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.69
+    },
+    "detencio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "promes": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.65
+    },
+    "lleialtat": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "fina_santiago": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "miquel_mir": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "imperatiu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "tortugues": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.77
+    },
+    "especie": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.28
+    },
+    "catalunya": {
+      "likelihood": 0.0056,
+      "posterior_boost": 2.86
+    },
+    "carrec": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.29
+    },
+    "cortes": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.04
+    },
+    "adopcio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "part": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.62
+    },
+    "parelles": {
+      "likelihood": 0.0056,
+      "posterior_boost": 4.34
+    },
+    "homosexuals": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "navarra": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "asturies": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "arago": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.8
+    },
+    "pais_basc": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "unica": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.65
+    },
+    "opcio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "passades": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "estatut": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "donava": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "proposicio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.25
+    },
+    "llei": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.21
+    },
+    "fet": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.76
+    },
+    "dubtes": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "sorgir": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.95
+    },
+    "aprovacio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.91
+    },
+    "matrimonis": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "persones": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.87
+    },
+    "paisos": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.35
+    },
+    "permeten": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.91
+    },
+    "matrimoni": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.69
+    },
+    "homosexual": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "assistir": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.83
+    },
+    "boye": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "congres": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.37
+    },
+    "espanyol": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.68
+    },
+    "acatar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "constitucio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.4
+    },
+    "espanyola": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.1
+    },
+    "nom": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.92
+    },
+    "puigdemont": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.27
+    },
+    "comin": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.95
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1429,
+    0.0,
+    2.5649493574615367
+  ],
+  "embedding_vector": [
+    2.55803261430913,
+    0.14770099393030808,
+    4.945266300303703,
+    0.500674787867606,
+    2.555240856711245,
+    0.1512749401619977,
+    4.95801429708234,
+    0.4906684285525269,
+    2.574088344187039,
+    0.13564418642712153,
+    4.945676567059159,
+    0.5021216636871766,
+    2.5738338601825976,
+    0.1499547108221857,
+    4.94004518467037,
+    0.5004245205444059,
+    2.565990110126828,
+    0.1426075482732542,
+    4.9553626830812885,
+    0.4932143350625114,
+    2.570240566468314,
+    0.13331619595904132,
+    4.9427042035673825,
+    0.4923254603480338,
+    2.5611473091513375,
+    0.14632905290424006,
+    4.9494245955650005,
+    0.5063233659609205,
+    2.560741093132148,
+    0.1475625195522534,
+    4.954052447105105,
+    0.49655138952526845,
+    2.5616423080436577,
+    0.15246116158033038,
+    4.952491642234707,
+    0.5090062704939905,
+    2.5702988704739465,
+    0.14940018506429548,
+    4.948132806036133,
+    0.49902616822842627,
+    2.56296199000877,
+    0.15280276320677116,
+    4.943551283518758,
+    0.509251938060557,
+    2.5633343628667187,
+    0.14138104893101996,
+    4.949262977394547,
+    0.4974744629764783,
+    2.564259519464987,
+    0.1336033652294161,
+    4.941685453394637,
+    0.504650413962839,
+    2.5676733573381942,
+    0.13345815577723064,
+    4.94600340119648,
+    0.4944170504165777,
+    2.5560497573283407,
+    0.14336492141556584,
+    4.948327393145893,
+    0.4909643749965114,
+    2.566397447772129,
+    0.14897033301354753,
+    4.942272034390797,
+    0.4955423442885039
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/legal.json"
+}

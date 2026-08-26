@@ -1,0 +1,279 @@
+{
+  "concept": "limfocits",
+  "frequency": 15,
+  "edges": [],
+  "markov_transitions": {
+    "γδ": 0.1538,
+    "col": 0.1538,
+    "citotoxics": 0.2308,
+    "NK": 0.0769,
+    "convencionals": 0.0769,
+    "menys": 0.0769,
+    "responen": 0.0769,
+    "altament": 0.0769,
+    "MHC": 0.0769
+  },
+  "bayesian_context": {
+    "comparteixen": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "caracteristiques": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.33
+    },
+    "γδ": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "col": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.42
+    },
+    "laboradors": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.03
+    },
+    "citotoxics": {
+      "likelihood": 0.0156,
+      "posterior_boost": 5.22
+    },
+    "cel": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.74
+    },
+    "lules": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.05
+    },
+    "NK": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "reconeixen": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "antigens": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.67
+    },
+    "acoblats": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "molecules": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.15
+    },
+    "MHC": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.85
+    },
+    "classe": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.7
+    },
+    "restringides": {
+      "likelihood": 0.0044,
+      "posterior_boost": 5.15
+    },
+    "subconjunts": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.85
+    },
+    "convencionals": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.85
+    },
+    "tcrs": {
+      "likelihood": 0.0044,
+      "posterior_boost": 5.15
+    },
+    "invariants": {
+      "likelihood": 0.0044,
+      "posterior_boost": 5.15
+    },
+    "caracteritzen": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "dendritiques": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "immadures": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "gran": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.54
+    },
+    "activitat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.49
+    },
+    "endocitica": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "potencial": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "activacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "situen": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "limit": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "immunitat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.65
+    },
+    "innata": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "adaptativa": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "tipus": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.76
+    },
+    "menys": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.37
+    },
+    "importants": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.33
+    },
+    "subtipus": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "principals": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.86
+    },
+    "responen": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.67
+    },
+    "epitelials": {
+      "likelihood": 0.0044,
+      "posterior_boost": 5.15
+    },
+    "estressades": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.85
+    },
+    "altament": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.67
+    },
+    "restringits": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.85
+    },
+    "epiteli": {
+      "likelihood": 0.0044,
+      "posterior_boost": 5.15
+    },
+    "mitja": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.1
+    },
+    "presentats": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "II": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.36
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.11108888888888886,
+    0.0,
+    2.772588722239781
+  ],
+  "embedding_vector": [
+    2.7795650761851527,
+    0.10466680738730885,
+    5.321087264286128,
+    0.49723076892176443,
+    2.7680967408119095,
+    0.11168889338679738,
+    5.326118378314718,
+    0.4960894871830829,
+    2.764823547763293,
+    0.10608686916649117,
+    5.338352597956732,
+    0.4952829370650675,
+    2.7769441959892522,
+    0.11840318957269196,
+    5.336141589644908,
+    0.49421101165317655,
+    2.76593358286891,
+    0.10202301672253031,
+    5.3207884462351505,
+    0.49400461619550945,
+    2.7825595902943245,
+    0.10854462845544664,
+    5.335210205478579,
+    0.4994694888536632,
+    2.7727830283561343,
+    0.11998965723269774,
+    5.322188932966837,
+    0.49930186321529674,
+    2.765419827437797,
+    0.11185586413202739,
+    5.325979973130005,
+    0.5007549043883768,
+    2.775901272996278,
+    0.1083754649002518,
+    5.3324603723866915,
+    0.5028544977049042,
+    2.7709883586417288,
+    0.10915373756909212,
+    5.327808406521931,
+    0.4981237904494498,
+    2.7641820443475793,
+    0.10222551291713056,
+    5.321566618172662,
+    0.5039135562127826,
+    2.763171901457884,
+    0.11107873728347056,
+    5.322652686354889,
+    0.4906151126709157,
+    2.7753785108060587,
+    0.11000885183928112,
+    5.339492132714391,
+    0.49659531864743184,
+    2.766497218704045,
+    0.11476981313515706,
+    5.3270219771453435,
+    0.5054207222667854,
+    2.778424712267171,
+    0.10996638067139745,
+    5.325376566025165,
+    0.4904780884410903,
+    2.770015373555138,
+    0.10304350648200614,
+    5.334550450971558,
+    0.49918888850671433
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/limfocits.json"
+}
