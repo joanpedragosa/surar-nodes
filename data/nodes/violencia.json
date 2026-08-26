@@ -1,0 +1,527 @@
+{
+  "concept": "violencia",
+  "frequency": 16,
+  "edges": [],
+  "markov_transitions": {
+    "ultra": 0.1,
+    "policiaca": 0.2,
+    "policia": 0.1,
+    "forca": 0.1,
+    "tirotejos": 0.1,
+    "exercida": 0.1,
+    "suscitada": 0.1,
+    "grangers": 0.1,
+    "protesta": 0.1
+  },
+  "bayesian_context": {
+    "agredir": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "periodistes": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.74
+    },
+    "ultra": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "contestar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "envits": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "democratics": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "segons": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.62
+    },
+    "consta": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "carta": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.07
+    },
+    "dirigida": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "pedro": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.05
+    },
+    "morenes": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "mes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.32
+    },
+    "democracia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.54
+    },
+    "mai": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.57
+    },
+    "amenaca": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.54
+    },
+    "intenta": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.82
+    },
+    "alliberar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "se": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.36
+    },
+    "dona": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.8
+    },
+    "conegut": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.36
+    },
+    "alfonso_dastis": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "haver": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.78
+    },
+    "volgut": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "fer": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.14
+    },
+    "creure": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "mitjans": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.58
+    },
+    "internacionals": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.71
+    },
+    "prestigi": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "hagut": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.68
+    },
+    "policiaca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "primer": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.58
+    },
+    "octubre": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.99
+    },
+    "fet": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.64
+    },
+    "marina": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.78
+    },
+    "garces": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "veure": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.03
+    },
+    "policia": {
+      "likelihood": 0.0063,
+      "posterior_boost": 3.71
+    },
+    "lucinat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "creu": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.13
+    },
+    "buch": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.82
+    },
+    "donaran": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    },
+    "manifestacions": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "avui": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.9
+    },
+    "nous": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.41
+    },
+    "brots": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "demanara": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "comissio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.03
+    },
+    "europea": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.95
+    },
+    "espanya": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.99
+    },
+    "investigui": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "requereixen": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "delictes": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.44
+    },
+    "rebel": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "lio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.68
+    },
+    "sedicio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.74
+    },
+    "estableix": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    },
+    "codi": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.68
+    },
+    "penal": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "forca": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.27
+    },
+    "alcament": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "tumultuos": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "respectivament": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "mostren": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.65
+    },
+    "diariament": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "faveles": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "comunicacio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.3
+    },
+    "tirotejos": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "abusos": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "justificat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "barcelo": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "entrevista": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "mantingut": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "diari": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.24
+    },
+    "ultima_hora": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "exercida": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "espanyola": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.98
+    },
+    "demostren": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "dades": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.54
+    },
+    "ningu": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "parlava": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    },
+    "acusades": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "fiscalia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.08
+    },
+    "victimes": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.54
+    },
+    "suscitada": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "actitud": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.65
+    },
+    "finalitat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.78
+    },
+    "distribuit": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "cameres": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "londres": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.48
+    },
+    "reduir": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.65
+    },
+    "crim": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "era": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.09
+    },
+    "recurs": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.23
+    },
+    "afavoria": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "mugabe": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "grangers": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "blancs": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "desig": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "dominava": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "vulcanians": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "actituds": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "representatives": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "punk": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "inconformisme": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "malestar": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.04
+    },
+    "soroll": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "sexualitat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "protesta": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1111111111111111,
+    0.0,
+    2.833213344056216
+  ],
+  "embedding_vector": [
+    2.827679165639287,
+    0.11157437793912463,
+    4.821014029131624,
+    0.4909120390026561,
+    2.8304279207631717,
+    0.10557272994493688,
+    4.823774523236428,
+    0.49327462850001796,
+    2.8246198413923262,
+    0.11993132831602782,
+    4.821273627604697,
+    0.49155984678779974,
+    2.837666154278713,
+    0.10428015458157443,
+    4.815005626134881,
+    0.49586974512204396,
+    2.837145558340388,
+    0.11039639287191413,
+    4.814301242874287,
+    0.49893652524159315,
+    2.8256309190869953,
+    0.1194648512660056,
+    4.821328926574385,
+    0.49944038631483856,
+    2.8295046725491604,
+    0.10197542570584363,
+    4.8250488983392,
+    0.5008653808774264,
+    2.8385571525705102,
+    0.11692008643542684,
+    4.811444427587493,
+    0.503194316688157,
+    2.824279330823101,
+    0.11481160016556512,
+    4.818867019240265,
+    0.49935992294759923,
+    2.8364345307515153,
+    0.11491044374964335,
+    4.815266589688911,
+    0.4902295786752035,
+    2.8386392329887116,
+    0.11743395763688809,
+    4.812792832074966,
+    0.5015601349114969,
+    2.8300268294971,
+    0.10575542086049243,
+    4.813972875071703,
+    0.49542981546577364,
+    2.84275039933643,
+    0.10541969067673834,
+    4.817128148341242,
+    0.49036799893261235,
+    2.8355491494481164,
+    0.1057192188667328,
+    4.8248470347213175,
+    0.5016850041678977,
+    2.8316154151480113,
+    0.11529616775500835,
+    4.829440910518068,
+    0.5062007823531456,
+    2.83182644764945,
+    0.12026568310734012,
+    4.810955162022098,
+    0.5046556360178338
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/violencia.json"
+}

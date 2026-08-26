@@ -1,0 +1,234 @@
+{
+  "concept": "xifra",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "mes": 0.125,
+    "persones": 0.125,
+    "individus": 0.125,
+    "comencem": 0.125,
+    "poblacio": 0.125,
+    "global": 0.125,
+    "morts": 0.125,
+    "salarial": 0.125
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.55
+    },
+    "cub": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "nombre": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.42
+    },
+    "trobar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.09
+    },
+    "mes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 2.91
+    },
+    "significativa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "petit": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.71
+    },
+    "primer": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.88
+    },
+    "grup": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.0
+    },
+    "xifres": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "podria": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.39
+    },
+    "persones": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.04
+    },
+    "dret": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.28
+    },
+    "asil": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "superior": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.5
+    },
+    "passat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.47
+    },
+    "individus": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "aurea": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "continuat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "davallant": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "comencem": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "poblacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.58
+    },
+    "mundial": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.69
+    },
+    "uapitis": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "aproximadament": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.82
+    },
+    "dos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.78
+    },
+    "milions": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.4
+    },
+    "global": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "pressupost": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.44
+    },
+    "pujat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "morts": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.78
+    },
+    "espanyol": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.85
+    },
+    "obrers": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "superaven": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "salarial": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "destres": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.125,
+    0.0,
+    2.1972245773362196
+  ],
+  "embedding_vector": [
+    2.204693165392056,
+    0.13437081325641864,
+    5.127383890804278,
+    0.500617113831112,
+    2.191879143895765,
+    0.11522797608554859,
+    5.11860937636585,
+    0.4980470272007473,
+    2.197678070763271,
+    0.12456783591604804,
+    5.121107129476447,
+    0.5008677203508508,
+    2.2024424888482783,
+    0.12924749148164183,
+    5.122393641922069,
+    0.49852183540952383,
+    2.193006077896581,
+    0.13447710482400893,
+    5.116675480910214,
+    0.49437602121639657,
+    2.188540745091964,
+    0.13465741093106867,
+    5.112557114258501,
+    0.4964426158640836,
+    2.1886434342312233,
+    0.11949539877936091,
+    5.117872698298872,
+    0.5079229000976127,
+    2.194133809576177,
+    0.13469498874570543,
+    5.110574640979266,
+    0.4970336947254024,
+    2.1948437551202966,
+    0.1302832026273192,
+    5.128776078266216,
+    0.4963937959293406,
+    2.195874095992028,
+    0.1204029148318293,
+    5.126021117726528,
+    0.5027647761224624,
+    2.1885983800053825,
+    0.12707288952738222,
+    5.12591149116858,
+    0.49064016312851594,
+    2.196333533778338,
+    0.1308034508267657,
+    5.129771930362275,
+    0.5016792908700194,
+    2.188002823289066,
+    0.12392845815035805,
+    5.113763450305866,
+    0.502541112937105,
+    2.1915309333256743,
+    0.11801940215314993,
+    5.120722886133591,
+    0.492007735884491,
+    2.201847745975833,
+    0.1337930207888235,
+    5.128866363689264,
+    0.49749477010035553,
+    2.1991395822537,
+    0.12823965424548936,
+    5.120211609105065,
+    0.499417851632877
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/xifra.json"
+}
