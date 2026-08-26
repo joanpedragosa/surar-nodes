@@ -1,0 +1,493 @@
+{
+  "concept": "borrell",
+  "frequency": 22,
+  "edges": [],
+  "markov_transitions": {
+    "segons": 0.1,
+    "lord_fowler": 0.05,
+    "regne_unit": 0.05,
+    "viatge": 0.05,
+    "pdecat": 0.05,
+    "justicia": 0.05,
+    "racistes": 0.05,
+    "independencia": 0.05,
+    "matar": 0.05,
+    "sera": 0.05,
+    "posara": 0.05,
+    "senat": 0.05,
+    "era": 0.05,
+    "dossier": 0.05,
+    "haver": 0.05,
+    "aurillac": 0.05,
+    "COPE": 0.05,
+    "abengoa": 0.05,
+    "fowler": 0.05
+  },
+  "bayesian_context": {
+    "atacat": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "segons": {
+      "likelihood": 0.0045,
+      "posterior_boost": 2.66
+    },
+    "express": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "regne_unit": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.78
+    },
+    "conversar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "lord_fowler": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "vol": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.72
+    },
+    "presentar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.71
+    },
+    "denuncia": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.36
+    },
+    "torna": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.91
+    },
+    "viatge": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.41
+    },
+    "monjo": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "anomenat": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.51
+    },
+    "gerbert": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "ser": {
+      "likelihood": 0.0015,
+      "posterior_boost": 1.87
+    },
+    "impulsada": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "reprovacio": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.38
+    },
+    "pdecat": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.29
+    },
+    "informat": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.91
+    },
+    "declaracions": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.54
+    },
+    "justicia": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.92
+    },
+    "belga": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.91
+    },
+    "gonzalo_boye": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.84
+    },
+    "comentaris": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.84
+    },
+    "indis": {
+      "likelihood": 0.0045,
+      "posterior_boost": 4.56
+    },
+    "americans": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.78
+    },
+    "fet": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.79
+    },
+    "racistes": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "despectius": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "considera": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.98
+    },
+    "ERC": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.84
+    },
+    "paraules": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.34
+    },
+    "independencia": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.33
+    },
+    "estats_units": {
+      "likelihood": 0.0045,
+      "posterior_boost": 3.41
+    },
+    "banalitzacio": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "genocidi": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "mes": {
+      "likelihood": 0.0015,
+      "posterior_boost": 1.92
+    },
+    "milions": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.66
+    },
+    "nadius": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "arribar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.77
+    },
+    "matar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.87
+    },
+    "quatre": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.93
+    },
+    "expressa": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "daily_mail": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "cop": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.11
+    },
+    "forca": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.13
+    },
+    "may": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "diu": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.36
+    },
+    "sera": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.9
+    },
+    "desembre": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.02
+    },
+    "prova": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.51
+    },
+    "coto": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "demana": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.98
+    },
+    "garanties": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.78
+    },
+    "afers": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "estrangers": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.84
+    },
+    "posara": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "impediments": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "feina": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.51
+    },
+    "evitat": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "senat": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.51
+    },
+    "tenalla": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "PP": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.78
+    },
+    "PSOE": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.07
+    },
+    "dir": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.05
+    },
+    "era": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.24
+    },
+    "unica": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.38
+    },
+    "cosa": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.91
+    },
+    "havien": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.8
+    },
+    "aconseguir": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.79
+    },
+    "dossier": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "intoxicar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "premsa": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.32
+    },
+    "acusar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.78
+    },
+    "vecino": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "haver": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.64
+    },
+    "ordres": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.68
+    },
+    "inconstitucionals": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "viatja": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "aurillac": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "concedit": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "entrevista": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.98
+    },
+    "COPE": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "directiva": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.08
+    },
+    "comunitaria": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "diuen": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.32
+    },
+    "vulnera": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "cas": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.97
+    },
+    "volia": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.77
+    },
+    "reprovar": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.21
+    },
+    "abengoa": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.38
+    },
+    "carrer": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.06
+    },
+    "vivia": {
+      "likelihood": 0.0015,
+      "posterior_boost": 3.6
+    },
+    "familia": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.81
+    },
+    "dia": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.45
+    },
+    "reunio": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.96
+    },
+    "fowler": {
+      "likelihood": 0.0015,
+      "posterior_boost": 4.68
+    },
+    "setembre": {
+      "likelihood": 0.0015,
+      "posterior_boost": 2.89
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.05263157894736843,
+    0.0,
+    3.1354942159291497
+  ],
+  "embedding_vector": [
+    3.1296634266763266,
+    0.05226520018263575,
+    4.678410760706287,
+    0.5071836399704269,
+    3.128917447001383,
+    0.04940885815944244,
+    4.675410656665957,
+    0.5038208270089919,
+    3.1299023062619042,
+    0.058870597358142165,
+    4.670210537486322,
+    0.50122407393326,
+    3.1417687396774534,
+    0.057533584868545144,
+    4.673782227105211,
+    0.490122817326922,
+    3.14093509335804,
+    0.061788222309233934,
+    4.684038757681886,
+    0.495951565337301,
+    3.1408540707682615,
+    0.05639594544522072,
+    4.6777436696076204,
+    0.5023041165018611,
+    3.1340453207260364,
+    0.05431737181050633,
+    4.684052710377308,
+    0.49223790343767354,
+    3.1439596144460387,
+    0.06240930442463475,
+    4.68354821546976,
+    0.505903295509153,
+    3.1260757429159116,
+    0.046186760368082926,
+    4.687498554905554,
+    0.5048986415473724,
+    3.1356560191937133,
+    0.045198256983923796,
+    4.679685684769062,
+    0.5003154697569906,
+    3.1317195091976373,
+    0.04354480979934424,
+    4.678753613201642,
+    0.49191769219836085,
+    3.1263984181673035,
+    0.05632815332071099,
+    4.686983814904151,
+    0.49250414366386724,
+    3.1280754960733863,
+    0.05209277898888156,
+    4.673951170183306,
+    0.5056324549765385,
+    3.1376424931919895,
+    0.05150158083290661,
+    4.689640582171598,
+    0.5041791082761227,
+    3.1298688242375894,
+    0.04598134491022,
+    4.6807753094619935,
+    0.49626841576462555,
+    3.1437249558768574,
+    0.04435669254275327,
+    4.676281480596932,
+    0.4943827472372867
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/borrell.json"
+}

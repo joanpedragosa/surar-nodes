@@ -1,0 +1,237 @@
+{
+  "concept": "cal",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "confondre": 0.125,
+    "tractar": 0.125,
+    "memoria": 0.125,
+    "distingir": 0.125,
+    "frenar": 0.125,
+    "evitar": 0.125,
+    "fer": 0.25
+  },
+  "bayesian_context": {
+    "adverteix": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "confondre": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "religio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.89
+    },
+    "magia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "bronislaw_malinowski": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "diu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.08
+    },
+    "emilio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "sanchez": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.12
+    },
+    "ulled": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "tractar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "judicis": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "competicions": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "esportives": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "memoria": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.98
+    },
+    "distingir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "vici": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "virtut": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "assegurat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "ximo_puig": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.92
+    },
+    "frenar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "extrema": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "dreta": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.53
+    },
+    "democracia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.84
+    },
+    "irreversible": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "dit": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.66
+    },
+    "riera": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "evitar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.62
+    },
+    "errors": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "passat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.47
+    },
+    "fer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.72
+    },
+    "arriba": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.84
+    },
+    "ribosomes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "exportar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "arnm": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "nicola_sturgeon": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "referendum": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.27
+    },
+    "enguany": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.14285714285714285,
+    0.0,
+    2.1972245773362196
+  ],
+  "embedding_vector": [
+    2.204693165392056,
+    0.1522279561135615,
+    5.127383890804278,
+    0.500617113831112,
+    2.191879143895765,
+    0.13308511894269145,
+    5.11860937636585,
+    0.4980470272007473,
+    2.197678070763271,
+    0.1424249787731909,
+    5.121107129476447,
+    0.5008677203508508,
+    2.2024424888482783,
+    0.14710463433878468,
+    5.122393641922069,
+    0.49852183540952383,
+    2.193006077896581,
+    0.15233424768115178,
+    5.116675480910214,
+    0.49437602121639657,
+    2.188540745091964,
+    0.15251455378821152,
+    5.112557114258501,
+    0.4964426158640836,
+    2.1886434342312233,
+    0.13735254163650376,
+    5.117872698298872,
+    0.5079229000976127,
+    2.194133809576177,
+    0.15255213160284828,
+    5.110574640979266,
+    0.4970336947254024,
+    2.1948437551202966,
+    0.14814034548446206,
+    5.128776078266216,
+    0.4963937959293406,
+    2.195874095992028,
+    0.13826005768897215,
+    5.126021117726528,
+    0.5027647761224624,
+    2.1885983800053825,
+    0.14493003238452506,
+    5.12591149116858,
+    0.49064016312851594,
+    2.196333533778338,
+    0.14866059368390855,
+    5.129771930362275,
+    0.5016792908700194,
+    2.188002823289066,
+    0.1417856010075009,
+    5.113763450305866,
+    0.502541112937105,
+    2.1915309333256743,
+    0.13587654501029278,
+    5.120722886133591,
+    0.492007735884491,
+    2.201847745975833,
+    0.15165016364596634,
+    5.128866363689264,
+    0.49749477010035553,
+    2.1991395822537,
+    0.1460967971026322,
+    5.120211609105065,
+    0.499417851632877
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cal.json"
+}

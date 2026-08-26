@@ -1,0 +1,218 @@
+{
+  "concept": "campbell",
+  "frequency": 9,
+  "edges": [],
+  "markov_transitions": {
+    "petit": 0.5714,
+    "obres": 0.1429,
+    "medallo": 0.1429,
+    "llaunes": 0.1429
+  },
+  "bayesian_context": {
+    "obra": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.58
+    },
+    "llauna": {
+      "likelihood": 0.0185,
+      "posterior_boost": 4.77
+    },
+    "sopa": {
+      "likelihood": 0.0481,
+      "posterior_boost": 5.18
+    },
+    "petit": {
+      "likelihood": 0.0185,
+      "posterior_boost": 4.36
+    },
+    "esquincament": {
+      "likelihood": 0.0185,
+      "posterior_boost": 5.17
+    },
+    "carn": {
+      "likelihood": 0.0185,
+      "posterior_boost": 4.59
+    },
+    "olla": {
+      "likelihood": 0.0185,
+      "posterior_boost": 5.17
+    },
+    "pebre": {
+      "likelihood": 0.0185,
+      "posterior_boost": 5.17
+    },
+    "warhol": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.97
+    },
+    "consideren": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.73
+    },
+    "experts": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.23
+    },
+    "llaunes": {
+      "likelihood": 0.0296,
+      "posterior_boost": 5.02
+    },
+    "obres": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.87
+    },
+    "mes": {
+      "likelihood": 0.0111,
+      "posterior_boost": 2.73
+    },
+    "significatives": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "pop": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "art": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.09
+    },
+    "simplificar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "treballs": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "medallo": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "or": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.43
+    },
+    "establir": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.75
+    },
+    "venda": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.26
+    },
+    "record": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.23
+    },
+    "subhasta": {
+      "likelihood": 0.0074,
+      "posterior_boost": 5.07
+    },
+    "pintura": {
+      "likelihood": 0.0148,
+      "posterior_boost": 3.77
+    },
+    "serie": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.8
+    },
+    "gran": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.05
+    },
+    "pintures": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.7
+    },
+    "vendre": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.99
+    },
+    "dolars": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.84
+    },
+    "any": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.51
+    },
+    "pintar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.54
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.250025,
+    0.0,
+    2.302585092994046
+  ],
+  "embedding_vector": [
+    2.29279257607176,
+    0.2500624918429748,
+    5.179915465862683,
+    0.49267659057918556,
+    2.2954273147031365,
+    0.24439617351252158,
+    5.178370163610209,
+    0.49496202336827116,
+    2.294266286017353,
+    0.246934972801008,
+    5.1733355269306465,
+    0.5075711817106532,
+    2.3116043736265803,
+    0.2407999675166464,
+    5.183982147827975,
+    0.5014551963113882,
+    2.310545235358549,
+    0.25336297945839276,
+    5.1809567556609295,
+    0.5040485484813612,
+    2.3003146363863394,
+    0.25391377355528916,
+    5.186497409290011,
+    0.49931336950734534,
+    2.311395581184579,
+    0.25609979540024636,
+    5.189667184964486,
+    0.4933927251516753,
+    2.303006787223242,
+    0.2589353483395248,
+    5.1829908092632095,
+    0.5072166384645139,
+    2.3120020132358503,
+    0.2437358337386892,
+    5.174862313506268,
+    0.5074680168620225,
+    2.310710638532516,
+    0.25519055973593296,
+    5.17693803907551,
+    0.4992706942796811,
+    2.3047958478110084,
+    0.24995063435342374,
+    5.1795594802707665,
+    0.4987111092953269,
+    2.3099932589225767,
+    0.24377217294122844,
+    5.183753481863853,
+    0.5040705834760277,
+    2.311089094539468,
+    0.24081409635348533,
+    5.182942334270902,
+    0.5027610796943477,
+    2.30181904624346,
+    0.24108618848970786,
+    5.1707714184632465,
+    0.49339062828415753,
+    2.3084760507336166,
+    0.2432771209312016,
+    5.172774773995591,
+    0.49705833906465363,
+    2.302275062097102,
+    0.25397972770247557,
+    5.186023128633914,
+    0.4953354875414388
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/campbell.json"
+}
