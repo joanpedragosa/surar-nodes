@@ -1,0 +1,321 @@
+{
+  "concept": "carrera",
+  "frequency": 14,
+  "edges": [],
+  "markov_transitions": {
+    "artista": 0.0909,
+    "grup": 0.0909,
+    "mercadante": 0.0909,
+    "arquitectura": 0.0909,
+    "pintor": 0.0909,
+    "matricular": 0.0909,
+    "dvořak": 0.0909,
+    "verdi": 0.0909,
+    "destinar": 0.0909,
+    "napols": 0.0909,
+    "fotograf": 0.0909
+  },
+  "bayesian_context": {
+    "passar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.33
+    },
+    "propia": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.68
+    },
+    "artista": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "alan_parsons": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "andy_mabbet": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "disc": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.54
+    },
+    "punt": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.26
+    },
+    "inflexio": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "grup": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.76
+    },
+    "part": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.56
+    },
+    "mercadante": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "estranger": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.6
+    },
+    "matricular": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "roger_waters": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "arquitectura": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.75
+    },
+    "regent_street": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "polytechnic": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "trobava": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.73
+    },
+    "hiroshige": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.98
+    },
+    "moment": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.25
+    },
+    "realitzar": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.92
+    },
+    "obra": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.68
+    },
+    "cim": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.98
+    },
+    "podriem": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "situar": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.68
+    },
+    "pintor": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.36
+    },
+    "epoca": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.01
+    },
+    "tardana": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.28
+    },
+    "opera": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.54
+    },
+    "cau": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "mig": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.38
+    },
+    "dvořak": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.7
+    },
+    "jacobi": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.28
+    },
+    "constitueix": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "important": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.22
+    },
+    "verdi": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.47
+    },
+    "ernani": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.03
+    },
+    "destinar": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.58
+    },
+    "pare": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.13
+    },
+    "eclesiastica": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.18
+    },
+    "ser": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.04
+    },
+    "viu": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.56
+    },
+    "mes": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.09
+    },
+    "cotitzat": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "final": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.37
+    },
+    "centrar": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "rossini": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.8
+    },
+    "napols": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.56
+    },
+    "anys": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.41
+    },
+    "escriure": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.83
+    },
+    "operes": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.34
+    },
+    "principi": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.43
+    },
+    "quantes": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.33
+    },
+    "etapes": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.93
+    },
+    "fotograf": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "edward_curtis": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "tres": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.56
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0909,
+    0.0,
+    2.70805020110221
+  ],
+  "embedding_vector": [
+    2.708329067977664,
+    0.09636330104158593,
+    4.887408553714496,
+    0.49016093897059637,
+    2.704244919612314,
+    0.10005207478731781,
+    4.880262334245358,
+    0.49636568849744195,
+    2.708834199850723,
+    0.08532509884855519,
+    4.8861296271584855,
+    0.4968450925122937,
+    2.708827978083553,
+    0.08101747571102116,
+    4.88346304956361,
+    0.49420048524357474,
+    2.716701352959784,
+    0.08838489498962984,
+    4.885048378441719,
+    0.5052627800369104,
+    2.715460190207645,
+    0.08310222356513203,
+    4.876001839607875,
+    0.4994981153190094,
+    2.7115089354855417,
+    0.08605184865841235,
+    4.884023026394489,
+    0.5031400011874853,
+    2.701690356256448,
+    0.087341259856582,
+    4.887750749138417,
+    0.4916669832209951,
+    2.7129814835050183,
+    0.08214700097966952,
+    4.884629622531454,
+    0.5048502270998709,
+    2.7062085173712433,
+    0.10072765997796962,
+    4.879042745975168,
+    0.49379757086255843,
+    2.7050827305441976,
+    0.09519623332850519,
+    4.877148707265035,
+    0.4910323710799015,
+    2.7043685811892493,
+    0.10087609223129962,
+    4.875758097132346,
+    0.49923591742831613,
+    2.7127555633218896,
+    0.09977357901490719,
+    4.87350805285331,
+    0.49424842751806136,
+    2.700699753361221,
+    0.08507362384494958,
+    4.88991375889087,
+    0.49493291663834627,
+    2.700251264274428,
+    0.09094640476530011,
+    4.879122436304467,
+    0.5046898045789177,
+    2.710469071928656,
+    0.09332140453377627,
+    4.87300345268392,
+    0.5007654909197002
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/carrera.json"
+}

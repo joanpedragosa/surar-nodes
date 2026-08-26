@@ -1,0 +1,205 @@
+{
+  "concept": "cancer",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "pancrees": 0.2,
+    "estomac": 0.2,
+    "mama": 0.6
+  },
+  "bayesian_context": {
+    "diagnosticar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.95
+    },
+    "pancrees": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "creuen": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "historiadors": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "morir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.27
+    },
+    "kenshin": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "causa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.26
+    },
+    "estomac": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "apareix": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.43
+    },
+    "emissio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "televisio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "consagrada": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "prevencio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "mama": {
+      "likelihood": 0.0125,
+      "posterior_boost": 5.12
+    },
+    "tactic": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "afeccio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "alma": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "infermetat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "matar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "brackett": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "malaltia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.87
+    },
+    "pot": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.85
+    },
+    "produir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.49
+    },
+    "talc": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "conte": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "asbests": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "inhalat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "descobreix": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "hitchcock": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "dona": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.1
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    2.1972245773362196
+  ],
+  "embedding_vector": [
+    2.204693165392056,
+    0.34270414658975196,
+    5.127383890804278,
+    0.500617113831112,
+    2.191879143895765,
+    0.3235613094188819,
+    5.11860937636585,
+    0.4980470272007473,
+    2.197678070763271,
+    0.33290116924938135,
+    5.121107129476447,
+    0.5008677203508508,
+    2.2024424888482783,
+    0.33758082481497514,
+    5.122393641922069,
+    0.49852183540952383,
+    2.193006077896581,
+    0.34281043815734225,
+    5.116675480910214,
+    0.49437602121639657,
+    2.188540745091964,
+    0.342990744264402,
+    5.112557114258501,
+    0.4964426158640836,
+    2.1886434342312233,
+    0.3278287321126942,
+    5.117872698298872,
+    0.5079229000976127,
+    2.194133809576177,
+    0.3430283220790387,
+    5.110574640979266,
+    0.4970336947254024,
+    2.1948437551202966,
+    0.3386165359606525,
+    5.128776078266216,
+    0.4963937959293406,
+    2.195874095992028,
+    0.3287362481651626,
+    5.126021117726528,
+    0.5027647761224624,
+    2.1885983800053825,
+    0.33540622286071553,
+    5.12591149116858,
+    0.49064016312851594,
+    2.196333533778338,
+    0.339136784160099,
+    5.129771930362275,
+    0.5016792908700194,
+    2.188002823289066,
+    0.3322617914836914,
+    5.113763450305866,
+    0.502541112937105,
+    2.1915309333256743,
+    0.32635273548648325,
+    5.120722886133591,
+    0.492007735884491,
+    2.201847745975833,
+    0.3421263541221568,
+    5.128866363689264,
+    0.49749477010035553,
+    2.1991395822537,
+    0.33657298757882265,
+    5.120211609105065,
+    0.499417851632877
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cancer.json"
+}

@@ -1,0 +1,407 @@
+{
+  "concept": "celebra",
+  "frequency": 20,
+  "edges": [],
+  "markov_transitions": {
+    "parlament_europeu": 0.05,
+    "hagi": 0.05,
+    "biarritz": 0.05,
+    "aplec": 0.05,
+    "twitter": 0.05,
+    "esglesia": 0.05,
+    "any": 0.1,
+    "judici": 0.1,
+    "universitat_catalana": 0.05,
+    "festival": 0.1,
+    "XXV": 0.05,
+    "acte": 0.05,
+    "primera": 0.05,
+    "igualada": 0.05,
+    "i_premi": 0.05,
+    "finals": 0.05,
+    "campionat_mundial": 0.05
+  },
+  "bayesian_context": {
+    "iniciara": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "jornada": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.91
+    },
+    "cas": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.01
+    },
+    "espanyol": {
+      "likelihood": 0.005,
+      "posterior_boost": 2.93
+    },
+    "se": {
+      "likelihood": 0.0133,
+      "posterior_boost": 3.15
+    },
+    "parlament_europeu": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.42
+    },
+    "conferencia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.7
+    },
+    "premsa": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.36
+    },
+    "anna_forn": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "hagi": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.36
+    },
+    "assumit": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "PSOE": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.11
+    },
+    "conflicte": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.28
+    },
+    "politic": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.89
+    },
+    "biarritz": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "cimera": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "aplec": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "twitter": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.5
+    },
+    "avui": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.8
+    },
+    "dese": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "aniversari": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.72
+    },
+    "etiquetes": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "esglesia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.77
+    },
+    "parroquial": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "ofici": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "solemne": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "acompanyament": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "orquestra": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.61
+    },
+    "any": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.76
+    },
+    "rodoreda": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.03
+    },
+    "commemorar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "centenari": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "naixement": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "escriptora": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "judici": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.44
+    },
+    "proces": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.11
+    },
+    "independentista": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.52
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.35
+    },
+    "universitat_catalana": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "estiu": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.35
+    },
+    "manresa": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.58
+    },
+    "festival": {
+      "likelihood": 0.005,
+      "posterior_boost": 3.79
+    },
+    "cap_roig": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "calella": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "palafrugell": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "ciutat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.79
+    },
+    "XXV": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "parts": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.2
+    },
+    "convencio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "marc": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.07
+    },
+    "canvi_climatic": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "ONU": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.58
+    },
+    "madrid": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.09
+    },
+    "camden": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "londres": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.38
+    },
+    "acte": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.81
+    },
+    "central": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.89
+    },
+    "octubre": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.89
+    },
+    "municipi": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.52
+    },
+    "primera": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.56
+    },
+    "gastronomica": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "ruta": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "arros": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "cullera": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "esdeveniment": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.95
+    },
+    "igualada": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "edicio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.36
+    },
+    "european_balloon": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "i_premi": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "fotografia_xavier": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "miserachs": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "finals": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.33
+    },
+    "segle": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.48
+    },
+    "exposicio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.08
+    },
+    "universal": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.68
+    },
+    "campionat_mundial": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "karate": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.52
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.05882352941176472,
+    0.0,
+    3.044522437723423
+  ],
+  "embedding_vector": [
+    3.0462850537449686,
+    0.06677780396995306,
+    4.727830614589494,
+    0.5063167495461537,
+    3.03524022943576,
+    0.06265868104694239,
+    4.717573618840108,
+    0.5003702189089616,
+    3.0476814670345993,
+    0.05270053376942367,
+    4.715446328041331,
+    0.5043721186720234,
+    3.050182509912603,
+    0.0658300822072646,
+    4.725504897879887,
+    0.4907332861284217,
+    3.036856312426081,
+    0.06384914340151872,
+    4.714784364323992,
+    0.4950961202788429,
+    3.051674948346818,
+    0.06781910993405076,
+    4.721233737160223,
+    0.49357561039699954,
+    3.049927476386191,
+    0.058671150204055694,
+    4.722625061311271,
+    0.5067899584582741,
+    3.043743225649272,
+    0.05878233087791081,
+    4.723588222351065,
+    0.5030157182824666,
+    3.03989834249831,
+    0.05017002275054506,
+    4.725428902767171,
+    0.49961968264599294,
+    3.041106565878096,
+    0.05903635053526774,
+    4.715272576573201,
+    0.4962102310009259,
+    3.04705950647775,
+    0.05997252562321036,
+    4.716371591191596,
+    0.49789686441716857,
+    3.039681929440727,
+    0.06046835187746902,
+    4.713232574208876,
+    0.5019626763953003,
+    3.0510389092685433,
+    0.05195136378198365,
+    4.724686010386341,
+    0.49817286864157645,
+    3.05009619581069,
+    0.06490294076398488,
+    4.7257214288705365,
+    0.5018457403731162,
+    3.0478122217799353,
+    0.061754875147276886,
+    4.718512729579281,
+    0.5002713666751548,
+    3.044547594597745,
+    0.04956520563014069,
+    4.72416232190363,
+    0.5024086120043402
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/celebra.json"
+}

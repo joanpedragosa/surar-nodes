@@ -1,0 +1,227 @@
+{
+  "concept": "carlo",
+  "frequency": 9,
+  "edges": [],
+  "markov_transitions": {
+    "suecia": 0.2,
+    "excepcio": 0.2,
+    "orquestra": 0.2,
+    "napols": 0.2,
+    "nou": 0.2
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.33
+    },
+    "filla": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.79
+    },
+    "cristina": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.12
+    },
+    "rei": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.14
+    },
+    "suecia": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "operes": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.83
+    },
+    "escriure": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.32
+    },
+    "rossini": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.46
+    },
+    "teatro_san": {
+      "likelihood": 0.0296,
+      "posterior_boost": 4.8
+    },
+    "excepcio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "gazzeta": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "serioses": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "vanagloriava": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "orquestra": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.96
+    },
+    "excepcional": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "companyia": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.75
+    },
+    "millors": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.84
+    },
+    "cantants": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.29
+    },
+    "residents": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "disponibles": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.29
+    },
+    "qualsevol": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.67
+    },
+    "lloc": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.18
+    },
+    "representar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.66
+    },
+    "otello": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.96
+    },
+    "gener": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.41
+    },
+    "reconstruit": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "ciutat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.84
+    },
+    "trobem": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.26
+    },
+    "napols": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.05
+    },
+    "teatre": {
+      "likelihood": 0.0111,
+      "posterior_boost": 3.84
+    },
+    "estrenar": {
+      "likelihood": 0.0074,
+      "posterior_boost": 3.46
+    },
+    "compondre": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.58
+    },
+    "obres": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.87
+    },
+    "quantes": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.52
+    },
+    "nou": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.91
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.2,
+    0.0,
+    2.302585092994046
+  ],
+  "embedding_vector": [
+    2.29279257607176,
+    0.20003749184297479,
+    5.0699154658626835,
+    0.49267659057918556,
+    2.2954273147031365,
+    0.1943711735125216,
+    5.06837016361021,
+    0.49496202336827116,
+    2.294266286017353,
+    0.19690997280100803,
+    5.063335526930647,
+    0.5075711817106532,
+    2.3116043736265803,
+    0.1907749675166464,
+    5.073982147827976,
+    0.5014551963113882,
+    2.310545235358549,
+    0.20333797945839274,
+    5.07095675566093,
+    0.5040485484813612,
+    2.3003146363863394,
+    0.20388877355528917,
+    5.0764974092900115,
+    0.49931336950734534,
+    2.311395581184579,
+    0.20607479540024637,
+    5.079667184964487,
+    0.4933927251516753,
+    2.303006787223242,
+    0.20891034833952482,
+    5.07299080926321,
+    0.5072166384645139,
+    2.3120020132358503,
+    0.19371083373868922,
+    5.064862313506269,
+    0.5074680168620225,
+    2.310710638532516,
+    0.20516555973593298,
+    5.06693803907551,
+    0.4992706942796811,
+    2.3047958478110084,
+    0.19992563435342375,
+    5.069559480270767,
+    0.4987111092953269,
+    2.3099932589225767,
+    0.19374717294122845,
+    5.073753481863854,
+    0.5040705834760277,
+    2.311089094539468,
+    0.19078909635348534,
+    5.072942334270903,
+    0.5027610796943477,
+    2.30181904624346,
+    0.19106118848970788,
+    5.060771418463247,
+    0.49339062828415753,
+    2.3084760507336166,
+    0.19325212093120162,
+    5.062774773995591,
+    0.49705833906465363,
+    2.302275062097102,
+    0.20395472770247555,
+    5.076023128633914,
+    0.4953354875414388
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/carlo.json"
+}
