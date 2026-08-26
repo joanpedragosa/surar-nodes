@@ -1,0 +1,197 @@
+{
+  "concept": "concert",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "segona": 0.1429,
+    "the_killers": 0.1429,
+    "aplaudiments": 0.1429,
+    "homenatge": 0.1429,
+    "maig": 0.1429,
+    "barcelona": 0.1429,
+    "bruce_springsteen": 0.1429
+  },
+  "bayesian_context": {
+    "dirigir": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.66
+    },
+    "segona": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.42
+    },
+    "temporada": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.9
+    },
+    "sebastian_weigle": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "pedro": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.41
+    },
+    "sanchez": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.17
+    },
+    "castello": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.07
+    },
+    "assistir": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.07
+    },
+    "the_killers": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "cessar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "final": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.37
+    },
+    "aplaudiments": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "fara": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.87
+    },
+    "homenatge": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.58
+    },
+    "agullo": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "palau": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.44
+    },
+    "musica": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.37
+    },
+    "valencia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.43
+    },
+    "maig": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.51
+    },
+    "camp_nou": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "ciutat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.94
+    },
+    "rendeix": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "barcelona": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.8
+    },
+    "celebrar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.7
+    },
+    "bruce_springsteen": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "dissabte": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.86
+    },
+    "nit": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.65
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1429,
+    0.0,
+    2.0794415416798357
+  ],
+  "embedding_vector": [
+    2.070967707467315,
+    0.1484983758448023,
+    5.178768184628818,
+    0.5044693035566188,
+    2.089001331919768,
+    0.14366991740820867,
+    5.180022409273199,
+    0.49144102266719525,
+    2.0748103212818734,
+    0.1428976500165112,
+    5.183584599922418,
+    0.5060747807220876,
+    2.0770603643428065,
+    0.1342187269381181,
+    5.175762911986159,
+    0.5081918705543923,
+    2.073709248751434,
+    0.14194247923635367,
+    5.18862412039378,
+    0.49049798455100696,
+    2.081452520029118,
+    0.15190259000827291,
+    5.174606057580419,
+    0.5009697983847206,
+    2.0876241091775705,
+    0.135563388915185,
+    5.180468251613475,
+    0.5050081971820407,
+    2.082821806497514,
+    0.14225505719489961,
+    5.174096981805955,
+    0.4998153177818214,
+    2.076889235467537,
+    0.14244802309703178,
+    5.177317807715611,
+    0.5067583598861852,
+    2.084814491810226,
+    0.13917989354425325,
+    5.181452506652879,
+    0.4955209809666139,
+    2.078498400330764,
+    0.1399595673188879,
+    5.183147989255595,
+    0.4974070216597607,
+    2.0786234012376643,
+    0.14728648245018083,
+    5.178259836582276,
+    0.5081284653832868,
+    2.0730505740638896,
+    0.14772237745826527,
+    5.178447480872863,
+    0.49852907145369885,
+    2.0821291390525127,
+    0.1433581240205669,
+    5.178297719568788,
+    0.49002853761125514,
+    2.0712867885967707,
+    0.14708788787450425,
+    5.180486911935303,
+    0.5039232092703394,
+    2.088550908139894,
+    0.14655827708750835,
+    5.171062573813459,
+    0.49617705369727594
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/concert.json"
+}

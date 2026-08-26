@@ -1,0 +1,344 @@
+{
+  "concept": "concurs",
+  "frequency": 11,
+  "edges": [],
+  "markov_transitions": {
+    "composicio": 0.1,
+    "edicio": 0.1,
+    "colla_vella": 0.1,
+    "ultim": 0.1,
+    "public": 0.1,
+    "anual": 0.1,
+    "presentar": 0.1,
+    "convocar": 0.1,
+    "ajuntament": 0.1,
+    "tarragona": 0.1
+  },
+  "bayesian_context": {
+    "quedar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.62
+    },
+    "composicio": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.72
+    },
+    "opera": {
+      "likelihood": 0.0061,
+      "posterior_boost": 2.93
+    },
+    "guanyar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.47
+    },
+    "obrir": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.51
+    },
+    "omnium": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.98
+    },
+    "trobar": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.95
+    },
+    "coeditor": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "premi_sant": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "jordi": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.94
+    },
+    "edicio": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.62
+    },
+    "obra": {
+      "likelihood": 0.0061,
+      "posterior_boost": 2.79
+    },
+    "participar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.6
+    },
+    "velazquez": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.57
+    },
+    "tres": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.66
+    },
+    "pintors": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.84
+    },
+    "reials": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.38
+    },
+    "colla": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.08
+    },
+    "guanyat": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.08
+    },
+    "colla_vella": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "xiquets": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "valls": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.81
+    },
+    "presentar": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.3
+    },
+    "ultim": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.71
+    },
+    "dia": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.75
+    },
+    "numancia": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "organitzar": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.08
+    },
+    "public": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.13
+    },
+    "decorar": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "placa": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.2
+    },
+    "catalunya": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.6
+    },
+    "tipus": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.89
+    },
+    "obres": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.78
+    },
+    "premiar": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "anual": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.94
+    },
+    "edificis": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.64
+    },
+    "artistics": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "marcat": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "perfil": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.38
+    },
+    "modernista": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "falla": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.94
+    },
+    "dos": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.64
+    },
+    "convocar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.84
+    },
+    "academia": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.03
+    },
+    "belles_arts": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.03
+    },
+    "madrid": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.35
+    },
+    "ajuntament": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.3
+    },
+    "barcelona": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.61
+    },
+    "arribada": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.98
+    },
+    "segle": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.74
+    },
+    "XX": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.03
+    },
+    "pla": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.25
+    },
+    "enllacos": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "eixample": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "municipis": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "recentment": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.38
+    },
+    "agregats": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "ciutat": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.75
+    },
+    "quantes": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.43
+    },
+    "colles": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "participat": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.98
+    },
+    "tarragona": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.71
+    },
+    "trenta": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.3
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.09999999999999999,
+    0.0,
+    2.4849066497880004
+  ],
+  "embedding_vector": [
+    2.478512043565536,
+    0.0903895048297525,
+    4.979264370529967,
+    0.504498678583843,
+    2.483310721879755,
+    0.09970854196335566,
+    4.970255616291813,
+    0.49974743214639744,
+    2.4937427828348677,
+    0.10701590178753558,
+    4.984599289404417,
+    0.4921747214373795,
+    2.492784733193702,
+    0.10714308494145659,
+    4.973301732351905,
+    0.50264668027647,
+    2.475316322043825,
+    0.09233474537560032,
+    4.976327346232251,
+    0.49315824613349873,
+    2.4900862415512104,
+    0.10636550715728288,
+    4.976892489819185,
+    0.4963759759372487,
+    2.4771398744278934,
+    0.09167906286644115,
+    4.984254518713778,
+    0.5019908679251531,
+    2.476020123379702,
+    0.09959594563318862,
+    4.978033529612613,
+    0.5069595799509395,
+    2.4892636333747977,
+    0.1020412810249765,
+    4.98104767643011,
+    0.5089820479549327,
+    2.49464011639517,
+    0.09676108099299056,
+    4.9747974935810495,
+    0.5059287150797589,
+    2.4761803784034933,
+    0.09729231285992082,
+    4.97140045605249,
+    0.4963873541410182,
+    2.4763143016901394,
+    0.09580527334270625,
+    4.985802022468676,
+    0.5081080064160014,
+    2.490759077489599,
+    0.10123637420289758,
+    4.982320367701454,
+    0.49722967084406405,
+    2.4782829957597095,
+    0.09872481867330322,
+    4.984656506726964,
+    0.491257752477214,
+    2.475321309365624,
+    0.10541096132830038,
+    4.975999040188611,
+    0.5040232855008704,
+    2.4896000042060904,
+    0.10865809254374692,
+    4.9780065686584365,
+    0.49716875856696313
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/concurs.json"
+}

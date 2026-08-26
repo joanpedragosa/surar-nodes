@@ -1,0 +1,237 @@
+{
+  "concept": "colla",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "joves": 0.25,
+    "manifestants": 0.125,
+    "fundar": 0.125,
+    "sant_medi": 0.125,
+    "guanyat": 0.125,
+    "descarregat": 0.125,
+    "mariners": 0.125
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.72
+    },
+    "diari": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.84
+    },
+    "humoristic": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "la_trompeta": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "joves": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.98
+    },
+    "poble": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.89
+    },
+    "quedar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.76
+    },
+    "rodejats": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "participants": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "manifestacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.63
+    },
+    "falange": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "cordo": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "mossos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.58
+    },
+    "esquadra": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.95
+    },
+    "manifestants": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.72
+    },
+    "fundar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.06
+    },
+    "sant_medi": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "guanyat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "concurs": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "colla_vella": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "xiquets": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "valls": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.95
+    },
+    "era": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.38
+    },
+    "unica": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.82
+    },
+    "descarregat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "castell": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.58
+    },
+    "ara": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.58
+    },
+    "castellers": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "vilafranca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "temps": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.02
+    },
+    "haver": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.08
+    },
+    "servir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.26
+    },
+    "corona": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.78
+    },
+    "mariners": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "palos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "dos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.78
+    },
+    "mesos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.42
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.14285714285714285,
+    0.0,
+    2.1972245773362196
+  ],
+  "embedding_vector": [
+    2.204693165392056,
+    0.1522279561135615,
+    5.427383890804278,
+    0.500617113831112,
+    2.191879143895765,
+    0.13308511894269145,
+    5.41860937636585,
+    0.4980470272007473,
+    2.197678070763271,
+    0.1424249787731909,
+    5.421107129476447,
+    0.5008677203508508,
+    2.2024424888482783,
+    0.14710463433878468,
+    5.422393641922069,
+    0.49852183540952383,
+    2.193006077896581,
+    0.15233424768115178,
+    5.416675480910214,
+    0.49437602121639657,
+    2.188540745091964,
+    0.15251455378821152,
+    5.412557114258501,
+    0.4964426158640836,
+    2.1886434342312233,
+    0.13735254163650376,
+    5.417872698298872,
+    0.5079229000976127,
+    2.194133809576177,
+    0.15255213160284828,
+    5.410574640979266,
+    0.4970336947254024,
+    2.1948437551202966,
+    0.14814034548446206,
+    5.428776078266216,
+    0.4963937959293406,
+    2.195874095992028,
+    0.13826005768897215,
+    5.426021117726528,
+    0.5027647761224624,
+    2.1885983800053825,
+    0.14493003238452506,
+    5.42591149116858,
+    0.49064016312851594,
+    2.196333533778338,
+    0.14866059368390855,
+    5.429771930362275,
+    0.5016792908700194,
+    2.188002823289066,
+    0.1417856010075009,
+    5.413763450305866,
+    0.502541112937105,
+    2.1915309333256743,
+    0.13587654501029278,
+    5.420722886133591,
+    0.492007735884491,
+    2.201847745975833,
+    0.15165016364596634,
+    5.428866363689264,
+    0.49749477010035553,
+    2.1991395822537,
+    0.1460967971026322,
+    5.420211609105065,
+    0.499417851632877
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/colla.json"
+}

@@ -1,0 +1,507 @@
+{
+  "concept": "compondre",
+  "frequency": 31,
+  "edges": [],
+  "markov_transitions": {
+    "bardesanes": 0.0645,
+    "macbeth": 0.0323,
+    "sinfonietta": 0.0323,
+    "ludwig": 0.0323,
+    "krol": 0.0645,
+    "der_wald": 0.0323,
+    "richter": 0.0645,
+    "der_zwerg": 0.0323,
+    "musica": 0.0645,
+    "banda": 0.0645,
+    "dues": 0.0645,
+    "demetrio": 0.0323,
+    "franz_seydelmann": 0.0323,
+    "janaček": 0.0323,
+    "eduardo": 0.0323,
+    "rossini": 0.1613,
+    "martinů": 0.0323,
+    "febrilment": 0.0323,
+    "novena_simfonia": 0.0323,
+    "rossini_el": 0.0323,
+    "osud": 0.0323
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.07
+    },
+    "himnes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.53
+    },
+    "bardesanes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.14
+    },
+    "anys": {
+      "likelihood": 0.0032,
+      "posterior_boost": 2.54
+    },
+    "tenia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.31
+    },
+    "verdi": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.12
+    },
+    "macbeth": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.84
+    },
+    "sinfonietta": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.23
+    },
+    "janaček": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.4
+    },
+    "ludwig": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.23
+    },
+    "beethoven": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.84
+    },
+    "krol": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.23
+    },
+    "roger": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.93
+    },
+    "szymanowski": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.84
+    },
+    "der_wald": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.53
+    },
+    "ethel_smyth": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.23
+    },
+    "comissionada": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.53
+    },
+    "musica": {
+      "likelihood": 0.0043,
+      "posterior_boost": 3.32
+    },
+    "richter": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.84
+    },
+    "edward_cole": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.53
+    },
+    "der_zwerg": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.76
+    },
+    "alexander": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.93
+    },
+    "von": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.49
+    },
+    "zemlinsky": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.84
+    },
+    "himne": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.39
+    },
+    "RSS": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.06
+    },
+    "bielorussia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.54
+    },
+    "niestsier_sakalouski": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.53
+    },
+    "banda": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.26
+    },
+    "sonora": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.76
+    },
+    "retorn": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.39
+    },
+    "jedi": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.58
+    },
+    "john_williams": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.14
+    },
+    "dues": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.69
+    },
+    "primeres": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.06
+    },
+    "amadeu_vives": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.53
+    },
+    "opera": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.49
+    },
+    "vanessa": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.42
+    },
+    "barber": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.79
+    },
+    "diu": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.22
+    },
+    "rossini": {
+      "likelihood": 0.0075,
+      "posterior_boost": 3.29
+    },
+    "comencar": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.02
+    },
+    "demetrio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.69
+    },
+    "polibio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.58
+    },
+    "diversio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.53
+    },
+    "enorme": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.84
+    },
+    "influencia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.98
+    },
+    "dubtosa": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.93
+    },
+    "doctrina": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.84
+    },
+    "franz_seydelmann": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.23
+    },
+    "il": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.75
+    },
+    "turco": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.76
+    },
+    "in": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.36
+    },
+    "italia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.89
+    },
+    "rica": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.54
+    },
+    "varietat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.39
+    },
+    "final": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.73
+    },
+    "vida": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.6
+    },
+    "missa": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.36
+    },
+    "veure": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.74
+    },
+    "obligat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.76
+    },
+    "eduardo": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.69
+    },
+    "cristina": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.58
+    },
+    "venecia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.56
+    },
+    "quatre": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.78
+    },
+    "mes": {
+      "likelihood": 0.0011,
+      "posterior_boost": 1.79
+    },
+    "conservadora": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.53
+    },
+    "bianca": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.63
+    },
+    "falliero": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.69
+    },
+    "decada": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.05
+    },
+    "martinů": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.46
+    },
+    "obra": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.07
+    },
+    "febrilment": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.53
+    },
+    "mascagni": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.84
+    },
+    "partir": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.64
+    },
+    "febrer": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.99
+    },
+    "any": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.28
+    },
+    "hans_werner": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.06
+    },
+    "henze": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.06
+    },
+    "novena_simfonia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.06
+    },
+    "farses": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.79
+    },
+    "teatre": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.83
+    },
+    "obres": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.35
+    },
+    "napols": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.21
+    },
+    "teatro_san": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.66
+    },
+    "carlo": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.58
+    },
+    "ciutat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.31
+    },
+    "rossini_el": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.53
+    },
+    "sevilla": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.26
+    },
+    "la_cenerentola": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.63
+    },
+    "roma": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.83
+    },
+    "operes": {
+      "likelihood": 0.0032,
+      "posterior_boost": 3.47
+    },
+    "impressionar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.06
+    },
+    "osud": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.84
+    },
+    "la_boheme": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.23
+    },
+    "giacomo_puccini": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.53
+    },
+    "louise": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.39
+    },
+    "gustave_charpentier": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.53
+    },
+    "quantes": {
+      "likelihood": 0.0032,
+      "posterior_boost": 2.46
+    },
+    "moise": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.76
+    },
+    "cinc": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.64
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.04764285714285714,
+    0.0,
+    3.4657359027997265
+  ],
+  "embedding_vector": [
+    3.461456979232937,
+    0.05680496847323714,
+    4.535406258644378,
+    0.5097374000618493,
+    3.459899212037821,
+    0.0403811981197337,
+    4.538167476045798,
+    0.4913727703595424,
+    3.4572425572465195,
+    0.04851355093260339,
+    4.521787994330362,
+    0.49764786535052624,
+    3.469107111593349,
+    0.046226237594094007,
+    4.520879126149729,
+    0.4938857197749804,
+    3.464669092479182,
+    0.03889432270489735,
+    4.525951345640304,
+    0.5088726179983503,
+    3.4613921243149486,
+    0.04299672807391401,
+    4.528144380082688,
+    0.5065198080590593,
+    3.465869916063569,
+    0.04303236476377542,
+    4.526803765748384,
+    0.5094894370298014,
+    3.459421994382134,
+    0.04248830059536752,
+    4.533809186274,
+    0.49767870552828386,
+    3.4649647518576474,
+    0.05114735688374821,
+    4.521714612077051,
+    0.4946803329457164,
+    3.4661850803642014,
+    0.0390251906535471,
+    4.521804733965768,
+    0.4916793571596667,
+    3.4621919138537227,
+    0.05586092514007941,
+    4.536639800259828,
+    0.5050016053938098,
+    3.4651209790946687,
+    0.054989344551348435,
+    4.52558575809372,
+    0.49163272194577684,
+    3.458720132338332,
+    0.04753820803802877,
+    4.526074238620744,
+    0.49603533746171674,
+    3.4558836412486666,
+    0.04923212447840221,
+    4.5343663612796785,
+    0.4981452696388168,
+    3.458995186805501,
+    0.04184899071572734,
+    4.535202460521576,
+    0.49715576298646347,
+    3.463476925528654,
+    0.0527213283071892,
+    4.537348730931056,
+    0.5049924962651421
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/compondre.json"
+}
