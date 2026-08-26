@@ -1,0 +1,397 @@
+{
+  "concept": "missa",
+  "frequency": 15,
+  "edges": [],
+  "markov_transitions": {
+    "esglesia": 0.0833,
+    "episkopoi": 0.0833,
+    "ginebra": 0.0833,
+    "bemoll": 0.1667,
+    "major": 0.0833,
+    "anys": 0.0833,
+    "estiu": 0.0833,
+    "moments": 0.0833,
+    "benediccio": 0.0833,
+    "requiem": 0.0833,
+    "moda": 0.0833
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.01
+    },
+    "encarregada": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "esglesia": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.19
+    },
+    "santissima_trinitat": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "alsergrund": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "tenien": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.1
+    },
+    "segle": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.6
+    },
+    "III": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.37
+    },
+    "presidencia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.67
+    },
+    "episkopoi": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "bisbes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "acabar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.23
+    },
+    "ginebra": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.9
+    },
+    "epileg": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "solo": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "orgue": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "bemoll": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.85
+    },
+    "major": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.63
+    },
+    "menys": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.37
+    },
+    "operistica": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "moda": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.37
+    },
+    "moment": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.22
+    },
+    "consisti": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "acte": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.94
+    },
+    "central": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.01
+    },
+    "cerimonia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.77
+    },
+    "beatificacio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "veure": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.05
+    },
+    "critica": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.49
+    },
+    "obra": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.36
+    },
+    "foscor": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "mes": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.35
+    },
+    "propia": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.65
+    },
+    "requiem": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.85
+    },
+    "compondre": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.36
+    },
+    "janaček": {
+      "likelihood": 0.0044,
+      "posterior_boost": 3.54
+    },
+    "final": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.04
+    },
+    "vida": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.91
+    },
+    "fa": {
+      "likelihood": 0.0044,
+      "posterior_boost": 2.92
+    },
+    "gent": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.14
+    },
+    "acabada": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "surt": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.81
+    },
+    "temps": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.75
+    },
+    "passar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.0
+    },
+    "comences": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "composicio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.28
+    },
+    "anys": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.39
+    },
+    "escriure": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.8
+    },
+    "schubert": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "estiu": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.47
+    },
+    "solistes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "restrictiu": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "moments": {
+      "likelihood": 0.0044,
+      "posterior_boost": 4.04
+    },
+    "sovintegen": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "expressio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.49
+    },
+    "dramatics": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.37
+    },
+    "tragics": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "actes": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.27
+    },
+    "celebracio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "diada": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.0
+    },
+    "sant_jordi": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.55
+    },
+    "any": {
+      "likelihood": 0.0022,
+      "posterior_boost": 2.3
+    },
+    "realitzaran": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.25
+    },
+    "recepcio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.15
+    },
+    "oficial": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.65
+    },
+    "benediccio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.55
+    },
+    "roses": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.07
+    },
+    "visitar": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.85
+    },
+    "verdi_mila": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "juny": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.16
+    },
+    "dirigir": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.33
+    },
+    "funcio": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.47
+    },
+    "benefici": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "la_scala": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.95
+    },
+    "contracorrent": {
+      "likelihood": 0.0022,
+      "posterior_boost": 4.85
+    },
+    "escrita": {
+      "likelihood": 0.0022,
+      "posterior_boost": 3.67
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.09088181818181819,
+    0.0,
+    2.772588722239781
+  ],
+  "embedding_vector": [
+    2.7795650761851527,
+    0.08445973668023815,
+    4.841087264286128,
+    0.49723076892176443,
+    2.7680967408119095,
+    0.0914818226797267,
+    4.846118378314718,
+    0.4960894871830829,
+    2.764823547763293,
+    0.08587979845942048,
+    4.858352597956731,
+    0.4952829370650675,
+    2.7769441959892522,
+    0.09819611886562127,
+    4.856141589644907,
+    0.49421101165317655,
+    2.76593358286891,
+    0.08181594601545962,
+    4.84078844623515,
+    0.49400461619550945,
+    2.7825595902943245,
+    0.08833755774837596,
+    4.855210205478579,
+    0.4994694888536632,
+    2.7727830283561343,
+    0.09978258652562705,
+    4.842188932966836,
+    0.49930186321529674,
+    2.765419827437797,
+    0.0916487934249567,
+    4.845979973130005,
+    0.5007549043883768,
+    2.775901272996278,
+    0.08816839419318111,
+    4.852460372386691,
+    0.5028544977049042,
+    2.7709883586417288,
+    0.08894666686202143,
+    4.8478084065219305,
+    0.4981237904494498,
+    2.7641820443475793,
+    0.08201844221005987,
+    4.841566618172662,
+    0.5039135562127826,
+    2.763171901457884,
+    0.09087166657639986,
+    4.842652686354889,
+    0.4906151126709157,
+    2.7753785108060587,
+    0.08980178113221043,
+    4.859492132714391,
+    0.49659531864743184,
+    2.766497218704045,
+    0.09456274242808638,
+    4.847021977145343,
+    0.5054207222667854,
+    2.778424712267171,
+    0.08975930996432677,
+    4.845376566025164,
+    0.4904780884410903,
+    2.770015373555138,
+    0.08283643577493545,
+    4.854550450971558,
+    0.49918888850671433
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/missa.json"
+}
