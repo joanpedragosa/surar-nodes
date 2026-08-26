@@ -1,0 +1,244 @@
+{
+  "concept": "bildu",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "cinc": 0.1667,
+    "grup": 0.1667,
+    "ERC": 0.1667,
+    "arnaldo_otegi": 0.1667,
+    "BNG": 0.1667,
+    "militancia": 0.1667
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.4
+    },
+    "diputats": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.68
+    },
+    "EH": {
+      "likelihood": 0.0238,
+      "posterior_boost": 5.18
+    },
+    "cinc": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.28
+    },
+    "donaran": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "suport": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.35
+    },
+    "candidats": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.28
+    },
+    "independentistes": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.73
+    },
+    "ERC": {
+      "likelihood": 0.019,
+      "posterior_boost": 3.94
+    },
+    "PDC": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "grup": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.06
+    },
+    "mixt": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "participara": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "comicis": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "europeus": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.0
+    },
+    "BNG": {
+      "likelihood": 0.0095,
+      "posterior_boost": 5.0
+    },
+    "portaveu": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "arnaldo_otegi": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "recolzat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.18
+    },
+    "iniciativa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.8
+    },
+    "PSOE": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.57
+    },
+    "units_podem": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "pdecat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.78
+    },
+    "PNB": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "anomena": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.49
+    },
+    "declaracio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.8
+    },
+    "signat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.0
+    },
+    "jxcat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.49
+    },
+    "CUP": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.56
+    },
+    "rei": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.25
+    },
+    "proposa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.95
+    },
+    "mesa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "politica": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.37
+    },
+    "militancia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "abstenir": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "se": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.71
+    },
+    "investidura": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.52
+    },
+    "pedro": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.41
+    },
+    "sanchez": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.17
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1667,
+    0.0,
+    2.0794415416798357
+  ],
+  "embedding_vector": [
+    2.070967707467315,
+    0.1722983758448023,
+    5.178768184628818,
+    0.5044693035566188,
+    2.089001331919768,
+    0.16746991740820866,
+    5.180022409273199,
+    0.49144102266719525,
+    2.0748103212818734,
+    0.16669765001651118,
+    5.183584599922418,
+    0.5060747807220876,
+    2.0770603643428065,
+    0.15801872693811808,
+    5.175762911986159,
+    0.5081918705543923,
+    2.073709248751434,
+    0.16574247923635366,
+    5.18862412039378,
+    0.49049798455100696,
+    2.081452520029118,
+    0.1757025900082729,
+    5.174606057580419,
+    0.5009697983847206,
+    2.0876241091775705,
+    0.15936338891518498,
+    5.180468251613475,
+    0.5050081971820407,
+    2.082821806497514,
+    0.1660550571948996,
+    5.174096981805955,
+    0.4998153177818214,
+    2.076889235467537,
+    0.16624802309703177,
+    5.177317807715611,
+    0.5067583598861852,
+    2.084814491810226,
+    0.16297989354425324,
+    5.181452506652879,
+    0.4955209809666139,
+    2.078498400330764,
+    0.16375956731888788,
+    5.183147989255595,
+    0.4974070216597607,
+    2.0786234012376643,
+    0.17108648245018082,
+    5.178259836582276,
+    0.5081284653832868,
+    2.0730505740638896,
+    0.17152237745826526,
+    5.178447480872863,
+    0.49852907145369885,
+    2.0821291390525127,
+    0.1671581240205669,
+    5.178297719568788,
+    0.49002853761125514,
+    2.0712867885967707,
+    0.17088788787450424,
+    5.180486911935303,
+    0.5039232092703394,
+    2.088550908139894,
+    0.17035827708750834,
+    5.171062573813459,
+    0.49617705369727594
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/bildu.json"
+}
