@@ -1,0 +1,302 @@
+{
+  "concept": "preus",
+  "frequency": 9,
+  "edges": [],
+  "markov_transitions": {
+    "monopolista": 0.1111,
+    "baixos": 0.1111,
+    "combustible": 0.1111,
+    "comerc": 0.1111,
+    "lloguers": 0.2222,
+    "venedor": 0.1111,
+    "cobra": 0.1111,
+    "diferents": 0.1111
+  },
+  "bayesian_context": {
+    "monopolista": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "cobra": {
+      "likelihood": 0.0111,
+      "posterior_boost": 5.07
+    },
+    "diferents": {
+      "likelihood": 0.0222,
+      "posterior_boost": 4.09
+    },
+    "mercats": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "grups": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.29
+    },
+    "gent": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.36
+    },
+    "paga": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "organitzacio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.66
+    },
+    "hores": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.36
+    },
+    "extres": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "empleats": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.29
+    },
+    "baixos": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.03
+    },
+    "produit": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.9
+    },
+    "manifestacions": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "iran": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.29
+    },
+    "pujada": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "combustible": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "racionament": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "gasolina": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "atreu": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "persones": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.99
+    },
+    "visitar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.07
+    },
+    "andorra": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.49
+    },
+    "condicio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.03
+    },
+    "paradis": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "fiscal": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.73
+    },
+    "estacions": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.57
+    },
+    "esqui": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "diferencial": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "comerc": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.69
+    },
+    "respecte": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.9
+    },
+    "paisos": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.47
+    },
+    "veins": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.82
+    },
+    "demarcacio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "valenciana": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.23
+    },
+    "pujat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "lloguers": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.67
+    },
+    "alacant": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.96
+    },
+    "forma": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.94
+    },
+    "ideal": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.47
+    },
+    "discriminacio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "venedor": {
+      "likelihood": 0.0111,
+      "posterior_boost": 4.85
+    },
+    "cobrar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "comprador": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.77
+    },
+    "maxim": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.79
+    },
+    "disposat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "pagar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.79
+    },
+    "discrimina": {
+      "likelihood": 0.0074,
+      "posterior_boost": 5.37
+    },
+    "compradors": {
+      "likelihood": 0.0074,
+      "posterior_boost": 5.37
+    },
+    "fet": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.88
+    },
+    "decret": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.59
+    },
+    "govern": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.72
+    },
+    "limitar": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1249875,
+    0.0,
+    2.302585092994046
+  ],
+  "embedding_vector": [
+    2.29279257607176,
+    0.1250249918429748,
+    5.369915465862683,
+    0.49267659057918556,
+    2.2954273147031365,
+    0.11935867351252158,
+    5.3683701636102095,
+    0.49496202336827116,
+    2.294266286017353,
+    0.12189747280100802,
+    5.363335526930647,
+    0.5075711817106532,
+    2.3116043736265803,
+    0.11576246751664641,
+    5.3739821478279755,
+    0.5014551963113882,
+    2.310545235358549,
+    0.12832547945839276,
+    5.37095675566093,
+    0.5040485484813612,
+    2.3003146363863394,
+    0.1288762735552892,
+    5.376497409290011,
+    0.49931336950734534,
+    2.311395581184579,
+    0.13106229540024636,
+    5.379667184964487,
+    0.4933927251516753,
+    2.303006787223242,
+    0.13389784833952484,
+    5.37299080926321,
+    0.5072166384645139,
+    2.3120020132358503,
+    0.11869833373868922,
+    5.3648623135062685,
+    0.5074680168620225,
+    2.310710638532516,
+    0.130153059735933,
+    5.36693803907551,
+    0.4992706942796811,
+    2.3047958478110084,
+    0.12491313435342376,
+    5.369559480270767,
+    0.4987111092953269,
+    2.3099932589225767,
+    0.11873467294122844,
+    5.3737534818638535,
+    0.5040705834760277,
+    2.311089094539468,
+    0.11577659635348536,
+    5.372942334270903,
+    0.5027610796943477,
+    2.30181904624346,
+    0.11604868848970787,
+    5.360771418463247,
+    0.49339062828415753,
+    2.3084760507336166,
+    0.11823962093120163,
+    5.362774773995591,
+    0.49705833906465363,
+    2.302275062097102,
+    0.12894222770247557,
+    5.376023128633914,
+    0.4953354875414388
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/preus.json"
+}

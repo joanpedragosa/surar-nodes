@@ -1,0 +1,320 @@
+{
+  "concept": "presidenta",
+  "frequency": 17,
+  "edges": [],
+  "markov_transitions": {
+    "associacio": 0.0667,
+    "parlament": 0.0667,
+    "bolivia": 0.0667,
+    "comissio": 0.0667,
+    "add_council": 0.0667,
+    "generalitat": 0.0667,
+    "PEN": 0.0667,
+    "funcions": 0.0667,
+    "TMB": 0.0667,
+    "PP": 0.1333,
+    "PPCV": 0.0667,
+    "catalunya": 0.0667,
+    "mesa": 0.0667,
+    "govern": 0.0667
+  },
+  "bayesian_context": {
+    "associacio": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.37
+    },
+    "editors": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "llengua_catalana": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "montse_ayats": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "parlament": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.04
+    },
+    "carme_forcadell": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.54
+    },
+    "autoproclamat": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "bolivia": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "jeanine": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "anez": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "proposen": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "comissio": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.3
+    },
+    "europea": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.92
+    },
+    "ursula_von": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "der": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.22
+    },
+    "leyen": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "era": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.07
+    },
+    "add_council": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "peggy_conlon": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "vice": {
+      "likelihood": 0.0039,
+      "posterior_boost": 4.25
+    },
+    "generalitat": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.85
+    },
+    "monica": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.59
+    },
+    "oltra": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.63
+    },
+    "actual": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.29
+    },
+    "PEN": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "angels_gregori": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "demanat": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.25
+    },
+    "prudencia": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "director": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.37
+    },
+    "funcions": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.42
+    },
+    "CCMA": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.95
+    },
+    "TMB": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "mercedes_vidal": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "PP": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.19
+    },
+    "navarra": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    },
+    "ana": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "beltran": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "isabel_bonig": {
+      "likelihood": 0.0039,
+      "posterior_boost": 4.49
+    },
+    "PPCV": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "catalunya": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.41
+    },
+    "comu": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.33
+    },
+    "podem": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.83
+    },
+    "jessica": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "albiach": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "mesa": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.45
+    },
+    "assumpta_escarp": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "ovacionar": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "preveu": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.8
+    },
+    "tancar": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.42
+    },
+    "govern": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.45
+    },
+    "illes": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.52
+    },
+    "centres": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.68
+    },
+    "educatius": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "carrec": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.14
+    },
+    "munte": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "PDC": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.07145714285714286,
+    0.0,
+    2.8903717578961645
+  ],
+  "embedding_vector": [
+    2.8862650579499065,
+    0.07206887796924874,
+    4.78383041573895,
+    0.4913580071638258,
+    2.896111467096163,
+    0.07458381329265996,
+    4.792750417920873,
+    0.5015120578750607,
+    2.8811530162199417,
+    0.06861341494681383,
+    4.798913663736368,
+    0.4912008936063077,
+    2.897652599967089,
+    0.07900295338010346,
+    4.781023873312409,
+    0.5030483723093131,
+    2.891406785268862,
+    0.07340740792192388,
+    4.7896705724862,
+    0.49565976321713984,
+    2.8863262722622,
+    0.07268732096367009,
+    4.787920948720941,
+    0.505774014193578,
+    2.888741445603082,
+    0.06433522127264941,
+    4.7830181338884135,
+    0.49110482700431646,
+    2.894732501770237,
+    0.06730348994722563,
+    4.783975477444007,
+    0.5066272784462105,
+    2.8917315802906574,
+    0.06310393784139247,
+    4.7908999714786145,
+    0.4931791748913455,
+    2.893907005610224,
+    0.06382658815472439,
+    4.788899921322401,
+    0.5077596486831439,
+    2.896317112496071,
+    0.06281671742241539,
+    4.799215755129335,
+    0.5031841078475204,
+    2.894747279560653,
+    0.07632867815982479,
+    4.797754727037713,
+    0.49267891335151587,
+    2.895911249508276,
+    0.07821697310104936,
+    4.796586095278169,
+    0.49058313993039615,
+    2.888179247721696,
+    0.07020218270050367,
+    4.790412701270227,
+    0.4998574534833137,
+    2.882980343540337,
+    0.0811448134770323,
+    4.781314046438362,
+    0.5015856815548814,
+    2.891987254397899,
+    0.08054390016828135,
+    4.783948875550274,
+    0.4916665080126081
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/presidenta.json"
+}
