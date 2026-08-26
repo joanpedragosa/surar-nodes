@@ -1,0 +1,233 @@
+{
+  "concept": "semestre",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "any": 0.3333,
+    "interanual": 0.1667,
+    "milions": 0.5
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.4
+    },
+    "contractes": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "lloguer": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.31
+    },
+    "formalitzat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "primer": {
+      "likelihood": 0.0286,
+      "posterior_boost": 3.71
+    },
+    "any": {
+      "likelihood": 0.0095,
+      "posterior_boost": 2.91
+    },
+    "estimen": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "empresaris": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.28
+    },
+    "recuperara": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "mercat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.82
+    },
+    "exterior": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.66
+    },
+    "segon": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.4
+    },
+    "percentatge": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.75
+    },
+    "augmentat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.1
+    },
+    "preu": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.95
+    },
+    "catalunya": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.79
+    },
+    "interanual": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "import": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.12
+    },
+    "ascendeixen": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "guanys": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "nets": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "obtingut": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.03
+    },
+    "telefonica": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "milions": {
+      "likelihood": 0.019,
+      "posterior_boost": 3.75
+    },
+    "euros": {
+      "likelihood": 0.019,
+      "posterior_boost": 3.85
+    },
+    "benefici": {
+      "likelihood": 0.0143,
+      "posterior_boost": 4.75
+    },
+    "tingut": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.86
+    },
+    "port": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.95
+    },
+    "barcelona": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.8
+    },
+    "ascendeix": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "net": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.88
+    },
+    "consolidat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "registrat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "vidacaixa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "obtenir": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.58
+    },
+    "melia": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "hotels_internacional": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.3333333333333333,
+    0.0,
+    2.0794415416798357
+  ],
+  "embedding_vector": [
+    2.070967707467315,
+    0.3389317091781356,
+    5.178768184628818,
+    0.5044693035566188,
+    2.089001331919768,
+    0.334103250741542,
+    5.180022409273199,
+    0.49144102266719525,
+    2.0748103212818734,
+    0.3333309833498445,
+    5.183584599922418,
+    0.5060747807220876,
+    2.0770603643428065,
+    0.32465206027145144,
+    5.175762911986159,
+    0.5081918705543923,
+    2.073709248751434,
+    0.33237581256968696,
+    5.18862412039378,
+    0.49049798455100696,
+    2.081452520029118,
+    0.34233592334160623,
+    5.174606057580419,
+    0.5009697983847206,
+    2.0876241091775705,
+    0.32599672224851833,
+    5.180468251613475,
+    0.5050081971820407,
+    2.082821806497514,
+    0.3326883905282329,
+    5.174096981805955,
+    0.4998153177818214,
+    2.076889235467537,
+    0.3328813564303651,
+    5.177317807715611,
+    0.5067583598861852,
+    2.084814491810226,
+    0.32961322687758654,
+    5.181452506652879,
+    0.4955209809666139,
+    2.078498400330764,
+    0.3303929006522212,
+    5.183147989255595,
+    0.4974070216597607,
+    2.0786234012376643,
+    0.3377198157835141,
+    5.178259836582276,
+    0.5081284653832868,
+    2.0730505740638896,
+    0.3381557107915986,
+    5.178447480872863,
+    0.49852907145369885,
+    2.0821291390525127,
+    0.3337914573539002,
+    5.178297719568788,
+    0.49002853761125514,
+    2.0712867885967707,
+    0.33752122120783756,
+    5.180486911935303,
+    0.5039232092703394,
+    2.088550908139894,
+    0.3369916104208417,
+    5.171062573813459,
+    0.49617705369727594
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/semestre.json"
+}
