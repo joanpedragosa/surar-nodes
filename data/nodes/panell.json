@@ -1,0 +1,261 @@
+{
+  "concept": "panell",
+  "frequency": 10,
+  "edges": [],
+  "markov_transitions": {
+    "central": 0.2,
+    "esquerre": 0.1,
+    "fusta": 0.1,
+    "dret": 0.2,
+    "predel": 0.1,
+    "interior": 0.2,
+    "esquerra": 0.1
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.28
+    },
+    "obra": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.83
+    },
+    "central": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.49
+    },
+    "pietat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.91
+    },
+    "rogier": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.68
+    },
+    "der": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.45
+    },
+    "weyden": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.85
+    },
+    "apareix": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.34
+    },
+    "creu": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.34
+    },
+    "esquerre": {
+      "likelihood": 0.01,
+      "posterior_boost": 4.39
+    },
+    "buida": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "representa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.36
+    },
+    "imatge": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.63
+    },
+    "majestuosa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "sant": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.44
+    },
+    "vicenc": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "feia": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.51
+    },
+    "horishi": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "gravador": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "enganxava": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "dibuix": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.88
+    },
+    "fusta": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.51
+    },
+    "mostra": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.64
+    },
+    "dret": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.48
+    },
+    "josep": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.95
+    },
+    "ve": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "determinat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "format": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.58
+    },
+    "pintura": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.12
+    },
+    "ubicacio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "predel": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.03
+    },
+    "part": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.7
+    },
+    "superior": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.4
+    },
+    "interior": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.69
+    },
+    "nativitat": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.42
+    },
+    "esquerra": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.66
+    },
+    "comitents": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "observa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.95
+    },
+    "curiosa": {
+      "likelihood": 0.0033,
+      "posterior_boost": 5.03
+    },
+    "combinacio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.25
+    },
+    "visio": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.95
+    },
+    "crist": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.34
+    },
+    "triomfant": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.14285714285714288,
+    0.0,
+    2.3978952727983707
+  ],
+  "embedding_vector": [
+    2.4033216856637054,
+    0.1332721818443309,
+    5.032672964698525,
+    0.5049760776507722,
+    2.3978654130444226,
+    0.13735307576775982,
+    5.023961257295193,
+    0.5052106142439792,
+    2.3912774895296214,
+    0.1346239391406231,
+    5.033707196367356,
+    0.5090678669238987,
+    2.387974238124929,
+    0.1431009881248584,
+    5.036252419233042,
+    0.5022505213365878,
+    2.4023303791470068,
+    0.13869466422055554,
+    5.038355482450259,
+    0.5042915156679538,
+    2.3987461601585958,
+    0.1357005438091734,
+    5.02746681520103,
+    0.5034826723013269,
+    2.3967319362868307,
+    0.14153742272380876,
+    5.032355339569387,
+    0.5002627648510878,
+    2.400903216437,
+    0.14487792192523377,
+    5.036104463936655,
+    0.5004329430478727,
+    2.406068250414544,
+    0.1392418646369138,
+    5.0218091869854184,
+    0.4960140011327241,
+    2.3901749600356417,
+    0.1494307693832964,
+    5.020937926387785,
+    0.5025257429662279,
+    2.3988469959167555,
+    0.14924288277054426,
+    5.023978950793577,
+    0.5071370060491547,
+    2.3949283255870126,
+    0.14795009668774,
+    5.025919234137594,
+    0.5076787295912237,
+    2.3944055055550155,
+    0.13615746081152585,
+    5.027850584878932,
+    0.491869207491173,
+    2.404317385955109,
+    0.13588018324999415,
+    5.027682288973844,
+    0.5088852142447761,
+    2.407647782296408,
+    0.14198323379903854,
+    5.036522456876855,
+    0.4950274826841412,
+    2.3998427057629885,
+    0.15091377806377543,
+    5.030691158976037,
+    0.5018040272597084
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/panell.json"
+}

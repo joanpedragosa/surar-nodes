@@ -1,0 +1,250 @@
+{
+  "concept": "pactar",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "valia": 0.125,
+    "maragall": 0.125,
+    "puigdemont": 0.125,
+    "jxcat": 0.125,
+    "ahir": 0.125,
+    "extrema": 0.125,
+    "oltra": 0.125,
+    "governar": 0.125
+  },
+  "bayesian_context": {
+    "valia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "constanci": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "voldria": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "maragall": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.76
+    },
+    "jxcat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.73
+    },
+    "bcomu": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "puigdemont": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.44
+    },
+    "creacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.8
+    },
+    "taula_estrategica": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "catalana": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.5
+    },
+    "corredor_mediterrani": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "ximo_puig": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.92
+    },
+    "refusat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "ERC": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.28
+    },
+    "ahir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.78
+    },
+    "pdecat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.72
+    },
+    "fer": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.43
+    },
+    "coalicio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.89
+    },
+    "properes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "eleccions": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.06
+    },
+    "europees": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "PNB": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "proposat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.8
+    },
+    "ernest_maragall": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "comprometre": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "extrema": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "dreta": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.53
+    },
+    "la_vanguardia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "resulta": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.74
+    },
+    "beneficios": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "oltra": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.66
+    },
+    "ambits": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "compartits": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "partits": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.42
+    },
+    "poden": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.13
+    },
+    "governar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "diputacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.89
+    },
+    "barcelona": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.74
+    },
+    "PSC": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.63
+    },
+    "ciutadans": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.23
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.125,
+    0.0,
+    2.1972245773362196
+  ],
+  "embedding_vector": [
+    2.204693165392056,
+    0.13437081325641864,
+    5.127383890804278,
+    0.500617113831112,
+    2.191879143895765,
+    0.11522797608554859,
+    5.11860937636585,
+    0.4980470272007473,
+    2.197678070763271,
+    0.12456783591604804,
+    5.121107129476447,
+    0.5008677203508508,
+    2.2024424888482783,
+    0.12924749148164183,
+    5.122393641922069,
+    0.49852183540952383,
+    2.193006077896581,
+    0.13447710482400893,
+    5.116675480910214,
+    0.49437602121639657,
+    2.188540745091964,
+    0.13465741093106867,
+    5.112557114258501,
+    0.4964426158640836,
+    2.1886434342312233,
+    0.11949539877936091,
+    5.117872698298872,
+    0.5079229000976127,
+    2.194133809576177,
+    0.13469498874570543,
+    5.110574640979266,
+    0.4970336947254024,
+    2.1948437551202966,
+    0.1302832026273192,
+    5.128776078266216,
+    0.4963937959293406,
+    2.195874095992028,
+    0.1204029148318293,
+    5.126021117726528,
+    0.5027647761224624,
+    2.1885983800053825,
+    0.12707288952738222,
+    5.12591149116858,
+    0.49064016312851594,
+    2.196333533778338,
+    0.1308034508267657,
+    5.129771930362275,
+    0.5016792908700194,
+    2.188002823289066,
+    0.12392845815035805,
+    5.113763450305866,
+    0.502541112937105,
+    2.1915309333256743,
+    0.11801940215314993,
+    5.120722886133591,
+    0.492007735884491,
+    2.201847745975833,
+    0.1337930207888235,
+    5.128866363689264,
+    0.49749477010035553,
+    2.1991395822537,
+    0.12823965424548936,
+    5.120211609105065,
+    0.499417851632877
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/pactar.json"
+}
