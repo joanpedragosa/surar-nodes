@@ -1,0 +1,297 @@
+{
+  "concept": "gestio",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "bestiar": 0.125,
+    "crisi": 0.125,
+    "atemptat": 0.125,
+    "inicial": 0.125,
+    "aigua": 0.125,
+    "ecologica": 0.25,
+    "recursos": 0.125
+  },
+  "bayesian_context": {
+    "fer": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.43
+    },
+    "carrec": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.47
+    },
+    "bestiar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "john_palmer": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "parker": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "impacta": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "crisi": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.69
+    },
+    "segons": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.62
+    },
+    "oltra": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.66
+    },
+    "gent": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.41
+    },
+    "mes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.32
+    },
+    "vulnerable": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "agrait": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "trapero": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "membres": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.38
+    },
+    "mossos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.58
+    },
+    "carta": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.37
+    },
+    "feina": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.95
+    },
+    "fet": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.93
+    },
+    "atemptat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.76
+    },
+    "preparar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "departament": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.63
+    },
+    "terres": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.8
+    },
+    "recursos_naturals": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "pla": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.38
+    },
+    "inicial": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.89
+    },
+    "faran": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "revisar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "proces": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.21
+    },
+    "privatitzacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "aigua": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.38
+    },
+    "auditoria": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "programa": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.91
+    },
+    "impulsar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "alcaldia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "ada_colau": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.88
+    },
+    "naturalitzacio": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "ecologica": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "espais": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.31
+    },
+    "verds": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.42
+    },
+    "ciutat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.89
+    },
+    "objectiu": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.54
+    },
+    "incrementar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "superficie": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.63
+    },
+    "verda": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "fomentar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "biodiversitat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "era": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.38
+    },
+    "interes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.82
+    },
+    "principal": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.39
+    },
+    "punics": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "recursos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.87
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.14285714285714285,
+    0.0,
+    2.1972245773362196
+  ],
+  "embedding_vector": [
+    2.204693165392056,
+    0.1522279561135615,
+    5.127383890804278,
+    0.500617113831112,
+    2.191879143895765,
+    0.13308511894269145,
+    5.11860937636585,
+    0.4980470272007473,
+    2.197678070763271,
+    0.1424249787731909,
+    5.121107129476447,
+    0.5008677203508508,
+    2.2024424888482783,
+    0.14710463433878468,
+    5.122393641922069,
+    0.49852183540952383,
+    2.193006077896581,
+    0.15233424768115178,
+    5.116675480910214,
+    0.49437602121639657,
+    2.188540745091964,
+    0.15251455378821152,
+    5.112557114258501,
+    0.4964426158640836,
+    2.1886434342312233,
+    0.13735254163650376,
+    5.117872698298872,
+    0.5079229000976127,
+    2.194133809576177,
+    0.15255213160284828,
+    5.110574640979266,
+    0.4970336947254024,
+    2.1948437551202966,
+    0.14814034548446206,
+    5.128776078266216,
+    0.4963937959293406,
+    2.195874095992028,
+    0.13826005768897215,
+    5.126021117726528,
+    0.5027647761224624,
+    2.1885983800053825,
+    0.14493003238452506,
+    5.12591149116858,
+    0.49064016312851594,
+    2.196333533778338,
+    0.14866059368390855,
+    5.129771930362275,
+    0.5016792908700194,
+    2.188002823289066,
+    0.1417856010075009,
+    5.113763450305866,
+    0.502541112937105,
+    2.1915309333256743,
+    0.13587654501029278,
+    5.120722886133591,
+    0.492007735884491,
+    2.201847745975833,
+    0.15165016364596634,
+    5.128866363689264,
+    0.49749477010035553,
+    2.1991395822537,
+    0.1460967971026322,
+    5.120211609105065,
+    0.499417851632877
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/gestio.json"
+}

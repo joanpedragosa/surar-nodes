@@ -1,0 +1,234 @@
+{
+  "concept": "frontal",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "caixa": 0.2,
+    "esglesia": 0.4,
+    "superior": 0.2,
+    "separacio": 0.2
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.4
+    },
+    "MP": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "camera": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "personatges": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.42
+    },
+    "caixa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.1
+    },
+    "encaputxats": {
+      "likelihood": 0.0048,
+      "posterior_boost": 5.18
+    },
+    "entrada": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.78
+    },
+    "calcada": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "prop": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.55
+    },
+    "angle": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "sud": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.44
+    },
+    "cara": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.86
+    },
+    "poden": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.48
+    },
+    "trobar": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.45
+    },
+    "arcs": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.25
+    },
+    "trilobats": {
+      "likelihood": 0.0095,
+      "posterior_boost": 5.48
+    },
+    "esglesia": {
+      "likelihood": 0.019,
+      "posterior_boost": 3.82
+    },
+    "santa_perpetua": {
+      "likelihood": 0.0095,
+      "posterior_boost": 5.48
+    },
+    "mogoda": {
+      "likelihood": 0.0095,
+      "posterior_boost": 5.48
+    },
+    "sant_cebria": {
+      "likelihood": 0.0095,
+      "posterior_boost": 5.48
+    },
+    "cabanyes": {
+      "likelihood": 0.0095,
+      "posterior_boost": 5.18
+    },
+    "osca": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.4
+    },
+    "concava": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "pelvis": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "tiranosauroideus": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "extrem": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.18
+    },
+    "superior": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.56
+    },
+    "ili": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "imatge": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.48
+    },
+    "sant": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.3
+    },
+    "climent": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.23
+    },
+    "part": {
+      "likelihood": 0.0048,
+      "posterior_boost": 2.85
+    },
+    "separacio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.48
+    },
+    "absis": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.86
+    },
+    "major": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.48
+    },
+    "costat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.4
+    },
+    "nord": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.31
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    2.0794415416798357
+  ],
+  "embedding_vector": [
+    2.070967707467315,
+    0.2555983758448023,
+    5.4787681846288185,
+    0.5044693035566188,
+    2.089001331919768,
+    0.2507699174082087,
+    5.480022409273199,
+    0.49144102266719525,
+    2.0748103212818734,
+    0.2499976500165112,
+    5.483584599922419,
+    0.5060747807220876,
+    2.0770603643428065,
+    0.2413187269381181,
+    5.47576291198616,
+    0.5081918705543923,
+    2.073709248751434,
+    0.24904247923635367,
+    5.488624120393781,
+    0.49049798455100696,
+    2.081452520029118,
+    0.2590025900082729,
+    5.47460605758042,
+    0.5009697983847206,
+    2.0876241091775705,
+    0.242663388915185,
+    5.480468251613476,
+    0.5050081971820407,
+    2.082821806497514,
+    0.24935505719489962,
+    5.474096981805956,
+    0.4998153177818214,
+    2.076889235467537,
+    0.24954802309703178,
+    5.477317807715612,
+    0.5067583598861852,
+    2.084814491810226,
+    0.24627989354425325,
+    5.48145250665288,
+    0.4955209809666139,
+    2.078498400330764,
+    0.2470595673188879,
+    5.483147989255595,
+    0.4974070216597607,
+    2.0786234012376643,
+    0.2543864824501808,
+    5.478259836582277,
+    0.5081284653832868,
+    2.0730505740638896,
+    0.2548223774582653,
+    5.478447480872863,
+    0.49852907145369885,
+    2.0821291390525127,
+    0.2504581240205669,
+    5.478297719568789,
+    0.49002853761125514,
+    2.0712867885967707,
+    0.25418788787450425,
+    5.480486911935304,
+    0.5039232092703394,
+    2.088550908139894,
+    0.2536582770875084,
+    5.47106257381346,
+    0.49617705369727594
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/frontal.json"
+}
