@@ -1,0 +1,550 @@
+{
+  "concept": "tram",
+  "frequency": 25,
+  "edges": [],
+  "markov_transitions": {
+    "pont": 0.0833,
+    "linia": 0.0417,
+    "preabsidal": 0.0417,
+    "tancat": 0.0833,
+    "central": 0.0417,
+    "urquinaona": 0.0417,
+    "soterrat": 0.0833,
+    "causa": 0.0417,
+    "absidal": 0.0417,
+    "diversos": 0.0417,
+    "escala": 0.0417,
+    "mitja": 0.0417,
+    "nau": 0.0417,
+    "juliol": 0.0417,
+    "obrir": 0.0833,
+    "joanic": 0.0417,
+    "maragall": 0.0417,
+    "era": 0.0417,
+    "quatre": 0.0417,
+    "set": 0.0417
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0027,
+      "posterior_boost": 2.16
+    },
+    "morts": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.29
+    },
+    "provocat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.63
+    },
+    "esfondrament": {
+      "likelihood": 0.0027,
+      "posterior_boost": 4.33
+    },
+    "pont": {
+      "likelihood": 0.0027,
+      "posterior_boost": 3.93
+    },
+    "morandi": {
+      "likelihood": 0.0027,
+      "posterior_boost": 4.45
+    },
+    "quaranta": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.27
+    },
+    "quilometres": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.35
+    },
+    "longitud": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.45
+    },
+    "tenia": {
+      "likelihood": 0.0027,
+      "posterior_boost": 2.69
+    },
+    "linia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.38
+    },
+    "posat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.33
+    },
+    "funcionament": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.55
+    },
+    "tres": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.32
+    },
+    "volta": {
+      "likelihood": 0.0027,
+      "posterior_boost": 3.48
+    },
+    "preabsidal": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.63
+    },
+    "capella": {
+      "likelihood": 0.0027,
+      "posterior_boost": 3.0
+    },
+    "estrellada": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.63
+    },
+    "obrir": {
+      "likelihood": 0.0093,
+      "posterior_boost": 4.0
+    },
+    "tancat": {
+      "likelihood": 0.0027,
+      "posterior_boost": 3.81
+    },
+    "condicionat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.63
+    },
+    "habilitat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.03
+    },
+    "esdevenir": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.67
+    },
+    "estan": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.44
+    },
+    "tuneladores": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.33
+    },
+    "central": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.8
+    },
+    "aturades": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.85
+    },
+    "anomenat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.45
+    },
+    "urquinaona": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.63
+    },
+    "jaume_i": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.03
+    },
+    "gran_metro": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.33
+    },
+    "any": {
+      "likelihood": 0.0053,
+      "posterior_boost": 2.66
+    },
+    "soterrat": {
+      "likelihood": 0.0027,
+      "posterior_boost": 4.63
+    },
+    "barcelona": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.27
+    },
+    "pl": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.63
+    },
+    "catalunya": {
+      "likelihood": 0.004,
+      "posterior_boost": 2.71
+    },
+    "muntaner": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.63
+    },
+    "interromput": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.63
+    },
+    "subministrament": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.03
+    },
+    "electric": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.93
+    },
+    "causa": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.77
+    },
+    "vent": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.33
+    },
+    "temps": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.54
+    },
+    "mostra": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.94
+    },
+    "crist": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.94
+    },
+    "clau": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.48
+    },
+    "absidal": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.63
+    },
+    "llagues": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.63
+    },
+    "passio": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.55
+    },
+    "rep": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.21
+    },
+    "ronda": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.63
+    },
+    "mig": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.13
+    },
+    "segons": {
+      "likelihood": 0.0027,
+      "posterior_boost": 2.43
+    },
+    "diversos": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.99
+    },
+    "noms": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.35
+    },
+    "primera": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.46
+    },
+    "part": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.32
+    },
+    "escala": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.35
+    },
+    "fa": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.41
+    },
+    "congost": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.93
+    },
+    "engorjat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.63
+    },
+    "mitja": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.88
+    },
+    "riu": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.29
+    },
+    "rialb": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.85
+    },
+    "sigui": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.09
+    },
+    "unic": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.18
+    },
+    "trets": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.59
+    },
+    "caracteristics": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.03
+    },
+    "espectacular": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.03
+    },
+    "bellesa": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.48
+    },
+    "situat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.45
+    },
+    "laberint": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.72
+    },
+    "octogonal": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.72
+    },
+    "cinque": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.15
+    },
+    "nau": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.33
+    },
+    "segon": {
+      "likelihood": 0.0027,
+      "posterior_boost": 3.15
+    },
+    "juliol": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.95
+    },
+    "se": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.18
+    },
+    "celebrava": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.15
+    },
+    "funeral": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.85
+    },
+    "victimes": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.35
+    },
+    "avui": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.71
+    },
+    "mati": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.33
+    },
+    "tancar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.25
+    },
+    "definitivament": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.03
+    },
+    "estacio": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.93
+    },
+    "bordeta": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.15
+    },
+    "inaugurar": {
+      "likelihood": 0.004,
+      "posterior_boost": 3.9
+    },
+    "nou": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.47
+    },
+    "primer": {
+      "likelihood": 0.0027,
+      "posterior_boost": 2.69
+    },
+    "lesseps": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.85
+    },
+    "mes": {
+      "likelihood": 0.0027,
+      "posterior_boost": 2.14
+    },
+    "tard": {
+      "likelihood": 0.0027,
+      "posterior_boost": 3.67
+    },
+    "joanic": {
+      "likelihood": 0.0027,
+      "posterior_boost": 4.93
+    },
+    "guinardo": {
+      "likelihood": 0.0027,
+      "posterior_boost": 4.93
+    },
+    "maragall": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.27
+    },
+    "via": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.29
+    },
+    "julia": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.03
+    },
+    "era": {
+      "likelihood": 0.0013,
+      "posterior_boost": 1.92
+    },
+    "prioritari": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.33
+    },
+    "govern": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.29
+    },
+    "director": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.2
+    },
+    "general": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.89
+    },
+    "departament": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.14
+    },
+    "ramals": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.93
+    },
+    "aeroport": {
+      "likelihood": 0.0027,
+      "posterior_boost": 3.67
+    },
+    "zona_franca": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.67
+    },
+    "collblanc": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.33
+    },
+    "quantes": {
+      "likelihood": 0.0027,
+      "posterior_boost": 2.38
+    },
+    "estacions": {
+      "likelihood": 0.0027,
+      "posterior_boost": 3.42
+    },
+    "quatre": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.58
+    },
+    "set": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.92
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.05001999999999999,
+    0.0,
+    3.258096538021482
+  ],
+  "embedding_vector": [
+    3.265499020754026,
+    0.051665538573451186,
+    4.925576778814021,
+    0.4937182246418036,
+    3.2563185405799846,
+    0.04236751094269431,
+    4.933699374887483,
+    0.498752221193193,
+    3.2592211245249216,
+    0.047361606432386474,
+    4.9280473145762835,
+    0.49226081401388794,
+    3.2570371549468318,
+    0.051728902330220705,
+    4.9232397020768985,
+    0.5004143757610536,
+    3.2546175605442387,
+    0.054003724758888816,
+    4.927327890978326,
+    0.5067274901653211,
+    3.2577233968864325,
+    0.05035004595983721,
+    4.927660962563387,
+    0.5099508179175516,
+    3.2583814277865177,
+    0.051201065486569414,
+    4.9206889953621715,
+    0.5043986005273466,
+    3.256516608973627,
+    0.04875870250584497,
+    4.925634015075779,
+    0.5080054867611342,
+    3.2614887835836264,
+    0.04914137500977043,
+    4.925796086895445,
+    0.5005163792692945,
+    3.2592813792515134,
+    0.05492567663560972,
+    4.936566925071466,
+    0.506473889038501,
+    3.249639344419066,
+    0.05291724140721605,
+    4.926185151712731,
+    0.5004850743175275,
+    3.267258384772165,
+    0.05768401911768108,
+    4.9259086378027135,
+    0.5002475197692335,
+    3.2498705863751676,
+    0.052854334621756593,
+    4.922648411074232,
+    0.5053297162915967,
+    3.2496313828255166,
+    0.04664087645395187,
+    4.9335970317436635,
+    0.5001842615892143,
+    3.261199460826414,
+    0.05206240715624921,
+    4.934381091150973,
+    0.4983043847083663,
+    3.256027370605455,
+    0.05652277927716345,
+    4.934251035073176,
+    0.49195874304293535
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/tram.json"
+}

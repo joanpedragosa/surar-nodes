@@ -1,0 +1,415 @@
+{
+  "concept": "TSJC",
+  "frequency": 17,
+  "edges": [],
+  "markov_transitions": {
+    "fiscalia": 0.0769,
+    "jordi_segui": 0.0769,
+    "presenta": 0.0769,
+    "josep_maria": 0.0769,
+    "estan": 0.0769,
+    "aclariment": 0.0769,
+    "resoldre": 0.0769,
+    "peuat": 0.0769,
+    "providencia": 0.0769,
+    "tribunal_suprem": 0.0769,
+    "malversacio": 0.0769,
+    "retirar": 0.0769,
+    "suprem": 0.0769
+  },
+  "bayesian_context": {
+    "pertocaria": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "instruir": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "causa": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.23
+    },
+    "segons": {
+      "likelihood": 0.0039,
+      "posterior_boost": 2.59
+    },
+    "ERC": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.95
+    },
+    "renunciat": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.95
+    },
+    "recorrer": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.75
+    },
+    "sentencia": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.62
+    },
+    "fiscalia": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.35
+    },
+    "designat": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "ponent": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.89
+    },
+    "sala_penal": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "jordi_segui": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "sol": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.1
+    },
+    "licitara": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    },
+    "boye": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "prejudicial": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "presenta": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.13
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.42
+    },
+    "tornat": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "citar": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "josep_maria": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.84
+    },
+    "jove": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.36
+    },
+    "diu": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.47
+    },
+    "estan": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.6
+    },
+    "relacionats": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.95
+    },
+    "delictes": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.42
+    },
+    "desobediencia": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.62
+    },
+    "dit": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.33
+    },
+    "sanz": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "demanarien": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "aclariment": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "juridic": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.19
+    },
+    "creu": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.11
+    },
+    "melero": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "hauria": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.22
+    },
+    "haver": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.75
+    },
+    "fet": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.61
+    },
+    "almenys": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.72
+    },
+    "resoldre": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.65
+    },
+    "inviolabilitat": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "parlamentaria": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.84
+    },
+    "anul": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.84
+    },
+    "lar": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.31
+    },
+    "peuat": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "licita": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.84
+    },
+    "providencia": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    },
+    "diversa": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.32
+    },
+    "documentacio": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "declarara": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.02
+    },
+    "enviara": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "volen": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.97
+    },
+    "enviar": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.33
+    },
+    "cartes": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.72
+    },
+    "forma": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.67
+    },
+    "massiva": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.89
+    },
+    "acusacio": {
+      "likelihood": 0.0039,
+      "posterior_boost": 4.19
+    },
+    "retirar": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.73
+    },
+    "malversacio": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.98
+    },
+    "comencara": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.59
+    },
+    "nou": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.63
+    },
+    "cicle": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.54
+    },
+    "politic": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.96
+    },
+    "puigdemont": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.12
+    },
+    "diada": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.95
+    },
+    "suprem": {
+      "likelihood": 0.0039,
+      "posterior_boost": 3.95
+    },
+    "judici": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.21
+    },
+    "president": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.73
+    },
+    "generalitat": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.85
+    },
+    "quim_torra": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.15
+    },
+    "acabar": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.17
+    },
+    "termini": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.65
+    },
+    "ficar": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.49
+    },
+    "pancarta": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.65
+    },
+    "suport": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.97
+    },
+    "presos": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.12
+    },
+    "politics": {
+      "likelihood": 0.002,
+      "posterior_boost": 2.92
+    },
+    "ahir": {
+      "likelihood": 0.002,
+      "posterior_boost": 3.45
+    },
+    "judicis": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.1
+    },
+    "decaure": {
+      "likelihood": 0.002,
+      "posterior_boost": 4.79
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.07689999999999998,
+    0.0,
+    2.8903717578961645
+  ],
+  "embedding_vector": [
+    2.8862650579499065,
+    0.07751173511210586,
+    4.78383041573895,
+    0.4913580071638258,
+    2.896111467096163,
+    0.08002667043551709,
+    4.792750417920873,
+    0.5015120578750607,
+    2.8811530162199417,
+    0.07405627208967096,
+    4.798913663736368,
+    0.4912008936063077,
+    2.897652599967089,
+    0.08444581052296059,
+    4.781023873312409,
+    0.5030483723093131,
+    2.891406785268862,
+    0.078850265064781,
+    4.7896705724862,
+    0.49565976321713984,
+    2.8863262722622,
+    0.0781301781065272,
+    4.787920948720941,
+    0.505774014193578,
+    2.888741445603082,
+    0.06977807841550654,
+    4.7830181338884135,
+    0.49110482700431646,
+    2.894732501770237,
+    0.07274634709008275,
+    4.783975477444007,
+    0.5066272784462105,
+    2.8917315802906574,
+    0.06854679498424959,
+    4.7908999714786145,
+    0.4931791748913455,
+    2.893907005610224,
+    0.06926944529758151,
+    4.788899921322401,
+    0.5077596486831439,
+    2.896317112496071,
+    0.06825957456527251,
+    4.799215755129335,
+    0.5031841078475204,
+    2.894747279560653,
+    0.08177153530268191,
+    4.797754727037713,
+    0.49267891335151587,
+    2.895911249508276,
+    0.08365983024390648,
+    4.796586095278169,
+    0.49058313993039615,
+    2.888179247721696,
+    0.0756450398433608,
+    4.790412701270227,
+    0.4998574534833137,
+    2.882980343540337,
+    0.08658767061988942,
+    4.781314046438362,
+    0.5015856815548814,
+    2.891987254397899,
+    0.08598675731113847,
+    4.783948875550274,
+    0.4916665080126081
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/TSJC.json"
+}
