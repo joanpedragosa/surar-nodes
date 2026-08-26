@@ -1,0 +1,352 @@
+{
+  "concept": "piano",
+  "frequency": 13,
+  "edges": [],
+  "markov_transitions": {
+    "marga_richter": 0.0909,
+    "menahem_pressler": 0.0909,
+    "acordio": 0.0909,
+    "mes": 0.1818,
+    "harmonium": 0.0909,
+    "juilliard_school": 0.0909,
+    "segons": 0.0909,
+    "violoncel": 0.0909,
+    "pianissimo": 0.0909,
+    "enregistrar": 0.0909
+  },
+  "bayesian_context": {
+    "estudiar": {
+      "likelihood": 0.0051,
+      "posterior_boost": 4.07
+    },
+    "marga_richter": {
+      "likelihood": 0.0051,
+      "posterior_boost": 4.61
+    },
+    "rosalyn_tureck": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "enregistrar": {
+      "likelihood": 0.0051,
+      "posterior_boost": 4.31
+    },
+    "sonata": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "for": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.87
+    },
+    "menahem_pressler": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "evoquen": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "acordio": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "sons": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.07
+    },
+    "distants": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "podrien": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.87
+    },
+    "rebre": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.27
+    },
+    "classes": {
+      "likelihood": 0.0051,
+      "posterior_boost": 4.01
+    },
+    "dones": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.51
+    },
+    "principis": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.5
+    },
+    "segle": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.67
+    },
+    "xix": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.48
+    },
+    "dansa": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "mes": {
+      "likelihood": 0.0051,
+      "posterior_boost": 2.41
+    },
+    "reduir": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.74
+    },
+    "veus": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.77
+    },
+    "harmonium": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "juilliard_school": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "obra": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.42
+    },
+    "interpretada": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "ravel": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.87
+    },
+    "pavane": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "pour": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "une": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "infante": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "defunte": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "marca": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.74
+    },
+    "era": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.18
+    },
+    "segons": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.42
+    },
+    "peter_hince": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "chappell": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "any": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.35
+    },
+    "janaček": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.3
+    },
+    "completar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.21
+    },
+    "partitura": {
+      "likelihood": 0.0051,
+      "posterior_boost": 4.1
+    },
+    "fer": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.23
+    },
+    "violoncel": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "rossini": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.83
+    },
+    "stanislao_mattei": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "instrument": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.71
+    },
+    "afegir": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.66
+    },
+    "assajos": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.21
+    },
+    "vuitena": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.91
+    },
+    "fragments": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.83
+    },
+    "aprofitar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "foren": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.91
+    },
+    "celebres": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "barbiere": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "cor": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.3
+    },
+    "pianissimo": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "principi": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.47
+    },
+    "crescendo": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "aria": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.77
+    },
+    "calumnia": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "quantes": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.36
+    },
+    "mans": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.38
+    },
+    "arranjaments": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "MGM": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "quatre": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.86
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.09999,
+    0.0,
+    2.6390573296152584
+  ],
+  "embedding_vector": [
+    2.6446113778267346,
+    0.09474082440069824,
+    4.9164855706532276,
+    0.50931498396086,
+    2.6485093518933565,
+    0.09905898494834624,
+    4.9121808492552255,
+    0.5055105302920969,
+    2.6418895965104396,
+    0.10443036459033894,
+    4.900700730482029,
+    0.4959689894177836,
+    2.6302275794529,
+    0.10713121885174397,
+    4.907457080557497,
+    0.503596959031562,
+    2.634182928601791,
+    0.09694162430304984,
+    4.90018825540162,
+    0.4971666756540994,
+    2.6480392132488224,
+    0.09434798018263377,
+    4.906387827327608,
+    0.5083554477200117,
+    2.6296954029440562,
+    0.09129169074085028,
+    4.912596579982156,
+    0.5074762688655908,
+    2.629231644261334,
+    0.10492154473987875,
+    4.916256823420053,
+    0.4915143489234453,
+    2.6421864363071976,
+    0.10017524400167035,
+    4.909597667829928,
+    0.5091114828986213,
+    2.629057570286648,
+    0.09492957401983833,
+    4.914244653558232,
+    0.4964916409957343,
+    2.6345972567429348,
+    0.1038989090510695,
+    4.918371034962919,
+    0.4948895140439598,
+    2.6382190459607937,
+    0.09504985365643012,
+    4.907586665829662,
+    0.5020907765726342,
+    2.6445049048088696,
+    0.09134834993588828,
+    4.913721701583746,
+    0.5009652019479165,
+    2.6318170506704237,
+    0.09196506438409836,
+    4.904911182106494,
+    0.4930357332516895,
+    2.6475772192050626,
+    0.10359210031209284,
+    4.904753178437594,
+    0.5013777050511312,
+    2.6401899706439464,
+    0.09144474421768695,
+    4.9167941702083215,
+    0.4981063898539626
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/piano.json"
+}

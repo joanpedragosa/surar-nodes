@@ -1,0 +1,604 @@
+{
+  "concept": "permetre",
+  "frequency": 18,
+  "edges": [],
+  "markov_transitions": {
+    "publicacio": 0.0556,
+    "govern": 0.0556,
+    "conformacio": 0.0556,
+    "ciutat": 0.0556,
+    "filtracio": 0.0556,
+    "metode": 0.0556,
+    "obtencio": 0.0556,
+    "isabella_colbran": 0.0556,
+    "creacio": 0.0556,
+    "ineficacia": 0.0556,
+    "muncunill": 0.0556,
+    "suprem": 0.0556,
+    "investidura": 0.0556,
+    "jurar": 0.0556,
+    "esquerra_unida": 0.0556,
+    "expansio": 0.0556,
+    "comencaments": 0.0556,
+    "invencio": 0.0556
+  },
+  "bayesian_context": {
+    "publicacio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.07
+    },
+    "decret": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.29
+    },
+    "DOGC": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "espanyol": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.51
+    },
+    "govern": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.72
+    },
+    "alemany": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.59
+    },
+    "entressin": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "territori": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.45
+    },
+    "sol": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.78
+    },
+    "licita": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.82
+    },
+    "cambra": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.43
+    },
+    "laura_borras": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.77
+    },
+    "reconsideri": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "decisio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.34
+    },
+    "conformacio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "grup": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.95
+    },
+    "multiple": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "ciutat": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.54
+    },
+    "expandis": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "cap": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.39
+    },
+    "ponent": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.87
+    },
+    "canalitzacio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "riera": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.17
+    },
+    "palau": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.03
+    },
+    "instal": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.18
+    },
+    "lacio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.49
+    },
+    "diversos": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.13
+    },
+    "ponts": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.07
+    },
+    "filtracio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.07
+    },
+    "aigua": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.03
+    },
+    "juntes": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.17
+    },
+    "segellades": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "metode": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.52
+    },
+    "visio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.69
+    },
+    "millorada": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "incloure": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.66
+    },
+    "perspectiva": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.82
+    },
+    "distant": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "obtencio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "beneficis": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.07
+    },
+    "implantar": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.17
+    },
+    "manera": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.06
+    },
+    "generalitzada": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "mecanitzacio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "industria": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.45
+    },
+    "textil": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "isabella_colbran": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "incendiar": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.17
+    },
+    "san_carlo": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "final": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.26
+    },
+    "donna": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.99
+    },
+    "lago": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.99
+    },
+    "insercio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "fantasios": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "pirotecnic": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "rondo": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "elena": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.99
+    },
+    "creacio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.75
+    },
+    "sistema": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.15
+    },
+    "bancs": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.66
+    },
+    "nacionals": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.93
+    },
+    "financer": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.07
+    },
+    "nacional": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.28
+    },
+    "fort": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.54
+    },
+    "ineficacia": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "setge": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.59
+    },
+    "ambit": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.62
+    },
+    "maritim": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.17
+    },
+    "arribada": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.77
+    },
+    "queviures": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "polvora": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "municions": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "muncunill": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "construir": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.92
+    },
+    "primer": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.53
+    },
+    "cafe": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "colon": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.99
+    },
+    "realineacio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "nord": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.91
+    },
+    "placa": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.99
+    },
+    "vella": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.93
+    },
+    "suprem": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.62
+    },
+    "oriol_junqueras": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.37
+    },
+    "anes": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "sessio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.62
+    },
+    "constitutiva": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "insinuacio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "fer": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.38
+    },
+    "rivera": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.45
+    },
+    "investidura": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.11
+    },
+    "mariano_rajoy": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.37
+    },
+    "llista": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.37
+    },
+    "substituit": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.07
+    },
+    "arribar": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.86
+    },
+    "eurocambra": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.82
+    },
+    "segons": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.28
+    },
+    "marca": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.59
+    },
+    "normativa": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.77
+    },
+    "eurodiputats": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.66
+    },
+    "se": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.32
+    },
+    "ls": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.93
+    },
+    "jurar": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.99
+    },
+    "constitucio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.23
+    },
+    "espanyola": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.93
+    },
+    "esquerra_unida": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.69
+    },
+    "iniciativa": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.39
+    },
+    "catalunya": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.39
+    },
+    "verds": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.77
+    },
+    "formar": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.14
+    },
+    "factor": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "expansio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.82
+    },
+    "cristianisme": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.77
+    },
+    "internacional": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.39
+    },
+    "grec": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.36
+    },
+    "comencaments": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.82
+    },
+    "segle": {
+      "likelihood": 0.0019,
+      "posterior_boost": 2.53
+    },
+    "xix": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.34
+    },
+    "arrenquessin": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "escultures": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.36
+    },
+    "otoma": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.47
+    },
+    "fou": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.14
+    },
+    "invent": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    },
+    "clau": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.62
+    },
+    "invencio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.29
+    },
+    "televisio": {
+      "likelihood": 0.0019,
+      "posterior_boost": 3.82
+    },
+    "iconoscopi": {
+      "likelihood": 0.0019,
+      "posterior_boost": 4.77
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0556,
+    0.0,
+    2.9444389791664403
+  ],
+  "embedding_vector": [
+    2.947446464001232,
+    0.05570906747469685,
+    4.7775720294184305,
+    0.4936368045074307,
+    2.9514836405399323,
+    0.06060272572212021,
+    4.773322033349706,
+    0.5097579089655192,
+    2.9395783476185167,
+    0.04616611850544996,
+    4.7727143823092195,
+    0.5069462477497325,
+    2.9491624716687603,
+    0.0460161422384698,
+    4.7622320626133,
+    0.4959544748371172,
+    2.948178382993237,
+    0.06283252112003292,
+    4.763972687183675,
+    0.5031437806122084,
+    2.948432091746282,
+    0.05264784937515692,
+    4.775799210956506,
+    0.5062809587623409,
+    2.938387404856483,
+    0.06458910588391964,
+    4.769532007719708,
+    0.5033320069596313,
+    2.9386652199114685,
+    0.061750526476989566,
+    4.766393722411149,
+    0.4958787194940358,
+    2.9404773427194453,
+    0.06215778803623501,
+    4.771050673777044,
+    0.4938335480986532,
+    2.948724113980373,
+    0.0583974071444195,
+    4.770664076626932,
+    0.5014505582672598,
+    2.934685629916099,
+    0.059504759566089305,
+    4.77069318420741,
+    0.4915826943456683,
+    2.9347117292013234,
+    0.05115706080093454,
+    4.779947705649593,
+    0.49451201275906465,
+    2.9365392862307607,
+    0.04592601557448387,
+    4.766832549045945,
+    0.5061639611748028,
+    2.9387853716244647,
+    0.06429209935728016,
+    4.779769957520878,
+    0.4902203338970798,
+    2.950137034244808,
+    0.05930727237624822,
+    4.77031287975322,
+    0.4953822634115852,
+    2.9477346085823184,
+    0.06114248905592654,
+    4.769513314105728,
+    0.5097557248377204
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/permetre.json"
+}
