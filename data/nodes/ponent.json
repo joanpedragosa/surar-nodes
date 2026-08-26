@@ -1,0 +1,285 @@
+{
+  "concept": "ponent",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "sala_penal": 0.1429,
+    "xavier_eritja": 0.1429,
+    "fort": 0.1429,
+    "canalitzacio": 0.1429,
+    "fraga": 0.1429,
+    "nau": 0.1429,
+    "museu": 0.1429
+  },
+  "bayesian_context": {
+    "designat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "sala_penal": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "TSJC": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.89
+    },
+    "jordi_segui": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "president": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.06
+    },
+    "omnium_lleida": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "xavier_eritja": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "era": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.38
+    },
+    "vent": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.82
+    },
+    "comenca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.76
+    },
+    "bufar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "moises": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.04
+    },
+    "estengue": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "bracos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "mar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.42
+    },
+    "fort": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.89
+    },
+    "permetre": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.87
+    },
+    "ciutat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.89
+    },
+    "expandis": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "cap": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.74
+    },
+    "canalitzacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "riera": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "palau": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.38
+    },
+    "instal": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.53
+    },
+    "lacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.84
+    },
+    "diversos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.48
+    },
+    "ponts": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "disposat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "CDR": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "franja": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.58
+    },
+    "fraga": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "porta": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.23
+    },
+    "sant_marti": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "villec": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "facana": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.63
+    },
+    "estil": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.13
+    },
+    "forma": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.99
+    },
+    "part": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.8
+    },
+    "banda": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.54
+    },
+    "nau": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.82
+    },
+    "preromanic": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "museu": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.71
+    },
+    "estan": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.92
+    },
+    "cent": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.6
+    },
+    "onze": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.95
+    },
+    "obres": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.92
+    },
+    "art": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.14
+    },
+    "oriundes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "lleida": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.82
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1429,
+    0.0,
+    2.1972245773362196
+  ],
+  "embedding_vector": [
+    2.204693165392056,
+    0.15227081325641864,
+    5.127383890804278,
+    0.500617113831112,
+    2.191879143895765,
+    0.1331279760855486,
+    5.11860937636585,
+    0.4980470272007473,
+    2.197678070763271,
+    0.14246783591604806,
+    5.121107129476447,
+    0.5008677203508508,
+    2.2024424888482783,
+    0.14714749148164183,
+    5.122393641922069,
+    0.49852183540952383,
+    2.193006077896581,
+    0.15237710482400893,
+    5.116675480910214,
+    0.49437602121639657,
+    2.188540745091964,
+    0.15255741093106867,
+    5.112557114258501,
+    0.4964426158640836,
+    2.1886434342312233,
+    0.1373953987793609,
+    5.117872698298872,
+    0.5079229000976127,
+    2.194133809576177,
+    0.15259498874570543,
+    5.110574640979266,
+    0.4970336947254024,
+    2.1948437551202966,
+    0.1481832026273192,
+    5.128776078266216,
+    0.4963937959293406,
+    2.195874095992028,
+    0.1383029148318293,
+    5.126021117726528,
+    0.5027647761224624,
+    2.1885983800053825,
+    0.14497288952738221,
+    5.12591149116858,
+    0.49064016312851594,
+    2.196333533778338,
+    0.1487034508267657,
+    5.129771930362275,
+    0.5016792908700194,
+    2.188002823289066,
+    0.14182845815035805,
+    5.113763450305866,
+    0.502541112937105,
+    2.1915309333256743,
+    0.13591940215314993,
+    5.120722886133591,
+    0.492007735884491,
+    2.201847745975833,
+    0.1516930207888235,
+    5.128866363689264,
+    0.49749477010035553,
+    2.1991395822537,
+    0.14613965424548936,
+    5.120211609105065,
+    0.499417851632877
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/ponent.json"
+}

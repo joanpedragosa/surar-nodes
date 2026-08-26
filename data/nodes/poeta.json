@@ -1,0 +1,227 @@
+{
+  "concept": "poeta",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "cort": 0.2,
+    "vitalista": 0.2,
+    "poemes": 0.2,
+    "primeres": 0.2,
+    "estar": 0.2
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.27
+    },
+    "nomenat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "cort": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "dresden": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "mazzola": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "anomenada": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "primera": {
+      "likelihood": 0.0125,
+      "posterior_boost": 3.42
+    },
+    "etapa": {
+      "likelihood": 0.0125,
+      "posterior_boost": 4.3
+    },
+    "escriptor": {
+      "likelihood": 0.0125,
+      "posterior_boost": 4.45
+    },
+    "vitalista": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "destaca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.8
+    },
+    "poemes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "plens": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "vitalitat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "energia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.71
+    },
+    "dedicava": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "francesco_maria": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "piave": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "era": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.38
+    },
+    "joan_brossa": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "temps": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.02
+    },
+    "abasta": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "primeres": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.65
+    },
+    "obres": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.22
+    },
+    "casament": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "any": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.56
+    },
+    "estar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.46
+    },
+    "relacionat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "hans_andreus": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "gracies": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.74
+    },
+    "publicar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.33
+    },
+    "vegada": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.57
+    },
+    "completes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "körner": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "mare": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.16
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.2,
+    0.0,
+    2.1972245773362196
+  ],
+  "embedding_vector": [
+    2.204693165392056,
+    0.20937081325641865,
+    5.127383890804278,
+    0.500617113831112,
+    2.191879143895765,
+    0.19022797608554862,
+    5.11860937636585,
+    0.4980470272007473,
+    2.197678070763271,
+    0.19956783591604807,
+    5.121107129476447,
+    0.5008677203508508,
+    2.2024424888482783,
+    0.20424749148164184,
+    5.122393641922069,
+    0.49852183540952383,
+    2.193006077896581,
+    0.20947710482400894,
+    5.116675480910214,
+    0.49437602121639657,
+    2.188540745091964,
+    0.20965741093106868,
+    5.112557114258501,
+    0.4964426158640836,
+    2.1886434342312233,
+    0.19449539877936092,
+    5.117872698298872,
+    0.5079229000976127,
+    2.194133809576177,
+    0.20969498874570544,
+    5.110574640979266,
+    0.4970336947254024,
+    2.1948437551202966,
+    0.20528320262731922,
+    5.128776078266216,
+    0.4963937959293406,
+    2.195874095992028,
+    0.1954029148318293,
+    5.126021117726528,
+    0.5027647761224624,
+    2.1885983800053825,
+    0.20207288952738223,
+    5.12591149116858,
+    0.49064016312851594,
+    2.196333533778338,
+    0.2058034508267657,
+    5.129771930362275,
+    0.5016792908700194,
+    2.188002823289066,
+    0.19892845815035806,
+    5.113763450305866,
+    0.502541112937105,
+    2.1915309333256743,
+    0.19301940215314994,
+    5.120722886133591,
+    0.492007735884491,
+    2.201847745975833,
+    0.2087930207888235,
+    5.128866363689264,
+    0.49749477010035553,
+    2.1991395822537,
+    0.20323965424548937,
+    5.120211609105065,
+    0.499417851632877
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/poeta.json"
+}

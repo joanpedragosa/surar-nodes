@@ -1,0 +1,539 @@
+{
+  "concept": "premi",
+  "frequency": 28,
+  "edges": [],
+  "markov_transitions": {
+    "nobel": 0.0385,
+    "lletra": 0.0385,
+    "especial": 0.0769,
+    "dedicacio": 0.0385,
+    "merce_rodoreda": 0.0385,
+    "guanyar": 0.1538,
+    "donar": 0.0385,
+    "optar": 0.0385,
+    "presentar": 0.0385,
+    "proa": 0.0385,
+    "lletres": 0.0385,
+    "sigui": 0.0385,
+    "concedir": 0.0385,
+    "se": 0.0385,
+    "poesia_parc": 0.0769,
+    "guardonat": 0.0385,
+    "assaig": 0.0385,
+    "ser": 0.0385,
+    "miquel_gil": 0.0385,
+    "millor": 0.0385,
+    "elisi": 0.0385
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0012,
+      "posterior_boost": 1.84
+    },
+    "vins": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "tastat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "edicio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.22
+    },
+    "rebut": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.06
+    },
+    "nobel": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.28
+    },
+    "medicina": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "william_kaelin": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "peter_ratcliffe": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "gregg_semenza": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "formaven": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.88
+    },
+    "part": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.27
+    },
+    "jurat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.14
+    },
+    "lletra": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.98
+    },
+    "or": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.24
+    },
+    "poetes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "novel": {
+      "likelihood": 0.0036,
+      "posterior_boost": 3.61
+    },
+    "listes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "periodistes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.5
+    },
+    "literaris": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "gent": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.87
+    },
+    "teatre": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.88
+    },
+    "era": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.15
+    },
+    "especial": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.93
+    },
+    "extraordinaria": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "obra": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.11
+    },
+    "considerava": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.38
+    },
+    "cadascun": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "edificis": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.24
+    },
+    "sol": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.59
+    },
+    "mereixedor": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "convocar": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.43
+    },
+    "academia_francesa": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "dedicacio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "abnegada": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "metges": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "francesos": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.62
+    },
+    "escriptora": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "aconseguit": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.54
+    },
+    "merce_rodoreda": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "contes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.68
+    },
+    "relats": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "empar_moliner": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "guanyar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.91
+    },
+    "alan_parsons": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.1
+    },
+    "grammy": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "donar": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.71
+    },
+    "revista": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.17
+    },
+    "auto_motor": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "und": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.8
+    },
+    "sport": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "DBS": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.68
+    },
+    "best_cars": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "optar": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "soc": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "dona": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.56
+    },
+    "honrada": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.1
+    },
+    "premi_crexells": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.1
+    },
+    "presentar": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.9
+    },
+    "grup": {
+      "likelihood": 0.0024,
+      "posterior_boost": 2.76
+    },
+    "proa": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "any": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.04
+    },
+    "rebre": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.94
+    },
+    "lletres": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.88
+    },
+    "neerlandeses": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "peter_mitchell": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "sigui": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.04
+    },
+    "mes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 1.83
+    },
+    "catalanes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.58
+    },
+    "concedir": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.1
+    },
+    "millor": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.65
+    },
+    "edifici": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.25
+    },
+    "se": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.14
+    },
+    "concedit": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "teresa_casals": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "premi_especial": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "autor": {
+      "likelihood": 0.0036,
+      "posterior_boost": 3.4
+    },
+    "poesia_parc": {
+      "likelihood": 0.0036,
+      "posterior_boost": 4.75
+    },
+    "tauli": {
+      "likelihood": 0.0036,
+      "posterior_boost": 4.75
+    },
+    "the_sugarland": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.1
+    },
+    "express": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "festival": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.17
+    },
+    "cannes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "guio": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.47
+    },
+    "guardonat": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.88
+    },
+    "marina": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.84
+    },
+    "garces": {
+      "likelihood": 0.0024,
+      "posterior_boost": 4.4
+    },
+    "assaig": {
+      "likelihood": 0.0024,
+      "posterior_boost": 3.93
+    },
+    "poemari": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "blaus": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.62
+    },
+    "ser": {
+      "likelihood": 0.0012,
+      "posterior_boost": 1.78
+    },
+    "nominada": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "oscar": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.1
+    },
+    "millors": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.35
+    },
+    "efectes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.38
+    },
+    "visuals": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    },
+    "disc": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.24
+    },
+    "guanyat": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.68
+    },
+    "miquel_gil": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.28
+    },
+    "geometries": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "premis": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.38
+    },
+    "licula": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.72
+    },
+    "people": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "choice_awards": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "quantes": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.05
+    },
+    "obres": {
+      "likelihood": 0.0012,
+      "posterior_boost": 2.39
+    },
+    "llegir": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.35
+    },
+    "elisi": {
+      "likelihood": 0.0012,
+      "posterior_boost": 4.58
+    },
+    "centenars": {
+      "likelihood": 0.0012,
+      "posterior_boost": 3.98
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.047647619047619036,
+    0.0,
+    3.367295829986474
+  ],
+  "embedding_vector": [
+    3.3718761048322565,
+    0.04887241109417187,
+    4.872499341840185,
+    0.49795184737400233,
+    3.3729219941119437,
+    0.04786747868068131,
+    4.873653867168317,
+    0.507070257504977,
+    3.37640326783917,
+    0.05733188841265462,
+    4.873854019476547,
+    0.5094159020274044,
+    3.361991997078503,
+    0.03817469601781646,
+    4.888921206861939,
+    0.508434497040419,
+    3.3631753453427136,
+    0.04097309309159953,
+    4.877908456796648,
+    0.5002133946951026,
+    3.3634565745562885,
+    0.0462389957194578,
+    4.8866013881130215,
+    0.5012478714294557,
+    3.3739135961907314,
+    0.05758620486931169,
+    4.876651576103875,
+    0.4918201625277403,
+    3.372772461158251,
+    0.04063529365762657,
+    4.884507101192958,
+    0.5091029286863518,
+    3.3587577454817934,
+    0.04659087406619609,
+    4.8868223613555495,
+    0.49291079335305205,
+    3.3726012607067712,
+    0.05328331740890899,
+    4.883501570905568,
+    0.4926340437197095,
+    3.358081893629859,
+    0.05076808058742826,
+    4.8750236522785135,
+    0.5097683676806325,
+    3.367963490878411,
+    0.038831123918595535,
+    4.8839751062816354,
+    0.5025434953294519,
+    3.3752114007615486,
+    0.0408861124646168,
+    4.88220763156812,
+    0.4963397019553429,
+    3.372561143384721,
+    0.04077326067929259,
+    4.888597751503379,
+    0.49995621039825344,
+    3.373960509380145,
+    0.042247007595258936,
+    4.872136200225599,
+    0.5034740076176238,
+    3.3688754950291337,
+    0.055164606524179295,
+    4.88994255281793,
+    0.49550612683608586
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/premi.json"
+}

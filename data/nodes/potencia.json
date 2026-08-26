@@ -1,0 +1,251 @@
+{
+  "concept": "potencia",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "estrangera": 0.2,
+    "art": 0.2,
+    "tarifacio": 0.2,
+    "energia": 0.2,
+    "versio": 0.2
+  },
+  "bayesian_context": {
+    "atribueix": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.01
+    },
+    "ciberatac": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "estrangera": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "protegir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.08
+    },
+    "rorquals": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "blaus": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "primers": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.47
+    },
+    "baleners": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "forca": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.57
+    },
+    "art": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.14
+    },
+    "van_eyck": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.95
+    },
+    "observacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "imaginacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.52
+    },
+    "color": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.33
+    },
+    "quadre": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.52
+    },
+    "gran": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.8
+    },
+    "tarifacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "social": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "estudis": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "universitaris": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.82
+    },
+    "regio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.76
+    },
+    "paisos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.52
+    },
+    "catalans": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.6
+    },
+    "mes": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.32
+    },
+    "energia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.71
+    },
+    "eolica": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "pais_valencia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.71
+    },
+    "personatge": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.69
+    },
+    "versio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.51
+    },
+    "reduida": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "opera": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.77
+    },
+    "emilia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.34
+    },
+    "objectiu": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.54
+    },
+    "tenien": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.38
+    },
+    "experiments": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.87
+    },
+    "realitzar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.16
+    },
+    "van_marum": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.17
+    },
+    "just": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.95
+    },
+    "construir": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.27
+    },
+    "maquina": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "determinar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.2,
+    0.0,
+    2.1972245773362196
+  ],
+  "embedding_vector": [
+    2.204693165392056,
+    0.20937081325641865,
+    5.127383890804278,
+    0.500617113831112,
+    2.191879143895765,
+    0.19022797608554862,
+    5.11860937636585,
+    0.4980470272007473,
+    2.197678070763271,
+    0.19956783591604807,
+    5.121107129476447,
+    0.5008677203508508,
+    2.2024424888482783,
+    0.20424749148164184,
+    5.122393641922069,
+    0.49852183540952383,
+    2.193006077896581,
+    0.20947710482400894,
+    5.116675480910214,
+    0.49437602121639657,
+    2.188540745091964,
+    0.20965741093106868,
+    5.112557114258501,
+    0.4964426158640836,
+    2.1886434342312233,
+    0.19449539877936092,
+    5.117872698298872,
+    0.5079229000976127,
+    2.194133809576177,
+    0.20969498874570544,
+    5.110574640979266,
+    0.4970336947254024,
+    2.1948437551202966,
+    0.20528320262731922,
+    5.128776078266216,
+    0.4963937959293406,
+    2.195874095992028,
+    0.1954029148318293,
+    5.126021117726528,
+    0.5027647761224624,
+    2.1885983800053825,
+    0.20207288952738223,
+    5.12591149116858,
+    0.49064016312851594,
+    2.196333533778338,
+    0.2058034508267657,
+    5.129771930362275,
+    0.5016792908700194,
+    2.188002823289066,
+    0.19892845815035806,
+    5.113763450305866,
+    0.502541112937105,
+    2.1915309333256743,
+    0.19301940215314994,
+    5.120722886133591,
+    0.492007735884491,
+    2.201847745975833,
+    0.2087930207888235,
+    5.128866363689264,
+    0.49749477010035553,
+    2.1991395822537,
+    0.20323965424548937,
+    5.120211609105065,
+    0.499417851632877
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/potencia.json"
+}
