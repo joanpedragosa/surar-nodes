@@ -1,0 +1,249 @@
+{
+  "concept": "relleu",
+  "frequency": 9,
+  "edges": [],
+  "markov_transitions": {
+    "mariano_rajoy": 0.125,
+    "rosa_lluch": 0.125,
+    "martiri": 0.25,
+    "pedestal": 0.125,
+    "figures": 0.125,
+    "realitzat": 0.125,
+    "sanna_marin": 0.125
+  },
+  "bayesian_context": {
+    "sera": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.29
+    },
+    "mariano_rajoy": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.67
+    },
+    "pablo_casado": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.37
+    },
+    "pren": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.47
+    },
+    "rosa_lluch": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "noelia_bail": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "pertany": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.57
+    },
+    "martiri": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.67
+    },
+    "sant_llorenc": {
+      "likelihood": 0.0074,
+      "posterior_boost": 4.89
+    },
+    "pulpit": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "resurreccio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.17
+    },
+    "columneta": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "esculpida": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "conserva": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.84
+    },
+    "pedestal": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.29
+    },
+    "museu": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.36
+    },
+    "historia": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.22
+    },
+    "barcelona": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.69
+    },
+    "adaptaven": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "elements": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.42
+    },
+    "figures": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.46
+    },
+    "espai": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.46
+    },
+    "arquitectonic": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "data": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.5
+    },
+    "inscripcio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "descobrir": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.43
+    },
+    "juny": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.38
+    },
+    "tema": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.48
+    },
+    "gran": {
+      "likelihood": 0.0037,
+      "posterior_boost": 2.75
+    },
+    "realitzat": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.93
+    },
+    "manuel_francisco": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "alvarez": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "imposicio": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.59
+    },
+    "casulla": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "sant": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.19
+    },
+    "ildefons": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "membre": {
+      "likelihood": 0.0037,
+      "posterior_boost": 3.79
+    },
+    "SDP": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    },
+    "sanna_marin": {
+      "likelihood": 0.0037,
+      "posterior_boost": 4.77
+    },
+    "antti_rinne": {
+      "likelihood": 0.0037,
+      "posterior_boost": 5.07
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.14285714285714285,
+    0.0,
+    2.302585092994046
+  ],
+  "embedding_vector": [
+    2.29279257607176,
+    0.14289463470011762,
+    5.0699154658626835,
+    0.49267659057918556,
+    2.2954273147031365,
+    0.13722831636966443,
+    5.06837016361021,
+    0.49496202336827116,
+    2.294266286017353,
+    0.13976711565815086,
+    5.063335526930647,
+    0.5075711817106532,
+    2.3116043736265803,
+    0.13363211037378925,
+    5.073982147827976,
+    0.5014551963113882,
+    2.310545235358549,
+    0.14619512231553558,
+    5.07095675566093,
+    0.5040485484813612,
+    2.3003146363863394,
+    0.146745916412432,
+    5.0764974092900115,
+    0.49931336950734534,
+    2.311395581184579,
+    0.1489319382573892,
+    5.079667184964487,
+    0.4933927251516753,
+    2.303006787223242,
+    0.15176749119666766,
+    5.07299080926321,
+    0.5072166384645139,
+    2.3120020132358503,
+    0.13656797659583206,
+    5.064862313506269,
+    0.5074680168620225,
+    2.310710638532516,
+    0.14802270259307582,
+    5.06693803907551,
+    0.4992706942796811,
+    2.3047958478110084,
+    0.1427827772105666,
+    5.069559480270767,
+    0.4987111092953269,
+    2.3099932589225767,
+    0.1366043157983713,
+    5.073753481863854,
+    0.5040705834760277,
+    2.311089094539468,
+    0.13364623921062818,
+    5.072942334270903,
+    0.5027610796943477,
+    2.30181904624346,
+    0.13391833134685072,
+    5.060771418463247,
+    0.49339062828415753,
+    2.3084760507336166,
+    0.13610926378834445,
+    5.062774773995591,
+    0.49705833906465363,
+    2.302275062097102,
+    0.1468118705596184,
+    5.076023128633914,
+    0.4953354875414388
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/relleu.json"
+}
