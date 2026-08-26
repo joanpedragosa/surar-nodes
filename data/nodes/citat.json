@@ -1,0 +1,370 @@
+{
+  "concept": "citat",
+  "frequency": 16,
+  "edges": [],
+  "markov_transitions": {
+    "fiscalia": 0.0625,
+    "declarar": 0.3125,
+    "isidoro": 0.0625,
+    "diverses": 0.0625,
+    "investigats": 0.0625,
+    "mas": 0.0625,
+    "responsable": 0.0625,
+    "audiencia": 0.0625,
+    "president": 0.0625,
+    "llarena": 0.0625,
+    "quatre": 0.0625,
+    "jove": 0.0625
+  },
+  "bayesian_context": {
+    "fiscalia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.08
+    },
+    "tribunal_suprem": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.14
+    },
+    "ferran_bel": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "declarar": {
+      "likelihood": 0.0125,
+      "posterior_boost": 4.07
+    },
+    "jutjat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.36
+    },
+    "barcelona": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.45
+    },
+    "directors": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "catalunya_radio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.82
+    },
+    "aproxima": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "matilde": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "isidoro": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "edoardo": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "ser": {
+      "likelihood": 0.0021,
+      "posterior_boost": 1.99
+    },
+    "diverses": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.35
+    },
+    "entrevistes": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "lucas": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.65
+    },
+    "investigats": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.78
+    },
+    "dos": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.48
+    },
+    "agents": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.46
+    },
+    "guardia_urbana": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "jutge": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.84
+    },
+    "jose": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.57
+    },
+    "antonio_nieto": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "frase": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.78
+    },
+    "mas": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.59
+    },
+    "john_fitzgerald": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "kennedy": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "responsable": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.78
+    },
+    "direccio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.28
+    },
+    "comercial": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.87
+    },
+    "marqueting": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "corporacio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.12
+    },
+    "catalana": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.2
+    },
+    "mitjans_audiovisuals": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "emissio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "anuncis": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "referendum": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.97
+    },
+    "audiencia": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.48
+    },
+    "espanyola": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.98
+    },
+    "coma": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.98
+    },
+    "presumpte": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "delicte": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.32
+    },
+    "incitacio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.34
+    },
+    "sedicio": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.74
+    },
+    "hora": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.04
+    },
+    "president": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.76
+    },
+    "govern": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.47
+    },
+    "espanyol": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.56
+    },
+    "magistrat": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.92
+    },
+    "instructor": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    },
+    "correa": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "costa": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.52
+    },
+    "crespo": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.82
+    },
+    "perez": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.52
+    },
+    "gener": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.16
+    },
+    "llarena": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.74
+    },
+    "belgica": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.65
+    },
+    "setembre": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.03
+    },
+    "quatre": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.77
+    },
+    "testimonis": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.71
+    },
+    "primer": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.58
+    },
+    "juliol": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.14
+    },
+    "dia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.88
+    },
+    "jove": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.08
+    },
+    "juny": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.43
+    },
+    "jordi_pujol": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.22
+    },
+    "dona": {
+      "likelihood": 0.0021,
+      "posterior_boost": 2.8
+    },
+    "mata": {
+      "likelihood": 0.0021,
+      "posterior_boost": 3.82
+    },
+    "nieto": {
+      "likelihood": 0.0021,
+      "posterior_boost": 4.52
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.08333333333333333,
+    0.0,
+    2.833213344056216
+  ],
+  "embedding_vector": [
+    2.827679165639287,
+    0.08379660016134685,
+    4.821014029131624,
+    0.4909120390026561,
+    2.8304279207631717,
+    0.0777949521671591,
+    4.823774523236428,
+    0.49327462850001796,
+    2.8246198413923262,
+    0.09215355053825004,
+    4.821273627604697,
+    0.49155984678779974,
+    2.837666154278713,
+    0.07650237680379665,
+    4.815005626134881,
+    0.49586974512204396,
+    2.837145558340388,
+    0.08261861509413636,
+    4.814301242874287,
+    0.49893652524159315,
+    2.8256309190869953,
+    0.09168707348822783,
+    4.821328926574385,
+    0.49944038631483856,
+    2.8295046725491604,
+    0.07419764792806585,
+    4.8250488983392,
+    0.5008653808774264,
+    2.8385571525705102,
+    0.08914230865764906,
+    4.811444427587493,
+    0.503194316688157,
+    2.824279330823101,
+    0.08703382238778734,
+    4.818867019240265,
+    0.49935992294759923,
+    2.8364345307515153,
+    0.08713266597186557,
+    4.815266589688911,
+    0.4902295786752035,
+    2.8386392329887116,
+    0.08965617985911031,
+    4.812792832074966,
+    0.5015601349114969,
+    2.8300268294971,
+    0.07797764308271465,
+    4.813972875071703,
+    0.49542981546577364,
+    2.84275039933643,
+    0.07764191289896055,
+    4.817128148341242,
+    0.49036799893261235,
+    2.8355491494481164,
+    0.07794144108895501,
+    4.8248470347213175,
+    0.5016850041678977,
+    2.8316154151480113,
+    0.08751838997723058,
+    4.829440910518068,
+    0.5062007823531456,
+    2.83182644764945,
+    0.09248790532956234,
+    4.810955162022098,
+    0.5046556360178338
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/citat.json"
+}

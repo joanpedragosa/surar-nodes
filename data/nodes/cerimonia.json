@@ -1,0 +1,281 @@
+{
+  "concept": "cerimonia",
+  "frequency": 12,
+  "edges": [],
+  "markov_transitions": {
+    "religiosa": 0.5,
+    "beatificacio": 0.0833,
+    "celebres": 0.0833,
+    "signatura": 0.0833,
+    "rosa": 0.0833,
+    "abril": 0.0833,
+    "casament": 0.0833
+  },
+  "bayesian_context": {
+    "presidir": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "religiosa": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.61
+    },
+    "acte": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.51
+    },
+    "central": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.59
+    },
+    "angelo_amato": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "acces": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.74
+    },
+    "privada": {
+      "likelihood": 0.0139,
+      "posterior_boost": 4.53
+    },
+    "emperador": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.97
+    },
+    "lactanci": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "consisti": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "beatificacio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.47
+    },
+    "missa": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.77
+    },
+    "podia": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.47
+    },
+    "significar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "celebres": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "cambra": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.6
+    },
+    "tractava": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "unio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.07
+    },
+    "reservada": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "celebrat": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.8
+    },
+    "signatura": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.1
+    },
+    "xina": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.55
+    },
+    "estats_units": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.2
+    },
+    "casa_blanca": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "manifestat": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.67
+    },
+    "rosa": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.99
+    },
+    "perez": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.65
+    },
+    "faran": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.91
+    },
+    "exhumacions": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "castello": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.83
+    },
+    "alacant": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.83
+    },
+    "celebrar": {
+      "likelihood": 0.0056,
+      "posterior_boost": 3.77
+    },
+    "segons": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.45
+    },
+    "erwin_panofsky": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "important": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.29
+    },
+    "matrimoni": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.69
+    },
+    "fer": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.26
+    },
+    "abril": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.19
+    },
+    "durar": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.74
+    },
+    "dues": {
+      "likelihood": 0.0028,
+      "posterior_boost": 2.8
+    },
+    "hores": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.23
+    },
+    "ocorrer": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.17
+    },
+    "discussio": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.95
+    },
+    "descobreix": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.34
+    },
+    "cadaver": {
+      "likelihood": 0.0028,
+      "posterior_boost": 4.65
+    },
+    "nen": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.8
+    },
+    "moment": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.31
+    },
+    "casament": {
+      "likelihood": 0.0028,
+      "posterior_boost": 3.99
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.14282857142857147,
+    0.0,
+    2.5649493574615367
+  ],
+  "embedding_vector": [
+    2.55803261430913,
+    0.14762956535887956,
+    4.945266300303703,
+    0.500674787867606,
+    2.555240856711245,
+    0.15120351159056916,
+    4.95801429708234,
+    0.4906684285525269,
+    2.574088344187039,
+    0.135572757855693,
+    4.945676567059159,
+    0.5021216636871766,
+    2.5738338601825976,
+    0.14988328225075717,
+    4.94004518467037,
+    0.5004245205444059,
+    2.565990110126828,
+    0.14253611970182567,
+    4.9553626830812885,
+    0.4932143350625114,
+    2.570240566468314,
+    0.1332447673876128,
+    4.9427042035673825,
+    0.4923254603480338,
+    2.5611473091513375,
+    0.14625762433281153,
+    4.9494245955650005,
+    0.5063233659609205,
+    2.560741093132148,
+    0.14749109098082488,
+    4.954052447105105,
+    0.49655138952526845,
+    2.5616423080436577,
+    0.15238973300890185,
+    4.952491642234707,
+    0.5090062704939905,
+    2.5702988704739465,
+    0.14932875649286695,
+    4.948132806036133,
+    0.49902616822842627,
+    2.56296199000877,
+    0.15273133463534264,
+    4.943551283518758,
+    0.509251938060557,
+    2.5633343628667187,
+    0.14130962035959144,
+    4.949262977394547,
+    0.4974744629764783,
+    2.564259519464987,
+    0.13353193665798757,
+    4.941685453394637,
+    0.504650413962839,
+    2.5676733573381942,
+    0.13338672720580214,
+    4.94600340119648,
+    0.4944170504165777,
+    2.5560497573283407,
+    0.1432934928441373,
+    4.948327393145893,
+    0.4909643749965114,
+    2.566397447772129,
+    0.148898904442119,
+    4.942272034390797,
+    0.4955423442885039
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/cerimonia.json"
+}
