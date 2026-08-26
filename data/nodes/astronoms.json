@@ -1,0 +1,230 @@
+{
+  "concept": "astronoms",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "orbita": 0.25,
+    "maies": 0.25,
+    "gener": 0.25,
+    "orientals": 0.25
+  },
+  "bayesian_context": {
+    "intentat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "fixar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "data": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.76
+    },
+    "segons": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.82
+    },
+    "analisi": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "moviment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.61
+    },
+    "lunar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "suggerit": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "orbita": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.0
+    },
+    "sedna": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.21
+    },
+    "resultat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "influencia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.77
+    },
+    "gran": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.0
+    },
+    "companya": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "binaria": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "sol": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.33
+    },
+    "desenvoluparen": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "maies": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "calendari": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "mes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.52
+    },
+    "acurat": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "hipotesi": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "anunciar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.25
+    },
+    "gener": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.66
+    },
+    "camps": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.98
+    },
+    "podien": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.03
+    },
+    "ser": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.46
+    },
+    "parcialment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "totalment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "responsables": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.37
+    },
+    "forma": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.19
+    },
+    "corrent": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.42
+    },
+    "any": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.76
+    },
+    "escriure": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.28
+    },
+    "orientals": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "observacions": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    1.791759469228055
+  ],
+  "embedding_vector": [
+    1.7861993326498498,
+    0.25741464612354753,
+    5.024134383106789,
+    0.5083722181587584,
+    1.7915276930039516,
+    0.25223487725805294,
+    5.035318157129606,
+    0.5003683597574589,
+    1.7876954792595794,
+    0.24375442457322502,
+    5.0216148253752975,
+    0.5047688059239794,
+    1.790585653685974,
+    0.24316619735425302,
+    5.037598740624026,
+    0.4954817292398445,
+    1.790044169609676,
+    0.24592159865467295,
+    5.03257575817759,
+    0.5015967562037909,
+    1.7937580531605548,
+    0.24531638235071015,
+    5.025693717612827,
+    0.49507176411547577,
+    1.7883107481818297,
+    0.2428832860130684,
+    5.023312257224026,
+    0.5092786105813588,
+    1.8009640035337688,
+    0.2437682931119187,
+    5.02048613123259,
+    0.494091110927599,
+    1.7957563415105862,
+    0.2555902917111106,
+    5.020458661848782,
+    0.5015532571625951,
+    1.7817923126823758,
+    0.25030945223810785,
+    5.032795903522618,
+    0.5097124880560838,
+    1.786941421156277,
+    0.2560499377052574,
+    5.03740966174003,
+    0.5084549922789134,
+    1.781803753478704,
+    0.24938976743515154,
+    5.039629374752121,
+    0.497978896078057,
+    1.7980341187797932,
+    0.25092912995944955,
+    5.035417081742804,
+    0.4996986214997692,
+    1.7823417005015094,
+    0.2417305137680441,
+    5.0222290762475605,
+    0.49502490223381096,
+    1.8010577750785823,
+    0.2526353210547549,
+    5.036333204052307,
+    0.5013216399218551,
+    1.7944665933396928,
+    0.2562380478236082,
+    5.038533652304878,
+    0.5082525352740757
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/astronoms.json"
+}
