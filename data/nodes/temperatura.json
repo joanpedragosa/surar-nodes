@@ -1,0 +1,737 @@
+{
+  "concept": "temperatura",
+  "frequency": 29,
+  "edges": [],
+  "markov_transitions": {
+    "critica": 0.0417,
+    "cinetica": 0.0417,
+    "nucli": 0.0417,
+    "condensacio": 0.0417,
+    "ebullicio": 0.1667,
+    "habit": 0.0417,
+    "congelacio": 0.125,
+    "adequada": 0.0417,
+    "minerals": 0.0417,
+    "arriba": 0.0417,
+    "poden": 0.0417,
+    "transforma": 0.0417,
+    "cicle": 0.0417,
+    "xoc": 0.0417,
+    "ideal": 0.0417,
+    "mitjana": 0.0417,
+    "mes": 0.0417,
+    "corporal": 0.0417,
+    "considerables": 0.0417
+  },
+  "bayesian_context": {
+    "posar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.97
+    },
+    "nom": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.55
+    },
+    "critica": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.2
+    },
+    "thomas_andrews": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "ser": {
+      "likelihood": 0.0011,
+      "posterior_boost": 1.76
+    },
+    "possible": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.17
+    },
+    "mesurar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.86
+    },
+    "cinetica": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "atmosfera": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.61
+    },
+    "km": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.17
+    },
+    "altura": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.61
+    },
+    "mitjancant": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.09
+    },
+    "combinacio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.79
+    },
+    "dades": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.29
+    },
+    "obtingudes": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "podria": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.84
+    },
+    "haver": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.53
+    },
+    "esgotat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "ura": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.2
+    },
+    "expel": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "lir": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "major": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.87
+    },
+    "part": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.26
+    },
+    "escalfor": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "primigenia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "nucli": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.19
+    },
+    "depen": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.02
+    },
+    "diferencia": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.91
+    },
+    "condensacio": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.86
+    },
+    "vapor": {
+      "likelihood": 0.0046,
+      "posterior_boost": 4.12
+    },
+    "ebullicio": {
+      "likelihood": 0.0057,
+      "posterior_boost": 4.66
+    },
+    "dissolucio": {
+      "likelihood": 0.0046,
+      "posterior_boost": 4.09
+    },
+    "velocitat": {
+      "likelihood": 0.0046,
+      "posterior_boost": 3.69
+    },
+    "transmissio": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.39
+    },
+    "calor": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.02
+    },
+    "evaporador": {
+      "likelihood": 0.0034,
+      "posterior_boost": 4.56
+    },
+    "troba": {
+      "likelihood": 0.0023,
+      "posterior_boost": 2.97
+    },
+    "estretament": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "lligat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "habit": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "cristal": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "fluorita": {
+      "likelihood": 0.0023,
+      "posterior_boost": 4.02
+    },
+    "independent": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.56
+    },
+    "descens": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.91
+    },
+    "pressio": {
+      "likelihood": 0.0034,
+      "posterior_boost": 3.66
+    },
+    "segons": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.09
+    },
+    "heinrich": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "determinat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "sexe": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.56
+    },
+    "dragons": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.56
+    },
+    "lleopard": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.45
+    },
+    "fa": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.35
+    },
+    "hagi": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.2
+    },
+    "ascens": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.42
+    },
+    "liquid": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.86
+    },
+    "realitza": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.39
+    },
+    "detectar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.52
+    },
+    "afegit": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.72
+    },
+    "aigua": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.13
+    },
+    "determinacio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "congelacio": {
+      "likelihood": 0.0034,
+      "posterior_boost": 4.34
+    },
+    "rinoceronts": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.48
+    },
+    "rebolquen": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "fang": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "refrescar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "se": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.12
+    },
+    "mantenir": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.09
+    },
+    "adequada": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "associada": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "filons": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "hidrotermals": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "alta": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.99
+    },
+    "minerals": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.56
+    },
+    "estany": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "wolframi": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "topazi": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "beril": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "etc": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "arriba": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.29
+    },
+    "capacitat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.39
+    },
+    "sensors": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "remots": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "poden": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.57
+    },
+    "viure": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.26
+    },
+    "especies": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.89
+    },
+    "genere": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.08
+    },
+    "notothenioidea": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "transforma": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.86
+    },
+    "aragonita": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "calcita": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.52
+    },
+    "cicle": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.61
+    },
+    "fases": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "desnaturalitzacio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "ADN": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.09
+    },
+    "xoc": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.72
+    },
+    "termic": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.79
+    },
+    "pot": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.31
+    },
+    "precedir": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "passos": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.72
+    },
+    "ideal": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "pandes": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.72
+    },
+    "vermells": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.48
+    },
+    "estacio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.87
+    },
+    "menor": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.45
+    },
+    "variacio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "hivern": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.61
+    },
+    "relacio": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.1
+    },
+    "necessitem": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "coneixer": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.22
+    },
+    "hora": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.78
+    },
+    "realitzar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.61
+    },
+    "dissenys": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "modelitzacions": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "funcionament": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.48
+    },
+    "existeix": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.66
+    },
+    "concentracio": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.13
+    },
+    "soluts": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "dissolvent": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.61
+    },
+    "consequencia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.56
+    },
+    "comporta": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    },
+    "alliberament": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.48
+    },
+    "gran": {
+      "likelihood": 0.0023,
+      "posterior_boost": 2.55
+    },
+    "quantitat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.15
+    },
+    "energia": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.15
+    },
+    "augmentar": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.69
+    },
+    "mes": {
+      "likelihood": 0.0046,
+      "posterior_boost": 2.36
+    },
+    "mitjana": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.01
+    },
+    "augmenta": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.91
+    },
+    "reaccio": {
+      "likelihood": 0.0023,
+      "posterior_boost": 3.69
+    },
+    "creixement": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.45
+    },
+    "doble": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.33
+    },
+    "activen": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "enzims": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.72
+    },
+    "digestius": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "tortugues": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.39
+    },
+    "cop": {
+      "likelihood": 0.0011,
+      "posterior_boost": 2.99
+    },
+    "arriben": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.86
+    },
+    "corporal": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.72
+    },
+    "necessaria": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.79
+    },
+    "disminueix": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "mesura": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.01
+    },
+    "molalitat": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "concentrada": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "prou": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.79
+    },
+    "fotons": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "ultraviolats": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "ionitzar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "expulsada": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "superficie": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.08
+    },
+    "exposada": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "assoleix": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "unic": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.12
+    },
+    "factor": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.26
+    },
+    "global": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.56
+    },
+    "augment": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.19
+    },
+    "canvis": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.12
+    },
+    "capacos": {
+      "likelihood": 0.0011,
+      "posterior_boost": 3.96
+    },
+    "tolerar": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.56
+    },
+    "considerables": {
+      "likelihood": 0.0011,
+      "posterior_boost": 4.09
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.052663157894736815,
+    0.0,
+    3.4011973816621555
+  ],
+  "embedding_vector": [
+    3.408472581373557,
+    0.04836127719928937,
+    4.851465127761675,
+    0.5052647440866057,
+    3.4002517628141438,
+    0.05350909537491232,
+    4.8645327156565505,
+    0.5069781021522964,
+    3.406561381218335,
+    0.05732603236113718,
+    4.854839728494078,
+    0.5044061738510948,
+    3.39236492777839,
+    0.05085653641789252,
+    4.8622134454771535,
+    0.49511829749123776,
+    3.396910820213082,
+    0.05635243283093919,
+    4.866818394707772,
+    0.5061830684020164,
+    3.391198651577248,
+    0.061135359789175885,
+    4.866139303262913,
+    0.5091202480190846,
+    3.4008919614603434,
+    0.055914637966187265,
+    4.864676133151801,
+    0.49932224253968094,
+    3.4073063456345576,
+    0.05142290847205015,
+    4.852580795406204,
+    0.5028430114448591,
+    3.400770255723192,
+    0.05582557333565667,
+    4.851667058625739,
+    0.5032744627659078,
+    3.401016183363682,
+    0.05776944872522257,
+    4.858557460011103,
+    0.4965962120374198,
+    3.400751382021409,
+    0.06105389535442787,
+    4.856150748774586,
+    0.5096983859709814,
+    3.3934722057307476,
+    0.062073461597370254,
+    4.867467233239651,
+    0.5089452407593491,
+    3.395928775257802,
+    0.05981387820369303,
+    4.866070619687199,
+    0.49326009572581614,
+    3.397117902977408,
+    0.05400502154912565,
+    4.867567254609318,
+    0.4907580722104017,
+    3.398389817959938,
+    0.055735137448262834,
+    4.864869775592149,
+    0.5092306127100281,
+    3.393674571521624,
+    0.05066148160604606,
+    4.861067353643285,
+    0.4995173739541343
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/temperatura.json"
+}

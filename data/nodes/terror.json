@@ -1,0 +1,224 @@
+{
+  "concept": "terror",
+  "frequency": 5,
+  "edges": [],
+  "markov_transitions": {
+    "estetica": 0.5,
+    "angoixa": 0.5
+  },
+  "bayesian_context": {
+    "era": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.57
+    },
+    "reflex": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "moral": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "fantasia": {
+      "likelihood": 0.0133,
+      "posterior_boost": 5.15
+    },
+    "estetica": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.67
+    },
+    "expressionista": {
+      "likelihood": 0.0133,
+      "posterior_boost": 4.78
+    },
+    "neguitos": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "desequilibri": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "social": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.88
+    },
+    "politic": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.49
+    },
+    "agita": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "republica": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.8
+    },
+    "weimar": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "anys": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.85
+    },
+    "frankenstein": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "cinema": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "suscita": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "cosa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.55
+    },
+    "sagrada": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "sacra": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "actitud": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.15
+    },
+    "complexa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "reverencia": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.72
+    },
+    "admiracio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.63
+    },
+    "atraccio": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "sovint": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.0
+    },
+    "temes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.05
+    },
+    "prengue": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    },
+    "generes": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.48
+    },
+    "utilitza": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.71
+    },
+    "intervals": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "produir": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.69
+    },
+    "angoixa": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.03
+    },
+    "sentiment": {
+      "likelihood": 0.0067,
+      "posterior_boost": 4.85
+    },
+    "demoniac": {
+      "likelihood": 0.0067,
+      "posterior_boost": 5.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.791759469228055
+  ],
+  "embedding_vector": [
+    1.7861993326498498,
+    0.5074146461235475,
+    5.324134383106789,
+    0.5083722181587584,
+    1.7915276930039516,
+    0.5022348772580529,
+    5.335318157129606,
+    0.5003683597574589,
+    1.7876954792595794,
+    0.49375442457322505,
+    5.321614825375297,
+    0.5047688059239794,
+    1.790585653685974,
+    0.49316619735425304,
+    5.337598740624026,
+    0.4954817292398445,
+    1.790044169609676,
+    0.49592159865467295,
+    5.332575758177589,
+    0.5015967562037909,
+    1.7937580531605548,
+    0.4953163823507101,
+    5.325693717612827,
+    0.49507176411547577,
+    1.7883107481818297,
+    0.4928832860130684,
+    5.323312257224026,
+    0.5092786105813588,
+    1.8009640035337688,
+    0.4937682931119187,
+    5.32048613123259,
+    0.494091110927599,
+    1.7957563415105862,
+    0.5055902917111106,
+    5.3204586618487815,
+    0.5015532571625951,
+    1.7817923126823758,
+    0.5003094522381079,
+    5.332795903522618,
+    0.5097124880560838,
+    1.786941421156277,
+    0.5060499377052574,
+    5.33740966174003,
+    0.5084549922789134,
+    1.781803753478704,
+    0.49938976743515157,
+    5.33962937475212,
+    0.497978896078057,
+    1.7980341187797932,
+    0.5009291299594496,
+    5.335417081742804,
+    0.4996986214997692,
+    1.7823417005015094,
+    0.4917305137680441,
+    5.32222907624756,
+    0.49502490223381096,
+    1.8010577750785823,
+    0.502635321054755,
+    5.336333204052307,
+    0.5013216399218551,
+    1.7944665933396928,
+    0.5062380478236083,
+    5.338533652304878,
+    0.5082525352740757
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/terror.json"
+}
