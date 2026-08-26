@@ -1,0 +1,317 @@
+{
+  "concept": "JEC",
+  "frequency": 11,
+  "edges": [],
+  "markov_transitions": {
+    "sis": 0.0909,
+    "ciutadans": 0.0909,
+    "arribat": 0.0909,
+    "advocat_general": 0.0909,
+    "segons": 0.0909,
+    "candidatura": 0.0909,
+    "competencia": 0.0909,
+    "octubre": 0.0909,
+    "signar": 0.0909,
+    "pagar": 0.0909,
+    "puigdemont": 0.0909
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.21
+    },
+    "vots": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.74
+    },
+    "particulars": {
+      "likelihood": 0.0061,
+      "posterior_boost": 4.38
+    },
+    "hagut": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.84
+    },
+    "junta": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.75
+    },
+    "sis": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.15
+    },
+    "proposar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.98
+    },
+    "betancor": {
+      "likelihood": 0.0091,
+      "posterior_boost": 4.98
+    },
+    "membre": {
+      "likelihood": 0.0091,
+      "posterior_boost": 4.18
+    },
+    "ciutadans": {
+      "likelihood": 0.0061,
+      "posterior_boost": 3.39
+    },
+    "verificat": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "ACN": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "notificacio": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "arribat": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.68
+    },
+    "fonts": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.94
+    },
+    "eurocambra": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.03
+    },
+    "desestimat": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.38
+    },
+    "tesis": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "advocat_general": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "TJUE": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "ordres": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.98
+    },
+    "dona": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.96
+    },
+    "segons": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.49
+    },
+    "queda": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.78
+    },
+    "manifestat": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.71
+    },
+    "interlocutoria": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "obligatori": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "compliment": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.68
+    },
+    "proclamava": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "candidatura": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.68
+    },
+    "jxcat": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.3
+    },
+    "sense": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.14
+    },
+    "noms": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.71
+    },
+    "consideren": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.64
+    },
+    "emes": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "competencia": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.98
+    },
+    "decidir": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.52
+    },
+    "ingressar": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.28
+    },
+    "octubre": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.15
+    },
+    "signar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.6
+    },
+    "comunicacio": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.47
+    },
+    "enviar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.52
+    },
+    "parlament_europeu": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.68
+    },
+    "llista": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.29
+    },
+    "eurodiputats": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.87
+    },
+    "electes": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "vice": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.14
+    },
+    "president": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.92
+    },
+    "pagar": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.71
+    },
+    "mensualment": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.98
+    },
+    "andres": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.21
+    },
+    "eleccions": {
+      "likelihood": 0.003,
+      "posterior_boost": 2.92
+    },
+    "volia": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.06
+    },
+    "excloure": {
+      "likelihood": 0.003,
+      "posterior_boost": 4.51
+    },
+    "puigdemont": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.3
+    },
+    "europees": {
+      "likelihood": 0.003,
+      "posterior_boost": 3.91
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0909,
+    0.0,
+    2.4849066497880004
+  ],
+  "embedding_vector": [
+    2.478512043565536,
+    0.08128950482975249,
+    4.979264370529967,
+    0.504498678583843,
+    2.483310721879755,
+    0.09060854196335565,
+    4.970255616291813,
+    0.49974743214639744,
+    2.4937427828348677,
+    0.09791590178753556,
+    4.984599289404417,
+    0.4921747214373795,
+    2.492784733193702,
+    0.09804308494145658,
+    4.973301732351905,
+    0.50264668027647,
+    2.475316322043825,
+    0.08323474537560031,
+    4.976327346232251,
+    0.49315824613349873,
+    2.4900862415512104,
+    0.09726550715728287,
+    4.976892489819185,
+    0.4963759759372487,
+    2.4771398744278934,
+    0.08257906286644114,
+    4.984254518713778,
+    0.5019908679251531,
+    2.476020123379702,
+    0.09049594563318861,
+    4.978033529612613,
+    0.5069595799509395,
+    2.4892636333747977,
+    0.09294128102497648,
+    4.98104767643011,
+    0.5089820479549327,
+    2.49464011639517,
+    0.08766108099299055,
+    4.9747974935810495,
+    0.5059287150797589,
+    2.4761803784034933,
+    0.08819231285992082,
+    4.97140045605249,
+    0.4963873541410182,
+    2.4763143016901394,
+    0.08670527334270624,
+    4.985802022468676,
+    0.5081080064160014,
+    2.490759077489599,
+    0.09213637420289757,
+    4.982320367701454,
+    0.49722967084406405,
+    2.4782829957597095,
+    0.08962481867330321,
+    4.984656506726964,
+    0.491257752477214,
+    2.475321309365624,
+    0.09631096132830037,
+    4.975999040188611,
+    0.5040232855008704,
+    2.4896000042060904,
+    0.09955809254374691,
+    4.9780065686584365,
+    0.49716875856696313
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/JEC.json"
+}
