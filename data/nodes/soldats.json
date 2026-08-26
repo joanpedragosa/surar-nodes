@@ -1,0 +1,513 @@
+{
+  "concept": "soldats",
+  "frequency": 26,
+  "edges": [],
+  "markov_transitions": {
+    "joves": 0.1429,
+    "guarnicio": 0.0476,
+    "civils": 0.0476,
+    "castell": 0.0476,
+    "jutges": 0.0476,
+    "ferir": 0.0476,
+    "britanics": 0.0476,
+    "polonesos": 0.0476,
+    "anglesos": 0.0476,
+    "force_publique": 0.0476,
+    "escena": 0.0476,
+    "assassinat": 0.0476,
+    "jugadors": 0.0476,
+    "reclutats": 0.0476,
+    "negres": 0.0476,
+    "aparcament": 0.0476,
+    "khalifa_haftar": 0.0476,
+    "podien": 0.0476,
+    "aragorn": 0.0476
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.009,
+      "posterior_boost": 2.66
+    },
+    "joves": {
+      "likelihood": 0.0038,
+      "posterior_boost": 3.64
+    },
+    "examina": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "patoleg": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "heer": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "vint": {
+      "likelihood": 0.0038,
+      "posterior_boost": 3.45
+    },
+    "dos": {
+      "likelihood": 0.0064,
+      "posterior_boost": 2.96
+    },
+    "guarnicio": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "cartagena": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "civils": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.61
+    },
+    "xinesos": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "ser": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.07
+    },
+    "executats": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "massacre": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "nanquin": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "prop": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.98
+    },
+    "castell": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.07
+    },
+    "centenar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.83
+    },
+    "menys": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.14
+    },
+    "jutges": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.71
+    },
+    "detingut": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.53
+    },
+    "recolzar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.91
+    },
+    "intent": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.61
+    },
+    "colpista": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "mes": {
+      "likelihood": 0.0013,
+      "posterior_boost": 1.85
+    },
+    "ferir": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "bonzos": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "britanics": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.77
+    },
+    "ferits": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "part": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.59
+    },
+    "inferior": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.41
+    },
+    "escena": {
+      "likelihood": 0.0038,
+      "posterior_boost": 3.19
+    },
+    "retiren": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "anagilda": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "radoski": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "grup": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.79
+    },
+    "truca": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "porta": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.02
+    },
+    "envair": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "casa": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.69
+    },
+    "ivan": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "nombros": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "polonesos": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "arriba": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.33
+    },
+    "capdavant": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "exercit": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.24
+    },
+    "anglesos": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "malcolm": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "amotinar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "diverses": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.14
+    },
+    "ocasions": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.83
+    },
+    "force_publique": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "estan": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.42
+    },
+    "estirats": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "terra": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.77
+    },
+    "desmaiats": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "lamenten": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "assassinat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.66
+    },
+    "azor": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "darrere": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.5
+    },
+    "personatges": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.85
+    },
+    "costat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.84
+    },
+    "dret": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.77
+    },
+    "retaules": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.61
+    },
+    "jugadors": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.71
+    },
+    "quedaven": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "absolts": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "reclutats": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "imposts": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "havien": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.03
+    },
+    "mort": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.74
+    },
+    "infart": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "miocardiac": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "iniciar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.06
+    },
+    "lincoln": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.61
+    },
+    "primavera": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.53
+    },
+    "reclutament": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "massiu": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "negres": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.53
+    },
+    "morts": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.27
+    },
+    "front": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.47
+    },
+    "vehicles": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.71
+    },
+    "aparcament": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "coves": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.83
+    },
+    "montserrat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.83
+    },
+    "ciutat": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.39
+    },
+    "capturar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.66
+    },
+    "khalifa_haftar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "zawiya": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "podien": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.31
+    },
+    "acompanyar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "carles": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.57
+    },
+    "italia": {
+      "likelihood": 0.0013,
+      "posterior_boost": 2.96
+    },
+    "suissos": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "aparegut": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.01
+    },
+    "sant_policarp": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "esmirna": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.13
+    },
+    "santa_madrona": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "encoratjar": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    },
+    "proposa": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.38
+    },
+    "dirigir": {
+      "likelihood": 0.0013,
+      "posterior_boost": 3.1
+    },
+    "aragorn": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.31
+    },
+    "porta_negra": {
+      "likelihood": 0.0013,
+      "posterior_boost": 4.61
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.05261578947368419,
+    0.0,
+    3.295836866004329
+  ],
+  "embedding_vector": [
+    3.2919955650568284,
+    0.053003619059790216,
+    4.61536595323076,
+    0.5057844147234172,
+    3.3032481072538458,
+    0.046374217306125586,
+    4.605390104912338,
+    0.4999238428197572,
+    3.3006193009466034,
+    0.046514829306517014,
+    4.603594904934519,
+    0.5007765251715031,
+    3.2914921780965485,
+    0.05783458686292618,
+    4.605393858832919,
+    0.4958703901862801,
+    3.305084976236585,
+    0.06088007599710641,
+    4.611363496908115,
+    0.4997098470800706,
+    3.298910953417301,
+    0.0533483774442717,
+    4.619914777948009,
+    0.49283964927762874,
+    3.3053436987358036,
+    0.055006938953737025,
+    4.6144097241541,
+    0.49590127142751145,
+    3.297839505315731,
+    0.05762849891484152,
+    4.61282732349281,
+    0.5084659891903609,
+    3.3036114708323834,
+    0.05550921652401824,
+    4.605912848201236,
+    0.5036518742566437,
+    3.291376811363895,
+    0.04514438854739216,
+    4.611398345422093,
+    0.49818118988512494,
+    3.29704496895003,
+    0.05970265787964755,
+    4.601934377943297,
+    0.4970868574627222,
+    3.305309301429561,
+    0.06105511202456145,
+    4.619373329768313,
+    0.4910191276986131,
+    3.303507983607183,
+    0.05801528320785738,
+    4.604792308593823,
+    0.4920762950058668,
+    3.2895628124305882,
+    0.05767019478486245,
+    4.619057944518253,
+    0.5058116404804727,
+    3.289569050958378,
+    0.052856728238827255,
+    4.601628981757674,
+    0.5004647954857405,
+    3.288514048759607,
+    0.04658827973850063,
+    4.602163906194497,
+    0.5026545045118304
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/soldats.json"
+}
