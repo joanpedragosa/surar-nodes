@@ -1,0 +1,218 @@
+{
+  "concept": "guyton",
+  "frequency": 8,
+  "edges": [],
+  "markov_transitions": {
+    "dos": 0.125,
+    "morveau": 0.625,
+    "metode": 0.125,
+    "explicar": 0.125
+  },
+  "bayesian_context": {
+    "quants": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.34
+    },
+    "canvis": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.68
+    },
+    "introdueix": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.22
+    },
+    "lavoisier": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.72
+    },
+    "projecte": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.3
+    },
+    "inicial": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.89
+    },
+    "dos": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.78
+    },
+    "memoria": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.58
+    },
+    "continuacio": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.65
+    },
+    "morveau": {
+      "likelihood": 0.0208,
+      "posterior_boost": 5.12
+    },
+    "realitzar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.16
+    },
+    "primer": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.88
+    },
+    "intent": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.12
+    },
+    "reformar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "nomenclatura": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.65
+    },
+    "louis_bernard": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "sistema": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.21
+    },
+    "plantejat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.28
+    },
+    "nom": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.1
+    },
+    "binomial": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "explicar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.52
+    },
+    "metode": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.17
+    },
+    "paris": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.88
+    },
+    "academie": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "sciences": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    },
+    "ciutat": {
+      "likelihood": 0.0042,
+      "posterior_boost": 2.89
+    },
+    "viatjar": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.98
+    },
+    "pagina": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.95
+    },
+    "inicia": {
+      "likelihood": 0.0042,
+      "posterior_boost": 4.42
+    },
+    "titol": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.57
+    },
+    "desenvolupament": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.63
+    },
+    "principis": {
+      "likelihood": 0.0042,
+      "posterior_boost": 3.71
+    },
+    "metodica": {
+      "likelihood": 0.0042,
+      "posterior_boost": 5.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.25,
+    0.0,
+    2.1972245773362196
+  ],
+  "embedding_vector": [
+    2.204693165392056,
+    0.25937081325641864,
+    5.127383890804278,
+    0.500617113831112,
+    2.191879143895765,
+    0.2402279760855486,
+    5.11860937636585,
+    0.4980470272007473,
+    2.197678070763271,
+    0.24956783591604806,
+    5.121107129476447,
+    0.5008677203508508,
+    2.2024424888482783,
+    0.25424749148164183,
+    5.122393641922069,
+    0.49852183540952383,
+    2.193006077896581,
+    0.25947710482400893,
+    5.116675480910214,
+    0.49437602121639657,
+    2.188540745091964,
+    0.2596574109310687,
+    5.112557114258501,
+    0.4964426158640836,
+    2.1886434342312233,
+    0.2444953987793609,
+    5.117872698298872,
+    0.5079229000976127,
+    2.194133809576177,
+    0.2596949887457054,
+    5.110574640979266,
+    0.4970336947254024,
+    2.1948437551202966,
+    0.2552832026273192,
+    5.128776078266216,
+    0.4963937959293406,
+    2.195874095992028,
+    0.2454029148318293,
+    5.126021117726528,
+    0.5027647761224624,
+    2.1885983800053825,
+    0.2520728895273822,
+    5.12591149116858,
+    0.49064016312851594,
+    2.196333533778338,
+    0.2558034508267657,
+    5.129771930362275,
+    0.5016792908700194,
+    2.188002823289066,
+    0.24892845815035805,
+    5.113763450305866,
+    0.502541112937105,
+    2.1915309333256743,
+    0.24301940215314993,
+    5.120722886133591,
+    0.492007735884491,
+    2.201847745975833,
+    0.2587930207888235,
+    5.128866363689264,
+    0.49749477010035553,
+    2.1991395822537,
+    0.25323965424548933,
+    5.120211609105065,
+    0.499417851632877
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/guyton.json"
+}
