@@ -1,0 +1,212 @@
+{
+  "concept": "reuniran",
+  "frequency": 7,
+  "edges": [],
+  "markov_transitions": {
+    "carles_puigdemont": 0.1429,
+    "equips": 0.1429,
+    "comissio": 0.1429,
+    "puig": 0.1429,
+    "quim_torra": 0.2857,
+    "mesa": 0.1429
+  },
+  "bayesian_context": {
+    "carles_puigdemont": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.62
+    },
+    "representants": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.03
+    },
+    "CUP": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.56
+    },
+    "parlar": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.9
+    },
+    "confianca": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    },
+    "equips": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.58
+    },
+    "negociadors": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "PSOE": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.57
+    },
+    "unides_podem": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.93
+    },
+    "congres": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.6
+    },
+    "espanyol": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.21
+    },
+    "comissio": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.38
+    },
+    "mixta": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.88
+    },
+    "generalitat": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.23
+    },
+    "ministeri": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.98
+    },
+    "transports": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.7
+    },
+    "febrer": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.64
+    },
+    "puig": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.73
+    },
+    "oltra": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.72
+    },
+    "dimarts": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.07
+    },
+    "vinent": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.1
+    },
+    "quim_torra": {
+      "likelihood": 0.0095,
+      "posterior_boost": 3.84
+    },
+    "ada_colau": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.64
+    },
+    "dilluns": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.86
+    },
+    "tarda": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.95
+    },
+    "pedro": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.41
+    },
+    "sanchez": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.17
+    },
+    "dema": {
+      "likelihood": 0.0095,
+      "posterior_boost": 4.1
+    },
+    "mesa": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.84
+    },
+    "junta": {
+      "likelihood": 0.0048,
+      "posterior_boost": 3.95
+    },
+    "portaveus": {
+      "likelihood": 0.0048,
+      "posterior_boost": 4.34
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.1667,
+    0.0,
+    2.0794415416798357
+  ],
+  "embedding_vector": [
+    2.070967707467315,
+    0.1722983758448023,
+    4.878768184628818,
+    0.5044693035566188,
+    2.089001331919768,
+    0.16746991740820866,
+    4.880022409273199,
+    0.49144102266719525,
+    2.0748103212818734,
+    0.16669765001651118,
+    4.883584599922418,
+    0.5060747807220876,
+    2.0770603643428065,
+    0.15801872693811808,
+    4.875762911986159,
+    0.5081918705543923,
+    2.073709248751434,
+    0.16574247923635366,
+    4.88862412039378,
+    0.49049798455100696,
+    2.081452520029118,
+    0.1757025900082729,
+    4.8746060575804195,
+    0.5009697983847206,
+    2.0876241091775705,
+    0.15936338891518498,
+    4.880468251613475,
+    0.5050081971820407,
+    2.082821806497514,
+    0.1660550571948996,
+    4.874096981805955,
+    0.4998153177818214,
+    2.076889235467537,
+    0.16624802309703177,
+    4.877317807715611,
+    0.5067583598861852,
+    2.084814491810226,
+    0.16297989354425324,
+    4.881452506652879,
+    0.4955209809666139,
+    2.078498400330764,
+    0.16375956731888788,
+    4.883147989255595,
+    0.4974070216597607,
+    2.0786234012376643,
+    0.17108648245018082,
+    4.878259836582276,
+    0.5081284653832868,
+    2.0730505740638896,
+    0.17152237745826526,
+    4.878447480872863,
+    0.49852907145369885,
+    2.0821291390525127,
+    0.1671581240205669,
+    4.878297719568788,
+    0.49002853761125514,
+    2.0712867885967707,
+    0.17088788787450424,
+    4.880486911935304,
+    0.5039232092703394,
+    2.088550908139894,
+    0.17035827708750834,
+    4.871062573813459,
+    0.49617705369727594
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reuniran.json"
+}

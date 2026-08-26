@@ -1,0 +1,184 @@
+{
+  "concept": "reprovacio",
+  "frequency": 4,
+  "edges": [],
+  "markov_transitions": {
+    "borrell": 0.5,
+    "monarquia": 0.5
+  },
+  "bayesian_context": {
+    "ser": {
+      "likelihood": 0.0083,
+      "posterior_boost": 2.55
+    },
+    "impulsada": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "borrell": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.38
+    },
+    "pdecat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.03
+    },
+    "evitat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "senat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.25
+    },
+    "tenalla": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "PP": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.52
+    },
+    "PSOE": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.81
+    },
+    "temes": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.45
+    },
+    "prohibit": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.12
+    },
+    "TC": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.38
+    },
+    "cambra": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.08
+    },
+    "votin": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "autodeterminacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.47
+    },
+    "monarquia": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "reivindicacio": {
+      "likelihood": 0.0167,
+      "posterior_boost": 5.42
+    },
+    "sobirania": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.65
+    },
+    "poble": {
+      "likelihood": 0.0167,
+      "posterior_boost": 4.19
+    },
+    "catalunya": {
+      "likelihood": 0.0167,
+      "posterior_boost": 3.33
+    },
+    "avisat": {
+      "likelihood": 0.0083,
+      "posterior_boost": 5.42
+    },
+    "tribunal_constitucional": {
+      "likelihood": 0.0083,
+      "posterior_boost": 4.08
+    },
+    "poden": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.42
+    },
+    "votar": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.99
+    },
+    "dret": {
+      "likelihood": 0.0083,
+      "posterior_boost": 3.58
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.5,
+    0.0,
+    1.6094379124341003
+  ],
+  "embedding_vector": [
+    1.6187785092143738,
+    0.5009446449835144,
+    5.429453687199298,
+    0.5042963198734873,
+    1.6133924889260456,
+    0.4943217899116075,
+    5.429525489095525,
+    0.4901246051040918,
+    1.6044975596817692,
+    0.4986958306480889,
+    5.425587658435875,
+    0.49395370149200507,
+    1.6166977771460846,
+    0.5096680135435062,
+    5.4132768448280935,
+    0.5019466788786572,
+    1.5996176343874513,
+    0.4977314256528726,
+    5.41088320115863,
+    0.5091330593542848,
+    1.6081608453716962,
+    0.5089795461356312,
+    5.425726119718701,
+    0.507325785971634,
+    1.6029012208640192,
+    0.49149897174026214,
+    5.422014854427555,
+    0.49335944367436807,
+    1.6141055157843116,
+    0.4981688772030403,
+    5.420558176468358,
+    0.5087514316790188,
+    1.6098718348829995,
+    0.4921638676577446,
+    5.413164468143696,
+    0.5009040530340643,
+    1.6099259940354698,
+    0.5027522048825199,
+    5.418029908871805,
+    0.5029961021803868,
+    1.607375912492135,
+    0.5024783222709645,
+    5.425348099341803,
+    0.4935794782008226,
+    1.6069494278058511,
+    0.5000506611865387,
+    5.423733341598327,
+    0.49507359297322767,
+    1.6105327296929515,
+    0.502498616881282,
+    5.427910023321123,
+    0.4972570717686625,
+    1.612189053894475,
+    0.49382892804237927,
+    5.419955882292346,
+    0.49364890809142414,
+    1.6178055732168954,
+    0.49863644142682456,
+    5.4266037620419665,
+    0.49833552609356724,
+    1.6175312642089676,
+    0.4980965043462181,
+    5.416623490061823,
+    0.501442775405455
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/reprovacio.json"
+}

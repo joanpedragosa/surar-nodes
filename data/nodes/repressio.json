@@ -1,0 +1,410 @@
+{
+  "concept": "repressio",
+  "frequency": 13,
+  "edges": [],
+  "markov_transitions": {
+    "judicial": 0.0833,
+    "judicialitzacio": 0.0833,
+    "viuen": 0.0833,
+    "espanyol": 0.0833,
+    "fisica": 0.0833,
+    "govern": 0.0833,
+    "independentisme": 0.0833,
+    "octubre": 0.0833,
+    "franquista": 0.0833,
+    "rebuda": 0.0833,
+    "posterior": 0.0833,
+    "idees": 0.0833
+  },
+  "bayesian_context": {
+    "recolza": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.13
+    },
+    "judicial": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.66
+    },
+    "independentisme": {
+      "likelihood": 0.0051,
+      "posterior_boost": 3.93
+    },
+    "felipe": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.74
+    },
+    "VI": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.59
+    },
+    "diu": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.58
+    },
+    "vilalta": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "abandonar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.91
+    },
+    "judicialitzacio": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "volen": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.08
+    },
+    "denunciar": {
+      "likelihood": 0.0051,
+      "posterior_boost": 3.98
+    },
+    "concentracions": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.01
+    },
+    "viuen": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.71
+    },
+    "mestres": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.87
+    },
+    "professors": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.96
+    },
+    "demana": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.21
+    },
+    "cants": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.07
+    },
+    "llibertat": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.24
+    },
+    "fi": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.61
+    },
+    "ningu": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.01
+    },
+    "substituira": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "esco": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.96
+    },
+    "quim_torra": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.27
+    },
+    "fer": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.23
+    },
+    "joc": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.83
+    },
+    "espanyol": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.64
+    },
+    "dur": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.57
+    },
+    "catalans": {
+      "likelihood": 0.0051,
+      "posterior_boost": 3.69
+    },
+    "valencians": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.13
+    },
+    "tractat": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.55
+    },
+    "utrecht": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.31
+    },
+    "anul": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.96
+    },
+    "lacio": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.63
+    },
+    "llibertats": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.21
+    },
+    "institucions": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.91
+    },
+    "propies": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "fisica": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.31
+    },
+    "prohibicio": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.01
+    },
+    "llengua": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.42
+    },
+    "imposicio": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "castella": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.51
+    },
+    "ambits": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "denuncien": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "manifestants": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.51
+    },
+    "govern": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.56
+    },
+    "carrie_lam": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.91
+    },
+    "denunciat": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.66
+    },
+    "iglesias": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.83
+    },
+    "situacio": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.36
+    },
+    "presos": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.23
+    },
+    "dia": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.67
+    },
+    "celebrar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.44
+    },
+    "vaga": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.23
+    },
+    "octubre": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.08
+    },
+    "cementeri": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.61
+    },
+    "lloc": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.02
+    },
+    "lliurament": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.91
+    },
+    "families": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.63
+    },
+    "restes": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.45
+    },
+    "set": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.2
+    },
+    "morts": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.57
+    },
+    "franquista": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.13
+    },
+    "cementiri": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.07
+    },
+    "paterna": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.43
+    },
+    "era": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.18
+    },
+    "objectiu": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.33
+    },
+    "protesta": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.74
+    },
+    "CDR": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.21
+    },
+    "febrer": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.37
+    },
+    "rebuda": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.07
+    },
+    "quantes": {
+      "likelihood": 0.0051,
+      "posterior_boost": 2.65
+    },
+    "persones": {
+      "likelihood": 0.0051,
+      "posterior_boost": 3.13
+    },
+    "executar": {
+      "likelihood": 0.0026,
+      "posterior_boost": 4.21
+    },
+    "guerra": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.23
+    },
+    "posterior": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.66
+    },
+    "victimes": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.63
+    },
+    "idees": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.74
+    },
+    "politiques": {
+      "likelihood": 0.0026,
+      "posterior_boost": 3.57
+    },
+    "mes": {
+      "likelihood": 0.0026,
+      "posterior_boost": 2.12
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.08330000000000001,
+    0.0,
+    2.6390573296152584
+  ],
+  "embedding_vector": [
+    2.6446113778267346,
+    0.07805082440069826,
+    4.9164855706532276,
+    0.50931498396086,
+    2.6485093518933565,
+    0.08236898494834625,
+    4.9121808492552255,
+    0.5055105302920969,
+    2.6418895965104396,
+    0.08774036459033896,
+    4.900700730482029,
+    0.4959689894177836,
+    2.6302275794529,
+    0.09044121885174398,
+    4.907457080557497,
+    0.503596959031562,
+    2.634182928601791,
+    0.08025162430304986,
+    4.90018825540162,
+    0.4971666756540994,
+    2.6480392132488224,
+    0.07765798018263378,
+    4.906387827327608,
+    0.5083554477200117,
+    2.6296954029440562,
+    0.0746016907408503,
+    4.912596579982156,
+    0.5074762688655908,
+    2.629231644261334,
+    0.08823154473987876,
+    4.916256823420053,
+    0.4915143489234453,
+    2.6421864363071976,
+    0.08348524400167037,
+    4.909597667829928,
+    0.5091114828986213,
+    2.629057570286648,
+    0.07823957401983835,
+    4.914244653558232,
+    0.4964916409957343,
+    2.6345972567429348,
+    0.08720890905106951,
+    4.918371034962919,
+    0.4948895140439598,
+    2.6382190459607937,
+    0.07835985365643014,
+    4.907586665829662,
+    0.5020907765726342,
+    2.6445049048088696,
+    0.0746583499358883,
+    4.913721701583746,
+    0.5009652019479165,
+    2.6318170506704237,
+    0.07527506438409838,
+    4.904911182106494,
+    0.4930357332516895,
+    2.6475772192050626,
+    0.08690210031209286,
+    4.904753178437594,
+    0.5013777050511312,
+    2.6401899706439464,
+    0.07475474421768696,
+    4.9167941702083215,
+    0.4981063898539626
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/repressio.json"
+}
