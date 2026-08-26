@@ -1,0 +1,601 @@
+{
+  "concept": "financament",
+  "frequency": 20,
+  "edges": [],
+  "markov_transitions": {
+    "govern": 0.0556,
+    "processos": 0.0556,
+    "segons": 0.0556,
+    "just": 0.1111,
+    "peatge": 0.0556,
+    "experiments": 0.0556,
+    "implementar": 0.0556,
+    "sistema": 0.0556,
+    "irregular": 0.0556,
+    "valor": 0.0556,
+    "milions": 0.0556,
+    "autonomic": 0.1111,
+    "vuit": 0.1111,
+    "reben": 0.0556,
+    "catalunya": 0.0556
+  },
+  "bayesian_context": {
+    "confia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "promeses": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "pedro": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.96
+    },
+    "sanchez": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.02
+    },
+    "voltant": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.24
+    },
+    "nou": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.86
+    },
+    "model": {
+      "likelihood": 0.005,
+      "posterior_boost": 3.77
+    },
+    "govern": {
+      "likelihood": 0.0067,
+      "posterior_boost": 2.97
+    },
+    "valencia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.98
+    },
+    "sempre": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.47
+    },
+    "tema": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.44
+    },
+    "processos": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.61
+    },
+    "electorals": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.5
+    },
+    "controvertit": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "pot": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.46
+    },
+    "constituir": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.88
+    },
+    "il": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.94
+    },
+    "legalitat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "forma": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.6
+    },
+    "segons": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.24
+    },
+    "plataforma": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.36
+    },
+    "por": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "las": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.95
+    },
+    "garantias_ciudadanas": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "carta": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.97
+    },
+    "etica": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "financera": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "espera": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.95
+    },
+    "faci": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "termini": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.58
+    },
+    "balear": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.33
+    },
+    "reformi": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "sistema": {
+      "likelihood": 0.0067,
+      "posterior_boost": 3.41
+    },
+    "reivindica": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "consell": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.01
+    },
+    "just": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.85
+    },
+    "garanteix": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "PSOE": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.11
+    },
+    "estan": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.53
+    },
+    "aturades": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.95
+    },
+    "tuneladores": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "revisar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.72
+    },
+    "peatge": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "ombra": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "impedir": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.72
+    },
+    "van_marum": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "aconseguir": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.83
+    },
+    "experiments": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.47
+    },
+    "decada": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.24
+    },
+    "dificultats": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.72
+    },
+    "economiques": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.72
+    },
+    "important": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.07
+    },
+    "millorar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.72
+    },
+    "implementar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "politiques": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.38
+    },
+    "materia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.58
+    },
+    "educacio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "mesures": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.25
+    },
+    "socials": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.26
+    },
+    "infraestructures": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "engegat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "pacte_nacional": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "societat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.26
+    },
+    "coneixement": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.61
+    },
+    "pal": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "liar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "problema": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.4
+    },
+    "estructural": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "universitari": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "public": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.87
+    },
+    "suposa": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.47
+    },
+    "participar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.35
+    },
+    "carbo": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.82
+    },
+    "irregular": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.03
+    },
+    "convergencia_democratica": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.25
+    },
+    "catalunya": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.64
+    },
+    "quina_universitat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "rebre": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.08
+    },
+    "valor": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.4
+    },
+    "milions": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.0
+    },
+    "lires": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "universitat_la": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "sapienza": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.72
+    },
+    "peca": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.4
+    },
+    "clau": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.58
+    },
+    "legislatura": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.88
+    },
+    "cinc": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.83
+    },
+    "partits": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.02
+    },
+    "tenen": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.59
+    },
+    "representacio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.25
+    },
+    "congres": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.15
+    },
+    "espanyol": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.46
+    },
+    "alacant": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.61
+    },
+    "reforma": {
+      "likelihood": 0.005,
+      "posterior_boost": 3.8
+    },
+    "ingressat": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.12
+    },
+    "millora": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.88
+    },
+    "euros": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.8
+    },
+    "temps": {
+      "likelihood": 0.0033,
+      "posterior_boost": 2.93
+    },
+    "vol": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.47
+    },
+    "esperar": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.88
+    },
+    "pais_valencia": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.31
+    },
+    "autonomic": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "quatre": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.67
+    },
+    "anys": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.27
+    },
+    "hauria": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.15
+    },
+    "presentar": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.05
+    },
+    "vuit": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.27
+    },
+    "mesos": {
+      "likelihood": 0.0033,
+      "posterior_boost": 3.32
+    },
+    "nova": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.8
+    },
+    "proposta": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.05
+    },
+    "reben": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "estats": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.26
+    },
+    "fer": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.05
+    },
+    "mes": {
+      "likelihood": 0.0017,
+      "posterior_boost": 1.95
+    },
+    "facil": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "registre": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "votants": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "federal": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.77
+    },
+    "punt": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.1
+    },
+    "tractara": {
+      "likelihood": 0.0033,
+      "posterior_boost": 4.72
+    },
+    "reunio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.0
+    },
+    "avui": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.8
+    },
+    "comissio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 2.93
+    },
+    "valoracio": {
+      "likelihood": 0.0017,
+      "posterior_boost": 4.42
+    },
+    "deute": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.88
+    },
+    "historic": {
+      "likelihood": 0.0017,
+      "posterior_boost": 3.33
+    }
+  },
+  "feature_vector": [
+    0.0,
+    0.0667,
+    0.0,
+    3.044522437723423
+  ],
+  "embedding_vector": [
+    3.0462850537449686,
+    0.07465427455818835,
+    4.727830614589494,
+    0.5063167495461537,
+    3.03524022943576,
+    0.07053515163517768,
+    4.717573618840108,
+    0.5003702189089616,
+    3.0476814670345993,
+    0.06057700435765896,
+    4.715446328041331,
+    0.5043721186720234,
+    3.050182509912603,
+    0.0737065527954999,
+    4.725504897879887,
+    0.4907332861284217,
+    3.036856312426081,
+    0.07172561398975401,
+    4.714784364323992,
+    0.4950961202788429,
+    3.051674948346818,
+    0.07569558052228605,
+    4.721233737160223,
+    0.49357561039699954,
+    3.049927476386191,
+    0.06654762079229098,
+    4.722625061311271,
+    0.5067899584582741,
+    3.043743225649272,
+    0.0666588014661461,
+    4.723588222351065,
+    0.5030157182824666,
+    3.03989834249831,
+    0.05804649333878035,
+    4.725428902767171,
+    0.49961968264599294,
+    3.041106565878096,
+    0.06691282112350302,
+    4.715272576573201,
+    0.4962102310009259,
+    3.04705950647775,
+    0.06784899621144565,
+    4.716371591191596,
+    0.49789686441716857,
+    3.039681929440727,
+    0.06834482246570431,
+    4.713232574208876,
+    0.5019626763953003,
+    3.0510389092685433,
+    0.05982783437021894,
+    4.724686010386341,
+    0.49817286864157645,
+    3.05009619581069,
+    0.07277941135222017,
+    4.7257214288705365,
+    0.5018457403731162,
+    3.0478122217799353,
+    0.06963134573551218,
+    4.718512729579281,
+    0.5002713666751548,
+    3.044547594597745,
+    0.05744167621837598,
+    4.72416232190363,
+    0.5024086120043402
+  ],
+  "id": "https://raw.githubusercontent.com/joanpedragosa/surar-nodes/main/data/nodes/financament.json"
+}
